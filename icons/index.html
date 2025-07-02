@@ -59,7 +59,6 @@
                 const a = document.createElement('a');
                 a.href = `./icons/${name}.png`;
                 a.target = '_blank';
-                a.title = `${name}`;
 
                 const img = document.createElement('img');
                 img.src = `./icons/${name}.png`;
@@ -71,7 +70,7 @@
 
                 const tooltip = document.createElement('span');
                 tooltip.className = 'tooltip';
-                tooltip.textContent = `${name}.png`;
+                tooltip.textContent = `${name}`;
 
                 div.appendChild(tooltip);
                 return div;
