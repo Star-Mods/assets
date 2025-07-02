@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Al morir, las unidades enemigas incineran el terreno.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Tierra calcinada /// Scorched Earth

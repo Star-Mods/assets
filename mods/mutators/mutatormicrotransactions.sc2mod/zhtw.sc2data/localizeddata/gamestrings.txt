@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=對單位下達指令時，必須消耗相當於該單位花費一定比例的資源。 /// Giving commands to your units costs resources based on the unit’s cost.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=使用者付費 /// Micro Transactions

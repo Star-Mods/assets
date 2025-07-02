@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Cualquiera
+DocInfo/Name=Evacuación ardiente
+DocInfo/Screenshot01=

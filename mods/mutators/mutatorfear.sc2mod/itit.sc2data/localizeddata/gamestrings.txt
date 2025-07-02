@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Quando le unità alleate subiscono danni, possono smettere di attaccare e fuggire in preda alla paura.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Paura

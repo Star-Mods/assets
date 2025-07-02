@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amons Streitkräfte haben eine besonders ansteckende Form von Verseuchung entwickelt. Ihre Verseuchten bewegen sich mit furchterregender Geschwindigkeit und verbreiten die Krankheit schnell und unaufhaltsam. Halluzinogene in ihrem Blut können selbst bei kampferfahrenen Veteranen Panik auslösen. Besiegen Sie die Angst und bekämpfen Sie die Verseuchung.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Wettlauf mit dem Tod
+DocInfo/Screenshot01=

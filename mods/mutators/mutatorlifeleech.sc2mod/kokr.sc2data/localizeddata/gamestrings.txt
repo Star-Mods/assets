@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=적 유닛과 구조물이 피해를 줄 때마다 생명력 또는 보호막을 흡수합니다. /// Enemy units and structures steal life or shields whenever they do damage.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=생명력 착취 /// Life Leech

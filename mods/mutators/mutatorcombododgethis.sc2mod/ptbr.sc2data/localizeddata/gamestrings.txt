@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Desvia Dessa /// Dodge This
+DocInfo/Screenshot01=

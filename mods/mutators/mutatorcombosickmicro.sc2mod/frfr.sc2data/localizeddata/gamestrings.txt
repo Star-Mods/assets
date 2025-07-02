@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=La terrazine a exacerbé les virus endémiques de Bel’Shir. Une épidémie mortelle se propage à toutes les formes de vie et la moindre de vos actions se paie au prix fort. Faites-vous une raison et remportez la victoire.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Une microgestion de malade
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=시공간 이상 현상이 칼디르를 뒤덮었습니다. 운동 에너지가 모든 방향으로 분산되고 시공간적 변칙 현상들이 전장에 넘쳐납니다. 모든 역경에 맞서며 왕복선을 격추하십시오.  /// A spacetime anomaly has enveloped Kaldir. Kinetic energy is diffused in all directions, and pockets of temporal and spatial irregularity litter the battlefield. Fight through them to take down the shuttles.
+DocInfo/DescShort=아무
+DocInfo/Name=보호막 가동 /// Shields Up!
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=피할 테면 피해 봐 /// Dodge This
+DocInfo/Screenshot01=

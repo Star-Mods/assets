@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Beliebig
+DocInfo/Name=Alles hat einen Preis
+DocInfo/Screenshot01=

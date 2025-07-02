@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Unidades inimigas têm aumento de velocidade de ataque, armadura e vida quando unidades inimigas próximas morrem. /// Enemy units gain increased attack speed, armor, and life when nearby enemy units die.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Vingador /// Avenger

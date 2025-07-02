@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=아몬의 세력이 벨시르의 테라진에 의해 예상치 못한 방향으로 변형되었습니다. 아드레날린이 증가하여 예측할 수 없는 변형이 일어나고 죽을 때 적대적인 생명체를 만들어 냅니다. 가장 강력한 생명체는 생체적인 핵 능력을 보유할 만큼 진화하였습니다. /// Amon's forces have been altered by the terrazine on Bel'shir in unexpected ways. Increased adrenaline triggers unpredictable transformations and each death unleashes new hostile lifeforms. The most powerful of them have even developed organic nuclear capabilities.
+DocInfo/DescShort=아무
+DocInfo/Name=커져가는 위협 /// Growing Threat
+DocInfo/Screenshot01=

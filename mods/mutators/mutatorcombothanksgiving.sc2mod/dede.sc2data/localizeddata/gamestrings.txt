@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Ihre Versorgungslinie wurde unterbrochen und Sie müssen mit Ihrem Verbündeten zusammenarbeiten, um Ihre Streitkräfte versorgen zu können. Glücklicherweise bietet die Umgebung genug Wild, das erlegt werden kann. Aber seien Sie vorsichtig. Wer weiß, wozu ein Truthahn fähig ist, wenn er sich bedroht fühlt.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Nicht viel Federlesen
+DocInfo/Screenshot01=

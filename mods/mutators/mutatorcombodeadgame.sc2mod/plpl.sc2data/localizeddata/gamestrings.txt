@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Świątynię xel’naga oblegają nieumarłe monstra. Jednostki Amona powijają w chwili śmierci zainfekowanych, którzy w krótkim zdobędą nad wami przewagą liczebną i przełamią waszą obronę. Zabijcie reanimatorów otchłani, żeby nie wskrzeszali zmarłych i zróbcie co w waszej mocy, aby przetrwać to natarcie.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Zagrożenie zza grobu
+DocInfo/Screenshot01=

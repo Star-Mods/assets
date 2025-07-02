@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Sämtlicher Schaden, den Ihre Einheiten verursachen, wird ihnen ebenfalls selbst zugefügt, aber sie werden im Laufe der Zeit geheilt.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Zweischneidiges Schwert

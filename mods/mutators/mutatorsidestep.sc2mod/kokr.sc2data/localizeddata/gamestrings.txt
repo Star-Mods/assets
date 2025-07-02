@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=피해를 받은 적 유닛이 짧은 거리를 순간이동합니다. /// Enemy units teleport a short distance away upon taking damage.
+DocInfo/DescShort=아무
+DocInfo/Name=회피 기동 /// Evasive Maneuvers

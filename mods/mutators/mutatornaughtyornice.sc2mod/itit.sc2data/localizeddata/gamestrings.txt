@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Unità e strutture alleate subiscono danni aumentati per ogni unità nemica che hanno ucciso.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Buoni o cattivi

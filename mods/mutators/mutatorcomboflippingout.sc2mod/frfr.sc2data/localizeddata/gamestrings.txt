@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Le rituel de Rak’Shir a semé le chaos. Les ennemis ne se trouvent plus à l’endroit où ils étaient initialement et vos troupes sont rattrapées par la peur. Votre propre perception de la réalité est altérée et distordue. Restez concentré assez longtemps pour que Ji’nara remporte le défi.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Vent de panique
+DocInfo/Screenshot01=

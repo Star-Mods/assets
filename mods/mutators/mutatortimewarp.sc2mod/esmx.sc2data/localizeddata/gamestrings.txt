@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=El enemigo despliega distorsiones de tiempo reiteradamente en todo el mapa. /// Enemy Time Warps are periodically deployed throughout the map.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Distorsión temporal iterativa /// Time Warp

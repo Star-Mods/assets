@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=집 밖은 위험해 /// Get Out More

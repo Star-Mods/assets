@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Le ravitaillement ne peut être généré qu’en tuant les dindes qui arpentent la carte. Mais attention à la fureur des autres gallinacés.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Dindocide

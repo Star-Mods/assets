@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=L'assedio al tempio xel'naga si è intensificato. Le più temibili creazioni di Amon potenziano i loro servitori mentre attaccano le vostre difese, riportandoli in vita se cadono. Inoltre, mettono a segno attacchi dalla distanza. Resistete a tutto questo, e proteggete il tempio.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Un caloroso benvenuto
+DocInfo/Screenshot01=

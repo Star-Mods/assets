@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Il terrazine di Bel'Shir ha potenziato i virus presenti sul pianeta. Una piaga mortale contagia qualsiasi forma di vita, e ogni azione ha un costo elevato. Sopportate il dolore e conquistate la vittoria.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Micro-germinazione
+DocInfo/Screenshot01=

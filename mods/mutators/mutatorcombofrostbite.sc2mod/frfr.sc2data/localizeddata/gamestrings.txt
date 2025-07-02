@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Des vents froids et violents balaient la région où les morts se relèvent et où les troupes d’Amon ont déployé des mines magnétiques. Ne fléchissez pas ! Mettez-vous à l’abri du blizzard, évitez de déclencher les mines et éradiquez la contamination croissante.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Morsure du froid
+DocInfo/Screenshot01=

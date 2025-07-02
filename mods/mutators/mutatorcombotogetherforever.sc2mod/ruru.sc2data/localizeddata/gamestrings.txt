@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Любой
+DocInfo/Name=Вместе навсегда
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Lava bricht regelmäßig aus dem Boden hervor und fügt verbündeten Luft- und Bodeneinheiten Schaden zu.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Lavaeruption

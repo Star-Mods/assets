@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amons verderblicher Einfluss greift auf alles und jeden über. Schon bald werden selbst Ihre engsten Verbündeten sich gegen Sie wenden. Die bittere Wahrheit ist: Sie können niemandem mehr trauen. Es gibt nur eine Möglichkeit: Vernichten Sie sie, bevor Sie selbst vernichtet werden!
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Plötzlich aber unvermeidlich
+DocInfo/Screenshot01=

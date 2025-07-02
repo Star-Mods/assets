@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=任意 /// Any
+DocInfo/Name=無謂蟲子 /// Like Swatting Insects

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=俗話說，你就是自己最大的敵人。亞蒙把這句話變成了現實。你的單位在對敵人造成傷害的同時，也會對自己造成等量的傷害。此外，每次敵人死亡都有可能會一併帶走你數名單位。讓亞蒙見識一下，不管犧牲多大，你都要得到勝利。 /// It is said that you are your own worst enemy. Amon has turned that idiom into reality. The harm your armies inflict is dealt back to them in full, and every enemy’s death threatens to take several of your own forces with them. Show Amon that no sacrifice is too great to achieve victory.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=七傷拳 /// Instant Karma
+DocInfo/Screenshot01=

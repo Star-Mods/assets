@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Kiedy zabita zostanie bohaterska jednostka wroga, wszystkie jednostki gracza wokół zaczynają żałować swojego występku i nie mogą atakować ani korzystać ze zdolności.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Minuta ciszy

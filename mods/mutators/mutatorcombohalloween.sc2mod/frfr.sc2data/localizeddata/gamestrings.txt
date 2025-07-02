@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Il fait nuit noire à Augustgrad. Les citoyens du Dominion frappent aux portes en réclamant des bonbons. Mieux vaut avoir des friandises à leur donner ou vous pourriez être victime d’une blague mortelle.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Nuit d’effroi
+DocInfo/Screenshot01=

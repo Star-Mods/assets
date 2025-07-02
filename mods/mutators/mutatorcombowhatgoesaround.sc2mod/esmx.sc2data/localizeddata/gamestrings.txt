@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Amón ha invocado los poderes del Vacío para mejorar sus fuerzas de formas nuevas y extrañas. Ahora, reflejan el daño que reciben durante la batalla y detonarán bombas nucleares cuando mueran. No pierdas de vista este equilibrio y te asegurarás la victoria.<n/>
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Todo lo que das...

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Pocas cosas son tan implacables como una ventisca de Kaldir. No es sencillo encontrar recursos, y el viento congela todo lo que toca. Destruid las lanzaderas de Amon e intentad no pasar frío.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Intemperie

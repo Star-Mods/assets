@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Gegnerische Einheiten werden nach dem Tod automatisch wiederbelebt.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Sie leben!

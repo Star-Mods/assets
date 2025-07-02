@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Amon stürzt Korhal in eine neue Art des Chaos. Schattenhafte Feinde verbreiten sich heuschreckenartig im Land. Schlagen Sie schnell zurück oder Sie werden sich Ihnen bald als Diener des Dunklen Gottes anschließen.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Entscheidungsdruck

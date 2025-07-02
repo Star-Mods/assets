@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=玩家單位受到傷害時有可能會害怕地停止攻擊並且到處亂跑。 /// Player units will occasionally stop attacking and run around in fear upon taking damage.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=畏懼 /// Fear

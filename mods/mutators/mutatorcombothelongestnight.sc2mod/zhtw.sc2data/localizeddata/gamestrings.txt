@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=任何
+DocInfo/Name=長夜煎熬 /// The Longest Night

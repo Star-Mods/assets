@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Unos robots ofensivos de origen misterioso han sido liberados en el sector Koprulu, y su objetivo es causar destrucción. Gracias a la ingeniería brillante con la que se desarrollaron, nada puede vencerlos hasta que completen su contador de asesinatos preprogramado. Después de eso, se apagan. ¿Podrás sobrevivir hasta entonces?
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Roboasesinos

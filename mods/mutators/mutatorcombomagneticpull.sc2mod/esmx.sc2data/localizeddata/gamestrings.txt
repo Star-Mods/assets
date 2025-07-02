@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Las fuerzas de Amón han desplegado minas magnéticas en Carbonis, y su poder misterioso controla a tus guerreros y los acerca hacia los cadáveres de sus enemigos. Planea tus asaltos con cuidado o prepárate para lidiar con una sorpresa explosiva. /// Amon's forces have deployed mag-mines on Char, and his mysterious power is manipulating your warriors, drawing them toward the corpses of their enemies. Plan your assaults carefully, or be ready for an explosive surprise.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Atracción magnética /// Magnetic Pull
+DocInfo/Screenshot01=

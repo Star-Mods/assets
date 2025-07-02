@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Rianimatori del Vuoto si muovono sul campo di battaglia, riportando in vita i nemici uccisi.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Rianimatori del Vuoto

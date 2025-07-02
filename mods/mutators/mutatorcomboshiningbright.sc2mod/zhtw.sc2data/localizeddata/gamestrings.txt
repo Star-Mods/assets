@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=任意
+DocInfo/Name=閃亮光輝 /// Shining Bright

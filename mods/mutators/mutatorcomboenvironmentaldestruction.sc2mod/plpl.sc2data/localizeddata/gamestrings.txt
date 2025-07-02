@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Gniew Amona dosięgnie was wszędzie. Przypływy lawy na Veridii stanowić będą najmniejsze z waszych zmartwień, gdy zaczną spadać na was niekończące się salwy pocisków, niespodziewane ataki jądrowe i palące wszystko na swej drodze promienie oczyszczenia. Zapewnijcie swoim jednostkom robotniczym ochronę w drodze do bazy. To ich chwila.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Świat w płomieniach
+DocInfo/Screenshot01=

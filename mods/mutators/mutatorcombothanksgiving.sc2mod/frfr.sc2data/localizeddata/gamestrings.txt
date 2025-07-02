@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Vos voies de ravitaillement sont coupées, et vous allez devoir vous coordonner avec votre allié pour entretenir vos armées. Heureusement, la faune offre de nombreuses ressources. Mais restez sur vos gardes. Qui sait ce dont est capable une dinde acculée ?
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Dindépendance
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Ihnen läuft die Zeit davon. Amons Streitkräfte bewegen sich schneller und das Schlachtfeld steckt voller heimtückischer Fallen, die Ihre Einheiten verlangsamen. Sie müssen schnell und dennoch besonnen handeln, um zu gewinnen.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Zeitschloss

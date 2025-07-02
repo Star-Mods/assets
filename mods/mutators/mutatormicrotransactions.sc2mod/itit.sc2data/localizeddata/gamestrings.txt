@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Impartire ordini alle unità ha un costo in risorse basato sul costo dell'unità.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Microtransazioni

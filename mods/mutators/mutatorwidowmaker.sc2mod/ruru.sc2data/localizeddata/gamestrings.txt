@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=По всей карте разбросаны группы паучьих мин и мин «Вдова».
+DocInfo/DescShort=Любой
+DocInfo/Name=Сапер

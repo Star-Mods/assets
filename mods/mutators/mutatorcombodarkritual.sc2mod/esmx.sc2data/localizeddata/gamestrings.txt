@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amón ha succionado la energía del templo para concederles un poder increíble a sus esbirros. Rebosantes de potencial psiónico, sus ejércitos supercargados recorren el campo de batalla y canalizan su furia mediante montones de habilidades. Resiste el embate hasta que el templo vuelva a ser seguro. /// Amon has siphoned the temple’s energy in order to grant his minions incredible power. Brimming with psionic potential, his supercharged armies sprint across the battlefield and channel their wrath into myriad abilities. Withstand the onslaught until the temple is secure once more.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Ritual oscuro /// Dark Ritual
+DocInfo/Screenshot01=

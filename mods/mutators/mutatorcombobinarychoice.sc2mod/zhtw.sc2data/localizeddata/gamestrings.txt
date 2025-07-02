@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=任意
+DocInfo/Name=二元選擇 /// Binary Choice
+DocInfo/Screenshot01=

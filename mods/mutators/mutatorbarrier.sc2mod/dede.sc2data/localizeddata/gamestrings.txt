@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Gegnerische Einheiten und Gebäude erhalten einen temporären Schild, wenn sie das erste Mal Schaden erleiden.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Barriere

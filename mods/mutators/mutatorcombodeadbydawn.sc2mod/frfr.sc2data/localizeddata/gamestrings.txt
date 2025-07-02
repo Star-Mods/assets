@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Les troupes d’Amon exploitent une souche de contamination particulièrement virulente. Les contaminés se déplacent et transmettent l’agent pathogène à une vitesse effrayante. De plus, les hallucinogènes présents dans leur sang peuvent instiller la panique chez les combattants même les plus aguerris. Prenez votre courage à deux mains et éradiquez ce fléau.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Morts et vifs
+DocInfo/Screenshot01=

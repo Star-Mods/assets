@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Na polu walki co jakiś pojawiają się dodatkowe jednostki wroga.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Agresywne wsparcie

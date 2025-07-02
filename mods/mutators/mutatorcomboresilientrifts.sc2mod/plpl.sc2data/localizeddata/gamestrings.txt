@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Dowolny opis /// Any
+DocInfo/Name=Wytrzymałe szczeliny /// Resilient Rifts

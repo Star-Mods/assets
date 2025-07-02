@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=敵方單位永久匿蹤。 /// All enemy units are permanently cloaked.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=暗影尖兵 /// We Move Unseen

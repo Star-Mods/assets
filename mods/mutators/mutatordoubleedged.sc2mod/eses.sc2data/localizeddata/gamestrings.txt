@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Vuestras unidades reciben todo el daño que infligen, pero se curan con el tiempo.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Doble filo

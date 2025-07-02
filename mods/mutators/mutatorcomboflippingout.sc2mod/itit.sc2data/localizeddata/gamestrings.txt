@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Il caos regna sul rituale del Rak'Shir. I nemici non si trovano nei punti in cui sembrano essere, e le forze alleate sono colte dalla paura. La prospettiva di osservazione è continuamente distorta. È necessario mantenere il controllo abbastanza a lungo perché Ji'nara possa vincere lo scontro.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Fuori controllo
+DocInfo/Screenshot01=

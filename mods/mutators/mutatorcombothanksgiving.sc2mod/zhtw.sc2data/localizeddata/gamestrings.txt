@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=你的補給線被阻斷了，因此必須跟盟友合作才能維持部隊。幸好，這裡有很多野生動物可供資源採集。不過採取這種方式時請小心，誰知道受到威脅的火雞會做出什麼事呢？ /// Your supply lines have been cut off, and you must work together with your ally in order to sustain your armies. Luckily, there is plenty of local wildlife to harvest. But proceed with caution. Who knows what a turkey is capable of when under threat?
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=雞戰時刻 /// Fowl Play
+DocInfo/Screenshot01=

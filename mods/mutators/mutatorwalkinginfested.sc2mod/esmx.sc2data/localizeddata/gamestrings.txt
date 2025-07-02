@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Las unidades enemigas engendran una cantidad de terran infestados al morir acorde a la vida que tiene la unidad. /// Enemy units spawn Infested Terran upon death in numbers according to the unit's life.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Muertos infestados /// Walking Infested

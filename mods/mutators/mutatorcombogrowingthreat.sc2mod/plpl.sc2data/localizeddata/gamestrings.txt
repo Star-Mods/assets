@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Siły Amona zostały w nieoczekiwany sposób zmienione przez terrazyt na Bel'Shir. Zwiększona produkcja adrenaliny prowadzi u nich do nieprzewidywalnych transformacji, a śmierć daje początek nowym, wrogim formom życia. Najpotężniejsi z wrogów rozwinęli nawet organiczne zdolności nuklearne.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Rosnące zagrożenie
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Le sol de Bel’Shir est jonché de mines que seuls vous et votre partenaire pouvez désamorcer. Œuvrez de concert pour dégager un chemin que les robots de Stetmann pourront emprunter en toute sécurité. Communication et coordination sont les clés de la victoire !
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Grises mines
+DocInfo/Screenshot01=

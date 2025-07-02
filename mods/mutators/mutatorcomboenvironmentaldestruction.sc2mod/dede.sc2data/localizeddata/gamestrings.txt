@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Nirgends ist man vor Amons Zorn sicher. Bei endlosen Bombensalven, zufälligen Nuklearschlägen und einem Destruktorstrahl, der nach etwas Brennbarem sucht, ist Veridias Lavaflut vielleicht noch das kleinste Problem. Bringen Sie Ihre Arbeiter wieder heil in die Basis zurück. Sie allein machen den Unterschied.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Welt in Flammen
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Os terranos infestados em Tarsonis estão por toda parte. Estão no chão. Nos trens. Em pouco tempo eles estarão na sua base. E você só vai saber quando for tarde demais. /// The infested terrans on Tarsonis are everywhere. They're in the ground. They're on the trains. Before long, they'll be in your base. And you may never see them coming.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Trem dos Mortos /// Train of the Dead

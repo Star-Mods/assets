@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Naturalny porządek rzeczy został wrócony do góry nogami. Płynna magma tryska nie tylko z wnętrza Veridii Większej, ale również z wrogich sił, które chcą zniszczyć planetę. Śmierć wyciąga rękę po wasze wojska, lecz wróg zdaje się niewrażliwy na jej dotyk. Musicie przetrwać to piekło i ocalić planetę.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Zabójczy żar
+DocInfo/Screenshot01=

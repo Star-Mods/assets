@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Una grave malattia si è diffusa su questo pianeta desolato. Le forze di Amon si sono impadronite delle difese dei minatori e prendono di mira le vostre armate invece degli infetti. Affrontate l'oscurità di modo che i sopravvissuti possano sfuggire a quest'incubo e sopravvivere al contagio.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Necropoli
+DocInfo/Screenshot01=

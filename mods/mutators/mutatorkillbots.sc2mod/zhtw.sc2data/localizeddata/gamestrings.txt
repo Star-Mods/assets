@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=不知道是誰在克普魯星區四處散佈神秘的攻擊機器人，這些機器人的目的只有一個，那就是殺戮。根據狡詐的程式設定，它們是無敵的，必須等到它們完成設定的擊殺數量之後，才會自動關機。在那之前，你們撐得下去嗎？ /// Offensive robots of a mysterious origin have been unleashed on the Koprulu sector, intent on destruction. Through cunning engineering, they are invincible until their pre-programmed kill counter has been filled. After that occurs, they will shut down. But can you survive for that long?
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=殺戮機械 /// Kill Bots

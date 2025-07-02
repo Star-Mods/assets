@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=在查爾星上面，到處都是亞蒙手下設置的磁力機雷。亞蒙還施展神秘的力量，吸引你手下的戰士不斷靠近敵人的屍體。進攻時請小心，不然就得收下轟隆隆的驚喜了。 /// Amon's forces have deployed mag-mines on Char, and his mysterious power is manipulating your warriors, drawing them toward the corpses of their enemies. Plan your assaults carefully, or be ready for an explosive surprise.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=致命的磁引力 /// Magnetic Pull
+DocInfo/Screenshot01=

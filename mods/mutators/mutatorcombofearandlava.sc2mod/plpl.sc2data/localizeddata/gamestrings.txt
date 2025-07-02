@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Wasze wojska zostały otoczone, a w ich serca wkradł się strach. Żar podnoszącej się lawy wpędza ich w panikę i powoduje, że wyłamują się z szyku i gnają niepomni niebezpieczeństwa w stronę morza ognia. Przetrwajcie tę grozę i zbierajcie kryształy, kiedy lawa się cofa.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Strach i lawa
+DocInfo/Screenshot01=

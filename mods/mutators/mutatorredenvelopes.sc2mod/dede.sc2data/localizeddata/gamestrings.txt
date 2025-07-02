@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Glücksumschläge mit aufsammelbaren Ressourcen werden zufällig auf der Karte verteilt.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Glücksumschläge

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Zaopatrzenie jest generowane wyłącznie podczas zabijania indyków, które chodzą po mapie. Może to jednak zezłościć te ptaki, które przeżyją.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Polowanie na indyki

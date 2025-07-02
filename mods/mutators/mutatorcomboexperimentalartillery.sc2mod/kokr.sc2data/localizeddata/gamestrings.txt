@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=실험용 대포 /// Experimental Artillery
+DocInfo/Screenshot01=

@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Saia Mais /// Get Out More

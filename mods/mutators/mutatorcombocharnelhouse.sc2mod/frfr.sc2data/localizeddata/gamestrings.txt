@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Une terrible maladie sévit sur ce monde lugubre et désolé. Les troupes d’Amon ont modifié les défenses des mineurs pour qu’elle ciblent vos unités au lieu des contaminés. Affrontez les ténèbres afin que les survivants échappent à ce cauchemar, à l’abri de toute contagion.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Le charnier
+DocInfo/Screenshot01=

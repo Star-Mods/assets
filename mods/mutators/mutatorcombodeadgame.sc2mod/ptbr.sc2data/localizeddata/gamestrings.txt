@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Monstruosidades imortais cercam o Templo Xel'naga. As forças de Amon produzem infestados quando caem em batalha, e eventualmente destruirão suas fortificações com força bruta. Mate os Reanimadores do Vazio antes que eles possam levantar os mortos e faça o que for preciso para sobreviver ao massacre.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Pé na Cova
+DocInfo/Screenshot01=

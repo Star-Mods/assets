@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Quando unidades ou estruturas inimigas morrem, suas unidades próximas são puxadas para o local.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Atração Fatal

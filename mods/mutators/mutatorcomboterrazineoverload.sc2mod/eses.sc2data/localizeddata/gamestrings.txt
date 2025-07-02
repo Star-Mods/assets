@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=La exposición al terrazine puede provocar reacciones violentas, y las fuerzas de Amon no son una excepción. El gas ha intensificado la influencia del Dios Oscuro sobre ellos y aumentado su velocidad y agresividad. No se detendrán ante nada para destruirte. Destrúyelos tú antes.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Aliento de destrucción
+DocInfo/Screenshot01=

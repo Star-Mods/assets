@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=亞蒙大幅強化虛空破壞獸的防禦力，不只降低你對牠們造成的傷害，還可以完全忽略你或盟友其中一支部隊的攻擊。將你的大軍分成數個小隊，但要保持調度的靈活性，才能解決這次面臨的難題。 /// Amon has bolstered his Void Thrashers with monstrous endurance, diminishing the effect of your assault against them and allowing them to completely ignore attacks from one your armies. Split your forces and maintain communication to bring down this tenacious menace.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=超硬目標 /// Hard Target
+DocInfo/Screenshot01=

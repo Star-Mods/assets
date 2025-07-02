@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Czas nie jest po waszej stronie. Siły Amona są szybkie, a pole walki pełne jest zdradliwych pułapek, które mogą was spowolnić. Aby zwyciężyć, musicie działać szybko, lecz ostrożnie. 
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Czas próby

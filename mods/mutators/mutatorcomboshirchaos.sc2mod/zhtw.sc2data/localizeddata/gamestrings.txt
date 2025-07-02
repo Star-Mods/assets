@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=亞蒙的手下衝上前去支援他們的勇士，就連死亡都阻止不了他們。如果他們倒下，會有更多人趕來接替他們的位置，繼續為他們的勇士提供更多力量。用對等的兵力來與他們抗衡，擊退這股逼來的浪潮。 /// Amon’s minions rush forward to support their champion, and not even death can stop them. When they fall, more rise to take their place, further bolstering their champion’s strength. Match their zeal and push back the surging tide.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=拉克希爾渾沌之戰 /// Shir Chaos
+DocInfo/Screenshot01=

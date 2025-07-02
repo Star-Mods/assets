@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Dei tornado si spostano sulla mappa, infliggendo danni e respingendo le unità alleate colpite.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Tromba d'aria

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=적의 궤도 폭격이 주기적으로 지도 곳곳에 떨어집니다. /// Enemy Orbital Strikes are periodically fired throughout the map.
+DocInfo/DescShort=아무
+DocInfo/Name=궤도 폭격 /// Orbital Strike

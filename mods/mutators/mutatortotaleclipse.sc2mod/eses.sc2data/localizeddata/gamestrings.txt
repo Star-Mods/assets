@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=La visión proporcionada por todas las fuentes está extremadamente limitada, excepto en la visión de vuestra cámara.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Miedo a la oscuridad

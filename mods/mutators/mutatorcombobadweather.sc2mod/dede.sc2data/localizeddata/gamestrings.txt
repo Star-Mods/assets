@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Amons Streitkräfte drängen in die Wirklichkeit und fallen in Augustgrad ein. Zu allem Überfluss verwüsten auch noch Tornados die Stadt. Schaffen Sie es, diesem Sturm zu trotzen und die Leerenspalte zu schließen, bevor es zu spät ist?
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Höhere Gewalt

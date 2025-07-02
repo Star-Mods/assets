@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=아몬의 세력이 유달리 위력적인 감염 변종을 무기화했습니다. 감염은 무시무시한 속도로 퍼져 나가며 질병을 확산시키고 있습니다. 그들의 피 속에 담긴 환각제는 가장 충직한 전사조차 히스테리 증상을 보이게 만듭니다. 두려움을 극복하고 감염을 퇴치해야 합니다.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=빠른 자와 죽은 자 /// The Quick and the Dead
+DocInfo/Screenshot01=

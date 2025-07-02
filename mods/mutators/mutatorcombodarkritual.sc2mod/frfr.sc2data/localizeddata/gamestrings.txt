@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon a siphonné l’énergie du temple pour conférer à ses serviteurs une puissance incroyable. Débordant désormais d’un potentiel psionique énorme, ses troupes courent sur le champ de bataille et canalisent leur colère dans des myriades de capacités. Résistez à l’assaut jusqu’à ce que le temple soit de nouveau sous contrôle.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Sombre rituel
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Leerenerwecker wandern über das Schlachtfeld und beleben die Einheiten Ihrer Gegner wieder.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Leerenerwecker

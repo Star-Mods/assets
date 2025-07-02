@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Seres vivos amorfos estão se dirigindo à sua base, transformando todas as unidades e estruturas que tocam em cópias deles mesmos.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Propagadores

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Le siège du temple Xel’Naga s’est intensifié. Les plus puissantes créations d’Amon poussent ses serviteurs à se jeter sur vos remparts, pour se relever aussitôt. Ils attaquent également vos fortifications à distance. Résistez à l’attaque et protégez le temple.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Le siège de fer
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Le unità nemiche incendiano il terreno a loro circostante alla morte.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Fuoco finale

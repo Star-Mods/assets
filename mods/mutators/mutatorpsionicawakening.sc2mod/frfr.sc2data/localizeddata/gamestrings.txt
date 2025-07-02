@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Toutes les unités ennemies disposent d’énergie et de capacités aléatoires.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Déchaînement de puissance

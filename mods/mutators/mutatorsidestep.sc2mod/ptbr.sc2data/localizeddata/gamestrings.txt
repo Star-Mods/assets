@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Unidades inimigas se teleportam, afastando-se um pouco, ao receber dano. /// Enemy units teleport a short distance away upon taking damage.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Manobras Evasivas /// Evasive Maneuvers

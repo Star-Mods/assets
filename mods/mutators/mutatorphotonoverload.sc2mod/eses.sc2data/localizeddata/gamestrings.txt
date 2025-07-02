@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Todas las estructuras enemigas atacan a las unidades hostiles cercanas.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Sobrecarga de fotones

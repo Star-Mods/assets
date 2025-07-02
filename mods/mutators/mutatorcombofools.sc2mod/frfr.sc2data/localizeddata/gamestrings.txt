@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=La corruption d’Amon n’épargne rien ni personne. Votre allié le plus proche menace de vous trahir à tout moment, et nul n’est plus digne de confiance. Un seul choix s’offre à vous : éradiquer toute menace avant d’être éradiqué !
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Sujets à caution
+DocInfo/Screenshot01=

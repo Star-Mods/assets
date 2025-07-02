@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=亞蒙的部隊將某種特別致命的感染病毒投入戰場，這些受感染部隊的速度驚人，而且還會不斷傳播疾病；就連最勇敢的戰士，也會因為牠們血液裡面的迷幻成份，變得極度歇斯底里。你必須戰勝恐懼，燒掉受感染的建築。 /// Amon's forces have weaponized a particularly virulent strain of infestation. Their infested move at frightening speed and rapidly proliferate disease. Hallucinogens in their blood can cause hysteria in even the most stalwart warriors. Beat back the fear, and burn out the infestation.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=飛速活屍 /// The Quick and the Dead
+DocInfo/Screenshot01=

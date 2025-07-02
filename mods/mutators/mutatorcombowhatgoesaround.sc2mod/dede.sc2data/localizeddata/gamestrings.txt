@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Amon macht sich die Mächte der Leere zunutze, um seine Streitkräfte auf mysteriöse Weise zu unterstützen. Diese reflektieren jetzt den Schaden, den sie erleiden, und zünden bei ihrem Tod nukleare Bomben. Achten Sie auf das Gleichgewicht und Sie werden den Sieg davontragen.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Wie du mir, so ich dir

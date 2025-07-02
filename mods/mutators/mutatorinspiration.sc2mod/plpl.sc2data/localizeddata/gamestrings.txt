@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Wrogie jednostki bohaterskie zwiększają szybkość ataku i pancerz wszystkich znajdujących się w pobliżu jednostek wroga.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Natchnienie

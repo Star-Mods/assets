@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=任意 /// Any
+DocInfo/Name=形影不離
+DocInfo/Screenshot01=

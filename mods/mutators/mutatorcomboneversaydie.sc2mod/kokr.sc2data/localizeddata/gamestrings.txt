@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=불굴 /// Never Say Die

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Splugawienie Amona dotyka wszystkiego i wszystkich. Wkrótce zdradzi cię nawet najbliższy sojusznik. Nie możesz ufać nikomu. Zostało tylko jedno wyjście – musisz zniszczyć przeciwnika, by uratować się przed śmiercią.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Zdrada krwi wymaga
+DocInfo/Screenshot01=

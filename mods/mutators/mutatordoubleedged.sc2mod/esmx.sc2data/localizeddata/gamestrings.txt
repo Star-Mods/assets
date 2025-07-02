@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Tus unidades también reciben todo el daño que infligen, pero sanan con el tiempo. /// Your units also receive all the damage they deal, but they are healed over time.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Doble filo /// Double-Edged

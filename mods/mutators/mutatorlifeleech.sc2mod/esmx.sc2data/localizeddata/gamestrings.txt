@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Las unidades y estructuras enemigas roban vida o escudos cuando infligen daño. /// Enemy units and structures steal life or shields whenever they do damage.
+DocInfo/DescShort=Cualquiera /// Any
+DocInfo/Name=Drenaje de vida /// Life Leech

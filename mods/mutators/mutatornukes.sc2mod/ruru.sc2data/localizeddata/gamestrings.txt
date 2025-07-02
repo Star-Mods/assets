@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=По всей карте периодически наносятся ядерные удары.
+DocInfo/DescShort=Любой
+DocInfo/Name=Ядерная вечеринка

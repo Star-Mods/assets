@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Войска противника замедляют боевые единицы игроков при атаке.
+DocInfo/DescShort=Любой
+DocInfo/Name=Контузящие атаки

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=今晚的奧古斯格勒又黑又沉悶，自治聯盟市民開始到處去敲門要糖果。如果你沒有糖果，就可能會成為致命惡作劇的受害者。 /// It’s a dark and dreary night in Augustgrad. Dominion citizens are knocking on doors and asking for candy. Be sure you have treats to give them, lest you find yourselves the victims of a deadly trick.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=驚魂夜 /// Fright Night
+DocInfo/Screenshot01=

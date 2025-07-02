@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Planeta Char wybuchła ogniem. Zwiększona aktywność wulkaniczna powoduje, że jest tam groźniej niż kiedykolwiek. Wypatrujcie wrogów i uważajcie, aby nie stanąć w ogniu.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Piekło wojny
+DocInfo/Screenshot01=

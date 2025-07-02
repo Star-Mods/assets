@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=任何 /// Any
+DocInfo/Name=感恩季節

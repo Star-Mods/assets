@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Le unità eroiche nemiche subiscono al massimo 10 danni quando sono vicine a unità non eroiche a loro alleate.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Volontà ferrea

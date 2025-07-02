@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=亞蒙的部隊打破虛空的界限，伴隨著不斷肆虐的龍捲風，大舉入侵奧古斯格勒這座城市。你是否能安然渡過這場風暴，趕在城市毀滅前封閉裂隙呢？ /// Amon's forces tear through reality and make landfall across Augustgrad as tornadoes rampage throughout the city. Can you weather the storm and close the rifts before it's too late?
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=惡劣天候 /// Bad Weather

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Gdy giną wrogie jednostki, pobliscy przeciwnicy otrzymują premię do szybkości ataku, pancerza i życia.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Mściciel

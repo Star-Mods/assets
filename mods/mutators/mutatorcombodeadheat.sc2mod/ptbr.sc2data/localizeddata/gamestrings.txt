@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=As leis da natureza estão de cabeça para baixo. Magma incandescente jorra não apenas de Veridia Prime, mas também das forças hostis decididas a destruí-lo. A própria morte seduz suas forças de forma inexorável, mas os inimigos parecem estar imunes a ela. Você precisa sobreviver a esse massacre e salvar o planeta.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Calor Mortal
+DocInfo/Screenshot01=

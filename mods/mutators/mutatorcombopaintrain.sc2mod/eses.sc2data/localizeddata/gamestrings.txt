@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=La Organización Moebius ha echado mano de su depósito de cabezas nucleares y las está repartiendo por Tarsonis. El resto lo reserva para destruiros. Con un cargamento tan volátil, cualquier desvío de bala representa un alto riesgo. Que no os sorprenda si vuestras fuerzas se retraen a la primera señal de combate.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Ciudad explosiva
+DocInfo/Screenshot01=

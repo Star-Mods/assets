@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Interferenze elettromagnetiche disturbano le comunicazioni. Impartire ordini alle truppe ha un costo, per cui ogni azione va ottimizzata. Le informazioni scarseggiano e la visuale è ridotta. Anche le operazioni più semplici richiedono tempo, ma è imperativo garantire la salvezza del pianeta.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Fuori servizio
+DocInfo/Screenshot01=

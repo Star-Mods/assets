@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Le leggi della natura sono state rovesciate. Il magma incandescente scaturisce da Veridia Prime e dalle forze nemiche intente a distruggerlo. La morte incombe sulle vostre truppe, ma i nemici sembrano immuni al suo tocco. Sopravvivete alle avversità e salvate il pianeta.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Caldo mortale
+DocInfo/Screenshot01=

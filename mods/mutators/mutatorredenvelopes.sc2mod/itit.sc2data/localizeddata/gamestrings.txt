@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Buste regalo contenenti risorse sono generate in punti casuali della mappa.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Buste fortunate

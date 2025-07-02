@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Suas unidades também recebem todo o dano que causam, mas são curadas ao longo do tempo.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Dois Gumes

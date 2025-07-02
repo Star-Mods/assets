@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=El adalid de Amón arde de poder. Sus adoradores ofrecen sus vidas como sacrificio para el ritual, pero su servicio no termina allí. Los reanimadores están listos para devolverlos a su servicio en un ciclo violento e infinito. Debes proteger al Primer ascendiente, o todo estará perdido.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Muerte segura
+DocInfo/Screenshot01=

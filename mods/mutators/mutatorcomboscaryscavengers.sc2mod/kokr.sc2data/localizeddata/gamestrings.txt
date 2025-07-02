@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=무서운 착취자 /// Scary Scavengers

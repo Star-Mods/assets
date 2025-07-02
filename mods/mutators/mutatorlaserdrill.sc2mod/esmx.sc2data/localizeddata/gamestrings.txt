@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Un taladro láser ataca constantemente a las unidades del jugador que están en el rango de visión del enemigo.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Taladro imparable

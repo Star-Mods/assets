@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=核彈會隨機轟炸地圖各處。 /// Nukes are launched at random throughout the map.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=核子危機 /// Going Nuclear

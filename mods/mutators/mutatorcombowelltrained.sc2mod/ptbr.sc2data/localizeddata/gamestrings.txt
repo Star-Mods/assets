@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Bem Treinado /// Well Trained
+DocInfo/Screenshot01=

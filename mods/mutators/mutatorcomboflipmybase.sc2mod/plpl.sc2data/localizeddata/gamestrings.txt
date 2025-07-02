@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Czyściciele baz
+DocInfo/Screenshot01=

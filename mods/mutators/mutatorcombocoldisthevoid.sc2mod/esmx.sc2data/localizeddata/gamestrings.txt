@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Tarsonis está atravesando uno de los inviernos más hostiles que se han visto en años, y Amón planea sacarle el máximo provecho a la situación. Resiste al frío polar y al Vacío cruel, y acaba con los esbirros de Amón de una vez y para siempre.</n></n>ADVERTENCIA: Esta combinación de Mutadores es particularmente difícil.<n/> /// Tarsonis is experiencing the harshest winter it has seen in years, and Amon intends to take full advantage of it. Withstand both the biting cold and the seething Void, and strike down Amon’s minions for good.</n></n>WARNING: This combination of Mutators is especially challenging.<n/>
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Frío es el Vacío /// Cold is the Void

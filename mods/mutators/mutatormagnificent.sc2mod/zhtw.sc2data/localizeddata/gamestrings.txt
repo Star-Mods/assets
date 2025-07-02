@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=任務一開始，會在地圖各處出現磁力機雷。 /// Mag Mines are deployed throughout the map at the start of the mission.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=步步機雷 /// Mag-nificent

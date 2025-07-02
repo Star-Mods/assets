@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Wasze linie zaopatrzeniowe zostały odcięte i musicie współpracować, aby zaopatrzyć wasze armie w prowiant. Na szczęście w okolicy nie brakuje okazów fauny. Zachowajcie jednak ostrożność. Kto wie, do czego zdolne są indyki, gdy poczują się zagrożone.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Święto dziękczynienia
+DocInfo/Screenshot01=

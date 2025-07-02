@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=아몬은 행성을 그냥 파괴하는 것만으로 만족하지 못합니다. 그는 병력에 순수한 힘을 불어넣어 무시무시한 능력을 사용할 수 있게 만들었고, 심지어 아몬의 구조물도 이제 의지를 갖고 공격을 펼치기 시작했습니다. 그들의 맹공격을 버텨내고 버리디아 프라임을 구해야 합니다. /// Merely destroying a planet isn’t enough for Amon. He has also imbued his forces with raw power, allowing them to wield incredible abilities against you. Even Amon’s structures strike at you with conviction. Withstand the onslaught and save Veridia Prime.
+DocInfo/DescShort=아무
+DocInfo/Name=넘치는 위력 /// Power Trip
+DocInfo/Screenshot01=

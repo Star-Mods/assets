@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Rinforzi negativi
+DocInfo/Screenshot01=

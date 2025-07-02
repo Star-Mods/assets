@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=O clima de Slayn é tão implacável quanto os Tal'darim. A visibilidade é reduzida pelas tempestades gigantescas que varrem os campos da matança, congelando as vítimas e carregando-as para longe em furacões perigosos. Enfrente os elementos e vença o desafio a qualquer custo. /// Slayn's climate is as merciless as the Tal'darim. Visibility is reduced as a titanic storm rages across the killing fields, freezing its victims solid and sweeping them up into dangerous twisters. Brave the elements and win the challenge at all costs.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Tempestade perfeita
+DocInfo/Screenshot01=

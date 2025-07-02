@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Les unités hybrides ennemies déclenchent une explosion nucléaire à leur mort.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Détruisez-vous les uns les autres

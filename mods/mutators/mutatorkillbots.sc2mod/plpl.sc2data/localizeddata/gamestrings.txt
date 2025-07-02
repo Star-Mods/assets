@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Na Koprulu zostały nasłane roboty bojowe nieznanego pochodzenia, które mają mordercze zamiary. Te wyjątkowe dzieła inżynierii wojskowej są niezniszczalne dopóki ich wewnętrzny licznik nie osiągnie limitu zabitych – wówczas ulegają dezaktywacji. Ale czy zdołacie przetrwać do tego czasu?
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Elektroniczni mordercy

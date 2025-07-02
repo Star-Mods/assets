@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Cualquiera /// Any
+DocInfo/Name=Descansa en paz /// Rest in Peace
+DocInfo/Screenshot01=

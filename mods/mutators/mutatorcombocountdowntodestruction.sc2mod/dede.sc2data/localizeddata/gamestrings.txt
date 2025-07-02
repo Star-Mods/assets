@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amons Armeen sind riesig. Eine endlose Flut seiner fanatischen Krieger strömt durch die Hallen von Ulnar mit dem Ziel, Sie zu Asche zu verbrennen. Schlagen Sie eine Schneise bis zu den Stellarschlössern. Aber Vorsicht, denn Amons Streitkräfte bleiben auch nach dem Tod gefährlich.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Die Brennende Legion
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Le unità nemiche generano Terran infestati alla morte. La quantità dipende dai punti vita dell'unità.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Infestati viventi

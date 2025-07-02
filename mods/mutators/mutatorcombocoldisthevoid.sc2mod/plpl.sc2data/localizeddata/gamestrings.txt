@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Na Tarsonis trwa najsroższa zima od wielu lat i Amon zamierza to wykorzystać. Przetrwajcie kąsający mróz i zagrożenie z Otchłani, i rozprawcie się ze sługami Amona.</n></n>UWAGA: Ta kombinacja mutatorów stanowi szczególnie trudne wyzwanie.</n>
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Chłód Otchłani

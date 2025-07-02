@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Guerra di logoramento
+DocInfo/Screenshot01=

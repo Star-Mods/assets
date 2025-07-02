@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=La visibilité octroyée par les différentes sources est extrêmement limitée, sauf lorsque vous à proximité.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Peur du noir

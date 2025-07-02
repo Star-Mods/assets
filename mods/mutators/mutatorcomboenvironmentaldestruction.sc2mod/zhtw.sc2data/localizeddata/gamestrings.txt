@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=沒有一個地方能逃離亞蒙的怒火。在無盡的飛彈砲火、隨機降下的核彈攻擊以及到處追尋毀滅目標的淨化光束之下，佛里迪亞的熔岩反而成為你最後才需要擔憂的問題。把你的工作單位安全帶回基地。他們大展身手的時候到了。 /// Nowhere is safe from Amon’s wrath. Between the endless missile salvos, random nuclear strikes, and a purifier beam in search of something to burn, Veridia’s lava flows might be the least of your worries. Get your workers back to base safely. It’s their time to shine.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=火線交錯 /// World on Fire
+DocInfo/Screenshot01=

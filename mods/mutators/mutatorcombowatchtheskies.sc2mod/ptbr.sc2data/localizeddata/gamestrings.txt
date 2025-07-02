@@ -1,0 +1,5 @@
+﻿DocInfo/DescLong=Amon lançou um novo ataque para proteger seus esforços em Kaldir. Ele fez tudo ao seu alcance para aprontar bombardeios e forças adicionais, mas, com uma abordagem resoluta e estratégica, talvez você sobreviva à destruição.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=De Olho no Céu
+DocInfo/Screenshot01=
+UserData/Mutators/KillKarma_Description=As unidades e estruturas do jogador recebem dano aumentado para cada inimigo que abatem.

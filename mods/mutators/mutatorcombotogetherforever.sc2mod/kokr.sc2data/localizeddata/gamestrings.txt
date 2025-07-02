@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=그대와 영원히 /// Together Forever
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=A Fortaleza da Sgto. Marreta está sitiada. Determinado a sobrepujar suas defesas, Amon protege seus lacaios de dano e os ressuscita em novos corpos assim que morrem. Faça o que for preciso para deter o ataque deles.
+DocInfo/DescShort=Qualquer um
+DocInfo/Name=Sobrevivência do Mais Adaptado
+DocInfo/Screenshot01=

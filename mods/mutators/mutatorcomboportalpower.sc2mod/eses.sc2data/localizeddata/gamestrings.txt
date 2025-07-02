@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Las fuerzas de Amon están obsesionadas con destruir la fortaleza de la sargento Martillo. No dejan de llegar refuerzos del vacío cargados de un poder nuevo y terrible. Enfréntate a ellos y aplasta a los opresores del vacío.</n></n>AVISO: Esta combinación de mutaciones supone un reto especialmente complicado.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Energía de portal
+DocInfo/Screenshot01=

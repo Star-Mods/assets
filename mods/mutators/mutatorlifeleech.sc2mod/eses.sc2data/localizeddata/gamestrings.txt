@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Las unidades y estructuras enemigas roban vida o escudos cada vez que infligen daño.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Succionar vida

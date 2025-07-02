@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Diese Schlacht artet in einen regelrechten Zermürbungskrieg aus. Der Tempel wird belagert, der Mineralienabbau ist erschwert und Amons Armee ist ebenso hartnäckig wie fanatisch. Halten Sie die Stellung, solange Sie können und hoffen Sie auf das Beste.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Tempel der Schmerzen

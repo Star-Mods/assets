@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Любой
+DocInfo/Name=Адский товарняк
+DocInfo/Screenshot01=

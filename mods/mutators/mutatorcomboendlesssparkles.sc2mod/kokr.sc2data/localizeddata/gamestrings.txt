@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=끝없는 생기 /// Endless Sparkles

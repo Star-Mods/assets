@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Mutageni casuali si alternano periodicamente nel corso della partita.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Regole del caos

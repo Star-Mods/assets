@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Las fuerzas de Amón no se detendrán hasta que el terracino de Bel'shir sea suyo. Harán todo para evitar que llegues a tiempo a salvar a los recolectores de Stetmann. Muévete lo más rápido que puedas para alcanzar a tus enemigos y poner fin a su ataque. /// Amon’s forces are determined to claim Bel’shir’s terrazine for themselves. They will stop at nothing to prevent you from reaching Stetmann’s harvesters in time to save them. Move as fast as you can to catch up to your enemies and end their assault.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Lento pero seguro /// Slow and Steady
+DocInfo/Screenshot01=

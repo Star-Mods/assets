@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Le Vide se répand dans la réalité, déformant la trame même de l’espace-temps. Les conditions du champ de bataille changent de façon aléatoire et ne restent pas stables très longtemps. Les jeux sont faits, commandants. Rien ne va plus.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=La roue de l’infortune /// Wheel of Misfortune
+DocInfo/Screenshot01=

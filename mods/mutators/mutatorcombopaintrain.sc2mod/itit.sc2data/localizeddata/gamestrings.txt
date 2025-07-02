@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=La Divisione Moebius sta trasportando parte delle sue testate nucleari su Tarsonis. Il resto dell'arsenale è destinato alla vostra distruzione. Con un carico del genere, ogni proiettile vagante rappresenta un enorme rischio. Non stupitevi se le vostre forze esitano a lanciarsi nello scontro.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Situazione esplosiva
+DocInfo/Screenshot01=

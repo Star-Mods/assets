@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Cada vez que un enemigo heroico muere, las unidades de los jugadores que lo rodean dedican un momento a reflexionar sobre sus transgresiones y no pueden atacar ni utilizar habilidades.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Minuto de silencio

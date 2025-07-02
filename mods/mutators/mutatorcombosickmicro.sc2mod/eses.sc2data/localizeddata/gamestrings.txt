@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=El terrazine de Bel'Shir ha mejorado los virus oriundos del planeta. Una plaga mortal está afectando a todas las formas de vida y cada una de tus acciones tiene un precio. Supera esta prueba y álzate con la victoria.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Micro enfermiza
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Grupos de Minas Viúvas e Minas-aranha ficam enterradas pelo campo de batalha.
+DocInfo/DescShort=Qualquer um
+DocInfo/Name=Campo Minado

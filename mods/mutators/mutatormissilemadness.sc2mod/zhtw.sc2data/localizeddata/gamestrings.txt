@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=在這場任務當中，會有無數的飛彈瞄準你的建築進行轟炸，你需要不停地將它們擊落。 /// Endless missile bombardments target your structures and must be shot down throughout the mission.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=飛彈指揮官 /// Missile Command

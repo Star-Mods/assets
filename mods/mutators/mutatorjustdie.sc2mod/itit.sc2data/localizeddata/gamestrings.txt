@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Le unità nemiche sono resuscitate automaticamente alla morte.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Non morte

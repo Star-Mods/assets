@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Амун с легкостью жертвует своими слугами, чтобы приблизить вашу погибель. Его прислужники будут пытаться затянуть ваших бойцов под луч воздаяния, выжигающий улицы Августграда. Держите дистанцию и тщательно выбирайте места для контакта с противником, иначе ваши воины превратятся в пепел. /// Amon is not above sacrificing his own servants to ensure your demise. His purification beam strafes the streets of Augustgrad as his minions pull your forces into the path of destruction. Keep your distance and be careful where you engage the enemy, lest your armies be incinerated.
+DocInfo/DescShort=Любой
+DocInfo/Name=Мотыльки и пламя
+DocInfo/Screenshot01=

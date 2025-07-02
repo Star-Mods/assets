@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=El asedio del templo xel'naga se ha vuelto más intenso. Las creaciones más poderosas de Amón fortalecen a sus esbirros, que se estrellan contra tus murallas solo para volver a levantarse. Y como si fuera poco, también atacan tus fortificaciones desde lejos. Sobrevive al asalto y protege la seguridad del templo. /// The siege on the xel’naga temple has intensified. Amon’s strongest creations embolden their minions as they break themselves upon your ramparts, only to rise again. Not only that, but they also attack your fortifications from afar. Endure the assault and keep the temple secure.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Chau, chau, adiós /// Worn Out Welcome
+DocInfo/Screenshot01=

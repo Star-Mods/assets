@@ -1,0 +1,5 @@
+﻿DocInfo/DescLong=Amón ha lanzado una nueva ofensiva para proteger sus intereses en Kaldir. Ha puesto todos sus esfuerzos en preparar la mayor cantidad de fuerzas y bombardeos con misiles a su alcance, pero podrás sobrevivir a la masacre si planeas una estrategia sólida.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Lluvia de muerte
+DocInfo/Screenshot01=
+UserData/Mutators/KillKarma_Description=Las unidades y estructuras del jugador reciben más daño por cada enemigo que han matado.

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Einen Planeten einfach nur zu zerstören reicht Amon nicht. Er hat seine Streitkräfte mit enormer Macht ausgestattet, dank der sie unglaubliche Fähigkeiten gegen Sie entfesseln können. Selbst Amons Gebäude leisten aktiv Widerstand. Stellen Sie sich Amons Angriff entgegen und retten Sie Veridia Prime.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Machtfantasien
+DocInfo/Screenshot01=

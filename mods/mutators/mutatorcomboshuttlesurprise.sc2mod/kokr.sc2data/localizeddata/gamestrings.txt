@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=아몬은 당신을 쓰러트리기 위해 수단 방법을 가리지 않을 것입니다. 그의 하수인들은 죽으면서도 마지막까지 강력한 공격을 펼칩니다. 적을 처리할 땐 거리를 두지 않으면, 적과 함께 사라질 수도 있습니다. /// Amon will stop at nothing to destroy you. Even in death, his minions strike back at you with a final, devastating gambit. Keep your distance as you dispatch your foes, or you might join them in defeat.
+DocInfo/DescShort=아무
+DocInfo/Name=특별 배달 /// Special Delivery

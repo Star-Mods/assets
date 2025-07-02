@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Uma doença sinistra está se espalhando neste mundo isolado e sombrio. As forças de Amon reprojetaram as defesas dos mineiros para atacar seus exércitos em vez dos infectados. Enfrente a escuridão para que os sobreviventes possam escapar desse pesadelo e vivam a salvo do contágio.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Ossuário
+DocInfo/Screenshot01=

@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=어울림 /// Getting Along

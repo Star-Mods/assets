@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon liefert sich einen Zermürbungskrieg mit Ihnen. Ihre Streitkräfte sind erschöpft und selbst die einfachsten Aufgaben zehren Ressourcen auf. Zu allem Überfluss stehen Ihre Truppen unter ständigem Raketenbeschuss und der Abbau von Ressourcen kann manchmal schwierig sein. Halten Sie durch, sichern Sie die Schlösser – am Ende macht sich Ihre Hartnäckigkeit bezahlt.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Umsonst ist nur der Tod
+DocInfo/Screenshot01=

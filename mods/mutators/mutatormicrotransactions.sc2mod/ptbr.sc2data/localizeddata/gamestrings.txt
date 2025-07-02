@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Emitir comandos às suas unidades custa recursos com base no custo da unidade. /// Giving commands to your units costs resources based on the unit’s cost.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Microtransações /// Micro Transactions

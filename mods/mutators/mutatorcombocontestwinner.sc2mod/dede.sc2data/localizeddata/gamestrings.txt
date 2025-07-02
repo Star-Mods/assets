@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Wir sind stolz, die Siegermutation unseres ersten Mutation Creation Contests zu präsentieren, entwickelt und eingereicht von Saito. In dieser Herausforderung belagern Amons Truppen Augustgrad und werden von bösen Duplikaten der größten Helden von StarCraft unterstützt. Lassen Sie sich nicht einschüchtern und retten Sie die Stadt.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Sieger des Mutation Creation Contest

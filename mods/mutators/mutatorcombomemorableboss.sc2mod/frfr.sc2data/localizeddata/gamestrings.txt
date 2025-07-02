@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Figures mémorables
+DocInfo/Screenshot01=

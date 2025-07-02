@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=El caos reina en el rito del Rak'Shir. Los enemigos no están donde parecen estar a primera vista, y vuestras fuerzas van cayendo presa del miedo. Incluso vuestra propia perspectiva está confundida. Mantened la concentración el tiempo suficiente para que Ji'nara supere el desafío.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Confusión
+DocInfo/Screenshot01=

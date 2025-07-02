@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Cette cité est un endroit dangereux. Des assaillants rôdent dans l’ombre et les rues sont jonchées de pièges mortels. Même les bâtiments cherchent à vous abattre. Déplacez-vous rapidement mais prudemment, en surveillant toujours vos arrières.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Guérilla urbaine

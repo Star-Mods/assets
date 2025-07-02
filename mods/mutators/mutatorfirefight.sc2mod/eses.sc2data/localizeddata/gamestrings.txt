@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Las unidades enemigas prenden fuego al terreno al morir.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Tierra agostada

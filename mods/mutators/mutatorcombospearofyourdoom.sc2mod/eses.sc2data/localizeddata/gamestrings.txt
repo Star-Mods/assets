@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Los forjadores de fase bajo el yugo de Amon han construido una nueva arca espacial para destruir a los enemigos del Dios Oscuro desde su órbita. Resistid la ofensiva y tomad los cierres.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Lanza de destrucción

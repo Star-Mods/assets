@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Todas as estruturas inimigas atacam unidades inimigas próximas.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Sobrecarga de Fótons

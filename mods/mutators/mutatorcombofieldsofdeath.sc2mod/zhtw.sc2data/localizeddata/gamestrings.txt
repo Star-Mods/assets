@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=貝爾石到處都是地雷，而且只有你或你的隊友其中一人才能摧毀它們。你們必須同心協力，替斯特曼的採集艇清出一條通道。良好的溝通與同心協力是致勝關鍵。 /// Bel'Shir is littered with mines, and each one can only be destroyed by either you or your partner. You must work together in order to clear a path for Stetmann's bots. Communicate, coordinate, and conquer.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=步步驚魂 /// Field of Screams
+DocInfo/Screenshot01=

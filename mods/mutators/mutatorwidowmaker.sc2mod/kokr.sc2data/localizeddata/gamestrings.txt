@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=땅거미 지뢰와 거미 지뢰가 전장 곳곳에 다발로 매장되어 있습니다. /// Groups of Widow Mines and Spider Mines are buried throughout the battlefield.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=지뢰청소부 /// Minesweeper

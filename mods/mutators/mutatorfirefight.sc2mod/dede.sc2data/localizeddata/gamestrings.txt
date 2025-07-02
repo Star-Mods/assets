@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Gegnerische Einheiten setzen nach ihrem Tod die Umgebung in Brand.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Verbrannte Erde

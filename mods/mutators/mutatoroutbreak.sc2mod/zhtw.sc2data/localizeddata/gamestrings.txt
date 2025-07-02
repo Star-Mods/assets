@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=地圖上會不斷出現受感染的人類攻擊你。 /// Enemy Infested Terrans spawn continuously around the map.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=疫病爆發 /// Outbreak

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=I nemici esplodono alla morte, infliggendo danni alle unità alleate vicine.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Autodistruzione

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Augustogrado está en apuros. Los recursos están dispersos por las calles, y para recolectarlos, tus fuerzas deberán internarse en las minas que los esbirros de Amón han cavado por toda la ciudad. Combate el miedo y destruye las esquirlas del Vacío.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Minería de riesgo
+DocInfo/Screenshot01=

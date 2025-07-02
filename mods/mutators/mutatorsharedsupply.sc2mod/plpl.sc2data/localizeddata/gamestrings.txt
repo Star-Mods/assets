@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Dzielicie się zaopatrzeniem z sojusznikiem, a jednostki z obu waszych armii liczą się do limitu zaopatrzenia.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Wspólny budżet

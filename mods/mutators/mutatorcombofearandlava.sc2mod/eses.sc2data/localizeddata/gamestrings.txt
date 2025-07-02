@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Han rodeado a vuestras tropas y sus corazones laten con miedo. El calor de la lava, cada vez más alta, les hace entrar en pánico y rompen filas. Ahora sus vidas peligran aún más, pues se dirigen de cabeza a un mar de lava. Intentad resistir a todo este horror y recoged los cristales cuando descienda el nivel de lava.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Miedo y lava
+DocInfo/Screenshot01=

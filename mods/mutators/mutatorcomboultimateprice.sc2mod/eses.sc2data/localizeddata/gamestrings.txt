@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon os ha arrastrado a una guerra de desgaste. Vuestras fuerzas están exhaustas y hasta las tareas más simples drenan vuestros recursos. Llueven misiles del cielo y a veces puede resultar difícil recolectar minerales. Resistid, asegurad los cierres y todo habrá merecido la pena.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=El precio justo
+DocInfo/Screenshot01=

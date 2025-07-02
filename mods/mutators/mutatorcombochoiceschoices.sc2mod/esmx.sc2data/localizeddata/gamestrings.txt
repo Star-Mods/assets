@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Cualquiera
+DocInfo/Name=Difícil decidir /// Choices Choices

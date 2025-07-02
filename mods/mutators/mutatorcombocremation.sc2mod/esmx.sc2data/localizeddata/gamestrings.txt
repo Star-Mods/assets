@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amón ha convertido en armas a los infestados: cuando mueren, el suelo se prende fuego. Los Reanimadores del Vacío resucitan a los infestados sin remordimiento alguno. Resiste las llamas y protege las naves con tu vida.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Cremación
+DocInfo/Screenshot01=

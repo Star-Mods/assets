@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Unidades híbridas inimigas detonam uma Arma Nuclear ao morrer.
+DocInfo/DescShort=Qualquer um
+DocInfo/Name=Destruição Mutuamente Assegurada /// Mutually Assured Destruction

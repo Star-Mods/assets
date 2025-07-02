@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=L’heure est aux célébrations, et Amon ne rate jamais une occasion de se faire remarquer. Il projette de surcharger Ulnar et, pour couronner le tout, il a bardé ses propres serviteurs d’explosifs ! Faites bon usage des ressources qui vous sont envoyées et déjouez ses plans maléfiques.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Nouvel an ulnaire

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Com uma poderosa Sonda Laser à disposição, nada fica fora do alcance de Amon. Se ele puder ver você, ele vai golpear. Invista com tudo e acabe com ele. /// With a powerful laser drill at his disposal, nothing is beyond Amon's reach. If he can see you, he can hit you. Charge in, and wipe him out.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Primeiro Ataque /// First Strike

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Moduladores submissos a Amon construíram uma nova arca sideral para fazer chover destruição sobre os inimigos do Deus Sombrio de órbita. Aguente o massacre e capture as travas. /// Phase-smiths under Amon's thrall have constructed a new arkship to rain destruction upon the Dark God's foes from orbit. Withstand the onslaught, and seize the locks.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Lança da Ruína /// Spear of Your Doom

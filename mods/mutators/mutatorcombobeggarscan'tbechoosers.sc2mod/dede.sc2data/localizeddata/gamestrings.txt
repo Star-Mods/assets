@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Alle
+DocInfo/Name=Von Mineralien und Minen

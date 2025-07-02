@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=奧古斯格勒現正面臨嚴峻的局面。資源散落在街道上，你必須鼓起勇氣，擊退亞蒙部署在城市各處的部隊，才能撿拾這些資源。戰勝恐懼，勇敢面對，然後毀掉虛空晶體吧。 /// Augustgrad is in dire straits. Resources have been scattered throughout the streets, and in order to gather them, your forces will have to brave the mines that Amon's forces have deployed across the city. Fight through the fear and shatter the Void Shards.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=礦業維艱 /// Miner Concerns
+DocInfo/Screenshot01=

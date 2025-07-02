@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Creature senza forma si avvicinano alla base, trasformando tutte le unità e strutture che toccano in copie di se stesse.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Propagatori

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Come se Bel'Shir non avesse già problemi a sufficienza, è stato invaso da droidi assassini votati alla distruzione delle vostre armate. Inoltre, le vostre truppe sono particolarmente sentimentali nei confronti delle vittime di guerra. Per vincere, rimanete concentrati sugli estrattori.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Guerre dei droidi
+DocInfo/Screenshot01=

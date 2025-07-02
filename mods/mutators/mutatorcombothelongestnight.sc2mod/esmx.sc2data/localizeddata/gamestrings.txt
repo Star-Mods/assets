@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Cualquiera /// Any
+DocInfo/Name=La noche más larga /// The Longest Night

@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Manovre nelle tenebre /// What We Do in the Shadows

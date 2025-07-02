@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Do fal ataku dołączają jednostki bohaterskie o rosnącej sile.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Bohaterowie Burzy

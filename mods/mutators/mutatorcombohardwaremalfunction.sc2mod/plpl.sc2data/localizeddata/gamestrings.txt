@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Dowolny opis /// Any
+DocInfo/Name=Awaria sprzętu /// Hardware Malfunction

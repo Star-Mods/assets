@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=As forças de Amon são fanáticas quando se trata de derrubar a fortaleza da Sgt. Marreta. Reforços surgem do Grande Vazio, repletos de poder inédito e terrível. Iguale as forças deles e esmague os Devastadores do Vazio.</n></n>AVISO: Esta combinação de Mutadores é particularmente desafiadora.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Poder do Portal
+DocInfo/Screenshot01=

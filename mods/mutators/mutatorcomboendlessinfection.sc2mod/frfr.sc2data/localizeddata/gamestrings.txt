@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Contagion sans fin
+DocInfo/Screenshot01=

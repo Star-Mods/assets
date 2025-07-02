@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Poder Interior /// Inner Power
+DocInfo/Screenshot01=

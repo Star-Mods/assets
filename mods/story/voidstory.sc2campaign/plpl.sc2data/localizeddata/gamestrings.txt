@@ -1,0 +1,2274 @@
+﻿Achievement/Description/PAiur01_2=W misji „Za Aiur!” zabij kolosami 120 jednostek.
+ArmyCategory/Name/Aberration=Aberracja
+ArmyCategory/Name/Archon=Archont
+ArmyCategory/Name/Baneling=Tępiciel
+ArmyCategory/Name/BanelingHunter=Tępiciel
+ArmyCategory/Name/BanelingSplitter=Tępiciel
+ArmyCategory/Name/Banshee=Banshee
+ArmyCategory/Name/Battlecruiser=Krążownik
+ArmyCategory/Name/Bunker=Bunkier
+ArmyCategory/Name/Carrier=Lotniskowiec
+ArmyCategory/Name/Colossus=Kolos
+ArmyCategory/Name/CommandCenter=Centrum dowodzenia
+ArmyCategory/Name/DarkTemplar=Mroczny templariusz
+ArmyCategory/Name/Diamondback=Grzechotnik
+ArmyCategory/Name/Firebat=Wypalacz
+ArmyCategory/Name/Ghost=Duch
+ArmyCategory/Name/Goliath=Goliat
+ArmyCategory/Name/Hellion=Helion
+ArmyCategory/Name/HighTemplar=Wysoki templariusz
+ArmyCategory/Name/Hydralisk=Hydralisk
+ArmyCategory/Name/HydraliskImpaler=Hydralisk
+ArmyCategory/Name/HydraliskLurker=Hydralisk
+ArmyCategory/Name/Immortal=Nieśmiertelny
+ArmyCategory/Name/Infestor=Infektor
+ArmyCategory/Name/KhaydarinMonolith=Monolit khaydarinowy
+ArmyCategory/Name/Marauder=Maruder
+ArmyCategory/Name/Marine=Marine
+ArmyCategory/Name/Medic=Sanitariuszka
+ArmyCategory/Name/Medivac=Prom medyczny
+ArmyCategory/Name/MissileTurret=Wieżyczka przeciwlotnicza
+ArmyCategory/Name/Mutalisk=Mutalisk
+ArmyCategory/Name/MutaliskBroodlord=Mutalisk
+ArmyCategory/Name/MutaliskViper=Mutalisk
+ArmyCategory/Name/Phoenix=Feniks
+ArmyCategory/Name/PhotonCannon=Działo fotonowe
+ArmyCategory/Name/PsionicAmplifier=Wzmacniacz psioniczny
+ArmyCategory/Name/Reaper=Żniwiarz
+ArmyCategory/Name/Roach=Karakan
+ArmyCategory/Name/RoachCorpser=Karakan
+ArmyCategory/Name/RoachVile=Karakan
+ArmyCategory/Name/SCV=ERK
+ArmyCategory/Name/ScienceVessel=Statek naukowy
+ArmyCategory/Name/SensorTower=Wieża radarowa
+ArmyCategory/Name/Sentry=Wartownik
+ArmyCategory/Name/ShieldBattery=Generator osłon
+ArmyCategory/Name/SiegeTank=Czołg oblężniczy
+ArmyCategory/Name/Spectre=Widmo
+ArmyCategory/Name/SpineCrawler=Kręgowij
+ArmyCategory/Name/SporeCrawler=Pełzacz zarodnikowy
+ArmyCategory/Name/Stalker=Tropiciel
+ArmyCategory/Name/SwarmHost=Nosiciel roju
+ArmyCategory/Name/SwarmHostCarrion=Nosiciel roju
+ArmyCategory/Name/SwarmHostCreeper=Nosiciel roju
+ArmyCategory/Name/SwarmQueen=Królowa roju
+ArmyCategory/Name/Thor=Thor
+ArmyCategory/Name/Ultralisk=Ultralisk
+ArmyCategory/Name/UltraliskNoxious=Ultralisk
+ArmyCategory/Name/UltraliskTorrasque=Ultralisk
+ArmyCategory/Name/Viking=Wiking
+ArmyCategory/Name/VoidRay=Promień otchłani
+ArmyCategory/Name/Vulture=Sęp
+ArmyCategory/Name/WarpGate=Wrota przesyłowe
+ArmyCategory/Name/WarpPrism=Pryzmat nadprzestrzenny
+ArmyCategory/Name/Wraith=Zjawa
+ArmyCategory/Name/Zealot=Zelota
+ArmyCategory/Name/Zergling=Zergling
+ArmyCategory/Name/ZerglingRaptor=Zergling
+ArmyCategory/Name/ZerglingSwarmling=Zergling
+ArmyCategory/Title/Carrier=Duży okręt wojenny
+ArmyCategory/Title/Colossus=Robot oblężniczy
+ArmyCategory/Title/DarkTemplar=Wojownik z maskowaniem
+ArmyCategory/Title/HighTemplar=Wojownik psioniczny
+ArmyCategory/Title/Immortal=Robot szturmowy
+ArmyCategory/Title/Phoenix=Myśliwiec kosmiczny
+ArmyCategory/Title/Sentry=Robot wsparcia
+ArmyCategory/Title/Stalker=Wojownik walczący na dystans
+ArmyCategory/Title/VoidRay=Okręt szturmowy
+ArmyCategory/Title/Zealot=Wojownik walczący w zwarciu
+ArmyUnit/Description/CarrierAiur=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Naprawia pobliskie sojusznicze jednostki mechaniczne,<li/>Przechwytywacze atakują jednostki naziemne i powietrzne.</ul>
+ArmyUnit/Description/CarrierPurifier=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Zadaje ciężkie obrażenia z dużej odległości,<li/>Dezintegracja zadaje obrażenia rozłożone w czasie.</ul>
+ArmyUnit/Description/CarrierTaldarim=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Jednocześnie można aktywować tylko jeden statek-matkę,<li/>Czarne dziury unieruchamiają i ogłuszają wrogie jednostki,<li/>Lance termiczne zadają obrażenia wrogim jednostkom naziemnym w linii prostej,<li/>Mignięcie teleportuje statek-matkę w pobliskie miejsce.</ul>
+ArmyUnit/Description/ColossusAiur=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Automatycznie wytwarza skarabeusze, które eksplodują i zadają obrażenia na obszarze wokół celów,<li/>Zadają dodatkowe obrażenia budowlom.</ul>
+ArmyUnit/Description/ColossusPurifier=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Potrafi pokonywać klify,<li/>Ataki podpalają ziemię i zadają jednostkom naziemnym obrażenia z upływem czasu.</ul>
+ArmyUnit/Description/ColossusTaldarim=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Potrafi pokonywać klify,<li/>Atakuje pojedyncze cele i zadaje im duże obrażenia,<li/>Zadaje dodatkowe obrażenia budowlom,<li/>Atakuje jednostki naziemne i powietrzne.</ul>
+ArmyUnit/Description/DarkTemplarAiur=<ul indent="2" path="@UI/LotV_ListBullet"><li/>W chwili śmierci powraca do mrocznej świątyni,<li/>Dysponuje stałym maskowaniem.</ul>
+ArmyUnit/Description/DarkTemplarShakuras=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Furia cieni pozwala szybko atakować kilka wrogich jednostek naziemnych jednocześnie,<li/>Dysponuje stałym maskowaniem.</ul>
+ArmyUnit/Description/DarkTemplarTaldarim=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Neutralizuje wrogie jednostki i budowle,<li/>Dysponuje stałym maskowaniem.</ul>
+ArmyUnit/Description/HighTemplarAiur=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Zabiera energię wrogim jednostkom,<li/>Burza psioniczna ma duży promień działania i przywraca osłony jednostkom sojuszniczym,<li/>Dwóch wysokich templariuszy może scalić się w archonta.</ul>
+ArmyUnit/Description/HighTemplarShakuras=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Potrafi na stałe przejmować kontrolę nad wrogimi jednostkami,<li/>Zmusza wrogie jednostki, aby atakowały się nawzajem,<li/>Atakuje jednostki naziemne i powietrzne.</ul>
+ArmyUnit/Description/HighTemplarTaldarim=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Kula psioniczna zadaje obrażenia wrogom znajdującym się na jej drodze,<li/>Wybuch umysłu zadaje wrogom duże obrażenia,<li/>Poświęca życie jednostki sojuszniczej i zamienia je na energię.</ul>
+ArmyUnit/Description/ImmortalAiur=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Tworzy barierę, która absorbuje dużą ilość obrażeń,<li/>Zadaje dodatkowe obrażenia jednostkom opancerzonym.</ul>
+ArmyUnit/Description/ImmortalShakuras=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Działo cieni zadaje duże obrażenia wrogim jednostkom naziemnym lub powietrznym,<li/>Zadaje dodatkowe obrażenia jednostkom opancerzonym.</ul>
+ArmyUnit/Description/ImmortalTaldarim=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Zadaje obrażenia obszarowe wrogim jednostkom naziemnym,<li/>Zadaje dodatkowe obrażenia jednostkom opancerzonym.</ul>
+ArmyUnit/Description/PhoenixAiur=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Wiązka grawitonowa obejmuje dwie wrogie jednostki jednocześnie,<li/>Zadaje dodatkowe obrażenia lekkim jednostkom.</ul>
+ArmyUnit/Description/PhoenixPurifier=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Wiązka grawitonowa unieruchamia naziemne jednostki wroga,<li/>Przyjmuje postać niematerialną, aby uniknąć obrażeń,<li/>Zadaje dodatkowe obrażenia lekkim jednostkom.</ul>
+ArmyUnit/Description/PhoenixShakuras=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Nie pozwala wrogom atakować,<li/>Zadaje dodatkowe obrażenia lekkim jednostkom,<li/>Ataki zadają obrażenia obszarowe jednostkom powietrznym.</ul>
+ArmyUnit/Description/SentryAiur=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Przywraca osłony dwóm jednostkom sojuszniczym jednocześnie,<li/>Zmniejsza obrażenia otrzymywane przez pobliskie jednostki sojusznicze.</ul>
+ArmyUnit/Description/SentryPurifier=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Zwiększa siłę ataku oraz szybkość ruchu jednostek sojuszniczych,<li/>Transformuje się, aby wytwarzać pole energetyczne.</ul>
+ArmyUnit/Description/SentryShakuras=Nie wykorzystane.
+ArmyUnit/Description/SentryTalDarim=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Zwiększa obrażenia zadawane wrogom,<li/>Zwiększa zasięg ataku sojuszników,<li/>Blokuje ruch jednostek naziemnych polem siłowym,<li/>Nie może atakować.</ul>
+ArmyUnit/Description/StalkerAiur=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Zwiększone zadawane obrażenia, zasięg ataku i ilość punktów życia,<li/>Zadaje dodatkowe obrażenia jednostkom opancerzonym.</ul>
+ArmyUnit/Description/StalkerPurifier=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Tworzy cień, który zwiększa obrażenia otrzymywane przez wrogów, których dotknie,<li/>Po 10 sek. teleportuje się do lokalizacji cienia,<li/>Zadaje dodatkowe obrażenia lekkim jednostkom.</ul>
+ArmyUnit/Description/StalkerShakuras=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Przez krótki czas po teleportacji regeneruje osłony,<li/>Zadaje dodatkowe obrażenia jednostkom opancerzonym.</ul>
+ArmyUnit/Description/VoidRayAiur=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Maskuje pobliskie jednostki sojusznicze,<li/>Umieszcza wrogie jednostki w zastoju,<li/>Teleportuje sojusznicze jednostki do swojej lokalizacji.</ul>
+ArmyUnit/Description/VoidRayShakuras=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Atakuje z dużej odległości, z czasem zadając coraz większe obrażenia,<li/>Zadaje dodatkowe obrażenia jednostkom opancerzonym.</ul>
+ArmyUnit/Description/VoidRayTaldarim=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Podczas ataku z czasem zaczyna zadawać obrażenia dodatkowym celom,<li/>Zadaje dodatkowe obrażenia jednostkom opancerzonym.</ul>
+ArmyUnit/Description/ZealotAiur=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Szarżuje i prowokuje wrogie jednostki naziemne,<li/>Tornado zadaje obrażenia wszystkim pobliskim jednostkom naziemnym.</ul>
+ArmyUnit/Description/ZealotPurifier=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Szarżuje i prowokuje wrogie jednostki naziemne,<li/>Ożywa po otrzymaniu śmiertelnych obrażeń.</ul>
+ArmyUnit/Description/ZealotShakuras=<ul indent="2" path="@UI/LotV_ListBullet"><li/>Szarżuje między jednostkami sojuszniczymi i prowokuje wrogie jednostki naziemne,<li/>Na krótko ogłusza wrogie jednostki naziemne.</ul>
+ArmyUnit/Name/CarrierAiur=Lotniskowiec
+ArmyUnit/Name/CarrierPurifier=Orkan
+ArmyUnit/Name/CarrierTaldarim=Statek-matka
+ArmyUnit/Name/ColossusAiur=Rozrywacz
+ArmyUnit/Name/ColossusPurifier=Kolos
+ArmyUnit/Name/ColossusTaldarim=Wędrowiec otchłani
+ArmyUnit/Name/DarkTemplarAiur=Mściciel
+ArmyUnit/Name/DarkTemplarShakuras=Mroczny templariusz
+ArmyUnit/Name/DarkTemplarTaldarim=Łowca krwi
+ArmyUnit/Name/HighTemplarAiur=Wysoki templariusz
+ArmyUnit/Name/HighTemplarShakuras=Mroczny archont
+ArmyUnit/Name/HighTemplarTaldarim=Wyniesiony
+ArmyUnit/Name/ImmortalAiur=Nieśmiertelny
+ArmyUnit/Name/ImmortalShakuras=Anihilator
+ArmyUnit/Name/ImmortalTaldarim=Awangardier
+ArmyUnit/Name/PhoenixAiur=Feniks
+ArmyUnit/Name/PhoenixPurifier=Miraż
+ArmyUnit/Name/PhoenixShakuras=Korsarz
+ArmyUnit/Name/SentryAiur=Wartownik
+ArmyUnit/Name/SentryPurifier=Energetyzator
+ArmyUnit/Name/SentryShakuras=Manipulator
+ArmyUnit/Name/SentryTalDarim=Chaotyk
+ArmyUnit/Name/StalkerAdeptPurifier=Adept
+ArmyUnit/Name/StalkerAiur=Dragon
+ArmyUnit/Name/StalkerPurifier=Adept
+ArmyUnit/Name/StalkerShakuras=Tropiciel
+ArmyUnit/Name/VoidRayAiur=Arbiter
+ArmyUnit/Name/VoidRayShakuras=Promień otchłani
+ArmyUnit/Name/VoidRayTaldarim=Niszczyciel
+ArmyUnit/Name/ZealotAiur=Zelota
+ArmyUnit/Name/ZealotPurifier=Strażnik
+ArmyUnit/Name/ZealotShakuras=Centurion
+Button/Tooltip/Barracks=Placówka szkoleniowa piechoty.<n/><n/><c val="ffff8a">Udostępnia:</c><n/>– marines,<n/>– żniwiarzy,<n/>– bunkry (poprzez ERK).
+Button/Tooltip/CommandCenter=Budowla główna. Wykorzystywana do gromadzenia zbieranych surowców. Posiada zdolność wzlotu i może być ulepszona do fortecy planetarnej.<n/><n/><c val="ffff8a">Udostępnia:</c><n/> - ERK.
+Button/Tooltip/EngineeringBay=Umożliwia ulepszanie piechoty terran. <n/><n/><c val="ffff8a">Udostępnia:</c><n/>– wieżyczki przeciwlotnicze (poprzez ERK),<n/>– wieże radarowe (poprzez ERK),<n/>– fortece planetarne z centrów dowodzenia.
+Button/Tooltip/FusionCore=<c val="ffff8a">Udostępnia:</c><n/>– krążowniki w porcie gwiezdnym.
+Champions/Alarak/UpgradeTier1=Poziom 1
+Champions/Alarak/UpgradeTier2=Poziom 2
+Champions/Alarak/UpgradeTier3=Poziom 3
+Champions/Alarak/UpgradeTier4=Poziom 4
+Champions/Artanis/UpgradeTier1=Ostrza psioniczne
+Champions/Artanis/UpgradeTier2=Naramienniki
+Champions/Artanis/UpgradeTier3=Pancerz
+Champions/Artanis/UpgradeTier4=Matyca dowodzenia
+Champions/Fenix/UpgradeTier1=Poziom 1
+Champions/Fenix/UpgradeTier2=Poziom 2
+Champions/Fenix/UpgradeTier3=Poziom 3
+Champions/Fenix/UpgradeTier4=Poziom 4
+Champions/Karax/UpgradeTier1=Poziom 1
+Champions/Karax/UpgradeTier2=Poziom 2
+Champions/Karax/UpgradeTier3=Poziom 3
+Champions/Karax/UpgradeTier4=Poziom 4
+Champions/Mohandar/UpgradeTier1=Ostrza energetyczne
+Champions/Mohandar/UpgradeTier2=Mroczna energia
+Champions/Mohandar/UpgradeTier3=Pas przybornikowy
+Champions/Mohandar/UpgradeTier4=Ozdoby cieniowe
+ConversationState/Cameras/CloseUp=Close Up
+ConversationState/Cameras/CloseUp02=Close Up 02
+ConversationState/Cameras/CloseUp02Listener=Close Up 02
+ConversationState/Cameras/CloseUp02Listener/EditorSuffix=(Listener)
+ConversationState/Cameras/CloseUpListener=Close Up
+ConversationState/Cameras/CloseUpListener/EditorSuffix=(Listener)
+ConversationState/Cameras/CustomCamera01=Kamera niestandardowa 01
+ConversationState/Cameras/CustomCamera01Listener=Kamera niestandardowa 01
+ConversationState/Cameras/CustomCamera01Listener/EditorSuffix=(Listener)
+ConversationState/Cameras/CustomCamera02=Kamera niestandardowa 02
+ConversationState/Cameras/CustomCamera02Listener=Kamera niestandardowa 02
+ConversationState/Cameras/CustomCamera02Listener/EditorSuffix=(Listener)
+ConversationState/Cameras/CustomCamera03=Kamera niestandardowa 03
+ConversationState/Cameras/CustomCamera03Listener=Kamera niestandardowa 03
+ConversationState/Cameras/CustomCamera03Listener/EditorSuffix=(Listener)
+ConversationState/Cameras/CustomCamera04=Kamera niestandardowa 04
+ConversationState/Cameras/CustomCamera04Listener=Kamera niestandardowa 04
+ConversationState/Cameras/CustomCamera04Listener/EditorSuffix=(Listener)
+ConversationState/Cameras/ExtremeCloseup=Extreme Closeup
+ConversationState/Cameras/ExtremeCloseupListener=Extreme Closeup
+ConversationState/Cameras/ExtremeCloseupListener/EditorSuffix=(Listener)
+ConversationState/Cameras/Far=Far
+ConversationState/Cameras/Far02=Far 02
+ConversationState/Cameras/Far02Listener=Far 02
+ConversationState/Cameras/Far02Listener/EditorSuffix=(Listener)
+ConversationState/Cameras/FarListener=Far
+ConversationState/Cameras/FarListener/EditorSuffix=(Listener)
+ConversationState/Cameras/Medium=Medium
+ConversationState/Cameras/Medium02=Medium 02
+ConversationState/Cameras/Medium02Listener=Medium 02
+ConversationState/Cameras/Medium02Listener/EditorSuffix=(Listener)
+ConversationState/Cameras/MediumListener=Medium
+ConversationState/Cameras/MediumListener/EditorSuffix=(Listener)
+ConversationState/Cameras/Shoulder=Shoulder
+ConversationState/Cameras/ShoulderListener=Shoulder
+ConversationState/Cameras/ShoulderListener/EditorSuffix=(Listener)
+ConversationState/Cameras/TwoShot=Dwa ujęcia
+ConversationState/CampaignText/BottomBarArmyTooltip=Armia – podpowiedź
+ConversationState/CampaignText/BottomBarArmyTooltip/EditorPrefix=Dolny pasek –
+ConversationState/CampaignText/BottomBarArmyTooltip/Info/Value=Dostosuj swoją armię.
+ConversationState/CampaignText/BottomBarBridgeTooltip=Mostek – podpowiedź
+ConversationState/CampaignText/BottomBarBridgeTooltip/EditorPrefix=Dolny pasek –
+ConversationState/CampaignText/BottomBarBridgeTooltip/Info/Value=Zapoznaj się z następną misją lub udaj się w nowe miejsce.
+ConversationState/CampaignText/BottomBarShipTooltip=Okręt – podpowiedź
+ConversationState/CampaignText/BottomBarShipTooltip/EditorPrefix=Dolny pasek –
+ConversationState/CampaignText/BottomBarShipTooltip/Info/Value=Modyfikuj systemy bojowe Włóczni Aduna.
+ConversationState/MissionPanelTooltips/Close_Button/Info/Description=Wróć na mostek.
+ConversationState/MissionPanelTooltips/Play_Button/Info/Description=Odtwórz omówienie misji.
+ConversationState/MissionPanelTooltips/Quit_Button/Info/Description=Zakończ kampanię.
+ConversationState/MissionPanelTooltips/Stop_Button/Info/Description=Zatrzymaj omówienie misji. /// Stop mission overview.
+ConversationState/PlanetPanelTooltips/Arrow_Button/Info/Description=Przeglądaj dostępne misje. /// Cycle through available missions.
+ConversationState/PlanetPanelTooltips/Bonus_Opportunities/Info/Description=Dodatkowe kredyty dostępne w wybranej misji. /// Bonus credits available in selected mission.
+ConversationState/PlanetPanelTooltips/Close_Button/Info/Description=Powrót do archiwów.
+ConversationState/PlanetPanelTooltips/Difficulty_Pulldown/Info/Description=Wybierz poziom trudności misji.
+ConversationState/PlanetPanelTooltips/Employer_Image/Info/Description=Osoba zlecająca wybraną misję.
+ConversationState/PlanetPanelTooltips/Launch_Button/Info/Description=Uruchom wybraną misję. /// Launch selected mission.
+ConversationState/PlanetPanelTooltips/Mission_Objective/Info/Description=Cel wybranej misji. /// Goal for selected mission.
+ConversationState/PlanetPanelTooltips/Play_Button/Info/Description=Odtwarza odprawę misji. /// Plays mission introduction.
+ConversationState/PlanetPanelTooltips/Research_Opportunities/Info/Description=Punkty badań do zdobycia w wybranej misji. /// Research points available during selected mission.
+ConversationState/PlanetPanelTooltips/Reward/Info/Description=Nagroda za ukończenie wybranej misji. /// Reward for completing selected mission.
+ConversationState/PlanetPanelTooltips/Stop_Button/Info/Description=Zatrzymuje odprawę misji. /// Stops mission introduction.
+ConversationState/PlanetPanelTooltips/TechImage/Info/Description=
+ConversationState/StoryModeText/MasterArchivesIntroText=Tekst wprowadzający archiwów głównych
+ConversationState/StoryModeText/MasterArchivesIntroText/Info/Description=W archiwach głównych możesz:<n/><n/><ul indent="2" text="•"><li>ponownie rozgrywać misje wykorzystując optymalne jednostki i frakcje,</li><li>zmieniać zdolności Włóczni Aduna i swoją armię przed misjami,</li><li>kończyć zadania dodatkowe,</li><li>wykorzystywać potęgę swojej armii, aby kończyć misje na wyższych poziomach trudności lub zdobywać osiągnięcia.</li><n/><n/>W archiwach głównych gromadzone są najlepsze wyniki i czasy wszystkich rozegranych przez ciebie misji. Jeśli rozpoczniesz nową kampanię, nie stracisz dostępu do archiwów.
+ConversationState/StoryModeText/MasterArchivesIntroText2=2 tekst wprowadzający archiwów głównych
+ConversationState/StoryModeText/MasterArchivesIntroText2/Info/Description=Wybierz misję do rozpoczęcia...
+ConversationState/StoryModeText/MasterArchivesIntroTitle=Tytuł wprowadzający archiwów głównych
+ConversationState/StoryModeText/MasterArchivesIntroTitle/Info/Description=Archiwa główne
+ConversationState/StoryModeText/SpecialText1=SpecjałTekst1
+ConversationState/StoryModeText/SpecialText1/Info/Description=Aktywowano doskonały klejnot
+ConversationState/StoryModeText/SpecialText2=SpecjałTekst2
+ConversationState/StoryModeText/SpecialText2/Info/Description=Aktywowano doskonały pylon
+Hero/Name/Alarak=Alarak
+Hero/Name/Artanis=Artanis
+Hero/Name/Fenix=Fenix
+Hero/Name/Karax=Karax
+Hero/Name/Mohandar=Vorazun
+Location/Name/AiurA=Aiur
+Location/Name/AiurB=Aiur
+Location/Name/EpilogueArc=Otchłań
+Location/Name/Korhal=Korhal
+Location/Name/Moebius=Revanskar
+Location/Name/PurifierA=Glacius
+Location/Name/PurifierB=Endion
+Location/Name/Shakuras=Shakuras
+Location/Name/Taldarim=Slayn
+Location/Name/Ulnar=Ulnar
+Map/ContactName/PAiur02=Artanis<n/>Hierarcha
+Map/ContactName/PAiur03=Karax<n/>Fazmator
+Map/ContactName/PAiur04=Rohana<n/>Doradczyni
+Map/ContactName/PAiur05=Rohana<n/>Doradczyni
+Map/ContactName/PAiur06=Artanis<n/>Hierarcha
+Map/ContactName/PKorhal01=
+Map/ContactName/PKorhal02=Istota Raynor<n/>Dowódca
+Map/ContactName/PMoebius01=Karax<n/>Fazmator
+Map/ContactName/PPurifier01=Karax<n/>Fazmator
+Map/ContactName/PPurifier02=
+Map/ContactName/PPurifier03=Fenix<n/>Wojownik
+Map/ContactName/PShadow01=Karax<n/>Fazmator
+Map/ContactName/PShadow02=Karax<n/>Fazmator
+Map/ContactName/PShakuras01=Vorazun<n/>Matriarchini
+Map/ContactName/PShakuras02=Vorazun<n/>Matriarchini
+Map/ContactName/PTaldarim01=Alarak<n/>Pierwszy Wyniesiony
+Map/ContactName/PTaldarim02=Alarak<n/>(prawie)<n/>Wielki Wódz
+Map/ContactName/PUlnar01=Artanis<n/>Hierarcha
+Map/ContactName/PUlnar02=Vorazun<n/>Matriarchini
+Map/ContactName/PUlnar03=Alarak<n/>Pierwszy Wyniesiony
+Map/ContactName/SC2Epilogue02=Artanis
+Map/ContactTitle/PAiur02=Protos<n/>Templariusze
+Map/ContactTitle/PAiur03=Protos<n/>Khalaita
+Map/ContactTitle/PAiur04=Rohana<n/>Doradczyni rady wojennej<n/>Templariusze
+Map/ContactTitle/PAiur05=Rohana<n/>Doradczyni rady wojennej<n/>Templariusze
+Map/ContactTitle/PAiur06=Karax<n/>Fazmator<n/>Templariusze
+Map/ContactTitle/PKorhal01=James Raynor<n/>Dowódca<n/>Dominium Terran
+Map/ContactTitle/PKorhal02=James Raynor<n/>Dowódca<n/>Dominium Terran
+Map/ContactTitle/PMoebius01=Artanis<n/>Hierarcha<n/>Templariusze
+Map/ContactTitle/PPurifier01=Karax<n/>Fazmator<n/>Khalaici
+Map/ContactTitle/PPurifier02=Fenix<n/>Prototyp<n/>Czyściciele
+Map/ContactTitle/PPurifier03=Fenix<n/>Prototyp<n/>Czyściciele
+Map/ContactTitle/PShadow01=Karax<n/>Fazmator<n/>Khalaici
+Map/ContactTitle/PShadow02=Protos<n/>Templariusze
+Map/ContactTitle/PShakuras01=Vorazun<n/>Matriarchini<n/>Nerazimowie
+Map/ContactTitle/PShakuras02=Vorazun<n/>Matriarchini<n/>Nerazimowie
+Map/ContactTitle/PTaldarim01=Alarak<n/>Pierwszy Wyniesiony<n/>Tal'darimowie
+Map/ContactTitle/PTaldarim02=Alarak<n/>(prawie)<n/>Wielki Wódz<n/>Tal'darimowie
+Map/ContactTitle/PUlnar01=Rohana<n/>Wielka Sukcesorka<n/>Templariusze
+Map/ContactTitle/PUlnar02=Vorazun<n/>Matriarchini<n/>Nerazimowie
+Map/ContactTitle/PUlnar03=Alarak<n/>Pierwszy Wyniesiony<n/>Tal'darimowie
+Map/LoadingHelp/PAiur01=Zadania w misji wyświetlone są w lewym górnym rogu ekranu. Aby ukończyć misję, musisz wykonać wszystkie główne zadania.
+Map/LoadingHelp/PAiur02=Przy każdym skupisku minerałów lub gejzerze z wespanem mogą pracować maksymalnie 3 próbniki. Odpowiednia liczba jednostek robotniczych jest kluczem do stworzenia potężnej armii.
+Map/LoadingHelp/PAiur03=Broń swojej bazy działami fotonowymi. Jeśli zostaną uszkodzone, użyj generatorów osłon, aby przywrócić osłony.
+Map/LoadingHelp/PAiur04=Możesz skorzystać z klawiszy szybkiego dostępu do zdolności protoskich bohaterów.<n/>Dwie aktywne zdolności są przypisane do klawiszy „<c val="ffff00"><k val="ArtanisVoid,ArtanisLightningDash,2,0"/></c>” i „<c val="ffff00"><k val="ArtanisVoid,ArtanisAstralWind,2,2"/></c>”.
+Map/LoadingHelp/PAiur05=Twoja armia jest ci posłuszna aż do śmierci. Miej oko na swoje jednostki, aby nie ginęły bez potrzeby.
+Map/LoadingHelp/PAiur06=Najsilniejsze armie wykorzystują kombinację różnych rodzajów jednostek, które uzupełniają się nawzajem.
+Map/LoadingHelp/PKorhal01=Twoje postępy są automatycznie zapisywane w kluczowych momentach. Jeśli napotkasz trudności, możesz wczytać zapisaną grę i spróbować innej strategii.
+Map/LoadingHelp/PKorhal02=Twoi terrańscy sojusznicy wspomogą cię w tej bitwie. Zaatakuj wraz z nimi i odzyskaj Ogniwo.
+Map/LoadingHelp/PMoebius01=Liczba surowców w twojej lokalizacji początkowej jest ograniczona. Aby znaleźć ich więcej, musisz prowadzić eksplorację mapy.
+Map/LoadingHelp/PPurifier01=Broń rampy prowadzącej do twojej bazy działami fotonowymi. To najlepsze miejsce do odpierania ataków wroga.
+Map/LoadingHelp/PPurifier02=Niektóre jednostki mogą atakować kilka celów jednocześnie, dzięki czemu są skuteczne w walce z dużymi grupami wrogów, szczególnie zerglingów.
+Map/LoadingHelp/PPurifier03=Nie musisz niszczyć wszystkich przeciwników, aby ukończyć misję. Skup się na najważniejszych celach.
+Map/LoadingHelp/PShakuras01=Kończenie zadań dodatkowych pozwoli ci ulepszać Włócznię Aduna przed kolejnymi starciami.
+Map/LoadingHelp/PShakuras02=Ekspansja na teren z nowymi surowcami pozwoli ci przyspieszyć tempo produkcji jednostek i stworzyć silniejszą obronę.
+Map/LoadingHelp/PTaldarim01=Tal'darimowie to fanatyczni wyznawcy fałszywego boga, Amona. Wyślą do ataku wszystkie swoje siły, aby cię powstrzymać.
+Map/LoadingHelp/PTaldarim02=Do wykonania zadania dodatkowego konieczne może okazać się podzielenie armii.
+Map/LoadingHelp/PUlnar01=Wrota przesyłowe mogą natychmiast uzupełnić lub wzmocnić twoją armię w dowolnym miejscu, w którym znajduje się pylon. Taktyka ta jest przydatna zarówno podczas obrony, jak i ataku.
+Map/LoadingHelp/PUlnar02=Jeśli wybierzesz wiele typów jednostek, możesz szybko przełączać między nimi naciskając klawisz „<c val="ffff00"><k val="SubgroupNext"/></c>”.
+Map/LoadingHelp/PUlnar03=Hybrydy posiadają najlepsze cechy zergów i protosów. Nie należy lekceważyć ich siły fizycznej i psionicznej.
+Map/LoadingHelp/SC2Epilogue01=Protosi doskonale radzą sobie podczas natarć na silnie bronione pozycje i przełamywania oporu. Bądź przednią strażą swoich sojuszników.
+Map/LoadingHelp/SC2Epilogue02=Terranie najlepiej radzą sobie z odpieraniem ataków przeważających sił wroga. Skuteczne wykorzystanie ich budowli obronnych zapewni ci przetrwanie.
+Map/LoadingHelp/SC2Epilogue03=Amon nie podda się bez walki. Przygotuj się do ostatecznej bitwy.
+Map/LoadingHelpAlternate/PKorhal01=Kończenie zadań dodatkowych pozwoli ci zdobyć więcej solarytu, który można wykorzystać do wzmocnienia Włóczni Aduna.
+Map/LoadingHelpAlternate/PShakuras01=Twoje postępy są automatycznie zapisywane w kluczowych momentach. Jeśli napotkasz trudności, możesz wczytać zapisaną grę i obrać inną strategię.
+Map/LoadingHelpRestart/PAiur01=Jeśli wydasz jednostkom rozkaz zaatakowania określonego miejsca, będą walczyć ze wszystkimi wrogami napotkanymi po drodze. Nazywa się to ruchem z atakiem.
+Map/LoadingHelpRestart/PAiur02=Możesz przyzwać dodatkowe bramy, aby szkolić kilka jednostek armii jednocześnie.
+Map/LoadingHelpRestart/PAiur03=Możesz wykorzystać zdolność zagięcia czasoprzestrzeni nexusa na bramach, aby przyspieszyć szkolenie twojej armii.
+Map/LoadingHelpRestart/PAiur04=Twoi bohaterowie muszą przetrwać, aby wykonać swoją misję. Zwracaj baczną uwagę na ich lokalizację na polu walki.
+Map/LoadingHelpRestart/PAiur05=Atak na odłamek otchłani szybko wyniszczy twoje oddziały. Pamiętaj o przesłaniu dodatkowych jednostek, gdy twoi wojownicy polegną w walce.
+Map/LoadingHelpRestart/PAiur06=Twoi sojusznicy będą bronić świątyni, dopóki ich bazy nie zostaną zniszczone, zapewnij im więc obronę.
+Map/LoadingHelpRestart/PKorhal01=Zabezpieczając kolejne stabilizatory platformy spowolnisz proces spadania Podniebnej Tarczy i zyskasz więcej czasu.
+Map/LoadingHelpRestart/PKorhal02=Twoi terrańscy sojusznicy będą bezbronni podczas występowania zakłóceń. Musisz ich bronić przez ten czas.
+Map/LoadingHelpRestart/PMoebius01=Lotniskowce mogą przeprowadzać ataki z dużej odległości. Trzymaj je z dala od sił wroga, aby uniknąć zniszczeń.
+Map/LoadingHelpRestart/PPurifier01=Na późniejszych etapach gry możesz otworzyć inne, krótsze drogi dla twoich posiłków. Znajdź i wykorzystaj te przejścia.
+Map/LoadingHelpRestart/PPurifier02=Megalit będzie bezpieczny podczas wyłączania blokad Cybrosu. Wykorzystaj ten czas na wzmocnienie wojsk lub oczyszczenie drogi do kolejnej blokady.
+Map/LoadingHelpRestart/PPurifier03=Szukaj przewodów zasilających wychodzących z komór zastoju czyścicieli. Doprowadzą cię do obwodów nicości.
+Map/LoadingHelpRestart/PShakuras01=Mroczni templariusze nie mogą zostać zaatakowani, jeśli wróg nie posiada w pobliżu żadnego wykrywacza – na przykład pełzacza zarodnikowego lub nadzorcy.
+Map/LoadingHelpRestart/PShakuras02=Monolity khaydarinowe są mniej skuteczne przeciwko grupom niewielkich przeciwników. Uzupełnij obronę działami fotonowymi i generatorami osłon.
+Map/LoadingHelpRestart/PTaldarim01=Kiedy mgła się podniesie, twoja baza będzie nieustannie atakowana. Przygotuj się do jej obrony.
+Map/LoadingHelpRestart/PTaldarim02=Nie zostawiaj Alaraka zbyt długo bez wsparcia. W przeciwnym razie zostanie zepchnięty.
+Map/LoadingHelpRestart/PUlnar01=Feniksy mogą błyskawicznie przemierzać mapę i są przydatne zarówno w ataku, jak i w obronie.
+Map/LoadingHelpRestart/PUlnar02=Artanis może leczyć zarówno siebie, jak i Kerrigan. Wykorzystuj tę umiejętność często, aby utrzymać oboje przy życiu.
+Map/LoadingHelpRestart/PUlnar03=Zaczekaj aż Kerrigan ruszy do ataku, zanim wyślesz swoje siły do walki. Wasze armie będą skuteczniejsze, jeśli zaatakują jednocześnie.
+Map/LoadingHelpRestart/SC2Epilogue01=Narud zrobi wszystko, co w jego mocy, aby zniszczyć twoich sojuszników. Pamiętaj, aby im pomóc, kiedy zostaną zaatakowani.
+Map/LoadingHelpRestart/SC2Epilogue02=Kerrigan może atakować i niszczyć przeciwników. Choć spowolni to pozyskiwanie przez nią mocy, to przyda się w walce przeciwko groźnym celom.
+Map/LoadingHelpRestart/SC2Epilogue03=Amon będzie stopniowo niszczył obszary pola walki, w tym twoją bazę. Ekspansja w nowe miejsca z surowcami pozwoli ci zapewnić sobie przetrwanie.
+Map/Name/EpilogueStory01=EpilogOpowieść01
+Map/Name/PAiur01=Za Aiur!
+Map/Name/PAiur02=Rosnący cień
+Map/Name/PAiur03=Włócznia Aduna
+Map/Name/PAiur04=Powrót templariuszy
+Map/Name/PAiur05=Nosiciel
+Map/Name/PAiur06=Wybawienie
+Map/Name/PKorhal01=Podniebna Tarcza
+Map/Name/PKorhal02=Braterstwo broni
+Map/Name/PMoebius01=Atak templariusza
+Map/Name/PPurifier01=Zakazana broń
+Map/Name/PPurifier02=Uwolnić przeszłość
+Map/Name/PPurifier03=Oczyszczenie
+Map/Name/PShakuras01=Wpływy Amona
+Map/Name/PShakuras02=Ostatni bastion
+Map/Name/PStory01=POpowieść01
+Map/Name/PTaldarim01=Etapy rytuału
+Map/Name/PTaldarim02=Rak'Shir
+Map/Name/PUlnar01=Świątynia Zjednoczenia
+Map/Name/PUlnar02=Odwieczny Cykl
+Map/Name/PUlnar03=Zwiastun Zagłady
+Map/Name/SC2Epilogue01=W Otchłań
+Map/Name/SC2Epilogue02=Esencja wieczności
+Map/Name/SC2Epilogue03=Upadek Amona
+Map/PrimaryObjectiveText/PAiur01=Rozpocznij inwazję
+Map/PrimaryObjectiveText/PAiur02=Dotrzyj do Poszukiwacza Otchłani
+Map/PrimaryObjectiveText/PAiur03=Aktywuj Włócznię Aduna
+Map/PrimaryObjectiveText/PAiur04=Zniszcz matrycę psioniczną
+Map/PrimaryObjectiveText/PAiur05=Zniszcz ciało nosiciela Amona
+Map/PrimaryObjectiveText/PAiur06=Obroń Ogniwo
+Map/PrimaryObjectiveText/PKorhal01=Ustabilizuj platformę
+Map/PrimaryObjectiveText/PKorhal02=Zdobądź Ogniwo
+Map/PrimaryObjectiveText/PMoebius01=Zniszcz placówkę tworzącą hybrydy
+Map/PrimaryObjectiveText/PPurifier01=Zdobądź technologię czyścicieli
+Map/PrimaryObjectiveText/PPurifier02=Dezaktywuj blokady statyczne
+Map/PrimaryObjectiveText/PPurifier03=Reaktywuj Cybros
+Map/PrimaryObjectiveText/PShakuras01=Pomóż w ewakuacji
+Map/PrimaryObjectiveText/PShakuras02=Doprowadź do przeciążenia w świątyni
+Map/PrimaryObjectiveText/PTaldarim01=Wyeliminuj strażników
+Map/PrimaryObjectiveText/PTaldarim02=Obal Ma'lasha
+Map/PrimaryObjectiveText/PUlnar01=Wejdź do świątyni
+Map/PrimaryObjectiveText/PUlnar02=Znajdź xel'naga
+Map/PrimaryObjectiveText/PUlnar03=Uratuj Artanisa
+Map/PrimaryObjectiveText/SC2Epilogue01=Ustanów przyczółek
+Map/PrimaryObjectiveText/SC2Epilogue02=Chroń Kerrigan
+Map/PrimaryObjectiveText/SC2Epilogue03=Zniszcz Amona
+Map/Summary/PAiur01=Rozpoczęło się wyzwalanie Aiuru. Po zabezpieczeniu tuneli przesyłowych, Złota Armada opanowała przestworza planety. Jednakże potwierdziła się przepowiednia Zeratula o nadchodzącej wojnie – Artanis odkrył, iż niegdyś zdziczałymi szczepami zergów dowodzą hybrydy.
+Map/Summary/PAiur02=Zeratul został zamordowany przez Amona, gdy próbował odciąć sploty nerwowe Artanisa. Młody hierarcha nie może jednak poświęcić się żałobie po przyjacielu zanim nie zabezpieczy losu żyjących protosów. Khala została splugawiona, a wszyscy, których łączy, zostali podporządkowani woli Amona. Artanis musi więc zgromadzić wojska z ocalałych protosów.
+Map/Summary/PAiur03=Amon zdobył Aiur. Ocaleli templariusze uciekli ze swej ojczyzny na pokładzie Włóczni Aduna, z trudem unikając śmierci z rąk mrocznego boga... na razie. Ponieważ Artanis utracił dostęp do Khali i Złotej Armady, musi odzyskać dawnych sojuszników i zdobyć nowych, zanim będzie mógł znów stawić czoła Amonowi.
+Map/Summary/PAiur04=Nadszedł czas ostatecznej walki z Amonem. Skoordynowane działania na powierzchni Aiur pozwoliły Artanisowi i jego sojusznikom zniszczyć sieć przesyłową planety i opóźnić przybycie Złotej Armady. Teraz muszą wykorzystać zyskany czas, aby zniszczyć ciało nosiciela Amona.
+Map/Summary/PAiur05=Artanisowi i jego sojusznikom udało się w ciężkiej bitwie zniszczyć ciało nosiciela Amona, nim zostało w pełni przebudzone. Muszą jednak jeszcze uwięzić Amona w Ogniwie na tyle długo, aby pozostali templariusze zdążyli oddzielić się od Khali. W ostatniej walce Amon wykorzysta całą swoją potęgę, i tylko współpraca zapewni daelaamom przetrwanie.
+Map/Summary/PAiur06=Amon został pokonany i przegnany z powrotem do Otchłani. Pozbawieni Khali protosi stoją na przełomie nowej, złotej ery, a dzięki wysiłkom i poświęceniu protosów, na horyzoncie znów pojawiła się nadzieja na pokój i dostatek. Jednak pozostało jeszcze jedno zadanie, które pozwoli raz na zawsze zniszczyć Amona.<n/><n/>Poznaj niesamowity, ostatni rozdział trylogii „StarCraft II” w epilogu pod tytułem „W Otchłań”.
+Map/Summary/PKorhal01=Dzięki wspólnym wysiłkom Artanisa i Raynora, udało się zapobiec katastrofalnemu spadkowi Podniebnej Tarczy na Korhal. Po odparciu zagrożenia ze strony Gwardii Moebiusa, Artanis powraca do realizacji celu swojej wyprawy w przestrzeń kosmiczną Dominium: zdobycia Ogniwa i pogoni za proroctwami Zeratula.
+Map/Summary/PKorhal02=Ogniwo zostało zabezpieczone, lecz terranie doznali ogromnych strat. Ponieważ siły Amona wciąż sieją spustoszenie w przestrzeni kosmicznej Dominium, Raynor i Artanis postanowili się rozdzielić i samodzielnie walczyć o ocalenie swego ludu.
+Map/Summary/PMoebius01=Gdy wojownicy Artanisa bronili Włóczni Aduna, Karax mimo trudności zniszczył ostatnią placówkę hodowli hybryd Amona. Mimo braku wyszkolenia wojskowego, khalaicki fazmator dokonał bohaterskiego czynu godnego najdzielniejszych templariuszy.
+Map/Summary/PPurifier01=Pomimo starań Alaraka i tal'darimów, Artanis zdobył dostęp do eksperymentalnej broni czyścicieli w khalaickiej placówce na Glaciusie. Karax jest przekonany, że ta nowa technologia okaże się bezcenna w wojnie przeciwko Amonowi.
+Map/Summary/PPurifier02=Siły Artanisa przebiły się przez zergi infekujące Endion, by uwolnić Cybros z zastoju i przebudzić starożytnych czyścicieli znajdujących się na tym okręcie wojennym. Choć robotyczni templariusze są wrogo nastawieni do Pierworodnych, Artanis ma nadzieję na uzyskanie ich wsparcia w nadciągającej bitwie przeciw Amonowi.
+Map/Summary/PPurifier03=Czyściciele przebudzili się na nowo. Pod dowództwem egzekutora Clolariona oczyścili Cybros z zergów i ogłosili go swoim domem. Mogą okazać się cennymi sojusznikami... najpierw jednak Artanis musi zadośćuczynić za dawne krzywdy i przekonać ich, aby odłożyli na bok wielowiekową nienawiść do swoich protoskich stwórców.
+Map/Summary/PShakuras01=Shakuras zostało opanowane przez hybrydy i zergi Amona, a w ataku zginęły niezliczone rzesze nerazimów. Pozostali mroczni templariusze zostali ewakuowani z planety dzięki matriarchini Vorazun i dołączyli do Artanisa. Nerazimowie będą potężnymi sprzymierzeńcami, lecz Shakuras zostało prawdopodobnie utracone.
+Map/Summary/PShakuras02=Shakuras zostało zniszczone. W wyniku potężnej eksplozji nerazimowie stracili planetę, a Amon potencjalny przyczółek dla swych armii. Teraz wszyscy protosi są wygnańcami żyjącymi na pokładzie Włóczni Aduna i szukają sposobu, aby wziąć odwet na swoim wielkim wrogu.
+Map/Summary/PTaldarim01=W zamian za zgodę na zawieszenie broni między obydwiema frakcjami, Artanis zgodził się pomóc Alarakowi w przejęciu władzy nad tal'darimami. Na żądanie Alaraka, Artanis wyeliminował strażników Wielkiego Wodza, Ma'lasha... tylko po to, by dowiedzieć się, że został oszukany i że walka nie miała bezpośredniego związku z rytuałem.
+Map/Summary/PTaldarim02=Alarak zabił Ma'lasha i przejął kontrolę nad tal'darimami, dzięki czemu zwrócili się przeciwko Amonowi i przestali zagrażać siłom Artanisa. Jeśli hierarcha zdoła jeszcze przekonać Alaraka do walki u swego boku, zyska nowego, potężnego sojusznika.
+Map/Summary/PUlnar01=Ogniwo poprowadziło Włócznię Aduna do Ulnaru, legendarnej siedziby xel'naga. Artanis odebrał świątynię tal'darimom i otworzył wejście do znajdujących się niżej komnat. Nadszedł czas, aby wypełnić ostatnie proroctwo Zeratula.
+Map/Summary/PUlnar02=Wraz z Królową Ostrzy Artanis poznał wielki cel xel'naga i wkroczył do komnaty ich spoczynku. Przybył jednak za późno. Amon zabił swych pobratymców i jest gotowy, aby opanować ciało nosiciela, które dla siebie stworzył. Nadzieja, o której mówił Zeratul zdaje się gasnąć, lecz Artanis pozostaje niezłomny w obliczu narastającego mroku.
+Map/Summary/PUlnar03=Zdrada Amona wobec tal'darimów wzburzyła Alaraka – dlatego postanowił ostrzec Vorazun, że Artanis znajduje się w niebezpieczeństwie. Matriarchini niechętnie przyjęła pomoc tal'darima, jednak wysłała templariuszy z pokładu Włóczni Aduna na śmiałą misję ratowania hierarchy. Protosi pozbawieni drogi wytyczonej im przez proroctwa Zeratula muszą samodzielnie wytyczyć sobie nowy kierunek działania.
+Map/Summary/SC2Epilogue01=Kerrigan, Raynor i Artanis poprowadzili ekspedycję w Otchłań, aby raz na zawsze skończyć z Amonem. Po wyczerpującej bitwie zdołali zabić Naruda i ustanowić przyczółek w tym mrocznym wymiarze. Teraz chcą poznać źródło tajemniczego, przyjaznego głosu, który wzywał ich do działania.
+Map/Summary/SC2Epilogue02=Nadszedł czas, aby Kerrigan sięgnęła po swoje przeznaczenie. Z pomocą Raynora i Artanisa wchłonęła energię Ourosa, ostatniego xel'naga. Dzięki niesamowitej mocy, którą zyskała, jest gotowa doprowadzić do ostatecznego końca Amona.
+Map/Summary/SC2Epilogue03=Amon został ostatecznie unicestwiony. Sara Kerrigan przemieniła się w xel'naga i zakończyła cykl. Mieszkańcy sektora Koprulu skupiają się teraz na odbudowie i powrocie do sił oraz normalności, oddając tym samym hołd odwadze i poświęceniu Kerrigan.<n/><n/>Imperia upadały, płonęły całe światy, a bogowie umierali. Jednocześnie dzielni dowódcy prowadzili swoje wojska do zwycięstwa, aby zapewnić pokój i wolność swoim ludom. Tak oto kończy się saga „StarCraft II”. Dziękujemy za grę.
+Objective/Description/PAiur01Bonus01=Zniszczenie infekcji zergów pozwoli Selendis przysłać dodatkowe siły naziemne.
+Objective/Description/PAiur01Primary01=Zergi zainfekowały kilka tuneli przesyłowych w mieście. Aby móc ich ponownie użyć, zniszcz zatory.
+Objective/Description/PAiur01Primary02=Zniszcz hybrydy kontrolujące szczep zergów.
+Objective/Description/PAiur02Bonus01=Przejęcie pylonu zwiększy twoje zaopatrzenie i wielkość armii.
+Objective/Description/PAiur02Primary01=Trzeba ostrzec templariuszy o obecności zergów. W pobliżu powinien znajdować się nexus.
+Objective/Description/PAiur02Primary02=Nie można nawiązać kontaktu z siłami Artanisa. Ich baza znajduje się dalej wewnątrz miasta.
+Objective/Description/PAiur02Primary03=Artanis powinien znajdować się w pobliżu. Znajdź hierarchę – miejmy nadzieję, że nie jest za późno.
+Objective/Description/PAiur02Primary04=Jeśli Zeratul zginie, wszystko będzie stracone.
+Objective/Description/PAiur03Bonus01=Postawienie pylonu obok niezasilonych wrót przesyłowych da ci nad nimi kontrolę.
+Objective/Description/PAiur03Primary01=Zniszcz zatory zergów ograniczające ogniwa zasilające, aby je aktywować.
+Objective/Description/PAiur04Primary01=Z pomocą Karaksa zdobądź jednostki i budowle robotyczne. Do oczyszczenia drogi do budowli zasilającej będzie ci potrzebna duża armia.
+Objective/Description/PAiur04Primary02=Przyprowadź protoskich bohaterów do budowli zasilającej i wyeliminuj wszystkie znajdujące się w pobliżu siły wroga.
+Objective/Description/PAiur04Primary03=Jeśli któryś z bohaterów polegnie w walce, wszystko będzie stracone.
+Objective/Description/PAiur04Primary04=Przyprowadź protoskich bohaterów do budowli zasilającej i wyeliminuj wszystkie znajdujące się w pobliżu siły wroga.
+Objective/Description/PAiur04Primary05=Jeśli któryś z bohaterów polegnie w walce, wszystko będzie stracone.
+Objective/Description/PAiur04Primary06=Przyprowadź protoskich bohaterów do budowli zasilającej i wyeliminuj wszystkie znajdujące się w pobliżu siły wroga.
+Objective/Description/PAiur04Primary07=Jeśli Artanis zginie, wszystko będzie stracone.
+Objective/Description/PAiur05Bonus01=Oczyszczenie stref przesyłu z sił wroga pozwoli wezwać na pole walki wsparcie.
+Objective/Description/PAiur05Primary01=Zniszcz odłamki otchłani, aby osłabić ciało Amona, ale uważaj, ponieważ zadają one obrażenia na obszarze wokół siebie.
+Objective/Description/PAiur05Primary02=Ciało nosiciela Amona jest wystawione na atak! Musimy uderzyć teraz!
+Objective/Description/PAiur06Primary01=Broń Ogniwa przed atakami Amona aż osiągnie ono pełną moc.
+Objective/Description/PKorhal01Bonus01=Zniszczenie zagłuszaczy EMP pozwoli ci zdobyć surowce do ulepszenia Włóczni Aduna.
+Objective/Description/PKorhal01Primary01=Wyeliminuj wrogie siły w pobliżu stabilizatorów, aby oddziały Raynora mogły przystąpić do napraw.
+Objective/Description/PKorhal02Bonus01=Zabij wszystkich przeciwników w pobliżu placówki naukowej, aby ją zabezpieczyć.
+Objective/Description/PKorhal02Primary01=Przebij się przez okopane siły Gwardii Moebiusa i zniszcz postument Ogniwa.
+Objective/Description/PKorhal02Primary02=Centrum dowodzenia Raynora nie może zostać zniszczone.
+Objective/Description/PKorhal02Primary03=Centrum dowodzenia Valeriana nie może zostać zniszczone.
+Objective/Description/PMoebius02Bonus01=Zniszczenie komór hibernacyjnych pozwoli Karaksowi zdobyć solaryt.
+Objective/Description/PMoebius02Primary01=Rdzenie zasilające porozstawiane są na asteroidach placówki. Aby je zaatakować, trzeba będzie zdobyć przewagę w powietrzu.
+Objective/Description/PPurifier01Bonus01=Wyślij dowolną jednostkę do nieprzetworzonego solarytu, aby go zdobyć.
+Objective/Description/PPurifier01Primary01=Przebij się przez placówkę i dostań do skarbca technologii, zanim zniszczy go wiązka dyslokacyjna tal'darimów.
+Objective/Description/PPurifier02Bonus01=Znajdź i zniszcz rdzenie zasilające ukryte w lasach, aby zdobyć znajdujący się w nich solaryt.
+Objective/Description/PPurifier02Primary01=Wykorzystaj kolosy, aby wywalczyć sobie drogę do Megalitu.
+Objective/Description/PPurifier02Primary02=Broń Megalitu przed zergami, gdy ten będzie przemieszczał się do każdej z blokad statycznych. Megalit będzie bezpieczny, gdy do nich dotrze.
+Objective/Description/PPurifier02Primary03=Jeśli Megalit zostanie zniszczony, nie będzie sposobu na uwolnienie Cybrosu z blokady statycznej.
+Objective/Description/PPurifier03Bonus01=Strażnik czyścicieli pilnujący Cybrosa doznał usterki i zaczął się wrogo zachowywać. Zniszcz go i zdobądź jego solaryt.
+Objective/Description/PPurifier03Primary01=Niszczenie kolejnych obwodów nicości reaktywuje każdy z kwadrantów Cybrosu.
+Objective/Description/PPurifier03Primary02=Jeśli matryca zostanie zniszczona, Cybros upadnie.
+Objective/Description/PShakuras01Bonus01=Znajdź krypty kryjące rezerwy solarytu miasta, aby zdobyć surowce do ulepszenia Włóczni Aduna.
+Objective/Description/PShakuras01Primary01=Zniszcz zatory zergów ograniczające platformy startowe, aby pozwolić wahadłowcom ewakuacyjnym na ucieczkę.
+Objective/Description/PShakuras01Primary02=Molochy otchłani zaczęły oblegać tunel przesyłowy. Zabij je, zanim go zniszczą.
+Objective/Description/PShakuras02Bonus01=Karax potrzebuje więcej czasu, aby zdobyć zapasy solarytu znajdujące się pod świątynią.
+Objective/Description/PShakuras02Primary01=Aby doprowadzić do przeciążenia świątyni xel'naga należy zniszczyć kamienie zenitu.
+Objective/Description/PShakuras02Primary02=Artanis ma nadzieję na zabicie jak największej liczby zergów i hybryd podczas zniszczenia Shakuras.
+Objective/Description/PShakuras02Primary03=W ten sposób zostanie zniszczone Shakuras, a wraz z nim infekcja zergów.
+Objective/Description/PShakuras02Primary04=Jeśli świątynia ulegnie zniszczeniu, zanim jej moc zostanie wykorzystana, zergi opanują całą planetę.
+Objective/Description/PTaldarim01Bonus01=Statki-matki Floty Śmierci stacjonują gdzieś w pobliżu. Znajdź je i zniszcz, aby zdobyć ich solaryt.
+Objective/Description/PTaldarim01Primary01=Gdy obecna jest mgła terrazytowa, przeciwnicy z Otchłani gromadzą się do ataku. Broń przed nimi swojej bazy, dopóki mgła nie ustąpi.
+Objective/Description/PTaldarim01Primary02=Zabicie strażników Ma'lasha pozwoli Alarakowi rzucić mu wyzwanie.
+Objective/Description/PTaldarim02Bonus01=Wytropienie i zabicie żywiołaków pozwoli ci zdobyć solaryt, ale nie zostawiaj Alaraka samego na zbyt długo.
+Objective/Description/PTaldarim02Primary01=Wyślij swoje siły blisko Alaraka, aby zapewnić mu wsparcie, którego potrzebuje do przezwyciężenia Ma'lasha.
+Objective/Description/PTaldarim02Primary02=Jeśli Alarak zostanie zepchnięty do jamy, umrze i wyzwanie zakończy się niepowodzeniem.
+Objective/Description/PUlnar01Bonus01=Znajdź i zniszcz olbrzymi pryzmat nadprzestrzenny, aby zdobyć solaryt z jego reaktora.
+Objective/Description/PUlnar01Primary01=Wyeliminuj pobliskich wrogów i ustaw swoje jednostki w pobliżu niebiańskiej bariery, aby ją dezaktywować. Musisz kontrolować wszystkie pięć barier, aby otworzyć świątynię.
+Objective/Description/PUlnar01Primary02=Jeśli siły Amona zdołają zakłócić pracę trzech mechanizmów, na zawsze zamkną wejście do świątyni.
+Objective/Description/PUlnar02Bonus01=W świątyni ukrytych jest kilka urządzeń xel'naga. Ich zdobycie zapewni armii Artanisa solaryt.
+Objective/Description/PUlnar02Primary01=Pokonaj strażników świątyni, aby otworzyć bramy oddzielające Artanisa od Komnat Objawienia.
+Objective/Description/PUlnar02Primary02=Tylko razem mogą wkroczyć do Komnat Objawienia.
+Objective/Description/PUlnar03Bonus01=W świątyni znajduje się kilka zasobników xel'naga. Znajdź je, aby zdobyć znajdujący się wewnątrz solaryt.
+Objective/Description/PUlnar03Primary01=Artanis powinien być niedaleko. Przebij się przez siły Amona i znajdź hierarchę.
+Objective/Description/PUlnar03Primary02=Pomóż Artanisowi i Kerrigan w walce z hybrydami.
+Objective/Description/PUlnar03Primary03=Zniszczenie kryształów otchłani zamknie portal i rozproszy wydobywającą się z niego mroczną energię.
+Objective/Description/PUlnar03Primary04=Zniszcz kryształy otchłani, zanim mroczna energia dotrze do głównego skupiska uli Kerrigan.
+Objective/Description/SC2Epilogue01Bonus01=Wyeliminowanie sił Amona i zabezpieczenie wysuniętych pozycji pozwoli twoim sojusznikom na wysłanie wsparcia.
+Objective/Description/SC2Epilogue01Primary01=Narud chce zniszczyć wszystkich, którzy sprzeciwiają się Amonowi. Zabij zmiennokształtnego raz na zawsze.
+Objective/Description/SC2Epilogue01Primary02=Tylko walcząc ramię w ramię Raynor, Kerrigan i Artanis mają szansę na wygranie bitwy, która jest przed nimi.
+Objective/Description/SC2Epilogue01Primary03=Przebij się przez Otchłań i zniszcz źródło spaczenia, aby Artanis mógł założyć bazę.
+Objective/Description/SC2Epilogue02Bonus01=Nawet z mocą Ourosa Kerrigan będzie potrzebować roju, aby pokonać Amona.
+Objective/Description/SC2Epilogue02Bonus02=Siły Artanisa nie mogą polec przed finałową bitwą.
+Objective/Description/SC2Epilogue02Primary01=Kerrigan musi wyeliminować molochy otchłani, zanim Raynor, Artanis i Zagara będą mogli założyć swoje bazy.
+Objective/Description/SC2Epilogue02Primary02=Bez Kerrigan pokonanie Amona będzie niemożliwe.
+Objective/Description/SC2Epilogue02Primary03=Broń swojej bazy, dopóki Kerrigan nie zaabsorbuje pełnej mocy xel'naga.
+Objective/Description/SC2Epilogue02Primary04=Bez Kerrigan pokonanie Amona będzie niemożliwe.
+Objective/Description/SC2Epilogue03Primary01=Kryształy otchłani są podatne na atak, kiedy wznoszą się nad teren.
+Objective/Name/PAiur01Bonus01=Zniszcz ule zergów
+Objective/Name/PAiur01Primary01=Oczyść tunele przesyłowe
+Objective/Name/PAiur01Primary02=Zabij hybrydy
+Objective/Name/PAiur02Bonus01=Znajdź pylony otchłani
+Objective/Name/PAiur02Primary01=Dotrzyj do nexusa
+Objective/Name/PAiur02Primary02=Dotrzyj do bazy templariuszy
+Objective/Name/PAiur02Primary03=Dotrzyj do Artanisa
+Objective/Name/PAiur02Primary04=Zeratul musi przeżyć
+Objective/Name/PAiur03Bonus01=Zasil wrota przesyłowe
+Objective/Name/PAiur03Primary01=Aktywuj ogniwa zasilające
+Objective/Name/PAiur04Primary01=Zbierz armię
+Objective/Name/PAiur04Primary02=Dotrzyj do budowli zasilającej
+Objective/Name/PAiur04Primary03=Alarak i Vorazun muszą przetrwać
+Objective/Name/PAiur04Primary04=Dotrzyj do budowli zasilającej
+Objective/Name/PAiur04Primary05=Karax i Fenix muszą przetrwać
+Objective/Name/PAiur04Primary06=Wywalcz sobie drogę do budowli zasilającej
+Objective/Name/PAiur04Primary07=Artanis musi przetrwać
+Objective/Name/PAiur05Bonus01=Zabezpiecz strefy przesyłu
+Objective/Name/PAiur05Primary01=Zniszcz odłamki otchłani
+Objective/Name/PAiur05Primary02=Zniszcz ciało nosiciela Amona
+Objective/Name/PAiur06Primary01=Obroń Ogniwo
+Objective/Name/PCampaignObjective=PKampaniaZadanie
+Objective/Name/PKorhal01Bonus01=Zniszcz zagłuszacze EMP
+Objective/Name/PKorhal01Primary01=Zabezpiecz stabilizatory Podniebnej Tarczy
+Objective/Name/PKorhal02Bonus01=Zabezpiecz placówki badawcze
+Objective/Name/PKorhal02Primary01=Zdobądź Ogniwo
+Objective/Name/PKorhal02Primary02=Centrum dowodzenia Raynora musi przetrwać
+Objective/Name/PKorhal02Primary03=Centrum dowodzenia Valeriana musi przetrwać
+Objective/Name/PMoebius02Bonus01=Zniszcz komory hibernacyjne hybryd
+Objective/Name/PMoebius02Primary01=Zniszcz rdzenie zasilające
+Objective/Name/PPurifier01Bonus01=Znajdź nieprzetworzony solaryt
+Objective/Name/PPurifier01Primary01=Dotrzyj do skarbca technologii
+Objective/Name/PPurifier02Bonus01=Zniszcz rdzenie zasilające
+Objective/Name/PPurifier02Primary01=Wyeliminuj zergi
+Objective/Name/PPurifier02Primary02=Eskortuj Megalit do blokad statycznych
+Objective/Name/PPurifier02Primary03=Megalit musi przetrwać
+Objective/Name/PPurifier03Bonus01=Zniszcz Strażnika czyścicieli
+Objective/Name/PPurifier03Primary01=Zniszcz obwody nicości
+Objective/Name/PPurifier03Primary02=Matryca rdzenia czyścicieli musi przetrwać
+Objective/Name/PShakuras01Bonus01=Zdobądź rezerwy solarytu
+Objective/Name/PShakuras01Primary01=Uwolnij platformy startowe
+Objective/Name/PShakuras01Primary02=Tunel przesyłowy musi przetrwać
+Objective/Name/PShakuras02Bonus01=Wytrzymaj do przybycia 1,5 miliarda zergów
+Objective/Name/PShakuras02Primary01=Zniszcz kamienie zenitu
+Objective/Name/PShakuras02Primary02=Wytrzymaj do przybycia 1 miliarda zergów
+Objective/Name/PShakuras02Primary03=Doprowadź do przeciążenia w świątyni
+Objective/Name/PShakuras02Primary04=Świątynia xel'naga musi przetrwać
+Objective/Name/PTaldarim01Bonus01=Zniszcz statki-matki tal'darimów
+Objective/Name/PTaldarim01Primary01=Przetrwaj, dopóki terrazyt nie opadnie
+Objective/Name/PTaldarim01Primary02=Zabij strażników Ma'lasha
+Objective/Name/PTaldarim02Bonus01=Zabij żywiołaki ze Slayn
+Objective/Name/PTaldarim02Primary01=Zepchnij Ma'lasha do jamy ofiarnej
+Objective/Name/PTaldarim02Primary02=Alarak nie może zostać pokonany
+Objective/Name/PUlnar01Bonus01=Zniszcz olbrzymi pryzmat nadprzestrzenny
+Objective/Name/PUlnar01Primary01=Dezaktywuj niebiańskie bariery
+Objective/Name/PUlnar01Primary02=Nie dopuść, aby zakłócono pracę 3 mechanizmów
+Objective/Name/PUlnar02Bonus01=Zdobądź urządzenia xel'naga
+Objective/Name/PUlnar02Primary01=Dotrzyj do Komnat Objawienia
+Objective/Name/PUlnar02Primary02=Artanis i Kerrigan muszą przetrwać
+Objective/Name/PUlnar03Bonus01=Zabezpiecz zasobniki xel'naga
+Objective/Name/PUlnar03Primary01=Znajdź Artanisa
+Objective/Name/PUlnar03Primary02=Zabij hybrydy
+Objective/Name/PUlnar03Primary03=Zniszcz kryształy otchłani
+Objective/Name/PUlnar03Primary04=Rój musi przetrwać
+Objective/Name/SC2Epilogue01Bonus01=Zabezpiecz wysunięte pozycje
+Objective/Name/SC2Epilogue01Primary01=Pokonaj Naruda
+Objective/Name/SC2Epilogue01Primary02=Bazy sojuszników muszą przetrwać
+Objective/Name/SC2Epilogue01Primary03=Zniszcz źródło spaczenia
+Objective/Name/SC2Epilogue02Bonus01=Zapewnij przetrwanie zergom
+Objective/Name/SC2Epilogue02Bonus02=Zapewnij przetrwanie protosom
+Objective/Name/SC2Epilogue02Primary01=Zniszcz molochy otchłani
+Objective/Name/SC2Epilogue02Primary02=Kerrigan musi przetrwać
+Objective/Name/SC2Epilogue02Primary03=Wytrzymaj do zakończenia transferu
+Objective/Name/SC2Epilogue02Primary04=Kerrigan musi przetrwać
+Objective/Name/SC2Epilogue03Primary01=Zniszcz kryształy otchłani
+Objective/Name/SampleOptionalObjective=Próbka zadania dodatkowego
+Objective/Name/SamplePrimaryObjective=Próbka zadania podstawowego
+Param/Expression/lib_VCMI_08BB63F6=<s val="@@UnitInfoSubTipDetail">~A~</s>
+Param/Expression/lib_VCMI_0B6E0658=<ignore s="strip" c="strip">~A~</ignore>
+Param/Expression/lib_VCMI_14461E7B=<c val="FF9800">Stiukow zginął. Zostanie ożywiony w wylęgarni za ~A~ sek.</c>
+Param/Expression/lib_VCMI_19931C71=~A~, ~B~, ~C~
+Param/Expression/lib_VCMI_19CBF466=<c val="ff0000">~A~
+Param/Expression/lib_VCMI_1C88F6E4=<s val="@@UnitInfoTip">~A~</s>
+Param/Expression/lib_VCMI_20839488=~A~ - Wygrana
+Param/Expression/lib_VCMI_242FDFAD=<s val="~Style~">~A~</s>
+Param/Expression/lib_VCMI_261E2441=<s val="~A~">+~B~
+Param/Expression/lib_VCMI_345DFBBA=~Button Text~ <c val="FF0000">~Error Text~</c>
+Param/Expression/lib_VCMI_3704A828=<s val="@@UnitInfoTip">~A~</s>
+Param/Expression/lib_VCMI_39320B7C=<c val="87ceeb">NOWA TECHNOLOGIA DOSTĘPNA</c><n/>~A~
+Param/Expression/lib_VCMI_399D4B3D=<c val="FF9800">Kokon Kerrigan umarł. Zostanie ona ożywiona w wylęgarni za ~A~ sek.</c>
+Param/Expression/lib_VCMI_3D845762=<s val="~A~">+~B~
+Param/Expression/lib_VCMI_3E2FD972=~Button Text~ <c val="FF0000">~Error Text~</c>
+Param/Expression/lib_VCMI_5054DF3B=<c val="FF9800">Kokon Kerrigan umarł. Zostanie ona ożywiona w wylęgarni za ~A~ sek.</c>
+Param/Expression/lib_VCMI_50F2381C=<s val="@@UnitInfoSubTip">~A~</s>
+Param/Expression/lib_VCMI_53441A0B=~Desc Text~ <c val="FF0000">Komenda oszustwa </c>~command~ <c val="FF0000">została użyta więcej niż raz.</c>
+Param/Expression/lib_VCMI_5966D169=~A~ ~B~
+Param/Expression/lib_VCMI_60CA52DA=~Button Text~ <c val="FF0000">~Error Text~</c>
+Param/Expression/lib_VCMI_64DF7A24=<c val="32cd32">WSKAZÓWKA</c> – ~A~.
+Param/Expression/lib_VCMI_6743CDD8=<s val="~A~">+~B~ jedn. solarytu
+Param/Expression/lib_VCMI_68545161=<c val="FF9800">Kerrigan zginęła. Zostanie ożywiona w wylęgarni za ~A~ sek.</c>
+Param/Expression/lib_VCMI_6CB2A27A=~A~</s><img path="Assets\Textures\icon-gas-protoss.dds" height="20" width="20"/>
+Param/Expression/lib_VCMI_6E2C27E8=~A~
+Param/Expression/lib_VCMI_7545F4E8=<k val="~UNIT~,~BTN~,~ROW~,~COL~"/>
+Param/Expression/lib_VCMI_76A693CF=Odblokowano osiągniecie "~A~" (~B~)<n/>~C~
+Param/Expression/lib_VCMI_780EA187=~A~
+Param/Expression/lib_VCMI_80CEDAC6=~Button Text~
+Param/Expression/lib_VCMI_84AF9873=~Button Text~ <c val="FF0000">~Error Text~</c>
+Param/Expression/lib_VCMI_87B2D44D=~A~ (1)
+Param/Expression/lib_VCMI_9BF57690=~Button Text~ (wykorzystano)
+Param/Expression/lib_VCMI_A4179B16=<c val="ffcc00">MISJA NIEUDANA</c><n/>~A~
+Param/Expression/lib_VCMI_A49EDD0B=<c val="87ceeb">ZDOBYTO NOWĄ JEDNOSTKĘ</c><n/>~A~
+Param/Expression/lib_VCMI_A8624C75=~A~ ~B~
+Param/Expression/lib_VCMI_A9DB134E=Kontroluj śmierć bohatera:  Nieprawidłowy rodzaj jednostki: ~A~
+Param/Expression/lib_VCMI_B57553DC=~Desc Text~ <c val="FF0000">Wyzwalacz </c>~trigname~ <c val="FF0000">jest wykorzystywany przez komendę </c>~command~<c val="FF0000">.</c>
+Param/Expression/lib_VCMI_BA0BF873=<c val="87ceeb">NOWA JEDNOSTKA DOSTĘPNA</c><n/>~A~
+Param/Expression/lib_VCMI_BB000415=~Button Text~ <c val="FF0000">~Error Text~</c>
+Param/Expression/lib_VCMI_BEDEFD56=<ignore s="strip" c="strip">~A~
+Param/Expression/lib_VCMI_BF425BB2=~Desc Text~ <c val="FF0000">Komenda oszustwa </c>~command~ <c val="FF0000">została użyta więcej niż raz.</c>
+Param/Expression/lib_VCMI_C1624255=<c val="ffcc00">ODKRYTO SEKRET</c><n/>~A~
+Param/Expression/lib_VCMI_C1B831B2=<s val="~Style~">~A~</s>
+Param/Expression/lib_VCMI_C3493724=<c val="FF0000">~ErrorMessage~</c>
+Param/Expression/lib_VCMI_C99B9DE4=~A~</s><img path="Assets\Textures\icon-mineral-protoss.dds" height="20" width="20"/>
+Param/Expression/lib_VCMI_CA1103D4=~Tip Text~ <c val="FF0000">~Error Text~</c>
+Param/Expression/lib_VCMI_D17F5A07=<c val="FF9800">Fenix zginął. Zostanie ożywiony w nexusie za ~A~ sek.</c>
+Param/Expression/lib_VCMI_D26B477D=~A~
+Param/Expression/lib_VCMI_D6A0DA61=<c val="87ceeb">NOWA BUDOWLA DOSTĘPNA</c><n/>~A~
+Param/Expression/lib_VCMI_E29A6B4F=~Desc Text~ <c val="FF0000">Wyzwalacz </c>~trigname~ <c val="FF0000">jest wykorzystywany przez komendę </c>~command~<c val="FF0000">.</c>
+Param/Expression/lib_VCMI_E3BF1656=~A~</ignore>
+Param/Expression/lib_VCMI_E7DF13E9=<c val="FF9800">Kerrigan zginęła. Zostanie ożywiona w wylęgarni za ~A~ sek.</c>
+Param/Expression/lib_VCMI_EDEB6BCC=~A~, ~B~, ~C~
+Param/Expression/lib_VCMI_F881F2B7=~A~</s><IMG path="~B~" height="24" width="24"/>
+Param/Expression/lib_VCMI_FA2F2D3B=<s val="~A~">+~B~
+Param/Expression/lib_VCST_0814D95A=Błąd tła sceny! Podjęto próbę dodania nowej sceny, ale odtwarzane jest ich za dużo w pomiesycyeniu: ~A~
+Param/Expression/lib_VCST_1DA5675D=~A~<n/>~B~
+Param/Expression/lib_VCST_5C3555AF=~A~<n/>~B~
+Param/Expression/lib_VCST_78EFE760=Przejście do pomieszczenia ~A~ z ~B~
+Param/Expression/lib_VCST_9B920DB7=LotV – ~A~
+Param/Expression/lib_VCST_A03ACF50=~SPEAKER~: ~LINE~
+Param/Expression/lib_VCST_D4672859=Ustaw aktywność opowieści = ~A~ (zatrzymanie ~B~)
+Param/Expression/lib_VCST_DA08AEFD=~A~<n/>~B~
+Param/Expression/lib_VCST_DA3A4D87=Przekazano dla ~A~.~B~.~C~
+Param/Expression/lib_VCST_DBE663DF=Ustawianie ~A~.~B~.~C~ na ~D~
+Param/Expression/lib_VCUI_1D6AD694=~MISSIONTITLE~ - ~DIFFICULTYTITLE~
+Param/Expression/lib_VCUI_225AD1C1=<s val="StandardTooltipHeader_Prot">~A~</s><n/><s val="StandardTooltip_Prot">~B~</s>
+Param/Expression/lib_VCUI_266B96A5=Wyposażenie dla typu ~A~: ~B~
+Param/Expression/lib_VCUI_2A34C43A=<s val="StandardTooltipHeader_Prot">~A~</s><n/><s val="StandardTooltip_Prot">~B~</s>
+Param/Expression/lib_VCUI_2C92FDA7=~CurrentEnergy~/~MaxEnergy~
+Param/Expression/lib_VCUI_357F95E2=~Count~ jedn. solarytu
+Param/Expression/lib_VCUI_395995D8=~BOTTOMBARTOOLTIP~<n/><c val="ffffff">~EXTENDEDTIP~</c>
+Param/Expression/lib_VCUI_3BEC692E=-~UPGRADE~%
+Param/Expression/lib_VCUI_4A8A19B5=~GAINED~/~POSSIBLE~ jedn. solarytu
+Param/Expression/lib_VCUI_55CEDFEF=+~Count~ jedn. solarytu
+Param/Expression/lib_VCUI_560481B1=~Name~<n/>
+Param/Expression/lib_VCUI_5F70C1F3=<s val="StandardTooltipHeader_White">~NAME~</s><n/><s val="StandardTooltip_Prot">~DESCRIPTION~</s>
+Param/Expression/lib_VCUI_667BE8C1=+~UPGRADE~%
+Param/Expression/lib_VCUI_6A4DE49F=~MISSIONTITLE~ – ~DIFFICULTYTITLE~
+Param/Expression/lib_VCUI_6B0215C6=~TOOLTIP~<n/><c val="ffff00">Kliknij, aby przekierować solaryt z tego systemu.</c>
+Param/Expression/lib_VCUI_74345D94=+~UPGRADE~
+Param/Expression/lib_VCUI_7857424F=~TOOLTIP~<n/><c val="ff0000">System ma już przydzieloną maksymalną możliwą ilość solarytu.</c>
+Param/Expression/lib_VCUI_849AE5CF=+~Count~ jedn. solarytu
+Param/Expression/lib_VCUI_8EF0FE86=~CurrentLife~/~MaxLife~
+Param/Expression/lib_VCUI_9DEA3931=<c val="ffffff">~A~</c>
+Param/Expression/lib_VCUI_9EBBFBCF=<s val="StandardTooltipHeader_Prot">~NAME~</s><n/><s val="StandardTooltip_Prot">~DESC~</s>
+Param/Expression/lib_VCUI_A0E93B3D=<s val="StandardTooltipHeader_White">~NAME~</s><n/><s val="StandardTooltip_Prot">~DESCRIPTION~</s>
+Param/Expression/lib_VCUI_A0F1F90D=~TOOLTIP~<n/><c val="ff0000">Brak solarytu.</c>
+Param/Expression/lib_VCUI_A27EDFDB=~A~ ~B~
+Param/Expression/lib_VCUI_A4E39DC3=~TOOLTIP~<n/><c val="ff0000">System ma już przypisaną maksymalną możliwą ilość solarytu.</c>
+Param/Expression/lib_VCUI_A5C497EB=<s val="Tooltip_Title">~A~</s><n/>~B~
+Param/Expression/lib_VCUI_AC0833B3=~MISSIONTITLE~ – ~DIFFICULTYTITLE~
+Param/Expression/lib_VCUI_B3529E0D=~TOOLTIP~<n/><c val="ffff00">Kliknij, aby przekierować więcej solarytu do systemu.</c>
+Param/Expression/lib_VCUI_B73F5C5A=~CurrentLife~/~MaxLife~
+Param/Expression/lib_VCUI_BD7A7A84=Postać ~Hero~ nie jest ustawiona jako postać z Void.
+Param/Expression/lib_VCUI_C0C86648=~EnergyEarned~ z ~EnergyPossible~ jednostek solarytu
+Param/Expression/lib_VCUI_C4B6499C=~A~
+Param/Expression/lib_VCUI_D2719519=~TOOLTIP~<n/><s val="StandardTooltip_Prot"><c val="ff0000">Za mało solarytu. Można przekierować moc z innych systemów.</c></s>
+Param/Expression/lib_VCUI_D4727D8E=~A~
+Param/Expression/lib_VCUI_F211695B=~TITLE~ <s val="Void_ShipSecondaryLabelPower">~DETAILS~</s>
+Param/Expression/lib_VCUI_F859D055=<n/><s val="MasterArchivesIntroDescription"><n/>~A~</s><n/><n/><s val="MasterArchivesIntroAction"><n/>~B~</s>
+Param/Expression/lib_VoiC_010ABCE0=<c val="444444">Ukończono ~A~ temu</c>
+Param/Expression/lib_VoiC_021EA168=<s val="DebugProgressPanelCampaignProgress">Ukończona misja: ~A~/~B~<n/>Ukończony wątek: ~C~<n/><n/>Solaryt: <c val="FFFF00">~D~</c></s>
+Param/Expression/lib_VoiC_02626E2A=Przejście do: ~A~
+Param/Expression/lib_VoiC_02D0E02A=<c val="888888">~A~</c>
+Param/Expression/lib_VoiC_0C185A62=Odblokowano osiągniecie "~A~" (~B~)<n/>~C~
+Param/Expression/lib_VoiC_0F62EC86=Nagrody: Solaryt(~SOAMAIN~+<c val="FFFF00">~SOABONUS~</c>)
+Param/Expression/lib_VoiC_1844DDD4=mu ~B~
+Param/Expression/lib_VoiC_1B016C22=Tworzy: ~A~ i ~B~
+Param/Expression/lib_VoiC_2377F211=<c val="444444">~A~</c>
+Param/Expression/lib_VoiC_2BB80ACF=<c val="00A050">~A~</c>
+Param/Expression/lib_VoiC_331CB012=<s val="DebugProgressPanelCampaignProgress">Ukończona misja: ~A~/~B~<n/>Ukończony wątek: ~C~<n/><n/>Solaryt: <c val="FFFF00">~D~</c></s>
+Param/Expression/lib_VoiC_3391F05F=<c val="00DDDD">~A~</c>
+Param/Expression/lib_VoiC_37BD8C51=LotV – ~A~
+Param/Expression/lib_VoiC_43997B8A=<c val="888888">~A~</c>
+Param/Expression/lib_VoiC_4D7EC61D=Ustawianie postępu archiwów dla: ~A~ na: ~B~
+Param/Expression/lib_VoiC_542640F3=Lokalizacja ustawiona na: ~A~
+Param/Expression/lib_VoiC_5D41FBB9=~A~ ~B~
+Param/Expression/lib_VoiC_66073AC7=~A~ ~B~
+Param/Expression/lib_VoiC_68515B52=<n/><c val="AAAAAA">(+~A~ jednostek solarytu za każdy sukces)</c>
+Param/Expression/lib_VoiC_6F0FF8BB=Zapisz bank technologii armii = ~A~
+Param/Expression/lib_VoiC_71A9CDC5=<s val="CampaignPanelLastMission">OSTATNIA MISJA</s><n/><s val="CampaignPanelLastMissionTitle">~D~</s><n/><n/><s val="CampaignPanelLastMissionDescription">~A~</s><n/><n/><n/><s val="CampaignPanelItemTitle">UKOŃCZONE MISJE:</s> <s val="CampaignPanelItemText">~B~</s><n/><s val="CampaignPanelItemTitle">POZIOM TRUDNOŚCI:</s> <s val="CampaignPanelItemText">~C~</s>
+Param/Expression/lib_VoiC_72B16F45=Dodaj typ jednostki do panelu pomocy jednostki ~A~ Magazyn historii = ~B~
+Param/Expression/lib_VoiC_7C661C09=~A~,~B~
+Param/Expression/lib_VoiC_841E3BBA=Nagrody: Solaryt(~SOAMAIN~+<c val="FFFF00">~SOABONUS~</c>)
+Param/Expression/lib_VoiC_884E6A43=<c val="800080">~A~</c>
+Param/Expression/lib_VoiC_8957B073=<c val="FF80C0">~A~</c>
+Param/Expression/lib_VoiC_8B2DEB44=<s val="CampaignPanelLastMissionTitle">UKOŃCZONO „LEGACY OF THE VOID”!</s><n/><n/><s val="CampaignPanelLastMissionDescription">~SUMMARY~</s><n/><n/><n/><s val="CampaignPanelItemTitle">MISJE UKOŃCZONE:</s> <s val="CampaignPanelItemText">~MISSIONSCOMPLETE~</s><n/><s val="CampaignPanelItemTitle">POZIOM TRUDNOŚCI:</s> <s val="CampaignPanelItemText">~DIFFICULTY~</s>
+Param/Expression/lib_VoiC_9081F58A=Rozpocznij misję ~A~
+Param/Expression/lib_VoiC_9214BE9C=mu ~B~
+Param/Expression/lib_VoiC_95D73249=~A~ misja: ~B~ jeśli: ~C~
+Param/Expression/lib_VoiC_A265CE09=Wczytujemy sekcje misji ~A~.
+Param/Expression/lib_VoiC_A2BB3BDA=Aktualny wątek = ~A~
+Param/Expression/lib_VoiC_A5769BA3=<n/><c val="AAAAAA">(+~A~ jedn. solarytu)</c>
+Param/Expression/lib_VoiC_AD1ED9A3=~A~,~B~
+Param/Expression/lib_VoiC_B0ABD7F6=~A~<n/>(mu ~B~)
+Param/Expression/lib_VoiC_B282D0C8=<s val="CampaignPanelLastMission">OSTATNIA MISJA</s><n/><s val="CampaignPanelLastMissionTitle">~D~</s><n/><n/><s val="CampaignPanelLastMissionDescription">~A~</s><n/><n/><n/><s val="CampaignPanelItemTitle">UKOŃCZONE MISJE:</s> <s val="CampaignPanelItemText">~B~</s><n/><s val="CampaignPanelItemTitle">POZIOM TRUDNOŚCI:</s> <s val="CampaignPanelItemText">~C~</s>
+Param/Expression/lib_VoiC_BBF0E9B7=~A~,~B~
+Param/Expression/lib_VoiC_BC414963=<c val="00A050">Dostępne ~A~ temu</c>
+Param/Expression/lib_VoiC_C2E1F27E=<c val="800080">~A~</c>
+Param/Expression/lib_VoiC_C4273795=~A~<n/>(mu ~B~)
+Param/Expression/lib_VoiC_C585AD1D=AAge = ~A~  BAge = ~B~
+Param/Expression/lib_VoiC_CB912803=<c val="00A050">~A~</c>
+Param/Expression/lib_VoiC_D8CBF153=<c val="888888">~A~</c>
+Param/Expression/lib_VoiC_D9FD915B=<s val="CampaignPanelLastMissionTitle">UKOŃCZONO EPILOG!</s><n/><n/><s val="CampaignPanelLastMissionDescription">~SUMMARY~</s><n/><n/><n/><s val="CampaignPanelItemTitle">MISJE UKOŃCZONE:</s> <s val="CampaignPanelItemText">~MISSIONSCOMPLETE~</s><n/><s val="CampaignPanelItemTitle">POZIOM TRUDNOŚCI:</s> <s val="CampaignPanelItemText">~DIFFICULTY~</s>
+Param/Expression/lib_VoiC_DF94338A=~A~ Wymaga ~B~ solarytu na poziom.
+Param/Expression/lib_VoiC_E44EA667=BŁĄD DANYCH: próbowano ustawić postępu dla: ~A~ na: ~B~ (maksimum to ~C~)
+Param/Expression/lib_VoiC_F246913F=BŁĄD DANYCH: próbowano ustawić postępu dla: ~A~ na: ~B~
+Param/Expression/lib_VoiC_F82DB0D0=<c val="00A050">Dostępne ~A~ temu</c>
+Param/Value/lib_EEFB1555_1FD9CA2A=Helion (26 zabitych)
+Param/Value/lib_EEFB1555_8C3AB835=
+Param/Value/lib_EEFB1555_BFD639C4=Typ jednostki z największą liczbą zabitych:
+Param/Value/lib_EEFB1555_C692B117=
+Param/Value/lib_EEFB1555_DADFF088=5 dni
+Param/Value/lib_EEFB1555_F2B917DE=Dni potrzebne na ukończenie misji:
+Param/Value/lib_VCMI_0104576E=5 dni
+Param/Value/lib_VCMI_01B1761C=Typ jednostki z największą liczbą zabitych:
+Param/Value/lib_VCMI_02BB495A={Siege Tank} – {Heavy tank. Long-range artillery in Siege Mode.}
+Param/Value/lib_VCMI_03ED8FAC=Wszystkie twoje budowle zostały zniszczone.
+Param/Value/lib_VCMI_0567C98A=Helion (26 zabitych)
+Param/Value/lib_VCMI_06409747=<c val="FF9800">Kerrigan zginęła. Aby ją ożywić, musisz zmutować wylęgarnię.</c>
+Param/Value/lib_VCMI_075E5731=<c val="FFFFFF">Przyzwij dodatkowy <c val="FF9800">pylon</c>, aby zwiększyć ilość zaopatrzenia.</c><n/><n/>Zaopatrzenie pozwala tworzyć więcej jednostek.
+Param/Value/lib_VCMI_0B346668=Typ jednostki z największą liczbą zabitych:
+Param/Value/lib_VCMI_0BBEA80B=Kerrigan została ożywiona w twojej wylęgarni.
+Param/Value/lib_VCMI_10B6CAFF=Typ jednostki z największą liczbą zabitych:
+Param/Value/lib_VCMI_1142C38C=<s val="Swarm_RegularExtendedMedium1">Każ <c val="0088FF">próbnikowi</c> przyzwać <c val="0088FF">pylon</c>, aby zwiększyć ilość zaopatrzenia.</s>
+Param/Value/lib_VCMI_155B4F02=Zasadzka
+Param/Value/lib_VCMI_176E90A7=Kerrigan została ożywiona w twojej wylęgarni.
+Param/Value/lib_VCMI_19071613=[PH] 
+Param/Value/lib_VCMI_19D2DFD7=[%1%]
+Param/Value/lib_VCMI_1B928CD4=Artanis
+Param/Value/lib_VCMI_2004A7F8=Wszystkie twoje budowle zostały zniszczone.
+Param/Value/lib_VCMI_21393D61=Helion (26 zabitych)
+Param/Value/lib_VCMI_21C58550=Minimalizuj
+Param/Value/lib_VCMI_2974025E=Nie uruchomiono
+Param/Value/lib_VCMI_2B927792=Typ jednostki z największą liczbą zabitych:
+Param/Value/lib_VCMI_302D050C=<c val="FF9800">Kerrigan zginęła. Aby ją ożywić, musisz zmutować wylęgarnię.</c>
+Param/Value/lib_VCMI_3437D367=Drzewko technologiczne
+Param/Value/lib_VCMI_38979E15=Dni potrzebne na ukończenie misji:
+Param/Value/lib_VCMI_392837B9=Oszustwa
+Param/Value/lib_VCMI_3A37D98B=Filmik zastępczy
+Param/Value/lib_VCMI_3BCD0A9C=Dostępne są ulepszenia powietrzne
+Param/Value/lib_VCMI_3CD275A3=Dni potrzebne na ukończenie misji:
+Param/Value/lib_VCMI_3DD7FD94=Szybkie tworzenie
+Param/Value/lib_VCMI_3E11C29A=Filmik zastępczy
+Param/Value/lib_VCMI_41DADEA5=Daj mi
+Param/Value/lib_VCMI_4313816A=5 dni
+Param/Value/lib_VCMI_444CF7C1=<c val="FF9800">Kokon Kerrigan umarł. Aby ją ożywić, musisz zmutować wylęgarnię.</c>
+Param/Value/lib_VCMI_46132C97=Artanis
+Param/Value/lib_VCMI_46DF5396=Przekaż graczowi minerały i wespan
+Param/Value/lib_VCMI_4837CBD0=Nie określono nazwy wskazówki.
+Param/Value/lib_VCMI_49506498=Kerrigan została ożywiona w twojej wylęgarni.
+Param/Value/lib_VCMI_4966D256=Maksymalizuj
+Param/Value/lib_VCMI_4A917924=Artanis
+Param/Value/lib_VCMI_4F0C2381={Siege Mode} – {In Siege Mode, Siege Tanks have very long range and inflict area damage.}
+Param/Value/lib_VCMI_507ED1DB=+
+Param/Value/lib_VCMI_52B3321E=Oszustwa w misjach
+Param/Value/lib_VCMI_533821B5=[%4%]
+Param/Value/lib_VCMI_533A7AAD=[%2%]
+Param/Value/lib_VCMI_56BC0721=Artanis
+Param/Value/lib_VCMI_59A400F9=Kontroluj śmierć bohatera:  Określono niestandardową budowlę ożywiania, ale nie żyje.  Anuluję.
+Param/Value/lib_VCMI_5EBE0A4D=Stiukow został ożywiony w twojej wylęgarni.
+Param/Value/lib_VCMI_619B3399=Zamknij
+Param/Value/lib_VCMI_61E64A07=5 dni
+Param/Value/lib_VCMI_621E9839=Helion (26 zabitych)
+Param/Value/lib_VCMI_6316D76C=Helion (26 zabitych)
+Param/Value/lib_VCMI_6A6A7100=<c val="FF9800">Stiukow zginął. Aby go ożywić, musisz wybudować wylęgarnię.</c>
+Param/Value/lib_VCMI_6B4D584A=
+Param/Value/lib_VCMI_758AA553=Nie określono nazwy wskazówki
+Param/Value/lib_VCMI_783D9F58=<c val="FF9800">Fenix zginął. Aby go ożywić, musisz przyzwać nexus.</c>
+Param/Value/lib_VCMI_78D8179B=Fenix powrócił w twoim nexusie.
+Param/Value/lib_VCMI_7935DF9F=Zwycięstwo w kampanii
+Param/Value/lib_VCMI_7A38473E=Zwycięstwo w kampanii
+Param/Value/lib_VCMI_7AA38B9D=~GOAL~
+Param/Value/lib_VCMI_7B05DA52={Kerrigan is killed}
+Param/Value/lib_VCMI_81D737B5=Pokażmapę
+Param/Value/lib_VCMI_8E41D92B=Helion (26 zabitych)
+Param/Value/lib_VCMI_90EC773D=~NAME~
+Param/Value/lib_VCMI_90FAD008=Minimalizuj
+Param/Value/lib_VCMI_97229FB0=Helion (26 zabitych)
+Param/Value/lib_VCMI_9833789C=
+Param/Value/lib_VCMI_9936F703=5 dni
+Param/Value/lib_VCMI_996720D4=
+Param/Value/lib_VCMI_9B66E723={Siege Tank} – od teraz {Factory} może produkować{Siege Tank}.
+Param/Value/lib_VCMI_9F99AFE0=
+Param/Value/lib_VCMI_A4A10BFE=Fenix powrócił w twoim nexusie.
+Param/Value/lib_VCMI_A53A2400=NIE ZNALEZIONO PRZYCISKU
+Param/Value/lib_VCMI_A6D88BA6=Dni potrzebne na ukończenie misji:
+Param/Value/lib_VCMI_A6DADC49=Filmik zastępczy
+Param/Value/lib_VCMI_AAB6F639=
+Param/Value/lib_VCMI_AB191283=5 dni
+Param/Value/lib_VCMI_B116A5EC=Helion (26 zabitych)
+Param/Value/lib_VCMI_B2936857=
+Param/Value/lib_VCMI_B794A490=Dni potrzebne na ukończenie misji:
+Param/Value/lib_VCMI_B8493664=
+Param/Value/lib_VCMI_B98D5E73=-
+Param/Value/lib_VCMI_C010EED9=Tryb boga
+Param/Value/lib_VCMI_C0583117=Dni potrzebne na ukończenie misji:
+Param/Value/lib_VCMI_C27E3E9D=<c val="FF9800">Kokon Kerrigan umarł. Aby ją ożywić, musisz zmutować wylęgarnię.</c>
+Param/Value/lib_VCMI_C3529623=Półmetek misji
+Param/Value/lib_VCMI_C597D3C9=Kerrigan została ożywiona w twojej wylęgarni.
+Param/Value/lib_VCMI_C61F90A6=Stiukow został ożywiony w twojej wylęgarni.
+Param/Value/lib_VCMI_C9DB7502=
+Param/Value/lib_VCMI_CBE06FD6=Otwórz okienko oszustw dla konkretnej misji
+Param/Value/lib_VCMI_CDEC4192=Odblokowano drzewko technologiczne
+Param/Value/lib_VCMI_D2E7A067=Dni potrzebne na ukończenie misji:
+Param/Value/lib_VCMI_D48C033D=5 dni
+Param/Value/lib_VCMI_D8D3C723=Typ jednostki z największą liczbą zabitych:
+Param/Value/lib_VCMI_DCE0A764=Czas odnowienia
+Param/Value/lib_VCMI_E097BCCD=Typ jednostki z największą liczbą zabitych:
+Param/Value/lib_VCMI_E1D6FEA3=Solarytu nie powinno przyznawać się ręcznie na mapie. Prosimy usunąć swoje wezwania „Przekaż graczowi zasoby”.
+Param/Value/lib_VCMI_E3D9543E=Dni potrzebne na ukończenie misji:
+Param/Value/lib_VCMI_E5CED145=-
+Param/Value/lib_VCMI_E7FED887=Odblokuj wymagania drzewka technologicznego
+Param/Value/lib_VCMI_EC26C86E=<s val="ModCenterSize32Bold">DEBUGUJ</s>
+Param/Value/lib_VCMI_EF9ECDE2={Zerutal is killed}
+Param/Value/lib_VCMI_F57F76EC=5 dni
+Param/Value/lib_VCMI_F5967CF5=Typ jednostki z największą liczbą zabitych:
+Param/Value/lib_VCMI_F72DF09B=~CURRENT~
+Param/Value/lib_VCMI_F9C95DE7=[%3%]
+Param/Value/lib_VCST_064A2DC3=Dostępna jest nowa konwersacja.
+Param/Value/lib_VCST_072AF21C=Dostępne są ulepszenia armii.
+Param/Value/lib_VCST_0FA8FF05=Konwersacje
+Param/Value/lib_VCST_1F9F798F=Sceny
+Param/Value/lib_VCST_2F194750=Indeks parametru zdarzeń jest poza granicą.
+Param/Value/lib_VCST_3944A2BA=Podróż nadprzestrzenna
+Param/Value/lib_VCST_3D85F733=Zamknij
+Param/Value/lib_VCST_40E36B28=Dostępna jest nowa konwersacja.
+Param/Value/lib_VCST_527B01E9=Dostępna jest nowa konwersacja.
+Param/Value/lib_VCST_54FF6F53=Nieprzydzielony solaryt.
+Param/Value/lib_VCST_66D216E0=Podróż nadprzestrzenna dostępna.
+Param/Value/lib_VCST_737C1DA2=
+Param/Value/lib_VCST_85CAAA90=Dostępna jest nowa konwersacja.
+Param/Value/lib_VCST_99C6F12D=
+Param/Value/lib_VCST_9FC7B77E=Dostępna jest misja.
+Param/Value/lib_VCST_C5DC5309=Filtr:
+Param/Value/lib_VCST_CAA1F39B=Nie udało się znaleźć konwersacji dla sceny
+Param/Value/lib_VCST_DC70862E=Odtwórz
+Param/Value/lib_VCST_F4E79A35=Dostępna jest nowa konwersacja.
+Param/Value/lib_VCUI_0260CCF2=<s val="ModLeftSize16Bold">Ponowne pojawienie się za:</s>
+Param/Value/lib_VCUI_034F4713=Wybierz całą armię (F2)
+Param/Value/lib_VCUI_04B0AC51=Osiągnięcia
+Param/Value/lib_VCUI_07D69887=Indeks postaci poza granicami. Zwiększ maksymalną liczbę postaci.
+Param/Value/lib_VCUI_0BA26484=Odblokowanie jednostki
+Param/Value/lib_VCUI_0E2F9EB7=Ukończ więcej misji, aby odblokować tę jednostkę.
+Param/Value/lib_VCUI_1B09ADE8=Wybierz całą armię (F2)
+Param/Value/lib_VCUI_31012181=ZABLOKOWANO
+Param/Value/lib_VCUI_5101B237=<h/>Kontynuuj do Włóczni Aduna.
+Param/Value/lib_VCUI_52DAA861=Zatrzymaj, Tonacja
+Param/Value/lib_VCUI_5A02F843=Wybierz całą armię (F2)
+Param/Value/lib_VCUI_5C3EE85B=<s val="StoryModeQuitToLobby">Zakończyć kampanię?</s>
+Param/Value/lib_VCUI_5E53E6DC=WYBIERZ
+Param/Value/lib_VCUI_5F4741E5=Zakończ kampanię.
+Param/Value/lib_VCUI_68164921=Przydzielony<n/>w pełni
+Param/Value/lib_VCUI_697C3682=Pozostały solaryt
+Param/Value/lib_VCUI_6BC5BACA=Wstecz
+Param/Value/lib_VCUI_6EB1BB9A=ZWYCIĘSTWO!
+Param/Value/lib_VCUI_6F2C46AD=Wybierz lokalizację
+Param/Value/lib_VCUI_736D7AB0=
+Param/Value/lib_VCUI_8202FC07=Generator osłon
+Param/Value/lib_VCUI_899CD639=
+Param/Value/lib_VCUI_8ADEBB47=<s val="StoryModeQuitToLobby">Zakończyć kampanię?</s>
+Param/Value/lib_VCUI_8DD0F0DE=<h/>Przejdź do listy twórców.
+Param/Value/lib_VCUI_8DFE4298=Wczytywanie danych...
+Param/Value/lib_VCUI_8ED4DD62=Ukończ więcej misji, aby odblokować rdzeń solarny.
+Param/Value/lib_VCUI_971EB66A=Nowy system Włóczni Aduna
+Param/Value/lib_VCUI_972F2FBA=Misja:
+Param/Value/lib_VCUI_9C7FC355=<h/>Przejdź do listy twórców.
+Param/Value/lib_VCUI_A69D6F2C=Odtwórz, Tonację
+Param/Value/lib_VCUI_A8DB4967=/
+Param/Value/lib_VCUI_AC02B287=<k val="HeroSelect1"/>
+Param/Value/lib_VCUI_ACEB0C45=Boss
+Param/Value/lib_VCUI_B1A0AC53=Statystyki misji
+Param/Value/lib_VCUI_B359FEC6=Zakończyć kampanię?
+Param/Value/lib_VCUI_B4347E4E=Wybierz całą armię (F2)
+Param/Value/lib_VCUI_B5F93D66=<img path="Assets\Textures\ui_void_spearofadun_icon_check.dds" width="80" height="72"/>
+Param/Value/lib_VCUI_BB8EC59F=MISJA UKOŃCZONA
+Param/Value/lib_VCUI_BD1D498C=ZWYCIĘSTWO!
+Param/Value/lib_VCUI_BD4A9747=Podróż
+Param/Value/lib_VCUI_BD8BE4BB=<s val="ModLeftSize16Bold">Ponowne pojawienie się za:</s>
+Param/Value/lib_VCUI_D3588EDE=Nie ukończono
+Param/Value/lib_VCUI_D687F260=ZWYCIĘSTWO!
+Param/Value/lib_VCUI_D9C74198=Ukończ więcej misji, aby odblokować tę opcję.
+Param/Value/lib_VCUI_DD1F6DE6=<k val="HeroSelect0"/>
+Param/Value/lib_VCUI_EA837C11=
+Param/Value/lib_VCUI_ED15A899=Wybierz całą armię (F2)
+Param/Value/lib_VCUI_F2711687=Wybierz całą armię (F2)
+Param/Value/lib_VCUI_F5A56375=Czas misji:
+Param/Value/lib_VCUI_FB61F536=Uwaga: dla każdej jednostki można stworzyć tylko jeden pasek. Poprzedni pasek został usunięty.
+Param/Value/lib_VoiC_08299A3C=Brak mapy
+Param/Value/lib_VoiC_0D362EAF=Wymaga 5 wątków
+Param/Value/lib_VoiC_0DC23CE3=Wczytaj bank danych
+Param/Value/lib_VoiC_0F38C4ED=
+Param/Value/lib_VoiC_12C40E9E=Wczytaj informacje o kampanii Liberty
+Param/Value/lib_VoiC_1332CD31=Brak mapy
+Param/Value/lib_VoiC_13BE3B05=Połowa
+Param/Value/lib_VoiC_156DB19D=Odblokuj
+Param/Value/lib_VoiC_199642BD=Brak mapy
+Param/Value/lib_VoiC_1AC0C55D=Pozwala ci na bezpośredni wybór misji i oznaczenie jej jako normalnie ukończonej. Poprzednie misje zostaną ukończone na podstawie wybranej ścieżki. Ścieżki ułożone są w kolumnach lewej, prawej i środkowej na drzewku misji. 
+Param/Value/lib_VoiC_1AEBEC50=<c val="ff0000">Nie zarejestrowano żadnego stopażu nagrania z przywołaniem. Należy wywołać działanie wyzwalacza „Zapisz nagranie stopażu” w wyzwalaczu mapy „Inicjalizacja mapy”.</c>
+Param/Value/lib_VoiC_1E7C2401=Technologia armii
+Param/Value/lib_VoiC_208828FC=Anuluj
+Param/Value/lib_VoiC_24CDEE60=Opcja przyspieszenia postępów nie jest tutaj dostępna.
+Param/Value/lib_VoiC_253EB9C4=Nie znaleziono banku danych, włączanie ustawień domyślnych.
+Param/Value/lib_VoiC_3347D5AE=Wymaga 2 wątków
+Param/Value/lib_VoiC_34BF09EB=Brak mapy
+Param/Value/lib_VoiC_38ED42A2=
+Param/Value/lib_VoiC_39184915=Włącz
+Param/Value/lib_VoiC_39E8A069=Otwórz technologię SoA
+Param/Value/lib_VoiC_42542011=OK
+Param/Value/lib_VoiC_44175D41=Opcje końcowe gry
+Param/Value/lib_VoiC_447CE194=OK
+Param/Value/lib_VoiC_462A52E0=Powró<h/>t do archiwów
+Param/Value/lib_VoiC_4E67BE7A=<hour/>:<min2/>:<sec2/>
+Param/Value/lib_VoiC_55299EE6=Systemy Włóczni Aduna
+Param/Value/lib_VoiC_55D097EB=Nie można znaleźć banku Liberty
+Param/Value/lib_VoiC_5708D36D=Wymaga 4 wątków
+Param/Value/lib_VoiC_5B69E500=Otwórz banki celem zapisu
+Param/Value/lib_VoiC_61FAE583=Nie można ukończyć kampanii „Legacy of the Void” z wykorzystaniem tego cheatu.
+Param/Value/lib_VoiC_6670EA63=Wczytaj bank kampanii:
+Param/Value/lib_VoiC_6F26B79B=Indeks parametru zdarzeń jest poza granicą.
+Param/Value/lib_VoiC_7343EFEB=Nowy system okrętu
+Param/Value/lib_VoiC_7BCF9B13=OK
+Param/Value/lib_VoiC_7C8EDD75=<s val="ModCenterSize32Bold">DEBUGUJ</s>
+Param/Value/lib_VoiC_7D5318A6=Zastosuj technologię
+Param/Value/lib_VoiC_7E2017AF=Brak
+Param/Value/lib_VoiC_814BFDFA=Brak mapy
+Param/Value/lib_VoiC_81ECCFA0=Brak mapy
+Param/Value/lib_VoiC_8773302A=Wyłącz 
+Param/Value/lib_VoiC_87B797D4=Reset
+Param/Value/lib_VoiC_88E4833D=Bezpośredni wybór misji
+Param/Value/lib_VoiC_8A2E17CD=Brak mapy
+Param/Value/lib_VoiC_8BDD7FCF=Nie można ukończyć kampanii „Legacy of the Void” z wykorzystaniem tego cheatu.
+Param/Value/lib_VoiC_8D985BFF=Anuluj
+Param/Value/lib_VoiC_8DA2DEAD=Aktualizuj dane kampanii
+Param/Value/lib_VoiC_8E3EF1E5=Wymaga 1 wątku
+Param/Value/lib_VoiC_9E2F08E5=Wymaga 6 wątków
+Param/Value/lib_VoiC_A0360684=Wczytaj sekcje misji.
+Param/Value/lib_VoiC_A4F1A203=<min2/>:<sec2/>
+Param/Value/lib_VoiC_A88CC51D=Ukończone zadania dodatkowe:
+Param/Value/lib_VoiC_AD3F2E8D=<c val="DD0000">Zablokowane</c>
+Param/Value/lib_VoiC_B48635CC=Nowy system okrętu
+Param/Value/lib_VoiC_BB484012=Nie udało się otworzyć banku.
+Param/Value/lib_VoiC_C28FFE1C=Brak mapy
+Param/Value/lib_VoiC_C4E15843=Losowo dobiera zarówno jednostki w armii jak i zdolności Włóczni Aduna.
+Param/Value/lib_VoiC_C8262C22=Wszystkie
+Param/Value/lib_VoiC_D0D2756E= <sp/>
+Param/Value/lib_VoiC_D79468A7=Wymaga 1 wątku
+Param/Value/lib_VoiC_DD3C0FEA=Opcje IU
+Param/Value/lib_VoiC_E4A4B715=Brak mapy
+Param/Value/lib_VoiC_E6822961=Brak mapy
+Param/Value/lib_VoiC_EED2BB5F=Anuluj
+Param/Value/lib_VoiC_EF36BB5B=Wymaga wszystkich wątków
+Param/Value/lib_VoiC_F39E4A30=Blokada
+Param/Value/lib_VoiC_F411053C=Brak mapy
+Param/Value/lib_VoiC_F569C4E3=Przyzwij dodatkowe <c val="0088FF">pylon</c>y, aby zwiększyć ilość zaopatrzenia.<n/><n/>Zaopatrzenie pozwala tworzyć więcej jednostek.
+Param/Value/lib_VoiC_F5A62B9A=Losuj
+Param/Value/lib_VoiC_FAFCC3CA=Domyślny postęp technologii
+Param/Value/lib_VoiC_FC723C8E=Wymaga 5 wątków
+Param/Value/lib_VoiC_FD131225=Brak mapy
+UI/GameMenuAbortMission_Control=Powró<H/>t na Włócznię Aduna
+Unit/Name/SMX1HydraliskT1=SMX1 – hydralisk P1
+Unit/Name/SMX2ProtossAlarak=Alarak
+Unit/Name/SMX2ProtossArtanis=Artanis
+Unit/Name/SMX2ProtossCarrier=Lotniskowiec
+Unit/Name/SMX2ProtossColossus=Kolos
+Unit/Name/SMX2ProtossFenixCore=Fenix
+Unit/Name/SMX2ProtossFenixMech=Fenix
+Unit/Name/SMX2ProtossMohandar=Mohandar
+Unit/Name/SMX2ProtossRohana=Rohana
+Unit/Name/SMX2ProtossRohanaNoBraids=Rohana bez warkoczy
+Unit/Name/SMX2ProtossRohannaPossessed=SMX2 Protosi Rohana Opętana
+Unit/Name/SMX2ProtossRohannaPossessedBlend=SMX2 Protosi Rohana Opętana Mieszanie
+Unit/Name/SMX2ProtossSelendis=Selendis
+Unit/Name/SMX2ProtossSmith=Karax
+Unit/Name/SMX2ProtossSmithNoMechBraids=Karax, Brak mechanicznych warkoczy
+Unit/Name/SMX2ProtossStalker=SMX2 – Tropiciel
+Unit/Name/SMX2ProtossTassadar=Tassadar
+Unit/Name/SMX2ProtossTemplar=Templariusz
+Unit/Name/SMX2ProtossVoidRay=Promień otchłani
+Unit/Name/SMX2ProtossVorazun=Vorazun
+Unit/Name/SMX2ProtossZealot=Zelota
+Unit/Name/SMX2ProtossZealotUpgraded=SMX2 – Zelota Ulepszenie
+Unit/Name/SMX2ProtossZeratul=Zeratul
+Unit/Name/SMX2RobotProbe=Protosi Robot Próbnik
+Unit/Name/SMX2ZergKerrigan=Kerrigan
+Unit/Name/SMX2_Aiur03_StarforgeSmoke=SMX2 Aiur03 Gwiezdna Kuźnia Dym
+Unit/Name/SMX2_ArmyRoomSet00=SMX2 – Pomieszczenie armii, Pomieszczenie główne
+Unit/Name/SMX2_ArmyRoomSet01=SMX2 – Pomieszczenie armii, Stół
+Unit/Name/SMX2_ArmyRoomSet02=SMX2 – Pomieszczenie armii, Komora hibernacyjna
+Unit/Name/SMX2_ArmyRoomSet03=SMX2 – Pomieszczenie armii, Wejście
+Unit/Name/SMX2_ArmyRoomSet04=SMX2 – Pomieszczenie armii, Zewnętrze
+Unit/Name/SMX2_ArmyRoomSet05=SMX2 – Pomieszczenie armii Zestaw – 05
+Unit/Name/SMX2_ArmyRoomSet06=SMX2 – Pomieszczenie armii Zestaw – 06
+Unit/Name/SMX2_ArmyRoomSet07=SMX2 – Pomieszczenie armii Zestaw – 07
+Unit/Name/SMX2_ArmyRoomSet08=SMX2 – Pomieszczenie armii Zestaw – 08
+Unit/Name/SMX2_ArmyRoomSet09=SMX2 – Pomieszczenie armii Zestaw – 09
+Unit/Name/SMX2_ArmyRoomSet10=SMX2 – Pomieszczenie armii Zestaw – 10
+Unit/Name/SMX2_ArmyRoomSet11=SMX2 – Pomieszczenie armii Zestaw – 11
+Unit/Name/SMX2_ArmyRoomSet12=SMX2 – Pomieszczenie armii Zestaw – 12
+Unit/Name/SMX2_ArmyRoomSet13=SMX2 – Pomieszczenie armii Zestaw – 13
+Unit/Name/SMX2_ArmyRoomSet14=SMX2 – Pomieszczenie armii Zestaw – 14
+Unit/Name/SMX2_ArmyRoomSet15=SMX2 – Pomieszczenie armii Zestaw – 15
+Unit/Name/SMX2_ArmyRoomSet16=SMX2 – Pomieszczenie armii Zestaw – 16
+Unit/Name/SMX2_ArmyRoomSet17=SMX2 – Pomieszczenie armii Zestaw – 17
+Unit/Name/SMX2_ArmyRoomSet18=SMX2 – Pomieszczenie armii Zestaw – 18
+Unit/Name/SMX2_ArmyRoomSet19=SMX2 – Pomieszczenie armii Zestaw – 19
+Unit/Name/SMX2_ArmyUIUnitCarrier01=ArmiaIUJednostkaLotniskowiec
+Unit/Name/SMX2_ArmyUIUnitCarrier02=ArmiaIUJednostkaLotniskowiec
+Unit/Name/SMX2_ArmyUIUnitCarrier03=ArmiaIUJednostkaLotniskowiec
+Unit/Name/SMX2_ArmyUIUnitColossus01=ArmiaIUJednostkaKolos
+Unit/Name/SMX2_ArmyUIUnitColossus02=ArmiaIUJednostkaKolos
+Unit/Name/SMX2_ArmyUIUnitColossus03=ArmiaIUJednostkaKolos
+Unit/Name/SMX2_ArmyUIUnitDarkTemplar01=ArmiaIUJednostkaMrocznyTemplariusz
+Unit/Name/SMX2_ArmyUIUnitDarkTemplar02=ArmiaIUJednostkaMrocznyTemplariusz
+Unit/Name/SMX2_ArmyUIUnitDarkTemplar03=ArmiaIUJednostkaMrocznyTemplariusz
+Unit/Name/SMX2_ArmyUIUnitHighTemplar01=ArmiaIUJednostkaWysokiTemplariusz
+Unit/Name/SMX2_ArmyUIUnitHighTemplar02=ArmiaIUJednostkaWysokiTemplariusz
+Unit/Name/SMX2_ArmyUIUnitHighTemplar03=ArmiaIUJednostkaWysokiTemplariusz
+Unit/Name/SMX2_ArmyUIUnitImmortal01=ArmiaIUJednostkaNieśmiertelny
+Unit/Name/SMX2_ArmyUIUnitImmortal02=ArmiaIUJednostkaNieśmiertelny
+Unit/Name/SMX2_ArmyUIUnitImmortal03=ArmiaIUJednostkaNieśmiertelny
+Unit/Name/SMX2_ArmyUIUnitLocked=ArmiaIUJednostkaZablokowana
+Unit/Name/SMX2_ArmyUIUnitPhoenix01=ArmiaIUJednostkaFeniks
+Unit/Name/SMX2_ArmyUIUnitPhoenix02=ArmiaIUJednostkaFeniks
+Unit/Name/SMX2_ArmyUIUnitPhoenix03=ArmiaIUJednostkaFeniks
+Unit/Name/SMX2_ArmyUIUnitSentry01=ArmiaIUJednostkaWartownik
+Unit/Name/SMX2_ArmyUIUnitSentry02=ArmiaIUJednostkaWartownik
+Unit/Name/SMX2_ArmyUIUnitSentry03=ArmiaIUJednostkaWartownik
+Unit/Name/SMX2_ArmyUIUnitStalker01=ArmiaIUJednostkaTropiciel
+Unit/Name/SMX2_ArmyUIUnitStalker02=ArmiaIUJednostkaTropiciel
+Unit/Name/SMX2_ArmyUIUnitStalker03=ArmiaIUJednostkaTropiciel
+Unit/Name/SMX2_ArmyUIUnitVoidRay01=ArmiaIUJednostkaPromieńOtchłani
+Unit/Name/SMX2_ArmyUIUnitVoidRay02=ArmiaIUJednostkaPromieńOtchłani
+Unit/Name/SMX2_ArmyUIUnitVoidRay03=ArmiaIUJednostkaPromieńOtchłani
+Unit/Name/SMX2_ArmyUIUnitZealot01=ArmiaIUJednostkaZelota
+Unit/Name/SMX2_ArmyUIUnitZealot02=ArmiaIUJednostkaZelota
+Unit/Name/SMX2_ArmyUIUnitZealot03=ArmiaIUJednostkaZelota
+Unit/Name/SMX2_Background_Aiur_ArmadaAdrift=SMX2 – Tło – Aiur Armada dryfuje
+Unit/Name/SMX2_Background_Aiur_MaxCreep=SMX2 – Tło – Aiur Maks biomasy
+Unit/Name/SMX2_Background_Aiur_Reborn=SMX2 – Tło – Aiur Odrodzenie
+Unit/Name/SMX2_Background_Alpha_BarrenPlanet=SMX2 – Tło – Alfa Jałowa planeta
+Unit/Name/SMX2_Background_Alpha_Revanscar=SMX2 – Tło – Alfa Revanskar
+Unit/Name/SMX2_Background_Alpha_RevanscarDestroyed=SMX2 – Tło – Alfa Revanskar zniszczony
+Unit/Name/SMX2_Background_Korhal_AlphaBattle=SMX2 – Tło – Korhal Alfa Bitwa
+Unit/Name/SMX2_Background_Korhal_AlphaDefending=SMX2 – Tło – Korhal Alfa Obrona
+Unit/Name/SMX2_Background_Nebula_AiurComplete=SMX2 – Tło – Mgławica Aiur Ukończono
+Unit/Name/SMX2_Background_Purifier_Cybros=SMX2 – Tło – Czyściciele Cybros
+Unit/Name/SMX2_Background_Purifier_CybrosMoon=SMX2 – Tło – Czyściciele Cybros Księżyc
+Unit/Name/SMX2_Background_Purifier_Moon=SMX2 – Tło – Czyściciele Księżyć
+Unit/Name/SMX2_Background_Shakuras_Destroyed=SMX2 – Tło – Shakuras zniszczone
+Unit/Name/SMX2_Background_Shakuras_Nebula_Cloud=SMX2 – Tło – Shakuras Mgławica Obłok
+Unit/Name/SMX2_Background_Shakuras_SurfaceWar=SMX2 – Tło – Shakuras Powierzchnia Wojna
+Unit/Name/SMX2_Background_TalDarim_Planet=SMX2 – Tło – TalDarimowie Planeta
+Unit/Name/SMX2_Background_Ulnar_Planet=SMX2 – Tło – Ulnar Planeta
+Unit/Name/SMX2_Bridge00=SMX2 Mostek00
+Unit/Name/SMX2_Bridge01=SMX2 Mostek01
+Unit/Name/SMX2_Bridge02=SMX2 Mostek02
+Unit/Name/SMX2_Bridge03=SMX2 Mostek03
+Unit/Name/SMX2_Bridge04=SMX2 Mostek04
+Unit/Name/SMX2_Bridge05=SMX2 Mostek05
+Unit/Name/SMX2_Bridge06=SMX2 Mostek06
+Unit/Name/SMX2_Bridge07=SMX2 Mostek07
+Unit/Name/SMX2_Bridge08=SMX2 Mostek08
+Unit/Name/SMX2_Bridge09=SMX2 Mostek09
+Unit/Name/SMX2_Bridge10=SMX2 Mostek10
+Unit/Name/SMX2_Bridge11=SMX2 Mostek11
+Unit/Name/SMX2_Bridge12=SMX2 Mostek12
+Unit/Name/SMX2_Bridge13=SMX2 Mostek13
+Unit/Name/SMX2_Bridge14=SMX2 Mostek14
+Unit/Name/SMX2_Bridge15=SMX2 Mostek15
+Unit/Name/SMX2_Bridge16=SMX2 Mostek16
+Unit/Name/SMX2_Bridge17=SMX2 Mostek17
+Unit/Name/SMX2_Bridge18=SMX2 Mostek18
+Unit/Name/SMX2_Bridge19=SMX2 Mostek19
+Unit/Name/SMX2_Bridge_Communicator=SMX2 – Komunikator mostku
+Unit/Name/SMX2_DojoSet00=SMX2 – Dojo Zestaw – 00
+Unit/Name/SMX2_DojoSet01=SMX2 – Dojo Zestaw – 01
+Unit/Name/SMX2_DojoSet02=SMX2 – Dojo Zestaw – 02
+Unit/Name/SMX2_DojoSet03=SMX2 – Dojo Zestaw – 03
+Unit/Name/SMX2_DojoSet04=SMX2 – Dojo Zestaw – 04
+Unit/Name/SMX2_DojoSet05=SMX2 – Dojo Zestaw – 05
+Unit/Name/SMX2_DojoSet06=SMX2 – Dojo Zestaw – 06
+Unit/Name/SMX2_DojoSet07=SMX2 – Dojo Zestaw – 07
+Unit/Name/SMX2_DojoSet08=SMX2 – Dojo Zestaw – 08
+Unit/Name/SMX2_DojoSet09=SMX2 – Dojo Zestaw – 09
+Unit/Name/SMX2_DojoSet10=SMX2 – Dojo Zestaw – 10
+Unit/Name/SMX2_DojoSet11=SMX2 – Dojo Zestaw – 11
+Unit/Name/SMX2_DojoSet12=SMX2 – Dojo Zestaw – 12
+Unit/Name/SMX2_DojoSet13=SMX2 – Dojo Zestaw – 13
+Unit/Name/SMX2_DojoSet14=SMX2 – Dojo Zestaw – 14
+Unit/Name/SMX2_DojoSet15=SMX2 – Dojo Zestaw – 15
+Unit/Name/SMX2_DojoSet16=SMX2 – Dojo Zestaw – 16
+Unit/Name/SMX2_DojoSet17=SMX2 – Dojo Zestaw – 17
+Unit/Name/SMX2_DojoSet18=SMX2 – Dojo Zestaw – 18
+Unit/Name/SMX2_DojoSet19=SMX2 – Dojo Zestaw – 19
+Unit/Name/SMX2_FloatingPlatformA=SMX2 Lewitująca platforma 
+Unit/Name/SMX2_Forge00=SMX2 Kuźnia00
+Unit/Name/SMX2_Forge01=SMX2 Kuźnia01
+Unit/Name/SMX2_Forge02=SMX2 Kuźnia02
+Unit/Name/SMX2_Forge03=SMX2 Kuźnia03
+Unit/Name/SMX2_Forge04=SMX2 Kuźnia04
+Unit/Name/SMX2_Forge05=SMX2 Kuźnia05
+Unit/Name/SMX2_Forge06=SMX2 Kuźnia06
+Unit/Name/SMX2_Forge07=SMX2 Kuźnia07
+Unit/Name/SMX2_Forge08=SMX2 Kuźnia08
+Unit/Name/SMX2_Forge09=SMX2 Kuźnia09
+Unit/Name/SMX2_ForgeSet05=SMX2 – Kuźnia Zestaw – 05
+Unit/Name/SMX2_ForgeSet06=SMX2 – Kuźnia Zestaw – 06
+Unit/Name/SMX2_ForgeSet07=SMX2 – Kuźnia Zestaw – 07
+Unit/Name/SMX2_ForgeSet08=SMX2 – Kuźnia Zestaw – 08
+Unit/Name/SMX2_ForgeSet09=SMX2 – Kuźnia Zestaw – 09
+Unit/Name/SMX2_ForgeSet10=SMX2 – Kuźnia Zestaw – 10
+Unit/Name/SMX2_ForgeSet11=SMX2 – Kuźnia Zestaw – 11
+Unit/Name/SMX2_ForgeSet12=SMX2 – Kuźnia Zestaw – 12
+Unit/Name/SMX2_ForgeSet13=SMX2 – Kuźnia Zestaw – 13
+Unit/Name/SMX2_ForgeSet14=SMX2 – Kuźnia Zestaw – 14
+Unit/Name/SMX2_ForgeSet15=SMX2 – Kuźnia Zestaw – 15
+Unit/Name/SMX2_ForgeSet16=SMX2 – Kuźnia Zestaw – 16
+Unit/Name/SMX2_ForgeSet17=SMX2 – Kuźnia Zestaw – 17
+Unit/Name/SMX2_ForgeSet18=SMX2 – Kuźnia Zestaw – 18
+Unit/Name/SMX2_ForgeSet19=SMX2 – Kuźnia Zestaw – 19
+Unit/Name/SMX2_Hallway00=SMX2_Hallway00
+Unit/Name/SMX2_Hallway01=SMX2_Korytarz01
+Unit/Name/SMX2_Hallway02=SMX2_Korytarz02
+Unit/Name/SMX2_Hallway03=SMX2_Korytarz03
+Unit/Name/SMX2_Hallway04=SMX2_Korytarz04
+Unit/Name/SMX2_Hallway05=SMX2_Korytarz05
+Unit/Name/SMX2_Lore_Console=SMX2 – Konsola fabularna
+Unit/Name/SMX2_OpeningCrawl=SMX2 – Napisy początkowe
+Unit/Name/SMX2_PossessedStasisChamber=SMX2 – Opętani, Komora hibernacyjna
+Unit/Name/SMX2_ShipRoomSet00=SMX2 – Okręt Pomieszczenie Zestaw – 00
+Unit/Name/SMX2_ShipRoomSet01=SMX2 – Okręt Pomieszczenie Zestaw – 01
+Unit/Name/SMX2_ShipRoomSet02=SMX2 – Okręt Pomieszczenie Zestaw – 02
+Unit/Name/SMX2_ShipRoomSet03=SMX2 – Okręt Pomieszczenie Zestaw – 03
+Unit/Name/SMX2_ShipRoomSet04=SMX2 – Okręt Pomieszczenie Zestaw – 04
+Unit/Name/SMX2_ShipRoomSet05=SMX2 – Okręt Pomieszczenie Zestaw – 05
+Unit/Name/SMX2_ShipRoomSet06=SMX2 – Okręt Pomieszczenie Zestaw – 06
+Unit/Name/SMX2_ShipRoomSet07=SMX2 – Okręt Pomieszczenie Zestaw – 07
+Unit/Name/SMX2_ShipRoomSet08=SMX2 – Okręt Pomieszczenie Zestaw – 08
+Unit/Name/SMX2_ShipRoomSet09=SMX2 – Okręt Pomieszczenie Zestaw – 09
+Unit/Name/SMX2_ShipRoomSet10=SMX2 – Okręt Pomieszczenie Zestaw – 10
+Unit/Name/SMX2_ShipRoomSet11=SMX2 – Okręt Pomieszczenie Zestaw – 11
+Unit/Name/SMX2_ShipRoomSet12=SMX2 – Okręt Pomieszczenie Zestaw – 12
+Unit/Name/SMX2_ShipRoomSet13=SMX2 – Okręt Pomieszczenie Zestaw – 13
+Unit/Name/SMX2_ShipRoomSet14=SMX2 – Okręt Pomieszczenie Zestaw – 14
+Unit/Name/SMX2_ShipRoomSet15=SMX2 – Okręt Pomieszczenie Zestaw – 15
+Unit/Name/SMX2_ShipRoomSet16=SMX2 – Okręt Pomieszczenie Zestaw – 16
+Unit/Name/SMX2_ShipRoomSet17=SMX2 – Okręt Pomieszczenie Zestaw – 17
+Unit/Name/SMX2_ShipRoomSet18=SMX2 – Okręt Pomieszczenie Zestaw – 18
+Unit/Name/SMX2_ShipRoomSet19=SMX2 – Okręt Pomieszczenie Zestaw – 19
+Unit/Name/SMX2_ShipRoomSet_Wings=SMX2 – Okręt Pomieszczenie Zestaw – Skrzydła
+Unit/Name/SMX2_ShipRoom_Hologram00=SMX2_ShipRoom_Hologram00
+Unit/Name/SMX2_ShipRoom_Hologram01=SMX2_ShipRoom_Hologram01
+Unit/Name/SMX2_ShipRoom_Hologram02=SMX2_OkrętPomieszczenie_Hologram02
+Unit/Name/SMX2_ShipRoom_Hologram03=SMX2_OkrętPomieszczenie_Hologram03
+Unit/Name/SMX2_ShipRoom_Hologram04=SMX2_OkrętPomieszczenie_Hologram04
+Unit/Name/SMX2_Spear_OrbitalStrike00=SMX2Włócznia Atak z Orbity00
+Unit/Name/SMX2_Spear_OrbitalStrike01=SMX2Włócznia Atak z Orbity01
+Unit/Name/SMX2_Spear_OrbitalStrike02=SMX2Włócznia Atak z Orbity02
+Unit/Name/SMX2_Spear_OrbitalStrike03=SMX2Włócznia Atak z Orbity03
+Unit/Name/SMX2_Spear_OrbitalStrike04=SMX2Włócznia Atak z Orbity04
+Unit/Name/SMX2_Spear_OrbitalStrike05=SMX2Włócznia Atak z Orbity05
+Unit/Name/SMX2_Spear_OrbitalStrike06=SMX2Włócznia Atak z Orbity06
+Unit/Name/SMX2_Spear_OrbitalStrike07=SMX2Włócznia Atak z Orbity07
+Unit/Name/SMX2_Spear_OrbitalStrike08=SMX2Włócznia Atak z Orbity08
+Unit/Name/SMX2_Spear_OrbitalStrike09=SMX2Włócznia Atak z Orbity09
+Unit/Name/SMX2_Spear_OrbitalStrike10=SMX2Włócznia Atak z Orbity10
+Unit/Name/SMX2_Spear_OrbitalStrike11=SMX2Włócznia Atak z Orbity11
+Unit/Name/SMX2_Spear_OrbitalStrike12=SMX2Włócznia Atak z Orbity12
+Unit/Name/SMX2_Spear_OrbitalStrike13=SMX2Włócznia Atak z Orbity13
+Unit/Name/SMX2_Spear_OrbitalStrike14=SMX2Włócznia Atak z Orbity14
+Unit/Name/SMX2_Spear_OrbitalStrike15=SMX2Włócznia Atak z Orbity15
+Unit/Name/SMX2_Spear_OrbitalStrike16=SMX2Włócznia Atak z Orbity16
+Unit/Name/SMX2_Spear_OrbitalStrike17=SMX2Włócznia Atak z Orbity17
+Unit/Name/SMX2_Spear_OrbitalStrike18=SMX2Włócznia Atak z Orbity18
+Unit/Name/SMX2_Spear_OrbitalStrike19=SMX2Włócznia Atak z Orbity19
+Unit/Name/SMX2_StarMap_UI_Mission=SMX2 Mapa gwiezdna IU Misja
+Unit/Name/SMX2_StarMap_UI_Travel=SMX2 MapaGwiezdna IU Podróż
+Unit/Name/SMX2_StarmapUIPlanetAiur=SMX2 Mapagwiezdna IUPlaneta Aiur
+Unit/Name/SMX2_StarmapUIPlanetKorhal=SMX2 Mapagwiezdna IUPlaneta Korhal
+Unit/Name/SMX2_StarmapUIPlanetPurifierA=SMX2 Mapagwiezdna IUPlaneta Czyściciele 
+Unit/Name/SMX2_StarmapUIPlanetPurifierB=SMX2 Mapagwiezdna IUPlaneta Czyściciele 
+Unit/Name/SMX2_StarmapUIPlanetShadow=SMX2 Mapagwiezdna IUPlaneta Cień
+Unit/Name/SMX2_StarmapUIPlanetShakuras=SMX2 Mapagwiezdna IUPlaneta Shakuras
+Unit/Name/SMX2_StarmapUIPlanetTaldarim=SMX2 Mapagwiezdna IUPlaneta Taldarimowie
+Unit/Name/SMX2_StarmapUIPlanetUlnar=SMX2 Mapagwiezdna IUPlaneta Ulnar
+Unit/Name/SMX2_StasisCore00=SMX2 Zastój Rdzeń00
+Unit/Name/SMX2_StasisCore01=SMX2 Zastój Rdzeń01
+Unit/Name/SMX2_StasisCore02=SMX2 Zastój Rdzeń02
+Unit/Name/SMX2_StasisCore03=SMX2 Zastój Rdzeń03
+Unit/Name/SMX2_StasisCore04=SMX2 Zastój Rdzeń04
+Unit/Name/SMX2_StasisCore05=SMX2 Zastój Rdzeń05
+Unit/Name/SMX2_StasisCore06=SMX2 Zastój Rdzeń06
+Unit/Name/SMX2_StasisCore07=SMX2 Zastój Rdzeń07
+Unit/Name/SMX2_StasisCore08=SMX2 Zastój Rdzeń08
+Unit/Name/SMX2_StasisCore09=SMX2 Zastój Rdzeń09
+Unit/Name/SMX2_StasisCore10=SMX2 Zastój Rdzeń10
+Unit/Name/SMX2_StasisCore11=SMX2 Zastój Rdzeń11
+Unit/Name/SMX2_StasisCore12=SMX2 Zastój Rdzeń12
+Unit/Name/SMX2_StasisCore13=SMX2 Zastój Rdzeń13
+Unit/Name/SMX2_StasisCore14=SMX2 Zastój Rdzeń14
+Unit/Name/SMX2_StasisCore15=SMX2 Zastój Rdzeń15
+Unit/Name/SMX2_StasisCore16=SMX2 Zastój Rdzeń16
+Unit/Name/SMX2_StasisCore17=SMX2 Zastój Rdzeń17
+Unit/Name/SMX2_StasisCore18=SMX2 Zastój Rdzeń18
+Unit/Name/SMX2_StasisCore19=SMX2 Zastój Rdzeń19
+Unit/Name/SMX2_StatisCore00=SMX2 - ZastójRdzeń - 00
+Unit/Name/SMX2_StatisCore01=SMX2 - ZastójRdzeń - 01
+Unit/Name/SMX2_StatisCore02=SMX2 - ZastójRdzeń - 02
+Unit/Name/SMX2_StatisCore03=SMX2 - ZastójRdzeń - 03
+Unit/Name/SMX2_StatisCore04=SMX2 - ZastójRdzeń - 04
+Unit/Name/SMX2_StatisCore05=SMX2 - ZastójRdzeń - 05
+Unit/Name/SMX2_StatisCore06=SMX2 - ZastójRdzeń - 06
+Unit/Name/SMX2_StatisCore07=SMX2 - ZastójRdzeń - 07
+Unit/Name/SMX2_StatisCore08=SMX2 - ZastójRdzeń - 08
+Unit/Name/SMX2_StatisCore09=SMX2 - ZastójRdzeń - 09
+Unit/Name/SMX2_StatisCore10=SMX2 - ZastójRdzeń - 10
+Unit/Name/SMX2_StatisCore11=SMX2 - ZastójRdzeń - 11
+Unit/Name/SMX2_StatisCore12=SMX2 - ZastójRdzeń - 12
+Unit/Name/SMX2_StatisCore13=SMX2 - ZastójRdzeń - 13
+Unit/Name/SMX2_StatisCore14=SMX2 - ZastójRdzeń - 14
+Unit/Name/SMX2_StatisCore15=SMX2 - ZastójRdzeń - 15
+Unit/Name/SMX2_StatisCore16=SMX2 - ZastójRdzeń - 16
+Unit/Name/SMX2_StatisCore17=SMX2 - ZastójRdzeń - 17
+Unit/Name/SMX2_StatisCore18=SMX2 - ZastójRdzeń - 18
+Unit/Name/SMX2_StatisCore19=SMX2 - ZastójRdzeń - 19
+Unit/Name/SMX2_XelNaga_Artifact_Possessed=SMX2 Xel Naga Artefakt Opętany
+Unit/Name/SMX2_XelNaga_Artifact_Possessed_Closed=SMX2 Xel Naga Artefakt Opętany Zamknięty
+Unit/Name/SMX2_XelNaga_Artifact_Powerup=SMX2 Xel Naga Artefakt Doładowanie
+Unit/Name/SMX2_XelNaga_Artifact_Powerup_Closed=SMX2 Xel Naga Artefakt Doładowanie Zamknięty
+Unit/Name/SoACaster=Włócznia Aduna, Rzucający
+UserData/ArmyUpgradeCategories/UpgradeCategory1_Name=Aiur
+UserData/ArmyUpgradeCategories/UpgradeCategory2_Name=Nerazimowie
+UserData/ArmyUpgradeCategories/UpgradeCategory3_Name=Czyściciele
+UserData/ArmyUpgradeCategories/UpgradeCategory4_Name=Tal'darimowie
+UserData/CampaignPerk/GPTier1Power1_Name=Przesył Pylonu
+UserData/CampaignPerk/GPTier1Power1_Tooltip=Zużycie energii: <d ref="Abil,SOAProxyPylon,InfoArray[Build1].Vital[Energy]"/> pkt.<n/>Czas odnowienia: <d ref="Abil,SOAProxyPylon,InfoArray[Build1].Cooldown.TimeUse"/> sek.<n/><n/>Szybko przesyła pylon w dowolne, widoczne miejsce.
+UserData/CampaignPerk/GPTier1Power2_Name=Zagięcie Czasoprzestrzeni
+UserData/CampaignPerk/GPTier1Power2_Tooltip=Zużycie energii: <d ref="Abil,SOASuperChrono,Cost[0].Vital[2]"/> pkt.<n/>Czas odnowienia: <d ref="Abil,SOASuperChrono,Cost[0].Cooldown.TimeUse"/> sek.<n/><n/>Zwiększa szybkość przesyłu jednostek i badań w budowli o 1000% na <d time = "20"/>
+UserData/CampaignPerk/GPTier1Power3_Name=Przesył Wsparcia
+UserData/CampaignPerk/GPTier1Power3_Tooltip=Zużycie energii: <d ref="Abil,SOAWarpInReinforcements,InfoArray[Build1].Vital[Energy]"/> pkt.<n/>Czas odnowienia: <d ref="Abil,SOAWarpInReinforcements,InfoArray[Build1].Cooldown.TimeUse"/> sek.<n/><n/>Szybko przesyła pylon oraz 2 wojowników walczących w zwarciu i 2 wojowników walczących z dystansu w dowolne, widoczne miejsce.
+UserData/CampaignPerk/GPTier2Power1_Name=Atak z Orbity
+UserData/CampaignPerk/GPTier2Power1_TargetInstructions=Cele do Ataku z Orbity
+UserData/CampaignPerk/GPTier2Power1_Tooltip=Zużycie energii: <d ref="Abil,SOAOrbitalStrikeActivate,Cost[0].Vital[2]"/> pkt. <n/>Czas odnowienia: <d ref="Abil,SOAOrbitalStrikeActivate,Cost[0].Cooldown.TimeUse"/> sek.<n/><n/>Rozpoczyna ostrzał z orbity z 5 laserów, z których każdy zadaje <d ref="Effect,SOAOrbitalStrikeDamage,Amount"/> pkt. obrażeń na obszarze (<d ref="Effect,SOAOrbitalStrikeDamage,AttributeBonus[Armored]+Effect,SOAOrbitalStrikeDamage,Amount"/> przeciwko celom opancerzonym).
+UserData/CampaignPerk/GPTier2Power2_Name=Pole Czasowe
+UserData/CampaignPerk/GPTier2Power2_TargetInstructions=Wybierz lokalizacje Pól Czasowych
+UserData/CampaignPerk/GPTier2Power2_Tooltip=Zużycie energii: <d ref="Abil,SOAGravitonBombActivate,Cost[0].Vital[2]"/> pkt.<n/>Czas odnowienia: <d ref="Abil,SOAGravitonBombActivate,Cost[0].Cooldown.TimeUse"/> sek.<n/><n/>Tworzy 3 pola czasowe, które na <d ref="Effect,SOAGravitonBombCP,PeriodCount * Effect,SOAGravitonBombCP,PeriodicPeriodArray[0]"/> sek. zatrzymują wrogie jednostki i budowle.<n/><n/><c val="#ColorAttackInfo">Jednostki bohaterskie zostają spowolnione o <d ref="Behavior,SOAGravitonBombHeroicUnit,Modification.AttackSpeedMultiplier * 100"/>%.</c>
+UserData/CampaignPerk/GPTier2Power3_Name=Lanca Solarna
+UserData/CampaignPerk/GPTier2Power3_TargetInstructions=Lokalizacja początkowa Lancy Solarnej
+UserData/CampaignPerk/GPTier2Power3_TargetInstructions_001=Wybierz kierunek Lancy Solarnej
+UserData/CampaignPerk/GPTier2Power3_Tooltip=Zużycie energii: <d ref="Abil,SOAThermalLanceActivate,Cost[0].Vital[Energy]"/> pkt.<n/>Czas odnowienia: <d ref="Abil,SOAThermalLanceActivate,Cost[0].Cooldown.TimeUse"/> sek.<n/><n/>Atakuje wyznaczony obszar potężnym laserem. Wypuszcza 3 wiązki, z których każda zadaje <d ref="Effect,SOAThermalLanceDamage,Amount"/> pkt. obrażeń.
+UserData/CampaignPerk/GPTier3Power1_Name=Przeciążenie Nexusa
+UserData/CampaignPerk/GPTier3Power1_Tooltip=Pozwala nexusowi automatycznie atakować pobliskie jednostki wroga i zadawać <d ref="Effect,MothershipCoreWeaponDamage,Amount"/> pkt. obrażeń.<n/><n/><c val="#ColorAttackInfo">Zdolność pasywna.</c>
+UserData/CampaignPerk/GPTier3Power2_Name=Asymilator Orbitalny
+UserData/CampaignPerk/GPTier3Power2_Tooltip=Włócznia Aduna automatycznie gromadzi wespan z asymilatorów, bez pomocy próbników.<n/><n/><c val="#ColorAttackInfo">Zdolność pasywna.</c>
+UserData/CampaignPerk/GPTier3Power3_Name=Harmonizacja Przesyłu
+UserData/CampaignPerk/GPTier3Power3_Tooltip=Gwiezdne wrota i zakłady robotyki mogą przekształcać się w budowle dysponujące technologią przesyłową. Czasy odnowienia zdolności przesyłu są o 20% krótsze.<n/><n/><c val="#ColorAttackInfo">Zdolność pasywna.</c>
+UserData/CampaignPerk/GPTier4Power1_Name=Przywołanie Zbiorcze
+UserData/CampaignPerk/GPTier4Power1_Tooltip=Zużycie energii: <d ref="Abil,SOARecall,Cost[0].Vital[2]"/> pkt.<n/>Czas odnowienia: <d ref="Abil,SOARecall,Cost[0].Cooldown.TimeUse"/> sek.<n/><n/>Natychmiast teleportuje wszystkie jednostki sojusznicze na wskazanym obszarze do twojego głównego nexusa. Chroni teleportowane jednostki barierą, która absorbuje <d ref="Behavior,SOASuperShield,DamageResponse.ModifyLimit"/> pkt. obrażeń i działa <d ref="Behavior,SOASuperShield,Duration"/> sek.
+UserData/CampaignPerk/GPTier4Power2_Name=Przeciążenie Osłon
+UserData/CampaignPerk/GPTier4Power2_Tooltip=Zużycie energii: <d ref="Abil,SoASuperShield,Cost[0].Vital[2]"/> pkt.<n/>Czas odnowienia: <d ref="Abil,SoASuperShield,Cost[0].Cooldown.TimeUse"/> sek.<n/><n/>Natychmiast daje wszystkim jednostkom sojuszniczym i budowlom barierę, która absorbuje <d ref="Behavior,SOASuperShield,DamageResponse.ModifyLimit"/> pkt. obrażeń i działa <d ref="Behavior,SOASuperShield,Duration"/> sek.
+UserData/CampaignPerk/GPTier4Power3Alt_Name=Przesył Talandara
+UserData/CampaignPerk/GPTier4Power3Alt_Tooltip=Zużycie energii: <d ref="Abil,SOAFenixCalldown,Cost[0].Vital[2]"/> pkt.<n/>Czas odnowienia: <d ref="Abil,SOAFenixCalldown,Cost[0].Cooldown.TimeUse"/> sek.<n/><n/>Wysyła na pole walki Talandara i zadaje 200 pkt. obrażeń wrogim jednostkom w wyznaczonej strefie desantu.<n/><n/>Talandar sam rusza do ataku i wykorzystuje zdolność Tornada, Piorunującej Szarży oraz Kondensatorów Osłon, a po <d time = "30"/> opuszcza pole walki.
+UserData/CampaignPerk/GPTier4Power3_Name=Przesył Feniksa
+UserData/CampaignPerk/GPTier4Power3_Tooltip=Zużycie energii: <d ref="Abil,SOAFenixCalldown,Cost[0].Vital[2]"/> pkt.<n/>Czas odnowienia: <d ref="Abil,SOAFenixCalldown,Cost[0].Cooldown.TimeUse"/> sek.<n/><n/>Wysyła na pole walki Feniksa i zadaje 200 pkt. obrażeń wrogim jednostkom w wyznaczonej strefie desantu.<n/><n/>Fenix sam rusza do ataku i wykorzystuje zdolność Tornada, Piorunującej Szarży oraz Kondensatorów Osłon, a po <d time = "30"/> wycofuje się z pola walki.
+UserData/CampaignPerk/GPTier5Power1_Name=Przeciążenie Matrycy
+UserData/CampaignPerk/GPTier5Power1_Tooltip=Wszystkie jednostki sojusznicze znajdujące się w polu zasilającym pylonu otrzymują <d ref="Behavior,MatrixOverloadTarget,Modification.MoveSpeedMultiplier*100-100"/>% premii do szybkości ruchu i <d ref="Behavior,MatrixOverloadTarget,Modification.AttackSpeedMultiplier*100-100"/>% premii do szybkości ataku.<n/><n/>Efekt utrzymuje się maksymalnie <d ref="Behavior,MatrixOverloadTarget,Duration"/> sek. po opuszczeniu pola.<n/><n/><c val="#ColorAttackInfo">Zdolność pasywna.</c>
+UserData/CampaignPerk/GPTier5Power2_Name=Powłoka Obronna
+UserData/CampaignPerk/GPTier5Power2_Tooltip=Sprawia, że gdy jednostki sojusznicze otrzymują zabójcze obrażenia, na <d time = "5"/> stają się niemożliwe do zabicia. Każda jednostka może zostać osłoniona tylko raz na <d time = "60"/><n/><n/><c val="#ColorAttackInfo">Zdolność pasywna.</c>
+UserData/CampaignPerk/GPTier5Power3_Name=Promień Regenerujący
+UserData/CampaignPerk/GPTier5Power3_Tooltip=Włócznia Aduna automatycznie naprawia uszkodzenia jednostek mechanicznych w wysokości <d ref="Effect,SOARepairBeamHeal,RechargeVitalRate"/> pkt. wytrzymałości co sekundę oraz <d ref="Effect,SOARepairBeamHealStructure,RechargeVitalRate"/> pkt. w przypadku budowli.<n/><n/>Jednocześnie może naprawiać maksymalnie 3 cele.<n/><n/><c val="#ColorAttackInfo">Zdolność pasywna.</c>
+UserData/CampaignPerk/GPTier6Power1_Name=Promień Oczyszczenia
+UserData/CampaignPerk/GPTier6Power1_TargetInstructions=Wybierz cel Promienia
+UserData/CampaignPerk/GPTier6Power1_Tooltip=Zużycie energii: <d ref="Abil,SOAPurifierBeam,Cost[0].Vital[2]"/> pkt.<n/>Czas odnowienia: <d ref="Abil,SOAPurifierBeam,Cost[0].Cooldown.TimeUse"/> sek.<n/><n/>Włócznia Aduna strzela w powierzchnię promieniem, którym można sterować i który zadaje <d ref="Effect,SOAPurifierBeamDamage,Amount*Behavior,SOAPurifierBeamFiring,Duration*(1/Behavior,SOAPurifierBeamFiring,Period)"/> pkt. obrażeń (<d ref="(Effect,SOAPurifierBeamDamage,Amount+Effect,SOAPurifierBeamDamage,AttributeBonus[Armored])*Behavior,SOAPurifierBeamFiring,Duration*(1/Behavior,SOAPurifierBeamFiring,Period)"/> pkt. celom opancerzonym) w ciągu <d ref="Behavior,SOAPurifierBeamFiring,Duration"/> sek.<n/><n/>Promień automatycznie wybiera cele, jeśli nie jest sterowany ręcznie.
+UserData/CampaignPerk/GPTier6Power2_Name=Zatrzymanie Czasu
+UserData/CampaignPerk/GPTier6Power2_Tooltip=Zużycie energii: <d ref="Abil,SOATimeFreeze,Cost[0].Vital[2]"/> pkt.<n/>Czas odnowienia: <d ref="Abil,SOATimeFreeze,Cost[0].Cooldown.TimeUse"/> sek.<n/><n/>Na <d ref="Behavior,SOATimeFreeze,Duration"/> sek. zatrzymuje w czasie wszystkie wrogie jednostki i budowle.
+UserData/CampaignPerk/GPTier6Power3_Name=Bombardowanie Solarne
+UserData/CampaignPerk/GPTier6Power3_TargetInstructions=Lokalizacja początkowa ataku
+UserData/CampaignPerk/GPTier6Power3_TargetInstructions_001=Wybierz kierunek ataku
+UserData/CampaignPerk/GPTier6Power3_Tooltip=Zużycie energii: <d ref="Abil,SOAStrafeAttackActivate,Cost[0].Vital[2]"/> pkt.<n/>Czas odnowienia: <d ref="Abil,SOAStrafeAttackActivate,Cost[0].Cooldown.TimeUse"/> sek.<n/><n/>Bombarduje wskazany obszar przez <d time = "15"/> i oddaje losowe strzały (<d ref="(Behavior,SOAStrafeAttack,Duration/Behavior,SOAStrafeAttack,Period)"/>), z których każdy zadaje <d ref="Effect,SOAStrafeAttackDamage,Amount"/> pkt. obrażeń na obszarze (<d ref="(Effect,SOAStrafeAttackDamage,Amount) + (Effect,SOAStrafeAttackDamage,AttributeBonus[Armored])"/> pkt. celom opancerzonym).
+UserData/CampaignPerkGroup/GPType1_Name=Matryca fabrykacyjna
+UserData/CampaignPerkGroup/GPType1_Prefix=1. 
+UserData/CampaignPerkGroup/GPType2_Name=Systemy bojowe
+UserData/CampaignPerkGroup/GPType2_Prefix=2. 
+UserData/CampaignPerkGroup/GPType3_Name=Rdzeń solarny
+UserData/CampaignPerkGroup/GPType3_Prefix=3. 
+UserData/CampaignPerkGroup/GPType4_Name=Systemy obronne
+UserData/CampaignPerkGroup/GPType4_Prefix=4. 
+UserData/CampaignPerkGroup/GPType5_Name=Wsparcie armii
+UserData/CampaignPerkGroup/GPType5_Prefix=5. 
+UserData/CampaignPerkGroup/GPType6_Name=Systemy anihilacyjne
+UserData/CampaignPerkGroup/GPType6_Prefix=6. 
+UserData/CampaignTips/Alarak_Description=Alarak jest Wielkim Wodzem tal'darimów. To potężny wojownik walczący w zwarciu, który rusza do walki i odrzuca całe grupy wrogów. Jego życie i osłony są przywracane, gdy w pobliżu zginie wroga jednostka biologiczna.
+UserData/CampaignTips/Alarak_Name=Alarak
+UserData/CampaignTips/Alarak_Prefix=Bohater
+UserData/CampaignTips/AlliedProtoss_Description=Alarak, Vorazun i Karax dowodzą swoimi frakcjami na powierzchni broniąc Ogniwa.
+UserData/CampaignTips/AlliedProtoss_Name=Protoscy sojusznicy
+UserData/CampaignTips/AlliedProtoss_Prefix=Wskazówka
+UserData/CampaignTips/AmonHostBody_Description=Tworzony przez Amona nosiciel jest niemal gotowy. Trzeba go zniszczyć, zanim się przebudzi. Jednak nie można go zranić, dopóki nie zostanie wystawiony na atak.
+UserData/CampaignTips/AmonHostBody_Name=Ciało nosiciela
+UserData/CampaignTips/AmonHostBody_Prefix=Wskazówka
+UserData/CampaignTips/AmonVoidChasms_Description=Czeluść otchłani to kocioł energii, który tworzy armie Amona. Zniszczenie go zmniejszy liczbę ataków wroga na twoją bazę, dopóki czeluść się nie zregeneruje.
+UserData/CampaignTips/AmonVoidChasms_Name=Czeluście otchłani
+UserData/CampaignTips/AmonVoidChasms_Prefix=Jednostka
+UserData/CampaignTips/AmonVoidConstructs_Description=Amon nieustannie wzywa twory otchłani, aby przeszkodzić ci w postępach. Szczególnie uważaj na twory nicości, które będą próbować unieruchomić twoją armię i przywracają wytrzymałość innym kryształom otchłani.
+UserData/CampaignTips/AmonVoidConstructs_Name=Twory otchłani
+UserData/CampaignTips/AmonVoidConstructs_Prefix=Jednostka
+UserData/CampaignTips/AmonVoidCrystals_Description=Kryształy otchłani Amona należy zniszczyć, aby unieszkodliwić jego bariery. Kryształy są jednak wystawione na atak wyłącznie wtedy, gdy pozostawiają Amona, by zebrać więcej mocy. Zachowaj ostrożność, gdy je atakujesz, ponieważ ich nieokiełznana energia będzie powoli zadawać obrażenia twoim jednostkom.
+UserData/CampaignTips/AmonVoidCrystals_Name=Kryształy otchłani
+UserData/CampaignTips/AmonVoidCrystals_Prefix=Jednostka
+UserData/CampaignTips/Artanis_Description=Artanis jest hierarchą protosów. To potężny wojownik walczący w zwarciu. Może ranić i ogłuszać wrogów oraz leczyć siebie i swoich sojuszników.
+UserData/CampaignTips/Artanis_Name=Artanis
+UserData/CampaignTips/Artanis_Prefix=Bohater
+UserData/CampaignTips/AttackMove_Description=Naciśnij klawisz A, a następnie kliknij LPM miejsce na ziemi, aby wydać rozkaz ruchu z atakiem. Wybrane jednostki zaczną przemieszczać się do wskazanego punktu i zaatakują każdego wroga, którego napotkają po drodze.
+UserData/CampaignTips/AttackMove_Name=Ruch z atakiem
+UserData/CampaignTips/AttackMove_Prefix=Komenda
+UserData/CampaignTips/Carrier_Description=Duży okręt wojenny, który może budować przechwytywacze i posyłać je do ataku na wrogie jednostki powietrzne i naziemne. Budowa przechwytywaczy nie zużywa surowców.
+UserData/CampaignTips/Carrier_Name=Lotniskowiec
+UserData/CampaignTips/Carrier_Prefix=Jednostka
+UserData/CampaignTips/ChronoBoost_Description=Przyśpiesza upływ czasu we wskazanej budowli, co zwiększa szybkość przesyłu i badań o <d ref="((Behavior,TimeWarpProduction,Modification.TimeScale) - 1) * 100"/>%.
+UserData/CampaignTips/ChronoBoost_Name=Zagięcie czasoprzestrzeni
+UserData/CampaignTips/ChronoBoost_Prefix=Zdolność
+UserData/CampaignTips/Colossus_Description=Bojowa maszyna krocząca zadające ogromne obrażenia obszarowe. Potrafi również pokonywać klify.
+UserData/CampaignTips/Colossus_Name=Kolos
+UserData/CampaignTips/Colossus_Prefix=Jednostka
+UserData/CampaignTips/CybrosLocks_Description=Sieć zastoju na Cybrosie utrzymywana jest przez kilka blokad. Należy je unieszkodliwić, aby uzyskać dostęp do stacji.
+UserData/CampaignTips/CybrosLocks_Name=Blokada statyczna
+UserData/CampaignTips/CybrosLocks_Prefix=Wskazówka
+UserData/CampaignTips/CybrosShieldEmitter_Description=Sieć zastoju na Cybrosie utrzymywana jest przez kilka blokad. Należy je unieszkodliwić, aby uzyskać dostęp do stacji.
+UserData/CampaignTips/CybrosShieldEmitter_Name=Blokada statyczna
+UserData/CampaignTips/CybrosShieldEmitter_Prefix=Wskazówka
+UserData/CampaignTips/DarkTemplar_Description=Zamaskowana jednostka walcząca w zwarciu, która zadaje bardzo duże obrażenia.
+UserData/CampaignTips/DarkTemplar_Name=Mroczny templariusz
+UserData/CampaignTips/DarkTemplar_Prefix=Jednostka
+UserData/CampaignTips/DisplacementBeam_Description=Wiązka dyslokacyjna tal'darimów atakuje powierzchnię planety z wysokiej orbity. Promień ten zadaje duże obrażenia i należy go za wszelką cenę unikać.
+UserData/CampaignTips/DisplacementBeam_Name=Wiązka dyslokacyjna
+UserData/CampaignTips/DisplacementBeam_Prefix=Wskazówka
+UserData/CampaignTips/DisruptionNova_Description=Hybrydy przekierowują energię do Ogniwa i wywołują w ten sposób zakłócenia, które obezwładniają wszystkie siły terran.
+UserData/CampaignTips/DisruptionNova_Name=Obezwładnienie terran
+UserData/CampaignTips/DisruptionNova_Prefix=Wskazówka
+UserData/CampaignTips/Disruption_Prefix=Wskazówka
+UserData/CampaignTips/Energize_Name=Energetyzacja
+UserData/CampaignTips/F2_Description=Jeśli naciśniesz klawisz F2, wybierzesz wszystkie jednostki bojowe znajdujące się pod twoją kontrolą.
+UserData/CampaignTips/F2_Name=Klawisz F2
+UserData/CampaignTips/F2_Prefix=Komenda
+UserData/CampaignTips/Feedback_Description=Pozbawia cel całej energii. Zadaje 1 pkt. obrażeń za każdy odebrany punkt energii.
+UserData/CampaignTips/Feedback_Name=Sprzężenie zwrotne
+UserData/CampaignTips/Feedback_Prefix=Zdolność
+UserData/CampaignTips/Fenix_Description=Fenix to sztuczna inteligencja czyścicieli umieszczona w ciele potężnego robota. Gdy rusza do walki, zadaje obrażenia wszystkim wrogom w pobliżu. Jego osłony można w pełni przywrócić, gdy się wyczerpią.
+UserData/CampaignTips/Fenix_Name=Fenix
+UserData/CampaignTips/Fenix_Prefix=Bohater
+UserData/CampaignTips/ForceField_Description=Bariera, która powstrzymuje ruch jednostek naziemnych i działa przez <d time="15"/> Jednostki masywne rozbijają pola siłowe przy kontakcie.
+UserData/CampaignTips/ForceField_Name=Pole siłowe
+UserData/CampaignTips/ForceField_Prefix=Zdolność
+UserData/CampaignTips/GuardianShield_Description=Tworzy aurę o zasięgu 4, która redukuje o 2 pkt. wszystkie obrażenia zadawane jednostkom sojuszniczym. Działa <d time="15"/>
+UserData/CampaignTips/GuardianShield_Name=Osłona strażnicza
+UserData/CampaignTips/GuardianShield_Prefix=Zdolność
+UserData/CampaignTips/High Templar_Description=Potężny wojownik psioniczny potrafiący rozpętywać burze psionicznie i wykorzystujący sprzężenie zwrotne.
+UserData/CampaignTips/High Templar_Name=Wysoki templariusz
+UserData/CampaignTips/High Templar_Prefix=Jednostka
+UserData/CampaignTips/HighTemplar_Description=Potężny wojownik psioniczny potrafiący rozpętywać burze psionicznie i wykorzystujący sprzężenie zwrotne. Dwóch wysokich templariuszy może scalić się w archonta.
+UserData/CampaignTips/HighTemplar_Name=Wysoki templariusz
+UserData/CampaignTips/HighTemplar_Prefix=Jednostka
+UserData/CampaignTips/HybridBehemoth_Description=Monstrualna hybryda o potężnych zdolnościach i dużej ilości punktów życia.
+UserData/CampaignTips/HybridBehemoth_Name=Hybryda behemot
+UserData/CampaignTips/HybridBehemoth_Prefix=Jednostka
+UserData/CampaignTips/HybridDominator_Description=Potężna, bojowa jednostka psioniczna. Może atakować jednostki naziemne i powietrzne.
+UserData/CampaignTips/HybridDominator_Name=Hybryda dominator
+UserData/CampaignTips/HybridDominator_Prefix=Jednostka
+UserData/CampaignTips/HybridNemesis_Description=Latająca hybryda potrafią doprowadzać do zastoju budowli.
+UserData/CampaignTips/HybridNemesis_Name=Hybryda nemezis
+UserData/CampaignTips/HybridNemesis_Prefix=Jednostka
+UserData/CampaignTips/Immortal_Description=Cybernetyczna, szturmowa jednostka krocząca, która potrafi tworzyć barierę absorbującą obrażenia.
+UserData/CampaignTips/Immortal_Name=Nieśmiertelny
+UserData/CampaignTips/Immortal_Prefix=Jednostka
+UserData/CampaignTips/Karax_Description=Karax to fazmator templariuszy. Potrafi przejąć kontrolą nad jednostkami robotycznymi i budowlami oraz wytwarzać pole zasilające, które zwiększa szybkość ataków i produkcji.
+UserData/CampaignTips/Karax_Name=Karax
+UserData/CampaignTips/Karax_Prefix=Bohater
+UserData/CampaignTips/KerriganAscended_Description=Wyniesienie Kerrigan dało jej niezwykłe, nowe moce. Jak najczęściej wykorzystuj Astralną Aurę, aby podtrzymywać siły swoich oddziałów; Biomasową Teleportację, aby szybko przemierzać mapę oraz Promień Kwantowy i Unicestwienie, aby niszczyć swoich wrogów.
+UserData/CampaignTips/KerriganAscended_Name=Wyniesiona Kerrigan
+UserData/CampaignTips/KerriganAscended_Prefix=Bohater
+UserData/CampaignTips/KerriganAstralRadiance_Name=Astralny blask
+UserData/CampaignTips/KerriganAstralRadiance_Prefix=Zdolność
+UserData/CampaignTips/KerriganCelestialBeam_Description=Kerrigan wypuszcza wiązkę czystej energii xel'naga, która gwałtownie zadaje obrażenia. Celem może być każda jednostka widziana przez Kerrigan.
+UserData/CampaignTips/KerriganCelestialBeam_Name=Niebiański Promień
+UserData/CampaignTips/KerriganCelestialBeam_Prefix=Zdolność
+UserData/CampaignTips/KerriganCelestialRadiance_Description=Leczy <d ref="Effect,KerriganEpilogue03HealBig,VitalArray[Life].Change"/> pkt. życia Kerrigan i <d ref="Effect,KerriganEpilogue03HealSmall,VitalArray[Life].Change"/> pkt. życia pobliskich jednostek sojuszniczych w dużym promieniu.
+UserData/CampaignTips/KerriganCelestialRadiance_Name=Astralna Aura
+UserData/CampaignTips/KerriganCelestialRadiance_Prefix=Zdolność
+UserData/CampaignTips/KerriganCreepTeleport_Description=Kerrigan teleportuje siebie i wszystkie pobliskie jednostki zergów znajdujące się w dużym promieniu wokół niej w dowolne miejsce na mapie pokryte biomasą. <n/><n/><c val="#ColorAttackInfo">Nie teleportuje robotnic i nadrządców.</c>
+UserData/CampaignTips/KerriganCreepTeleport_Name=Biomasowa Teleportacja
+UserData/CampaignTips/KerriganCreepTeleport_Prefix=Zdolność
+UserData/CampaignTips/KerriganExtinction_Description=Kerrigan podtrzymuje niebiańską energię przez <d ref="Effect,KerriganEpilogue03Extinction,PeriodicPeriodArray[1]"/> sek., po czym zadaje wszystkim przeciwnikom na mapie <d ref="Effect,KerriganEpilogue03ExtinctionPulseDamageNormal,Amount"/> pkt. obrażeń. Wszystkie istoty z Otchłani zostają natychmiast unicestwione.
+UserData/CampaignTips/KerriganExtinction_Name=Unicestwienie
+UserData/CampaignTips/KerriganExtinction_Prefix=Zdolność
+UserData/CampaignTips/KerriganQuantumRay_Description=Kerrigan doładowuje a następnie wypuszcza we wskazaną jednostkę promień energii, który zadaje <d ref="Effect,KerriganEpilogue03QuantumRayDamage,Amount*Effect,KerriganEpilogue03QuantumRayDamageCP,PeriodCount"/> pkt. obrażeń.
+UserData/CampaignTips/KerriganQuantumRay_Name=Promień Kwantowy
+UserData/CampaignTips/KerriganQuantumRay_Prefix=Zdolność
+UserData/CampaignTips/Kerrigan_Description=Kerrigan to Królowa Ostrzy i przywódczyni roju zergów. To potężna wojowniczka atakująca z dystansu, która może razić wielu przeciwników jednocześnie i wzywać tępiciele. 
+UserData/CampaignTips/Kerrigan_Name=Kerrigan
+UserData/CampaignTips/Kerrigan_Prefix=Bohater
+UserData/CampaignTips/MovingPlatform_Description=Twoja baza znajduje się na ruchomej platformie. Do sterowania platformą służą przyciski w prawej, górnej części ekranu.
+UserData/CampaignTips/MovingPlatform_Name=Ruchoma platforma
+UserData/CampaignTips/MovingPlatform_Prefix=Wskazówka
+UserData/CampaignTips/Narud_Description=Najbardziej oddany sługa Amona żyje nadal w Otchłani. Odrzucił pozory i przybrał swą prawdziwą postać. To groźny przeciwnik.
+UserData/CampaignTips/Narud_Name=Narud
+UserData/CampaignTips/Narud_Prefix=Jednostka
+UserData/CampaignTips/NullCircuit_Description=Każdy kwadrant Cybrosu utrzymywany jest w zastoju przez trzy obwody nicości. Zniszczenie obwodów pozwoli reaktywować kwadrant.
+UserData/CampaignTips/NullCircuit_Name=Obwód nicości
+UserData/CampaignTips/NullCircuit_Prefix=Jednostka
+UserData/CampaignTips/OrbitalStrike_Description=Oddaje salwy z Włóczni Aduna, z których każda zadaje średnie obrażenia na niewielkim obszarze.
+UserData/CampaignTips/OrbitalStrike_Name=Atak z Orbity
+UserData/CampaignTips/OrbitalStrike_Prefix=Zdolność
+UserData/CampaignTips/Phoenix_Description=Myśliwiec przewagi powietrznej uzbrojony w zdolność tymczasowego unieszkodliwiania przeciwników wiązką grawitonową.
+UserData/CampaignTips/Phoenix_Name=Feniks
+UserData/CampaignTips/Phoenix_Prefix=Jednostka
+UserData/CampaignTips/PhotonCannon_Description=Automatyczna budowla obronna, która atakuje znajdujące się w swym zasięgu wrogie jednostki powietrzne i naziemne. Aby działa fotonowe funkcjonowały, należy rozmieszczać je w obrębie pól zasilających pylonów.
+UserData/CampaignTips/PhotonCannon_Name=Działo fotonowe
+UserData/CampaignTips/PhotonCannon_Prefix=Budowla
+UserData/CampaignTips/PlanetCracker_Description=Łamacz planet tal'darimów bombarduje planetę z wysokiej orbity. Atak ten zadaje duże obrażenia i należy go za wszelką cenę unikać.
+UserData/CampaignTips/PlanetCracker_Name=Łamacz planet
+UserData/CampaignTips/PlanetCracker_Prefix=Wskazówka
+UserData/CampaignTips/ProxyPylon_Description=Przyzywa pylon w dowolne, widoczne miejsce na mapie.
+UserData/CampaignTips/ProxyPylon_Name=Przesył Pylonu
+UserData/CampaignTips/ProxyPylon_Prefix=Zdolność
+UserData/CampaignTips/Psi Storm_Description=Rozpętuje burzę energii psionicznej, która trwa 4 sek. i zadaje 80 pkt. obrażeń wszystkim wrogim jednostkom. Nie zadaje obrażeń jednostkom sojuszniczym.
+UserData/CampaignTips/Psi Storm_Name=Burza psioniczna
+UserData/CampaignTips/Psi Storm_Prefix=Zdolność
+UserData/CampaignTips/PsiStorm_Description=Tworzy burzę energii psionicznej, która trwa 4 sek. i zadaje do 80 pkt. obrażeń wszystkim jednostkom na wskazanym obszarze. Nie obejmuje jednostek sojuszniczych.
+UserData/CampaignTips/PsiStorm_Name=Burza psioniczna
+UserData/CampaignTips/PsiStorm_Prefix=Zdolność
+UserData/CampaignTips/PsychicDuel_Description=Alarak i Ma'lash toczą zacięty i wyrównany pojedynek psioniczny. Każdy z nich może jednak otrzymać wsparcie psioniczne od pobliskich sojuszników, które pomoże zepchnąć rywala.
+UserData/CampaignTips/PsychicDuel_Name=Rak'Shir
+UserData/CampaignTips/PsychicDuel_Prefix=Wskazówka
+UserData/CampaignTips/PurifierContainmentTower_Description=W każdym kwadrancie Cybrosu znajduje się wieża ograniczająca czyścicieli. Zasilenie kwadrantu zasili również wieżę i aktywuje znajdujących się wewnątrz czyścicieli.
+UserData/CampaignTips/PurifierContainmentTower_Name=Wieża ograniczająca czyścicieli
+UserData/CampaignTips/PurifierContainmentTower_Prefix=Wskazówka
+UserData/CampaignTips/PurifierCoreMatrix_Description=Matryca rdzenia czyścicieli to centralna budowla zasilająca Cybrosu. Jeśli zostanie zniszczona, podobny los czeka całą stację.
+UserData/CampaignTips/PurifierCoreMatrix_Name=Matryca rdzenia czyścicieli
+UserData/CampaignTips/PurifierCoreMatrix_Prefix=Jednostka
+UserData/CampaignTips/PurifierMegalith_Description=Megalit to urządzenie czyścicieli pozwalające odpieczętować Cybros. Megalit musi dotrzeć do blokad statycznych i wyłączyć je, aby umożliwić dostęp do stacji. Urządzenie jest całkowicie bezpieczne podczas dezaktywowania każdej z blokad.
+UserData/CampaignTips/PurifierMegalith_Name=Megalit
+UserData/CampaignTips/PurifierMegalith_Prefix=Jednostka
+UserData/CampaignTips/PurifierWarden_Description=W każdym kwadrancie Cybrosu znajdują się wieże przetrzymujące czyścicieli. Aktywowanie każdego kwadrantu reaktywuje również siły czyścicieli w znajdującej się tam wieży.
+UserData/CampaignTips/PurifierWarden_Name=Strażnik czyścicieli
+UserData/CampaignTips/PurifierWarden_Prefix=Wskazówka
+UserData/CampaignTips/Reinforcements_Description=Po drodze napotkać można sojusznicze oddziały. Pamiętaj, aby dodać je do swojej armii za pomocą klawisza F2.
+UserData/CampaignTips/Reinforcements_Name=Wsparcie
+UserData/CampaignTips/Reinforcements_Prefix=Wskazówka
+UserData/CampaignTips/SampleTip_Description=Próbny opis wskazówki.
+UserData/CampaignTips/SampleTip_Name=Próbna nazwa wskazówki
+UserData/CampaignTips/SampleTip_Prefix=Próbka
+UserData/CampaignTips/Sentry_Description=Jednostka manipulująca energią. Korzysta z osłony strażniczej i doładowania osłon, aby wspierać i chronić sojuszników.
+UserData/CampaignTips/Sentry_Name=Wartownik
+UserData/CampaignTips/Sentry_Prefix=Jednostka
+UserData/CampaignTips/ShadowScrambler_Description=Zagłuszacze EMP emitują w regularnych odstępach czasu impulsy elektromagnetyczny, które w gwałtownym tempie wyczerpują osłony protosów na dużym obszarze.
+UserData/CampaignTips/ShadowScrambler_Name=Zagłuszacz EMP
+UserData/CampaignTips/ShadowScrambler_Prefix=Wskazówka
+UserData/CampaignTips/ShieldBattery_Description=Budowla obronna, która przywraca osłony jednostkom i budowlom znajdującym się w zasięgu.
+UserData/CampaignTips/ShieldBattery_Name=Generator osłon
+UserData/CampaignTips/ShieldBattery_Prefix=Budowla
+UserData/CampaignTips/ShieldRecharge_Description=Doładowuje osłony sojuszniczej jednostki protosów. <n/><n/><c val="f078ff">Przywraca <d ref="Effect,VoidSentryShieldRepair,RechargeVitalRate*Effect,VoidSentryShieldRepair,DrainVitalCostFactor"/> pkt. osłon za 1 pkt. energii.</c>
+UserData/CampaignTips/ShieldRecharge_Name=Doładowanie osłon
+UserData/CampaignTips/ShieldRecharge_Prefix=Zdolność
+UserData/CampaignTips/ShieldRestore_Description=Doładowuje osłony sojuszniczej jednostki protosów. <n/><n/><c val="f078ff">Przywraca <d ref="Effect,VoidSentryShieldRepair,RechargeVitalRate*Effect,VoidSentryShieldRepair,DrainVitalCostFactor"/> pkt. osłon za 1 pkt. energii.</c>
+UserData/CampaignTips/ShieldRestore_Name=Przywrócenie osłon
+UserData/CampaignTips/ShieldRestore_Prefix=Zdolność
+UserData/CampaignTips/SlaynElemental_Description=Żywiołaki ze Slayn to duże, skaliste stwory, które pochłaniają energię z materii organicznej i nieorganicznej. Są bogatym źródłem solarytu.
+UserData/CampaignTips/SlaynElemental_Name=Żywiołak ze Slayn
+UserData/CampaignTips/SlaynElemental_Prefix=Jednostka
+UserData/CampaignTips/Stalker_Description=Krocząca maszyna wsparcia, uzbrojona w rozszczepiacz cząsteczkowy, który pozwala atakować z dystansu jednostki naziemne i powietrzne.
+UserData/CampaignTips/Stalker_Name=Tropiciel
+UserData/CampaignTips/Stalker_Prefix=Jednostka
+UserData/CampaignTips/Stargate_Description=Umożliwia przyzywanie jednostek powietrznych protosów.
+UserData/CampaignTips/Stargate_Name=Gwiezdne wrota
+UserData/CampaignTips/Stargate_Prefix=Budowla
+UserData/CampaignTips/Tab_Description=Za pomocą klawisza Tab możesz przełączać się między wybranymi jednostkami. Jest to przydatne, jeśli chcesz szybko przełączać się między Artanisem i Kerrigan.
+UserData/CampaignTips/Tab_Name=klawisz Tab
+UserData/CampaignTips/Tab_Prefix=Komenda
+UserData/CampaignTips/TechStructureDestroyed_Description=Zniszczeniu uległa budowla zapewniająca nowe technologie! Zalecane jest jej odbudowanie z pomocą jednego z próbników.
+UserData/CampaignTips/TechStructureDestroyed_Name=Budowla technologiczna zniszczona
+UserData/CampaignTips/TechStructureDestroyed_Prefix=Ostrzeżenie
+UserData/CampaignTips/TerrazineFog_Description=Na planecie Slayn cyklicznie podnosi się i opada mgła terrazytowa. Tal'darimowie wykorzystują ją, aby wzywać posiłki z Otchłani.
+UserData/CampaignTips/TerrazineFog_Name=Mgła terrazytowa
+UserData/CampaignTips/TerrazineFog_Prefix=Wskazówka
+UserData/CampaignTips/VoidCorruption_Description=Z iglic wydobywają się mroczne obłoki niebezpiecznej energii. Zniszcz iglice, aby rozproszyć obłoki energii i zabezpieczyć przyczółek.
+UserData/CampaignTips/VoidCorruption_Name=Spaczenie otchłani
+UserData/CampaignTips/VoidCorruption_Prefix=Wskazówka
+UserData/CampaignTips/VoidRay_Description=Statek do uderzeń precyzyjnych uzbrojony w potężną wiązkę pryzmatyczną, której siła wzrasta im dłużej atakuje ona cel.
+UserData/CampaignTips/VoidRay_Name=Promień otchłani
+UserData/CampaignTips/VoidRay_Prefix=Jednostka
+UserData/CampaignTips/VoidRift_Description=Szczeliny z ciemną materią, w których bez końca przyzywane są armie powstałe z eteru Otchłani.
+UserData/CampaignTips/VoidRift_Name=Szczelina otchłani
+UserData/CampaignTips/VoidRift_Prefix=Wskazówka
+UserData/CampaignTips/VoidShard_Description=Twory te chronią i żywią ciało nosiciela Amona. Wytwarzana przez nie energia otchłani zadaje obrażenia wszystkim wrogim jednostkom w pobliżu. Zniszcz odłamki, a osłabisz ciało nosiciela i będzie można go zniszczyć.
+UserData/CampaignTips/VoidShard_Name=Odłamek otchłani
+UserData/CampaignTips/VoidShard_Prefix=Wskazówka
+UserData/CampaignTips/VoidTendril_Description=Konstrukcje te utrzymują i żywią ciało nosiciela. Zniszcz je, a osłabisz nosiciela i będzie można go zniszczyć.
+UserData/CampaignTips/VoidTendril_Name=Odłamek otchłani
+UserData/CampaignTips/VoidTendril_Prefix=Wskazówka
+UserData/CampaignTips/VoidThrasher_Description=Monstra powstałe z woli Amona w Otchłani. Ich potężne ataki zadają obrażenia wszystkim przeciwnikom na dużym obszarze i z dużej odległości.
+UserData/CampaignTips/VoidThrasher_Name=Molochy otchłani
+UserData/CampaignTips/VoidThrasher_Prefix=Wskazówka
+UserData/CampaignTips/Vorazun_Description=Vorazun to matriarchini nerazimów. Jest zabójczynią korzystającą z maskowania, która potrafi się teleportować i błyskawicznie atakować wrogów. Gdy pozostaje niewykryta, jej osłony szybko się regenerują.
+UserData/CampaignTips/Vorazun_Name=Vorazun
+UserData/CampaignTips/Vorazun_Prefix=Bohater
+UserData/CampaignTips/WarpGate_Description=Bramy można transformować we wrota przesyłowe, które pozwalają na przesył jednostek w dowolne miejsce objęte polem zasilającym pylonu.
+UserData/CampaignTips/WarpGate_Name=Wrota przesyłowe
+UserData/CampaignTips/WarpGate_Prefix=Budowla
+UserData/CampaignTips/XelNagaConstruct_Description=Drzwi świątyni strzegą potężne twory xel'naga. Ich pokonanie pozwoli zdobyć klucze i uzyskać dostęp do Komnat Objawienia.
+UserData/CampaignTips/XelNagaConstruct_Name=Twór xel'naga
+UserData/CampaignTips/XelNagaConstruct_Prefix=Jednostka
+UserData/CampaignTips/XelNagaTempleDoorKeys_Description=Te dziwne klucze to jedyny sposób na otwarcie wrót świątyni xel'naga.
+UserData/CampaignTips/XelNagaTempleDoorKeys_Name=Klucz do wrót świątyni xel'naga
+UserData/CampaignTips/XelNagaTempleDoorKeys_Prefix=Wskazówka
+UserData/CampaignTips/XelNagaTempleDoor_Description=Wejścia do każdej z komnat wyniesienia odgradzają Artanisowi nieprzekraczalne wrota. Do ich otwarcia potrzebne są klucze.
+UserData/CampaignTips/XelNagaTempleDoor_Name=Wrota świątyni xel'naga
+UserData/CampaignTips/XelNagaTempleDoor_Prefix=Wskazówka
+UserData/CampaignTips/Zealot_Description=Potężny wojownik walczący w zwarciu i uzbrojony w dwa ostrza psioniczne.
+UserData/CampaignTips/Zealot_Name=Zelota
+UserData/CampaignTips/Zealot_Prefix=Jednostka
+UserData/CampaignTips/Zoanthisk_Description=Zoantyski to duże, pierwotne stwory, które pochłaniają energię z materii organicznej i nieorganicznej. Są świetnym źródłem solarytu.
+UserData/CampaignTips/Zoanthisk_Name=Zoantysk
+UserData/CampaignTips/Zoanthisk_Prefix=Jednostka
+UserData/CampaignUnitAbilities/AdeptPsionicTransfer_Name=Transfer psioniczny
+UserData/CampaignUnitAbilities/AdeptPsionicTransfer_TooltipDescription=Czas odnowienia: <d ref="Abil,AdeptPhaseShift,Cost[0].Cooldown.TimeUse"/> sek.<n/><n/>Rzuca niewrażliwy na ataki cień, który może się poruszać, ale nie atakować. Przeciwnicy, którzy dotkną cienia otrzymują dodatkowe <d ref="Effect,AdeptPsionicTransferDamage,Amount"/> pkt. obrażeń ze wszystkich źródeł przez <d ref="Behavior,AdeptPsionicTransferDamageDebuff,Duration"/> sek.<n/><n/>Po <d ref="Behavior,AdeptPhaseShiftTimer,Duration"/> sek. od aktywacji zdolności, adept teleportuje się do miejsca, w którym znajduje się cień.<n/><n/>Zdolność można anulować po aktywacji.
+UserData/CampaignUnitAbilities/CarrierBuildInterceptor_Name=Budowa przechwytywacza
+UserData/CampaignUnitAbilities/CarrierBuildInterceptor_TooltipDescription=<img path="Assets\Textures\icon-time-protoss.dds" height="24" width="24"/> <d ref="Abil,CarrierHangarVoid,InfoArray[Ammo1].Time"/> sek.<n/><n/>Tworzy przechwytywacze, które automatycznie atakują cele lotniskowca. Bez przechwytywaczy okręt nie może atakować.
+UserData/CampaignUnitAbilities/CarrierRepairDrone_Name=Roboty naprawcze
+UserData/CampaignUnitAbilities/CarrierRepairDrone_TooltipDescription=<n/>Dwa roboty naprawcze automatycznie usuwają uszkodzenia pobliskich jednostek mechanicznych znajdujących się w pobliżu lotniskowca.<n/><n/><c val="#ColorAttackInfo">Zdolność pasywna.</c>
+UserData/CampaignUnitAbilities/ColossusBurningBeam_Name=Ognista wiązka
+UserData/CampaignUnitAbilities/ColossusBurningBeam_TooltipDescription=<n/>Ataki podpalają ziemię i zadają dodatkowe <d ref="Effect,ThermalLancesFireBeamDamage,Amount*Effect,ThermalLancesFireBeamCP,PeriodCount"/> pkt. obrażeń wrogim jednostkom naziemnym przez <d ref="Effect,ThermalLancesFireBeamCP,PeriodCount*Effect,ThermalLancesFireBeamCP,PeriodicPeriodArray[0]"/> sek.<n/><n/><c val="#ColorAttackInfo">Zdolność pasywna.</c>
+UserData/CampaignUnitAbilities/ColossusCliffWalk_Name=Klifołaz
+UserData/CampaignUnitAbilities/ColossusCliffWalk_TooltipDescription=<n/>Ta jednostka potrafi pokonywać klify.<n/><n/><c val="#ColorAttackInfo">Zdolność pasywna.</c>
+UserData/CampaignUnitAbilities/ColossusDisruptorChargedBlast_Name=Wybuch energii
+UserData/CampaignUnitAbilities/ColossusDisruptorChargedBlast_TooltipDescription=<n/>Atakuje pojedynczą jednostkę lub budowlę i zadaje duże obrażenia. Może atakować w ruchu. Zadaje dodatkowe obrażenia budowlom.<n/><n/><c val="#ColorAttackInfo">Zdolność pasywna.</c>
+UserData/CampaignUnitAbilities/ColossusReaverWeapon_Name=Strzał skarabeuszowy
+UserData/CampaignUnitAbilities/ColossusReaverWeapon_TooltipDescription=<img path="Assets\Textures\icon-time-protoss.dds" height="24" width="24"/> <d ref="Abil,ReaverHangar,InfoArray[Ammo1].Time"/><n/><n/>Tworzy skarabeusze, które automatycznie atakują cel rozrywacza i wybuchają zadając duże obrażenia obszarowe. Skarabeusze zadają dodatkowe obrażenia budowlom.
+UserData/CampaignUnitAbilities/DarkTemplarCloak_Name=Stałe maskowanie
+UserData/CampaignUnitAbilities/DarkTemplarCloak_TooltipDescription=<n/>Ta jednostka dysponuje stałym maskowaniem.<n/><n/><c val="#ColorAttackInfo">Zdolność pasywna.</c>
+UserData/CampaignUnitAbilities/DarkTemplarMindControl_Name=Stwórz cienie
+UserData/CampaignUnitAbilities/DarkTemplarMindControl_TooltipDescription=<n/>Wrogowie, którym jednostka ta zadała obrażenia, zostaną po śmierci cieniami i będą przez krótki atakować swoich sojuszników.<n/><n/>Zdolność pasywna.
+UserData/CampaignUnitAbilities/DarkTemplarRecallOnDeath_Name=Przywołanie awaryjne
+UserData/CampaignUnitAbilities/DarkTemplarRecallOnDeath_TooltipDescription=<n/>Mściciel, który otrzyma śmiertelne obrażenia, zostaje automatycznie przywołany do mrocznej świątyni i odzyskuje wszystkie punkty osłon oraz życia. Nie może mieć to miejsca częściej niż raz na <d ref="Behavior,DarkTemplarRecentlyRecalled,Cost.Cooldown.TimeStart"/> sek.<n/><n/><c val="#ColorAttackInfo">Zdolność pasywna.</c>
+UserData/CampaignUnitAbilities/DarkTemplarShadowFury_Name=Furia cieni
+UserData/CampaignUnitAbilities/DarkTemplarShadowFury_TooltipDescription=Czas odnowienia: <d ref="Abil,DarkTemplarShadowFury,Cost[0].Cooldown.TimeUse"/> sek.<n/><n/>Mroczny templariusz przeskakuje od celu do celu <d ref="Behavior,DarkTemplarShadowFuryController,PeriodCount+1"/> razy, zadając każdym ciosem <d ref="Effect,DarkTemplarShadowFuryDamage,Amount"/> pkt. obrażeń.
+UserData/CampaignUnitAbilities/DarkTemplarStasis_Name=Zastój otchłani
+UserData/CampaignUnitAbilities/DarkTemplarStasis_TooltipDescription=Czas odnowienia: <d ref="Abil,DarkTemplarVoidStasis,Cost[0].Cooldown.TimeUse"/> sek.<n/><n/>Na <d ref="Behavior,DarkTemplarVoidStasis,Duration"/> sek. więzi wskazaną jednostkę w zastoju otchłani.<n/><n/>Zdolność całkowicie uniemożliwia wskazanej jednostce atakowanie, korzystanie ze zdolności, poruszanie się, wykrywanie, produkcję oraz korzystanie z technologii. Jednostek i budowli znajdujących się w zastoju nie można atakować ani wykorzystywać na nich zdolności.<n/><n/><c val="#ColorAttackInfo">Może więzić jednostki naziemne i budowle.</c>
+UserData/CampaignUnitAbilities/HighTemplarArchonMerge_Name=Scalenie w archonta
+UserData/CampaignUnitAbilities/HighTemplarArchonMerge_TooltipDescription=<img path="Assets\Textures\icon-time-protoss.dds" height="24" width="24"/> <d ref="Abil,ArchonWarp,Info.Time"/> sek.<n/><n/>Dwóch templariuszy poświęca się, aby stworzyć archonta.<n/><n/>Archontowie to potężni, psioniczni wojownicy, którzy mogą atakować jednostki naziemne oraz powietrzne i zadają dodatkowe obrażenia jednostkom biologicznym.
+UserData/CampaignUnitAbilities/HighTemplarConfusion_Name=Zamęt
+UserData/CampaignUnitAbilities/HighTemplarConfusion_TooltipDescription=<img path="Assets\Textures\icon-energy-protoss.dds" height="24" width="24"/> <d ref="Abil,DarkArchonConfusion,Cost[0].Vital[Energy]"/><n/>Czas odnowienia: <d ref="Abil,DarkArchonConfusion,Cost[0].Cooldown.TimeUse"/> sek.<n/><n/>Zmusza wrogie jednostki na wskazanym obszarze, aby atakowały się nawzajem przez <d ref="Behavior,DarkArchonConfusion,Duration"/> sek.<n/><n/><c val="#ColorAttackInfo">Nie działa na jednostki bohaterskie.</c>
+UserData/CampaignUnitAbilities/HighTemplarFeedback_Name=Sprzężenie zwrotne
+UserData/CampaignUnitAbilities/HighTemplarFeedback_TooltipDescription=<img path="Assets\Textures\icon-energy-protoss.dds" height="24" width="24"/> <d ref="Abil,Feedback,Cost[0].Vital[Energy]"/> pkt.<n/><n/>Pozbawia cel całej energii. Zadaje <d ref="Effect,Feedback,VitalFractionCurrent[Energy]"/> pkt. obrażeń za każdy odebrany punkt energii.
+UserData/CampaignUnitAbilities/HighTemplarMindBlast_Name=Wybuch umysłu
+UserData/CampaignUnitAbilities/HighTemplarMindBlast_TooltipDescription=<img path="Assets\Textures\icon-energy-protoss.dds" height="24" width="24"/> <d ref="Abil,VoidHighTemplarMindBlast,Cost[0].Vital[Energy]"/><n/>Czas odnowienia: <d ref="Abil,VoidHighTemplarMindBlast,Cost[0].Cooldown.TimeUse"/><n/><n/>Zadaje <d ref="Effect,VoidHighTemplarMindBlastDamage,Amount"/> pkt. obrażeń wskazanej jednostce wroga.
+UserData/CampaignUnitAbilities/HighTemplarMindControl_Name=Kontrola umysłu
+UserData/CampaignUnitAbilities/HighTemplarMindControl_TooltipDescription=<img path="Assets\Textures\icon-energy-protoss.dds" height="24" width="24"/> <d ref="Abil,DarkArchonMindControl,Cost[0].Vital[Energy]"/><n/>Czas odnowienia: <d ref="Abil,DarkArchonMindControl,Cost[0].Cooldown.TimeUse"/> sek.<n/><n/>Na stałe przejmuje kontrolę nad wskazaną jednostką wroga.<n/><n/><c val="#ColorAttackInfo">Nie działa na jednostki bohaterskie.</c>
+UserData/CampaignUnitAbilities/HighTemplarPlasmaSurge_Name=Napływ plazmy
+UserData/CampaignUnitAbilities/HighTemplarPlasmaSurge_TooltipDescription=</n>Burza psioniczna przywraca <d ref="((Effect,HighArchonPsiStormPersistent,PeriodCount+1)*(Effect,HighArchonPsiStormHeal,RechargeVitalRate))/2"/> pkt. osłon jednostkom sojuszniczym znajdującym się na wskazanym obszarze.<c/><n/><n/><c val="#ColorAttackInfo">Zdolność pasywna.</c>
+UserData/CampaignUnitAbilities/HighTemplarPsiOrb_Name=Kula psioniczna
+UserData/CampaignUnitAbilities/HighTemplarPsiOrb_TooltipDescription=<img path="Assets\Textures\icon-energy-protoss.dds" height="24" width="24"/> <d ref="Abil,VoidHighTemplarPsiOrb,Cost[0].Vital[Energy]"/><n/>Czas odnowienia: <d ref="Abil,VoidHighTemplarPsiOrb,Cost[0].Cooldown.TimeUse"/>
+UserData/CampaignUnitAbilities/HighTemplarPsionicOrb_Name=Kula psioniczna
+UserData/CampaignUnitAbilities/HighTemplarPsionicOrb_TooltipDescription=<img path="Assets\Textures\icon-energy-protoss.dds" height="24" width="24"/> <d ref="Abil,VoidHighTemplarPsiOrb,Cost[0].Vital[Energy]"/><n/>Czas odnowienia: <d ref="Abil,VoidHighTemplarPsiOrb,Cost[0].Cooldown.TimeUse"/><n/><n/>Wypuszcza poruszającą się kulę psioniczną, która zadaje <d ref="Effect,VoidHighTemplarPsiOrbDamage,Amount/Effect,VoidHighTemplarPsiOrbPersistent,PeriodicPeriodArray[0]"/> pkt. obrażeń na sekundę wszystkim wrogom znajdującym się na jej drodze.
+UserData/CampaignUnitAbilities/HighTemplarPsionicStorm_Name=Burza psioniczna
+UserData/CampaignUnitAbilities/HighTemplarPsionicStorm_TooltipDescription=<img path="Assets\Textures\icon-energy-protoss.dds" height="24" width="24"/> <d ref="Abil,HighArchonPsiStorm,Cost[0].Vital[Energy]"/></n></n>Tworzy burzę energii psionicznej, która trwa <d time="4"/> i zadaje do 80 pkt. obrażeń wszystkim jednostkom na obszarze docelowym za wyjątkiem jednostek sojuszniczych.
+UserData/CampaignUnitAbilities/HighTemplarSacrifice_Name=Ofiara
+UserData/CampaignUnitAbilities/HighTemplarSacrifice_TooltipDescription=Czas odnowienia: <d ref="Abil,AscendantSacrifice,Cost[0].Cooldown.TimeUse"/> sek.<n/><n/>Zmniejsza ilość życia wskazanej jednostki sojuszniczej do <d ref="Effect,AscendantSacrificeDamage,Amount"/> pkt. (nie wpływa na osłony).<n/><n/>Dodaje wyniesionemu <d ref="Effect,AscendantSacrificeDamage25,LeechFraction[Energy]"/> pkt. energii za każdy odebrany punkt życia, aż do osiągnięcia maksimum energii.<n/><n/><c val="#ColorAttackInfo">Celem mogą być wyłącznie jednostki sojusznicze.</c>
+UserData/CampaignUnitAbilities/ImmortalBarrier_Name=Bariera
+UserData/CampaignUnitAbilities/ImmortalBarrier_TooltipDescription=Czas odnowienia: <d ref="Abil,ImmortalOverload,Cost[0].Cooldown.TimeUse"/> sek.</n></n>Absorbuje maksymalnie <d ref="Behavior,ImmortalBarrierBase,DamageResponse.ModifyLimit"/> pkt. obrażeń. Działa <d ref="Behavior,ImmortalOverload,Duration"/> sek.
+UserData/CampaignUnitAbilities/ImmortalImprovedBarrier_Name=Ulepszona bariera
+UserData/CampaignUnitAbilities/ImmortalImprovedBarrier_TooltipDescription=</n>Zwiększa o 100% ilość obrażeń absorbowanych przez barierę nieśmiertelnego.</n></n><c val="#ColorAttackInfo">Zdolność pasywna.</c>
+UserData/CampaignUnitAbilities/ImmortalScatterCannon_Name=Działo rozrzucające
+UserData/CampaignUnitAbilities/ImmortalScatterCannon_TooltipDescription=<n/>Ataki zadają obrażenia wskazanej, wrogiej jednostce naziemnej i pobliskim jednostkom naziemnym wroga.<n/><n/><c val="#ColorAttackInfo">Zdolność pasywna.</c>
+UserData/CampaignUnitAbilities/ImmortalShadowCannon_Name=Działo cieni
+UserData/CampaignUnitAbilities/ImmortalShadowCannon_TooltipDescription=Czas odnowienia: <d ref="Abil,ImmortalShakurasShadowCannon,Cost[0].Cooldown.TimeUse"/> sek.<n/><n/>Zadaje <d ref="Effect,ImmortalShakurasShadowCannonDamage,Amount*Effect,ImmortalShakurasShadowCannonCP,PeriodCount"/> pkt. obrażeń wskazanej jednostce lub budowli. <n/><n/><c val="#ColorAttackInfo">Może atakować jednostki naziemne i powietrzne.</c>
+UserData/CampaignUnitAbilities/MothershipBlackHole_Name=Czarna dziura
+UserData/CampaignUnitAbilities/MothershipBlackHole_TooltipDescription=<img path="Assets\Textures\icon-energy-protoss.dds" height="24" width="24"/> <d ref="Abil,VoidSentryBlackHole,Cost[0].Vital[Energy]"/> pkt.<n/><n/>Ogłusza na <d ref="Effect,VoidSentryBlackHolePersistent,PeriodCount*Effect,VoidSentryBlackHolePersistent,PeriodicPeriodArray[0]"/> sek. wrogie jednostki znajdujące się na wskazanym obszarze.
+UserData/CampaignUnitAbilities/MothershipBlink_Name=Mignięcie
+UserData/CampaignUnitAbilities/MothershipBlink_TooltipDescription=Czas odnowienia: <d ref="Abil,SOAMothershipBlink,Cost[0].Cooldown.TimeUse"/><n/><n/>Powoduje teleportację do wskazanego miejsca.
+UserData/CampaignUnitAbilities/MothershipThermalLance_Name=Lanca termiczna
+UserData/CampaignUnitAbilities/MothershipThermalLance_TooltipDescription=<img path="Assets\Textures\icon-energy-protoss.dds" height="24" width="24"/> <d ref="Abil,SOAMothershipLineAttack,Cost[0].Vital[Energy]"/> pkt.<n/><n/>Zadaje <d ref="Effect,SOAMothershipLineAttackDamage,Amount"/> pkt. obrażeń wszystkim wrogom w linii prostej w maksymalnej odległości 10.
+UserData/CampaignUnitAbilities/PhoenixDisruptionWeb_Name=Sieć zakłócająca
+UserData/CampaignUnitAbilities/PhoenixDisruptionWeb_TooltipDescription=Czas odnowienia: <d ref="Abil,CorsairMPDisruptionWeb,Cost[0].Cooldown.TimeUse"/> sek.<n/><n/>Przez <d ref="Effect,CorsairMPDisruptionWebCreatePersistent,PeriodCount * Effect,CorsairMPDisruptionWebCreatePersistent,PeriodicPeriodArray[0]"/> sek. uniemożliwia atakowanie wszystkim wrogim jednostkom i budowlom na wskazanym obszarze.
+UserData/CampaignUnitAbilities/PhoenixGravitonBeam_Name=Wiązka grawitonowa
+UserData/CampaignUnitAbilities/PhoenixGravitonBeam_TooltipDescription=Czas odnowienia: <d ref="Abil,GravitonBeamVoidCampaign,Cost[0].Cooldown.TimeUse"/> sek.<n/><n/>Unosi wrogą jednostkę naziemną w powietrze i uniemożliwia jej korzystanie ze zdolności oraz atakowanie przez <d ref="Behavior,GravitonBeamVoidCampaign,Duration"/> sek. W tym czasie może być atakowana jak jednostka powietrzna.<n/><n/><c val="#ColorAttackInfo">Nie działa na jednostki masywne.</c>
+UserData/CampaignUnitAbilities/PhoenixGravitonDamage_Name=Podwójna wiązka grawitonowa
+UserData/CampaignUnitAbilities/PhoenixGravitonDamage_TooltipDescription=<n/>Wiązka grawitonowa obejmuje dodatkową jednostkę naziemną w pobliżu celu głównego.<n/><n/><c val="#ColorAttackInfo">Zdolność bierna.</c>
+UserData/CampaignUnitAbilities/PhoenixPhasingArmor_Name=Pancerz fazowy
+UserData/CampaignUnitAbilities/PhoenixPhasingArmor_TooltipDescription=<n/>Kiedy miraż otrzyma obrażenia, przenosi się poza wymiar, co chroni go przed atakami przez następne <d ref="Behavior,VoidPhoenixPhasingArmorBuff,Duration"/> sek. Zdolność można aktywować tylko raz na <d ref="Behavior,VoidPhoenixPhasingArmor,DamageResponse.Cost.Cooldown.TimeUse"/> sek.<n/><n/><c val="#ColorAttackInfo">Zdolność pasywna.</c>
+UserData/CampaignUnitAbilities/SentryChronoBeam_Name=Chronowiązka
+UserData/CampaignUnitAbilities/SentryChronoBeam_TooltipDescription=<img path="Assets\Textures\icon-energy-protoss.dds" height="24" width="24"/> <d ref="Abil,VoidSentryChronoBeam,Cost[0].Vital[Energy]"/> pkt.<n/><n/>Zwiększa szybkość ataku i ruchu wskazanej jednostki sojuszniczej o <d ref="Behavior,VoidSentryChronoBeam,Modification.AdditiveAttackSpeedFactor * 100"/>% na <d ref="Behavior,VoidSentryChronoBeam,Duration"/> sek.
+UserData/CampaignUnitAbilities/SentryGuardianShield_Name=Osłona strażnicza
+UserData/CampaignUnitAbilities/SentryGuardianShield_TooltipDescription=Czas odnowienia: <d ref="Abil,GuardianShieldVoid,Cost[0].Cooldown.TimeUse"/> sek.<n/><n/>Tworzy aurę o zasięgu <d ref="Effect,GuardianShieldSearch,AreaArray[0].Radius"/>, która zmniejsza obrażenia zadawane jednostkom sojuszniczym o <d ref="-Behavior,GuardianShield,DamageResponse.ModifyAmount"/> pkt. Działa <d ref="Effect,GuardianShieldPersistent,PeriodicPeriodArray[0]*Effect,GuardianShieldPersistent,PeriodCount"/> sek.
+UserData/CampaignUnitAbilities/SentryObserverForceField_Name=Pole siłowe
+UserData/CampaignUnitAbilities/SentryObserverForceField_TooltipDescription=<img path="Assets\Textures\icon-energy-protoss.dds" height="24" width="24"/> <d ref="Abil,ForceFieldMonitor,Cost[0].Vital[Energy]"/><n/><n/>Tworzy barierę, która przez <d ref="Behavior,ForceFieldFate,Duration"/> sek. powstrzymuje ruch jednostek naziemnych.<n/><n/><c val="#ColorAttackInfo">Jednostki masywne rozbijają pola siłowe przy kontakcie.</c>
+UserData/CampaignUnitAbilities/SentryObserverSquadSight_Name=Obserwacja celów
+UserData/CampaignUnitAbilities/SentryObserverSquadSight_TooltipDescription=<n/>Zwiększa zasięg ataku wszystkich pobliskich jednostek sojuszniczych o <d ref="Behavior,ObserverSquadSight,Modification.RangedWeaponRange"/>.<n/><n/><c val="#ColorAttackInfo">Zdolność pasywna.</c>
+UserData/CampaignUnitAbilities/SentryObserverTargetLock_Name=Namierzenie celu
+UserData/CampaignUnitAbilities/SentryObserverTargetLock_TooltipDescription=Czas odnowienia: <d ref="Abil,ObserverTargetLock,Cost[0].Cooldown.TimeUse"/> sek.<n/><n/>Zwiększa obrażenia zadawane wskazanej jednostce wroga o <d ref="Behavior,ObserverTargetLock,Modification.DamageTakenFraction[Splash]*100"/>%. Efekt utrzymuje się, dopóki chaotyk namierza cel.
+UserData/CampaignUnitAbilities/SentryPhasingMode_Name=Tryb fazowania
+UserData/CampaignUnitAbilities/SentryPhasingMode_TooltipDescription=<n/>Transformuje energetyzator i powoduje, że wytwarza on wokół siebie pole zasilające podobnie jak pylon. W tym trybie jednostka traci możliwość ruchu.
+UserData/CampaignUnitAbilities/SentryReplicate_Name=Replikacja
+UserData/CampaignUnitAbilities/SentryReplicate_TooltipDescription=Replikant zamienia się na 60 sek. w kopię wskazanej jednostki. Jeśli replikant zginie lub czas działania zdolności upłynie, wróci on do swojej normalnej postaci.
+UserData/CampaignUnitAbilities/SentryShieldRecharge_Name=Podwójne doładowanie osłon
+UserData/CampaignUnitAbilities/SentryShieldRecharge_TooltipDescription=<n/>Doładowuje osłony dwóch sojuszniczych jednostek protosów.<n/><n/><c val="f078ff">Odnawia <d ref="Effect,VoidSentryShieldRepair,RechargeVitalRate*Effect,VoidSentryShieldRepair,DrainVitalCostFactor"/> pkt. osłon za każdy punkt energii.</c>
+UserData/CampaignUnitAbilities/ShadowCharge_Name=Szarża cieni
+UserData/CampaignUnitAbilities/ShadowCharge_TooltipDescription=<n/>Szarża maskuje zelotę i pozwala mu przenikać przez jednostki. Zdolność ogłusza cele znajdujące się na obszarze jej działania na 5 sek.
+UserData/CampaignUnitAbilities/StalkerBlinkShieldRestore_Name=Reaktor fazowy
+UserData/CampaignUnitAbilities/StalkerBlinkShieldRestore_TooltipDescription=</n>Użycie przez tropicieli zdolności mignięcia przywraca im <d ref="Effect,VoidStalkerBlinkRestoreModifyUnit,VitalArray[Shields].Change*(Behavior,VoidStalkerBlinkShieldRestore,Duration/Behavior,VoidStalkerBlinkShieldRestore,Period)"/> pkt. osłon przez <d time="5"/><n/><n/><c val="#ColorAttackInfo">Zdolność pasywna.</c>
+UserData/CampaignUnitAbilities/StalkerBlink_Name=Mignięcie
+UserData/CampaignUnitAbilities/StalkerBlink_TooltipDescription=Czas odnowienia: <d ref="Abil,Blink,Cost[0].Cooldown.TimeUse"/> sek.<n/></n>Teleportuje tropiciela do pobliskiego, wskazanego miejsca. Zdolności można użyć raz na <d ref="Abil,Blink,Cost[0].Cooldown.TimeUse"/> sek.
+UserData/CampaignUnitAbilities/StalkerDragoonArmor_Name=Egzoszkielet dragona
+UserData/CampaignUnitAbilities/StalkerDragoonArmor_TooltipDescription=<n/>Zapewnia większą wytrzymałość kosztem szybkości ruchu.<n/><n/><c val="#ColorAttackInfo">Zdolność pasywna.</c>
+UserData/CampaignUnitAbilities/StalkerDragoonWeapon_Name=Rozszczepiacz fazy
+UserData/CampaignUnitAbilities/StalkerDragoonWeapon_TooltipDescription=<n/>Zadaje duże obrazenia jednostkom naziemnym i powietrznym. Ma niską szybkość ataku.<n/><n/><c val="#ColorAttackInfo">Zdolność pasywna.</c>
+UserData/CampaignUnitAbilities/TempestDisintegration_Name=Dezintegracja
+UserData/CampaignUnitAbilities/TempestDisintegration_TooltipDescription=Czas odnowienia: <d ref="Abil,LightningBomb,Cost[0].Cooldown.TimeUse"/> sek.<n/><n/>Zadaje wskazanej jednostce lub budowli wroga <d ref="Effect,LightningBombDamage,Amount*Behavior,LightningBomb,Duration/Behavior,LightningBomb,Period"/> pkt. obrażeń w ciągu <d ref="Behavior,LightningBomb,Duration"/> sek.
+UserData/CampaignUnitAbilities/VoidRayBounceBeam_Name=Promień niszczący
+UserData/CampaignUnitAbilities/VoidRayBounceBeam_TooltipDescription=<n/>Wiązka z broni niszczyciela w trakcie ataku rozdziela się i zadaje obrażenia maksymalnie 3 dodatkowym celom.<n/><n/><c val="#ColorAttackInfo">Zdolność pasywna.</c>
+UserData/CampaignUnitAbilities/VoidRayCloakField_Name=Pole maskujące
+UserData/CampaignUnitAbilities/VoidRayCloakField_TooltipDescription=<n/>Maskuje wszystkie sojusznicze jednostki znajdujące się w pobliżu arbitra.<n/><n/><c val="#ColorAttackInfo">Zdolność pasywna.</c>
+UserData/CampaignUnitAbilities/VoidRayPrismaticAlignment_Name=Dopasowanie pryzmatyczne
+UserData/CampaignUnitAbilities/VoidRayPrismaticAlignment_TooltipDescription=<n/>Z czasem zwiększa maksymalne obrażenia zadawane przez promień otchłani o <d ref="Effect,VoidRayVoidEnhancedDamage,AttributeBonus[Armored]"/> pkt.<n/><n/><c val="#ColorAttackInfo">Zdolność pasywna.</c>
+UserData/CampaignUnitAbilities/VoidRayPrismaticRange_Name=Zasięg pryzmatyczny
+UserData/CampaignUnitAbilities/VoidRayPrismaticRange_TooltipDescription=<n/>W czasie trwania ataku wiązką pryzmatyczną zasięg promienia otchłani zaczyna wzrastać, maksymalnie o <d ref="Behavior,VoidRayChargeBeamRangePhase3,Modification.WeaponRange"/>.<n/><n/><c val="#ColorAttackInfo">Zdolność pasywna.</c>
+UserData/CampaignUnitAbilities/VoidRayRecall_Name=Przywołanie Zbiorcze
+UserData/CampaignUnitAbilities/VoidRayRecall_TooltipDescription=<img path="Assets\Textures\icon-energy-protoss.dds" height="24" width="24"/> <d ref="Abil,ArbiterMPRecall,Cost[0].Vital[Energy]"/> pkt.<n/><n/>Teleportuje wszystkie jednostki sojusznicze znajdujące się na wskazanym obszarze do arbitra.
+UserData/CampaignUnitAbilities/VoidRayStasisField_Name=Pole zastoju
+UserData/CampaignUnitAbilities/VoidRayStasisField_TooltipDescription=<img path="Assets\Textures\icon-energy-protoss.dds" height="24" width="24"/> <d ref="Abil,ArbiterMPStasisField,Cost[0].Vital[Energy]"/> pkt.<n/><n/>Na <d ref="Behavior,ArbiterMPStasisField,Duration"/> sek. umieszcza przeciwników na wskazanym obszarze w zastoju. Jednostki w zastoju nie mogą się poruszać, atakować ani zostać zaatakowane czy też objęte efektami umiejętności.
+UserData/CampaignUnitAbilities/Whirlwind_Name=Tornado
+UserData/CampaignUnitAbilities/Whirlwind_TooltipDescription=Czas odnowienia: <d ref="Abil,VoidZealotWhirlwind,Cost[0].Cooldown.TimeUse"/><n/><n/>Zadaje <d ref="Effect,VoidZealotWhirlwindDamage,Amount/Behavior,VoidZealotWhirlwind,Period"/> pkt. obrażeń wszystkim pobliskim jednostkom wroga. Działa <d ref="Behavior,VoidZealotWhirlwind,Duration"/> sek.<n/><n/>Zdolność wykorzystywana automatycznie.
+UserData/CampaignUnitAbilities/ZealotCharge_Name=Szarża
+UserData/CampaignUnitAbilities/ZealotCharge_TooltipDescription=Czas odnowienia: <d ref="Abil,Charge,Cost.Cooldown.TimeUse"/> <n/><n/>Pozwala prowokować i atakować wrogie jednostki naziemne. Zwiększa również szybkość ruchu jednostki.
+UserData/CampaignUnitAbilities/ZealotRevive_Name=Odbudowa
+UserData/CampaignUnitAbilities/ZealotRevive_TooltipDescription=</n>Ożywia strażnika po śmierci. Efekt może nastąpić tylko raz na <d ref="Behavior,ZealotPurifierReviveSupressed,Cost.Cooldown.TimeStart"/> sek.<n/><n/><c val="#ColorAttackInfo">Zdolność pasywna.</c>
+UserData/CampaignUnitAbilities/ZealotShadowCharge_Name=Szarża cieni
+UserData/CampaignUnitAbilities/ZealotShadowCharge_TooltipDescription=Czas odnowienia: <d ref="Abil,Charge,Cost.Cooldown.TimeUse"/> sek.<n/><n/>Pozwala prowokować i atakować wrogie jednostki naziemne oraz zwiększa szybkość ruchu.<n/><n/>Na krótko maskuje centuriona i pozwala mu przenikać przez inne jednostki.
+UserData/CampaignUnitAbilities/ZealotShadowStun_Name=Mroczny wir
+UserData/CampaignUnitAbilities/ZealotShadowStun_TooltipDescription=Czas odnowienia: <d ref="Abil,ShadowChargeStun,Cost[0].Cooldown.TimeUse"/> sek.</n></n>Ogłusza wskazaną jednostkę wroga i wszystkie wrogie jednostki w jej pobliżu na <d ref="Behavior,VoidZealotShadowChargeStun,Duration" precision="1"/> sek.
+UserData/CampaignUnitAbilities/ZealotWhirlwind_Name=Tornado
+UserData/CampaignUnitAbilities/ZealotWhirlwind_TooltipDescription=Czas odnowienia: <d ref="Abil,VoidZealotWhirlwind,Cost[0].Cooldown.TimeUse"/><n/><n/>Zadaje <d ref="Effect,VoidZealotWhirlwindDamage,Amount/Behavior,VoidZealotWhirlwind,Period"/> pkt. obrażeń na sekundę wszystkim pobliskim naziemnym jednostkom wroga. Działa <d ref="Behavior,VoidZealotWhirlwind,Duration"/> sek.
+UserData/Clickable/AmonPreserver_Name=Opętana Rohana
+UserData/Clickable/ArmyConsole_Callout Subtitle=Dostępny przydział
+UserData/Clickable/ArmyConsole_Name=Panel desygnacyjny
+UserData/Clickable/BridgeConsole_Name=Komunikator
+UserData/Clickable/ChampionConsole_Callout Subtitle=Dostępne ulepszenia
+UserData/Clickable/ProtossAI_Name=Talandar
+UserData/Clickable/ShipConsole_Callout Subtitle=Nieprzydzielony solaryt
+UserData/Clickable/ShipConsole_Name=Interfejs rdzenia
+UserData/Clickable/Starmap_Callout Subtitle=Dostępna misja
+UserData/Clickable/Starmap_Name=Matryca</n>międzygwiezdna
+UserData/Clickable/XelNagaArtifact_Name=Artefakt xel'naga
+UserData/Clickable/XelNagaKeystone_Name=Artefakt xel'naga
+UserData/Clickable/[Default]_Callout Subtitle=Nowa konwersacja
+UserData/Locations/Aiur2_StoryUI Name=Aiur (wątek finalny)
+UserData/Locations/AiurA_StoryUI Name=Aiur
+UserData/Locations/AiurA_UIFluffCategories=Ojczyzna protosów<n/>Populacja (zergi):<n/>Okres orbitalny:<n/>Naturalne satelity:
+UserData/Locations/AiurA_UIFluffData=<n/>5 miliardów<n/>1 cykl<n/>1
+UserData/Locations/AiurB_StoryUI Name=Aiur
+UserData/Locations/AiurB_UIFluffCategories=Ojczyzna protosów<n/>Populacja (zergi):<n/>Okres orbitalny:<n/>Naturalne satelity:
+UserData/Locations/AiurB_UIFluffData=<n/>5 miliardów<n/>1 cykl<n/>1
+UserData/Locations/Aiur_StoryUI Name=Aiur
+UserData/Locations/Alpha_StoryUI Name=Revanskar
+UserData/Locations/Alpha_UIFluffCategories=Pole asteroid<n/>Pochodzenie:<n/>Gęstość:<n/>Główny skład:
+UserData/Locations/Alpha_UIFluffData=<n/>Pozostałości Revan II<n/>Bardzo wysoka<n/>Asteroidy klasy M (metaliczne)
+UserData/Locations/EpilogueArc_StoryUI Name=Otchłań
+UserData/Locations/Korhal_StoryUI Name=Korhal
+UserData/Locations/Korhal_UIFluffCategories=Stolica Dominium<n/>Populacja (terranie):<n/>Okres orbitalny:<n/>Naturalne satelity:
+UserData/Locations/Korhal_UIFluffData=<n/>6 miliardów<n/>0,8 cyklu<n/>2
+UserData/Locations/Moebius_StoryUI Name=Revanskar
+UserData/Locations/Moebius_UIFluffCategories=Pole asteroid<n/>Populacja:<n/>Pochodzenie:<n/>Gęstość:
+UserData/Locations/Moebius_UIFluffData=<n/>Nieznana<n/>Revan II<n/>Bardzo wysoka 
+UserData/Locations/Purifier2_StoryUI Name=Czyściciele (2 wątek)
+UserData/Locations/PurifierA_StoryUI Name=Glacius
+UserData/Locations/PurifierA_UIFluffCategories=Planeta oceaniczna<n/>Populacja (protosi):<n/>Okres orbitalny:<n/>Naturalne satelity:
+UserData/Locations/PurifierA_UIFluffData=<n/>5000<n/>1,2 cyklu<n/>1
+UserData/Locations/PurifierB_StoryUI Name=Endion
+UserData/Locations/PurifierB_UIFluffCategories=Porośnięty zielenią księżyc<n/>Populacja (protosi):<n/>Okres orbitalny:<n/>Jest satelitą planety:
+UserData/Locations/PurifierB_UIFluffData=<n/>3 miliony<n/>8 dni<n/>Bellum IV
+UserData/Locations/Purifier_StoryUI Name=Czyściciele
+UserData/Locations/Shakuras_StoryUI Name=Shakuras
+UserData/Locations/Shakuras_UIFluffCategories=Ojczyzna nerazimów<n/>Populacja (protosi):<n/>Okres orbitalny:<n/>Naturalne satelity:
+UserData/Locations/Shakuras_UIFluffData=<n/>194 miliony<n/>2,1 cyklu<n/>2
+UserData/Locations/Taldarim_StoryUI Name=Slayn
+UserData/Locations/Taldarim_UIFluffCategories=Planeta tal'darimów<n/>Populacja (protosi):<n/>Okres orbitalny:<n/>Naturalne satelity:
+UserData/Locations/Taldarim_UIFluffData=<n/>12 milionów<n/>1,4 cyklu<n/>3
+UserData/Locations/Ulnar_StoryUI Name=Szczelina Altariańska
+UserData/Locations/Ulnar_UIFluffCategories=Niebezpieczna anomalia kosmiczna<n/>Populacja:<n/>Pobliskie planety:<n/>Dostępne surowce:
+UserData/Locations/Ulnar_UIFluffData=<n/>Nieznana<n/>Nieznane<n/>Nieznane
+UserData/Locations/[Default]_StoryUI Name= Brak
+UserData/LoreCredits/Dominion_Description=Pod stabilnym przywództwem imperatora Valeriana Mengska i admirała Matthew Hornera, Dominium wkracza w nową erę dostatku i pokoju.
+UserData/LoreCredits/LifeReturns_Description=Naukowcy w całym sektorze Koprulu donoszą o ponownym pojawieniu się życia na pozbawionych go dawniej planetach. Przyczyna tych nagłych zmian pozostaje nieznana...
+UserData/LoreCredits/Raynor_Description=O Jamesie Raynorze słuch zaginął. Jego odznaka została znaleziona w barze Joey Ray's na Mar Sarze.
+UserData/LoreCredits/Taldarim_Description=Wielki Wódz Alarak odrzuca sojusz ze zjednoczonymi protosami i opuszcza Aiur wraz ze swoimi ludźmi, aby założyć własną ojczyznę. Każdy tal'darim, który nie zgodzi się z jego decyzją, otrzymuje jedną szansę na dołączenie do templariuszy.
+UserData/LoreCredits/Zagara_Description=Zergi, pod przywództwem swojej nowej Królowej, Zagary, siłą zajmują układy planetarne otaczające Char.
+UserData/Maps/PAuir04_UIFluffText=Doradca misji
+UserData/Maps/PAuir04_UIFluffText_001=Okopane oddziały wroga
+UserData/Maps/PAuir04_UIFluffText_002=Zlokalizowano budowle zasilające
+UserData/Maps/PAuir04_VignetteEasterEggText=Wykryto taniec wroga
+UserData/Maps/PAuir05_UIFluffText=Doradca misji
+UserData/Maps/PAuir05_UIFluffText_001=Napotkano silny opór
+UserData/Maps/PAuir05_UIFluffText_002=Aktywne urządzenia xel'naga
+UserData/Maps/PAuir05_VignetteEasterEggText=Wykryto taniec wroga
+UserData/Maps/PAuir06_UIFluffText=Doradca misji
+UserData/Maps/PAuir06_UIFluffText_001=Nadciągają siły wroga
+UserData/Maps/PAuir06_UIFluffText_002=Ładowanie Ogniwa
+UserData/Maps/PAuir06_VignetteEasterEggText=Wykryto taniec wroga
+UserData/Maps/PKorhal01_UIFluffText=Transmisja przychodząca
+UserData/Maps/PKorhal01_UIFluffText_001=Wykryto Gwardię Moebiusa
+UserData/Maps/PKorhal01_UIFluffText_002=Szacowana strefa impaktu
+UserData/Maps/PKorhal01_VignetteEasterEggText=Wykryto taniec wroga
+UserData/Maps/PKorhal02_UIFluffText=Transmisja przychodząca
+UserData/Maps/PKorhal02_UIFluffText_001=Wykryto Gwardię Moebiusa
+UserData/Maps/PKorhal02_UIFluffText_002=Zlokalizowano Ogniwo
+UserData/Maps/PKorhal02_VignetteEasterEggText=Wykryto taniec wroga
+UserData/Maps/PMoebius01_UIFluffText=Doradca misji
+UserData/Maps/PMoebius01_UIFluffText_001=Wykryto Gwardię Moebiusa
+UserData/Maps/PMoebius01_UIFluffText_002=Zidentyfikowano rdzenie zasilające
+UserData/Maps/PMoebius01_VignetteEasterEggText=Wykryto taniec wroga
+UserData/Maps/PPurifier01_UIFluffText=Doradca misji
+UserData/Maps/PPurifier01_UIFluffText_001=Wykryto siły tal'darimów
+UserData/Maps/PPurifier01_UIFluffText_002=Działo obronne aktywne
+UserData/Maps/PPurifier01_VignetteEasterEggText=Wykryto taniec wroga
+UserData/Maps/PPurifier02_UIFluffText=Doradca misji
+UserData/Maps/PPurifier02_UIFluffText_001=Wykryto infekcję zergów
+UserData/Maps/PPurifier02_UIFluffText_002=Czyściciele nieaktywni
+UserData/Maps/PPurifier02_VignetteEasterEggText=Wykryto taniec wroga
+UserData/Maps/PPurifier03_UIFluffText=Doradca misji
+UserData/Maps/PPurifier03_UIFluffText_001=Nadciąga szczep zergów
+UserData/Maps/PPurifier03_UIFluffText_002=Zlokalizowano obwody nicości
+UserData/Maps/PPurifier03_VignetteEasterEggText=Wykryto taniec wroga
+UserData/Maps/PShakuras01_UIFluffText=Transmisja przychodząca
+UserData/Maps/PShakuras01_UIFluffText_001=Wykryto infekcję zergów
+UserData/Maps/PShakuras01_UIFluffText_002=Tunel przesyłowy aktywny
+UserData/Maps/PShakuras01_VignetteEasterEggText=Wykryto taniec wroga
+UserData/Maps/PShakuras02_UIFluffText=Doradca misji
+UserData/Maps/PShakuras02_UIFluffText_001=Biosygnatury zergów: 50 milionów
+UserData/Maps/PShakuras02_UIFluffText_002=Aktywne kamienie zenitu
+UserData/Maps/PShakuras02_VignetteEasterEggText=Wykryto taniec wroga
+UserData/Maps/PTaldarim01_UIFluffText=Doradca misji
+UserData/Maps/PTaldarim01_UIFluffText_001=Wykryto siły tal'darimów
+UserData/Maps/PTaldarim01_UIFluffText_002=Rozpoznano cele
+UserData/Maps/PTaldarim01_VignetteEasterEggText=Wykryto taniec wroga
+UserData/Maps/PTaldarim02_UIFluffText=Doradca misji
+UserData/Maps/PTaldarim02_UIFluffText_001=Rozpoznano Wielkiego Wodza tal'darimów
+UserData/Maps/PTaldarim02_UIFluffText_002=Flota Śmierci aktywna
+UserData/Maps/PTaldarim02_VignetteEasterEggText=Wykryto taniec wroga
+UserData/Maps/PUlnar01_UIFluffText=Doradca misji
+UserData/Maps/PUlnar01_UIFluffText_001=Utworzono nexus
+UserData/Maps/PUlnar01_UIFluffText_002=Analizowanie...
+UserData/Maps/PUlnar01_VignetteEasterEggText=Wykryto taniec sojusznika
+UserData/Maps/PUlnar02_UIFluffText=Doradca misji
+UserData/Maps/PUlnar02_UIFluffText_001=Wykryto nieznaną sygnaturę energetyczną
+UserData/Maps/PUlnar02_UIFluffText_002=Wejście do świątyni otwarte
+UserData/Maps/PUlnar02_VignetteEasterEggText=Nie wykryto tańca
+UserData/Maps/PUlnar03_UIFluffText=Doradca misji
+UserData/Maps/PUlnar03_UIFluffText_001=Wykryto biosygnatury hybryd
+UserData/Maps/PUlnar03_UIFluffText_002=Bazy wroga aktywne
+UserData/Maps/PUlnar03_VignetteEasterEggText=Wykryto taniec wroga
+UserData/Maps/[Default]_UIFluffText=Wzmacniacz psioniczny gotowy
+UserData/Maps/[Default]_UIFluffText_001=Wykryto wrogie siły
+UserData/Maps/[Default]_UIFluffText_002=Analizowanie celu...
+UserData/MissionObjective/PAiur04Primary03_FormatText=~NAME~ <s val="ObjectivePanelProgress_Protoss">(~CURRENT~/~GOAL~ jedn. zaopatrzenia)</s>
+UserData/MissionObjective/[Default]_FormatText=~NAME~ <s val="ObjectivePanelProgress_Protoss">(~CURRENT~/~GOAL~)</s>
+UserData/MissionObjective/[Default]_FormatTextSingle=~NAME~ <s val="ObjectivePanelProgress_Protoss"></s>
+UserData/SceneTypes/CutScene_Name=Cut Scene
+UserData/SceneTypes/Ingame_Name=Film w grze
+UserData/SceneTypes/LevelCinematic_Name=Poziom, Scena
+UserData/SceneTypes/Prerender_Name=Film prerenderowany
+UserData/Scenes/Aiur01Debrief_Name=Wizja Zeratula
+UserData/Scenes/Aiur01Debrief_Prefix=T1 –
+UserData/Scenes/Aiur02Debrief_Name=Ratunek
+UserData/Scenes/Aiur02Debrief_Prefix=T1 –
+UserData/Scenes/Aiur03Briefing_Name=Aiur03 – Odprawa
+UserData/Scenes/Aiur03Debrief_Name=Arka
+UserData/Scenes/Aiur03Debrief_Prefix=T1 –
+UserData/Scenes/Aiur03Debriefing_Name=Aiur03 – Raport
+UserData/Scenes/Aiur03Story_Name=Aiur03 – Opowieść
+UserData/Scenes/Aiur04Before_Name=Aiur04 – Odprawa
+UserData/Scenes/Aiur04Briefing_Name=Aiur04 – Odprawa
+UserData/Scenes/Aiur05Briefing_Name=Aiur05 – Odprawa
+UserData/Scenes/Aiur05Debrief_Name=Aiur05 – Raport
+UserData/Scenes/Aiur06Before_Name=Aiur06 – Odprawa
+UserData/Scenes/Aiur06Briefing_Name=Droga wojownika
+UserData/Scenes/Aiur1Debrief_Name=Aiur01 – Raport
+UserData/Scenes/AiurArrival_Name=Aiur – Przybycie
+UserData/Scenes/AiurAssaultPrep_Name=Aiur – Podróż
+UserData/Scenes/AiurAvailable_Name=Artefakt
+UserData/Scenes/AiurIntro_Name=Odzyskanie
+UserData/Scenes/AiurIntro_Prefix=Protosi01 –
+UserData/Scenes/AiurUnlock_Name=Zerwane okowy
+UserData/Scenes/Alpha01Debrief_Name=Alfa 01 – Raport
+UserData/Scenes/Alpha02Debrief_Name=Alfa02 – Raport (nie wątek finałowy)
+UserData/Scenes/AlphaArrival_Name=Alfa – Podróż (Przybycie)
+UserData/Scenes/ArmonsTrap_Name=Pogrzebani
+UserData/Scenes/ArmonsTrap_Prefix=Protosi06 –
+UserData/Scenes/ArmyRoomIntro_Name=Wprowadzenie do rady wojennej
+UserData/Scenes/CampaignEnd_Name=Dziedzictwo
+UserData/Scenes/CampaignIntro_Name=Jedność
+UserData/Scenes/CampaignIntro_Prefix=Prerender –
+UserData/Scenes/ChampionIntro_Name=Wprowadzenie do sanktuarium
+UserData/Scenes/CoreUlnar03Post_Name=Rdzeń po Ulnar03
+UserData/Scenes/Epilogue01Debrief_Name=Ostatni przewodnik cyklu
+UserData/Scenes/Epilogue01MissionStart_Name=Epilog 01 MisjaPoczątek
+UserData/Scenes/Epilogue01_Name=Epilog01
+UserData/Scenes/Epilogue02_Name=Epilog02
+UserData/Scenes/Epilogue03_Name=Epilog03
+UserData/Scenes/EpilogueEnd_Name=Powrót do domu
+UserData/Scenes/EpilogueEnd_Prefix=Protosi09 –
+UserData/Scenes/EpilogueStart_Name=Nieoczekiwane spotkanie
+UserData/Scenes/ForgeIntro_Name=Wprowadzenie do kuźni
+UserData/Scenes/KaraxSolarCore_Name=Karax w rdzeniu solarnym
+UserData/Scenes/KerriganIntro_Name=Nieoczekiwany sojusz
+UserData/Scenes/KerriganIntro_Prefix=Protosi05 –
+UserData/Scenes/Korhal01Briefing_Name=Korhal 01, Odprawa
+UserData/Scenes/Korhal01Debrief_Name=Korhal01, Raport
+UserData/Scenes/Korhal02Debrief_Name=Korhal02, Raport
+UserData/Scenes/KorhalEnd_Name=Wojownicy
+UserData/Scenes/KorhalEnd_Prefix=Protosi03 –
+UserData/Scenes/KorhalTravel_Name=Podróż na Korhal (przybycie)
+UserData/Scenes/Liberation_Name=Dziedzictwo
+UserData/Scenes/Liberation_Prefix=Protosi07 –
+UserData/Scenes/Moebius01Debrief_Name=Moebius01 – Raport
+UserData/Scenes/Moebius02Debrief_Name=Moebius02 – Raport
+UserData/Scenes/MoebiusArrival_Name=Moebius – Podróż (Przybycie)
+UserData/Scenes/PreserverIntro_Name=Wprowadzenie Rohany
+UserData/Scenes/Protoss01_Name=Protosi01
+UserData/Scenes/Protoss02_Name=Okowy
+UserData/Scenes/Protoss02_Prefix=Protosi02 –
+UserData/Scenes/Protoss06_Name=Pogrzebani
+UserData/Scenes/Protoss06_Prefix=Protosi06 –
+UserData/Scenes/ProtossStinger_Name=Moment protosów
+UserData/Scenes/Purifier01Debrief_Name=Czyściciel01, Raport
+UserData/Scenes/Purifier01Travel_Name=Czyściciele01, Podróż (przybycie)
+UserData/Scenes/Purifier01Unlock_Name=Czyściciele01, Odblokowanie
+UserData/Scenes/Purifier02Arrival_Name=Czyściciele, 2 wątek, Przybycie
+UserData/Scenes/Purifier02Briefing_Name=Czyściciele02, Odprawa
+UserData/Scenes/Purifier02_Name=Podróż na Cybrosa
+UserData/Scenes/Purifier03Briefing_Name=Czyściciele03, Odprawa
+UserData/Scenes/Purifier03Debrief_Name=Czyściciele03, Raport
+UserData/Scenes/Purifier03Debriefing_Name=Czyściciele03, Raport
+UserData/Scenes/Purifier03MissionEnd_Name=Czyściciele03, KoniecMisji
+UserData/Scenes/PurifierDebrief_Name=Czyściciele, Raport
+UserData/Scenes/PurifierEnd_Name=Czyściciele, Koniec
+UserData/Scenes/PurifierIntro_Name=Czyściciele, Wprowadzenie
+UserData/Scenes/RohanaUlnar03_Name=Rohana, Ulnar03
+UserData/Scenes/Shadow01Debrief_Name=Cień01, Raport
+UserData/Scenes/Shadow02Debrief_Name=Moebius02 – Raport
+UserData/Scenes/ShadowArrival_Name=Moebius – Podróż (Przybycie)
+UserData/Scenes/Shakuras01Debrief_Name=Shakuras 01, Raport
+UserData/Scenes/Shakuras01Debriefing_Name=Shakuras 01, Raport
+UserData/Scenes/Shakuras02Briefing_Name=Shakuras02, Odprawa
+UserData/Scenes/ShakurasEnd_Name=Sam...
+UserData/Scenes/ShakurasEnd_Prefix=Protosi04 –
+UserData/Scenes/ShakurasTravel_Name=Podróż na Shakuras (przybycie)
+UserData/Scenes/ShipRoomIntro_Name=Wprowadzenie do rdzenia solarnego
+UserData/Scenes/Spear01Debrief_Name=Alfa01, Odprawa
+UserData/Scenes/Spear02Debrief_Name=Alfa02, Raport
+UserData/Scenes/Spear02_Name=Alfa02
+UserData/Scenes/SpearTravel_Name=Podróż na Revanskar
+UserData/Scenes/Taldarim01Debrief_Name=Taldarimowie01, Raport
+UserData/Scenes/Taldarim02Before_Name=Taldarimowie02, Odprawa
+UserData/Scenes/Taldarim02Debrief_Name=Tal'darimowie02, Raport
+UserData/Scenes/Taldarim02Post_Name=Taldarimowie02, Raport
+UserData/Scenes/Taldarim03Debrief_Name=Tal'darimowie03, Raport
+UserData/Scenes/TaldarimArrival_Name=Taldarimowie, Przybycie
+UserData/Scenes/TaldarimEnd_Name=Tal'darimowie, Koniec
+UserData/Scenes/TaldarimIntro_Name=Tal'darimowie, Wprowadzenie
+UserData/Scenes/TaldarimTravel_Name=Taldarimowie, Podróż (Przybycie)
+UserData/Scenes/Ulnar02Debrief_Name=Ulnar02, Raport
+UserData/Scenes/Ulnar03Debrief_Name=Ulnar03, Raport
+UserData/Scenes/Ulnar03MissionEnd_Name=Ulnar 03, KoniecMisji
+UserData/Scenes/UlnarArrival_Name=Podróż na Ulnar (Przybycie)
+UserData/Scenes/UlnarComplete_Name=Ulnar ukończone
+UserData/Scenes/UlnarIntro_Name=Ulnar, Wprowadzenie
+UserData/Scenes/UlnarTravel_Name=Podróż na Ulnar (Przybycie)
+UserData/Scenes/UlnarUnlock_Name=Ulnar, Odblokowanie
+UserData/Scenes/XelNagaKerrigan_Name=Koniec cyklu
+UserData/Scenes/XelNagaKerrigan_Prefix=Protosi08 –
+UserData/SpearOfAdunTypes/ShipCategory1_Name=Technologia z Aiur
+UserData/SpearOfAdunTypes/ShipCategory2_Name=Technologia Otchłani
+UserData/SpearOfAdunTypes/ShipCategory3_Name=Technologia tal'darimów
+UserData/SpearOfAdunTypes/UpgradeCategory1_Name=Technologia z Aiur
+UserData/SpearOfAdunTypes/UpgradeCategory2_Name=Technologia Otchłani
+UserData/SpearOfAdunTypes/UpgradeCategory3_Name=Technologia tal'darimów
+UserData/SpearofAdunUpgrade/ShipShieldUpgrades_Name=Doładowanie osłon
+UserData/SpearofAdunUpgrade/ShipShieldUpgrades_Tooltip=Zwiększa tempo regeneracji osłon wszystkich jednostek i budowli protosów. Protoskie osłony regenerują się jedynie poza walką.
+UserData/SpearofAdunUpgrade/ShipStructureBuildUpgrade_Name=Czas przesyłu budowli
+UserData/SpearofAdunUpgrade/ShipStructureBuildUpgrade_Tooltip=Skraca czas przesyłu budowli na pole walki.
+UserData/SpearofAdunUpgrade/ShipSupplyUpgrade_Name=Początkowe zaopatrzenie
+UserData/SpearofAdunUpgrade/ShipSupplyUpgrade_Tooltip=Zapewnia dodatkowe zaopatrzenie na początku każdej misji, co pozwala odłożyć na później budowę pylonów.
+UserData/TechUnit/Aberration_Name=Aberracja
+UserData/TechUnit/Aberration_Prefix=zZergi –
+UserData/TechUnit/Arbiter_Name=Arbiter
+UserData/TechUnit/Arbiter_Prefix=zzStara –
+UserData/TechUnit/Archon_Name=Archont
+UserData/TechUnit/Archon_Prefix=Standardowa –
+UserData/TechUnit/BanelingHunter_Name=Tępiciel
+UserData/TechUnit/BanelingHunter_Prefix=zZergi –
+UserData/TechUnit/BanelingHunter_Suffix=(Łowca)
+UserData/TechUnit/BanelingSplitter_Name=Tępiciel
+UserData/TechUnit/BanelingSplitter_Prefix=zZergi –
+UserData/TechUnit/BanelingSplitter_Suffix=(Rozszczepieniec)
+UserData/TechUnit/Baneling_Name=Tępiciel
+UserData/TechUnit/Baneling_Prefix=zZergi –
+UserData/TechUnit/Banshee_Name=Banshee
+UserData/TechUnit/Banshee_Prefix=zTerranie –
+UserData/TechUnit/Battlecruiser_Name=Krążownik
+UserData/TechUnit/Battlecruiser_Prefix=zTerranie –
+UserData/TechUnit/Bunker_Name=Bunkier
+UserData/TechUnit/Bunker_Prefix=zTerranie –
+UserData/TechUnit/CarrierAiur_ArmyInfoFluffText=Po dokonaniu miniaturyzacji promienia regenerującego Włóczni Aduna, Karax mógł ulepszyć nasze lotniskowce o roboty, które mogą naprawiać inne maszyny w pobliżu. Ulepszenie to zwiększy trwałość naszych okrętów.
+UserData/TechUnit/CarrierAiur_ArmyInfoWeaponOverride=<d ref="Effect,InterceptorBeamDamage,Amount * Weapon,InterceptorBeam,DisplayAttackCount"/> x8
+UserData/TechUnit/CarrierAiur_ArmyInfoWeaponOverride_001=<d ref="Weapon,SelendisInterceptorBeam,Period" precision="1"/>
+UserData/TechUnit/CarrierAiur_DescriptionShort=Robot naprawczy
+UserData/TechUnit/CarrierAiur_Name=Roboty naprawcze
+UserData/TechUnit/CarrierAiur_Prefix=Duży okręt wojenny –
+UserData/TechUnit/CarrierAiur_Suffix=(Aiur)
+UserData/TechUnit/CarrierPurifier_ArmyInfoFluffText=Ponieważ niestabilność uzbrojenia orkanów zawsze stanowiła zagrożenie dla pilotów, Karax zintegrował je z siecią czyścicieli i umożliwił zdalne sterowanie statkami. Obecnie dysponują zaawansowaną technologią dezintegracyjną i nie narażają życia pilota.
+UserData/TechUnit/CarrierPurifier_DescriptionShort=Artyleria oblężnicza
+UserData/TechUnit/CarrierPurifier_Name=Orkan
+UserData/TechUnit/CarrierPurifier_Prefix=Duży okręt wojenny –
+UserData/TechUnit/CarrierPurifier_Suffix=(czyściciel)
+UserData/TechUnit/CarrierTaldarim_ArmyInfoFluffText=Statki-matki Floty Śmierci przeprojektowano, by niosły zagładę. Są niczym tron, z którego admirałowie tal'darimów obserwują zniszczenie wroga.
+UserData/TechUnit/CarrierTaldarim_ArmyInfoWeaponOverride=<d ref="Effect,InterceptorBeamDamage,Amount * Weapon,InterceptorBeam,DisplayAttackCount"/> x8
+UserData/TechUnit/CarrierTaldarim_ArmyInfoWeaponOverride_001=<d ref="Weapon,SelendisInterceptorBeam,Period" precision="1"/>
+UserData/TechUnit/CarrierTaldarim_DescriptionShort=Dominacja na polu walki
+UserData/TechUnit/CarrierTaldarim_Name=Statek-matka
+UserData/TechUnit/CarrierTaldarim_Prefix=Duży okręt wojenny –
+UserData/TechUnit/CarrierTaldarim_Suffix=(tal'darim)
+UserData/TechUnit/Carrier_Name=Lotniskowiec
+UserData/TechUnit/Carrier_Prefix=Duży okręt wojenny –
+UserData/TechUnit/ColossusAiur_ArmyInfoFluffText=Rozrywacze niegdyś były mobilnymi fabrykami zmodyfikowanymi do prowadzenia działań wojennych. Teraz, dzięki kosmicznej kuźni na pokładzie Włóczni Aduna, ich zdolności oblężnicze zostały znacznie ulepszone o automatycznie budowane skarabeusze.
+UserData/TechUnit/ColossusAiur_DescriptionShort=Eksplodujące skarabeusze
+UserData/TechUnit/ColossusAiur_Name=Rozrywacz
+UserData/TechUnit/ColossusAiur_Prefix=Robot oblężniczy –
+UserData/TechUnit/ColossusAiur_Suffix=(Aiur)
+UserData/TechUnit/ColossusPurifier_ArmyInfoFluffText=Po Pacyfikacji Kalatich uznano kolosy programu czyścicieli za zbyt groźne ze względu na ich wzmocnioną broń zapalającą. To maszyny ostatecznego zniszczenia.
+UserData/TechUnit/ColossusPurifier_DescriptionShort=Ognista wiązka
+UserData/TechUnit/ColossusPurifier_Name=Kolos
+UserData/TechUnit/ColossusPurifier_Prefix=Robot oblężniczy –
+UserData/TechUnit/ColossusPurifier_Suffix=(czyściciel)
+UserData/TechUnit/ColossusTaldarim_ArmyInfoFluffText=U tych reaktywowanych przez tal'darimów kolosów lance termiczne zostały zastąpione miotaczami impulsów, które pozwalają dziesiątkować ważniejsze cele.
+UserData/TechUnit/ColossusTaldarim_DescriptionShort=Wybuch energii
+UserData/TechUnit/ColossusTaldarim_Name=Wędrowiec otchłani
+UserData/TechUnit/ColossusTaldarim_Prefix=Robot oblężniczy –
+UserData/TechUnit/ColossusTaldarim_Suffix=(tal'darim)
+UserData/TechUnit/Colossus_Name=Kolos
+UserData/TechUnit/Colossus_Prefix=Robot oblężniczy –
+UserData/TechUnit/CommandCenter_Name=Centrum dowodzenia
+UserData/TechUnit/CommandCenter_Prefix=zTerranie –
+UserData/TechUnit/Corsair_Name=Korsarz
+UserData/TechUnit/Corsair_Prefix=zzStara –
+UserData/TechUnit/Dark Archon_Name=Mroczny archont
+UserData/TechUnit/DarkArchon_Name=Mroczny archont
+UserData/TechUnit/DarkArchon_Prefix=zzStara –
+UserData/TechUnit/DarkTemplarAiur_ArmyInfoFluffText=Wzburzeni utratą Aiur, mściciele przyswoili metody mrocznych templariuszy i powrócili, by prowadzić tajną wojnę przeciwko zergom. Z powodu niskiej liczebności musieli nauczyć się wycofywać z pola bitwy tuż przed śmiercią, aby móc później kontynuować walkę.
+UserData/TechUnit/DarkTemplarAiur_DescriptionShort=Przywołanie awaryjne
+UserData/TechUnit/DarkTemplarAiur_Name=Przywołanie awaryjne
+UserData/TechUnit/DarkTemplarAiur_Prefix=Wojownik z maskowaniem –
+UserData/TechUnit/DarkTemplarAiur_Suffix=(Aiur)
+UserData/TechUnit/DarkTemplarPurifier_Name=Mroczny templariusz
+UserData/TechUnit/DarkTemplarPurifier_Suffix=(czyściciel)
+UserData/TechUnit/DarkTemplarShakuras_ArmyInfoFluffText=Mroczni templariusze, oddani badacze Otchłani, zyskali głębsze zrozumienie jej mocy. Potrafią teleportować się na krótkie odległości i wyprowadzać śmiertelne ciosy ostrzami nadprzestrzennymi, co czyni z nich jeszcze groźniejszych przeciwników.
+UserData/TechUnit/DarkTemplarShakuras_DescriptionShort=Furia cieni
+UserData/TechUnit/DarkTemplarShakuras_Name=Furia cieni
+UserData/TechUnit/DarkTemplarShakuras_Prefix=Wojownik z maskowaniem –
+UserData/TechUnit/DarkTemplarShakuras_Suffix=(Shakuras)
+UserData/TechUnit/DarkTemplarTaldarim_ArmyInfoFluffText=Społeczeństwo tal'darimów jest brutalne i bezlitosne. Jednostki uznane za niegodne służby Wielkiemu Wodzowi są tropione i eliminowane przez łowców krwi. Posiadają oni zdolność skrytego tropienia swych ofiar i więzienia ich w polu zastoju otchłani.
+UserData/TechUnit/DarkTemplarTaldarim_DescriptionShort=Zastój otchłani
+UserData/TechUnit/DarkTemplarTaldarim_Name=Zastój otchłani
+UserData/TechUnit/DarkTemplarTaldarim_Prefix=Wojownik z maskowaniem –
+UserData/TechUnit/DarkTemplarTaldarim_Suffix=(tal'darim)
+UserData/TechUnit/DarkTemplar_Name=Mroczny templariusz
+UserData/TechUnit/DarkTemplar_Prefix=Wojownik z maskowaniem –
+UserData/TechUnit/Diamondback_Name=Grzechotnik
+UserData/TechUnit/Diamondback_Prefix=zTerranie –
+UserData/TechUnit/Firebat_Name=Wypalacz
+UserData/TechUnit/Firebat_Prefix=zTerranie –
+UserData/TechUnit/Ghost_Name=Duch
+UserData/TechUnit/Ghost_Prefix=zTerranie –
+UserData/TechUnit/Goliath_Name=Goliat
+UserData/TechUnit/Goliath_Prefix=zTerranie –
+UserData/TechUnit/Hellion_Name=Helion
+UserData/TechUnit/Hellion_Prefix=zTerranie –
+UserData/TechUnit/HighTemplarAiur_ArmyInfoFluffText=Nawet w tych mrocznych czasach wysocy templariusze nie przestają rozwijać swych umiejętności. Ich burze psioniczne są nie tylko większe; teraz również przywracają osłony naszym wojownikom.
+UserData/TechUnit/HighTemplarAiur_DescriptionShort=Burza psioniczna
+UserData/TechUnit/HighTemplarAiur_Name=Wysoki templariusz
+UserData/TechUnit/HighTemplarAiur_Prefix=Wojownik psioniczny –
+UserData/TechUnit/HighTemplarAiur_Suffix=(Aiur)
+UserData/TechUnit/HighTemplarShakuras_ArmyInfoFluffText=Scalanie w mrocznego archonta jest procesem niebezpiecznym i niestabilnym, dozwolonym wyłącznie w najpoważniejszych sytuacjach. Chaotyczna energia psioniczna doprowadza naszych wrogów do obłędu i zwraca ich przeciwko sobie.
+UserData/TechUnit/HighTemplarShakuras_DescriptionShort=Kontrola umysłu
+UserData/TechUnit/HighTemplarShakuras_Name=Mroczny archont
+UserData/TechUnit/HighTemplarShakuras_Prefix=Wojownik psioniczny –
+UserData/TechUnit/HighTemplarShakuras_Suffix=(Shakuras)
+UserData/TechUnit/HighTemplarTaldarim_ArmyInfoFluffText=Zgodnie z prawem Rak'Shir, tal'darimowie wspinają się w Łańcuchu Wyniesienia. Lata pochłaniania terrazytu oraz esencji swych poddanych uczyniły z wyniesionych doprawdy potężne istoty.
+UserData/TechUnit/HighTemplarTaldarim_DescriptionShort=Psioniczna nawałnica
+UserData/TechUnit/HighTemplarTaldarim_Name=Wyniesiony
+UserData/TechUnit/HighTemplarTaldarim_Prefix=Wojownik psioniczny –
+UserData/TechUnit/HighTemplarTaldarim_Suffix=(tal'darim)
+UserData/TechUnit/HighTemplar_Name=Wysoki templariusz
+UserData/TechUnit/HighTemplar_Prefix=Wojownik psioniczny –
+UserData/TechUnit/HydraliskImpaler_Name=Hydralisk
+UserData/TechUnit/HydraliskImpaler_Prefix=zZergi –
+UserData/TechUnit/HydraliskImpaler_Suffix=(przebijacz)
+UserData/TechUnit/HydraliskLurker_Name=Hydralisk
+UserData/TechUnit/HydraliskLurker_Prefix=zZergi –
+UserData/TechUnit/HydraliskLurker_Suffix=(czyhacz)
+UserData/TechUnit/Hydralisk_Name=Hydralisk
+UserData/TechUnit/Hydralisk_Prefix=zZergi –
+UserData/TechUnit/ImmortalAiur_ArmyInfoFluffText=Choć każdy templariusz może jako ochotnik zostać zmieniony w dragona, to jedynie najbardziej poważani bohaterowie mogą zostać nieśmiertelnymi. Są bardzo cenieni, dlatego w przeciwieństwie do produkowanych masowo jednostek mają wzmocnione osłony.
+UserData/TechUnit/ImmortalAiur_ArmyInfoWeaponOverride=<d ref="Effect,PhaseDisruptors,Amount"/> + <d ref="Effect,PhaseDisruptors,AttributeBonus[Armored]"/>
+UserData/TechUnit/ImmortalAiur_ArmyInfoWeaponOverride_001=<d ref="Weapon,PhaseDisruptors,Period" precision="1"/>
+UserData/TechUnit/ImmortalAiur_DescriptionShort=Ulepszona bariera
+UserData/TechUnit/ImmortalAiur_Name=Ożywienie
+UserData/TechUnit/ImmortalAiur_Prefix=Ciężka maszyna szturmowa –
+UserData/TechUnit/ImmortalAiur_Suffix=(Aiur)
+UserData/TechUnit/ImmortalShakuras_ArmyInfoFluffText=Nerazimowie wierzą, że ich więź z Otchłanią wzmacnia się, gdy są bliscy śmierci. Część ich wojowników wykorzystała technologię nieśmiertelnych, aby utrzymywać się w tym stanie na stałe. W wyniku tego powstały jednostki dysponujące ogromną siłą ognia.
+UserData/TechUnit/ImmortalShakuras_DescriptionShort=Działo cieni
+UserData/TechUnit/ImmortalShakuras_Name=Działo cieni
+UserData/TechUnit/ImmortalShakuras_Prefix=Ciężka maszyna szturmowa –
+UserData/TechUnit/ImmortalShakuras_Suffix=(Shakuras)
+UserData/TechUnit/ImmortalTaldarim_ArmyInfoFluffText=Wojownicy tal'darimów, którzy okryją się hańbą na polu bitwy, otrzymują szansę zmazania tej plamy na honorze. Zostają umieszczeni w egzoszkielecie awanagardiera, by móc dokonać jak największych zniszczeń, zanim oddadzą życie ku chwale Wielkiego Wodza.
+UserData/TechUnit/ImmortalTaldarim_ArmyInfoWeaponOverride=6x16
+UserData/TechUnit/ImmortalTaldarim_DescriptionShort=Bombardowanie pociskami
+UserData/TechUnit/ImmortalTaldarim_Name=Bombardowanie
+UserData/TechUnit/ImmortalTaldarim_Prefix=Ciężka maszyna szturmowa –
+UserData/TechUnit/ImmortalTaldarim_Suffix=(tal'darim)
+UserData/TechUnit/Immortal_ArmyInfoFluffText=Choć każdy templariusz może jako ochotnik zostać zmieniony w dragona, to jedynie najbardziej poważani bohaterowie mogą zostać nieśmiertelnymi. Są bardzo cenieni, dlatego w przeciwieństwie do produkowanych masowo jednostek mają wzmocnione osłony.
+UserData/TechUnit/Immortal_Name=Nieśmiertelny
+UserData/TechUnit/Immortal_Prefix=Ciężka maszyna szturmowa –
+UserData/TechUnit/Impaler_Name=Przebijacz
+UserData/TechUnit/Infestor_Name=Infektor
+UserData/TechUnit/Infestor_Prefix=zZergi –
+UserData/TechUnit/KhaydarinMonolith_Prefix=Obrona –
+UserData/TechUnit/Lurker_Name=Czyhacz
+UserData/TechUnit/Marauder_Name=Maruder
+UserData/TechUnit/Marauder_Prefix=zTerranie –
+UserData/TechUnit/Marine_Name=Marine
+UserData/TechUnit/Marine_Prefix=zTerranie –
+UserData/TechUnit/Medic_Name=Sanitariuszka
+UserData/TechUnit/Medic_Prefix=zTerranie –
+UserData/TechUnit/Medivac_Name=Prom medyczny
+UserData/TechUnit/Medivac_Prefix=zTerranie –
+UserData/TechUnit/MissileTurret_Name=Wieżyczka przeciwlotnicza
+UserData/TechUnit/MissileTurret_Prefix=zTerranie –
+UserData/TechUnit/Monitor_Name=Monitor
+UserData/TechUnit/Monitor_Prefix=Standardowa –
+UserData/TechUnit/MutaliskBroodlord_Name=Mutalisk
+UserData/TechUnit/MutaliskBroodlord_Prefix=zZergi –
+UserData/TechUnit/MutaliskBroodlord_Suffix=(rządca szczepu)
+UserData/TechUnit/MutaliskViper_Name=Mutalisk
+UserData/TechUnit/MutaliskViper_Prefix=zZergi –
+UserData/TechUnit/MutaliskViper_Suffix=(żmij)
+UserData/TechUnit/Mutalisk_Name=Mutalisk
+UserData/TechUnit/Mutalisk_Prefix=zZergi –
+UserData/TechUnit/PhoenixAiur_ArmyInfoFluffText=Dzięki użyciu solarytu, Karax mógł ulepszyć systemy zarządzania energią feniksów. Ich wiązki grawitonowe mogą teraz obierać za cel kilku przeciwników bez przekierowywania energii z uzbrojenia lub napędu.
+UserData/TechUnit/PhoenixAiur_ArmyInfoWeaponOverride=5x2
+UserData/TechUnit/PhoenixAiur_ArmyInfoWeaponOverride_001=10x2
+UserData/TechUnit/PhoenixAiur_DescriptionShort=Podwójna wiązka grawitonowa
+UserData/TechUnit/PhoenixAiur_Name=Podwójne wiązki grawitonowe
+UserData/TechUnit/PhoenixAiur_Prefix=Myśliwiec kosmiczny –
+UserData/TechUnit/PhoenixAiur_Suffix=(Aiur)
+UserData/TechUnit/PhoenixBomber_Prefix=zzStara –
+UserData/TechUnit/PhoenixPurifier_ArmyInfoFluffText=Miraże uzbrojono w technologię fazującą zbyt groźną dla żywych pilotów. Dzięki niej mogą chwilowo przyjąć postać niematerialną i unikać obrażeń. Pozwala to niewielkim eskadrom miraży na prowadzenie długich ataków w przestrzeni powietrznej wroga.
+UserData/TechUnit/PhoenixPurifier_ArmyInfoWeaponOverride=5x2
+UserData/TechUnit/PhoenixPurifier_DescriptionShort=Pancerz fazowy
+UserData/TechUnit/PhoenixPurifier_Name=Miraż
+UserData/TechUnit/PhoenixPurifier_Prefix=Myśliwiec kosmiczny –
+UserData/TechUnit/PhoenixPurifier_Suffix=(czyściciel)
+UserData/TechUnit/PhoenixShakuras_ArmyInfoFluffText=Strata Złotej Armady wymusiła przywrócenie korsarzy. Nerazimscy piloci przekierowują moce psioniczne do emiterów neutronowych, by uniemożliwić wrogom atak.
+UserData/TechUnit/PhoenixShakuras_DescriptionShort=Sieć zakłócająca
+UserData/TechUnit/PhoenixShakuras_Name=Korsarz
+UserData/TechUnit/PhoenixShakuras_Prefix=Myśliwiec kosmiczny –
+UserData/TechUnit/PhoenixShakuras_Suffix=(Shakuras)
+UserData/TechUnit/Phoenix_Name=Feniks
+UserData/TechUnit/Phoenix_Prefix=Myśliwiec kosmiczny –
+UserData/TechUnit/PhotonCannon_Name=Działo fotonowe
+UserData/TechUnit/PhotonCannon_Prefix=Obrona –
+UserData/TechUnit/Reaper_Name=Żniwiarz
+UserData/TechUnit/Reaper_Prefix=zTerranie –
+UserData/TechUnit/Reaver_Name=Rozrywacz
+UserData/TechUnit/Reaver_Prefix=zzStara –
+UserData/TechUnit/ReplicantAiur_Name=Replikant
+UserData/TechUnit/ReplicantAiur_Suffix=(Aiur)
+UserData/TechUnit/ReplicantPurifier_Name=Replikant
+UserData/TechUnit/ReplicantPurifier_Suffix=(czyściciel)
+UserData/TechUnit/ReplicantShakuras_Name=Replikant
+UserData/TechUnit/ReplicantShakuras_Suffix=(Shakuras)
+UserData/TechUnit/Replicant_Name=Replikant
+UserData/TechUnit/RoachCorpser_Name=Karakan
+UserData/TechUnit/RoachCorpser_Prefix=zZergi –
+UserData/TechUnit/RoachCorpser_Suffix=(trupiarz)
+UserData/TechUnit/RoachVile_Name=Karakan
+UserData/TechUnit/RoachVile_Prefix=zZergi –
+UserData/TechUnit/RoachVile_Suffix=(parszywiec)
+UserData/TechUnit/Roach_Name=Karakan
+UserData/TechUnit/Roach_Prefix=zZergi –
+UserData/TechUnit/RoboticsWarpandStarWarpGate_Prefix=Ulepszenie –
+UserData/TechUnit/SCV_Name=ERK
+UserData/TechUnit/SCV_Prefix=zTerranie –
+UserData/TechUnit/ScienceVessel_Name=Statek naukowy
+UserData/TechUnit/ScienceVessel_Prefix=zTerranie –
+UserData/TechUnit/Scout_Name=Podniebny szpon
+UserData/TechUnit/Scout_Prefix=zzStara –
+UserData/TechUnit/SensorTower_Name=Wieża radarowa
+UserData/TechUnit/SensorTower_Prefix=zTerranie –
+UserData/TechUnit/SentryAiur_ArmyInfoFluffText=Karax wyposażył naszych wartowników w przenośne generatory osłon, co pozwala na natychmiastowe ich przywracanie w walce. W połączeniu ze zdolnością wartowników do zapewniania osłon powinno to zmniejszyć nasze straty na polu walki.
+UserData/TechUnit/SentryAiur_DescriptionShort=Przywracanie osłon
+UserData/TechUnit/SentryAiur_Name=Przywrócenie osłon
+UserData/TechUnit/SentryAiur_Prefix=Robot wsparcia –
+UserData/TechUnit/SentryAiur_Suffix=(Aiur)
+UserData/TechUnit/SentryPurifier_ArmyInfoFluffText=Dzięki pokładowym akceleratorom czasowym, energetyzatory mogą zwiększać szybkość oddziałów uderzeniowych czyścicieli. Każdy energetyzator może też wytwarzać pole zasilające, które daje dostęp do matrycy psionicznej i sieci przesyłowej.
+UserData/TechUnit/SentryPurifier_DescriptionShort=Akceleracja
+UserData/TechUnit/SentryPurifier_Name=Pole zasilające
+UserData/TechUnit/SentryPurifier_Prefix=Robot wsparcia –
+UserData/TechUnit/SentryPurifier_Suffix=(czyściciel)
+UserData/TechUnit/SentryShakuras_DescriptionShort=Akceleracja bojowa wzmacnia sojuszników
+UserData/TechUnit/SentryShakuras_Name=Wartownik
+UserData/TechUnit/SentryShakuras_Prefix=Ulepszenie –
+UserData/TechUnit/SentryShakuras_Suffix=(Shakuras)
+UserData/TechUnit/SentryTalDarim_ArmyInfoFluffText=Tal'darimowie brutalnie przeprogramowali generatory osłon byłych wartowników w układy celownicze, nie naruszając generatorów pól siłowych.
+UserData/TechUnit/SentryTalDarim_DescriptionShort=Wzmacnianie w boju
+UserData/TechUnit/SentryTalDarim_Name=Monitor
+UserData/TechUnit/SentryTalDarim_Prefix=Robot wsparcia –
+UserData/TechUnit/SentryTalDarim_Suffix=(tal'darim)
+UserData/TechUnit/Sentry_Name=Wartownik
+UserData/TechUnit/Sentry_Prefix=Robot wsparcia –
+UserData/TechUnit/ShieldBattery_Name=Generator osłon
+UserData/TechUnit/ShieldBattery_Prefix=Obrona –
+UserData/TechUnit/Siege Tank_Name=Czołg oblężniczy
+UserData/TechUnit/Siege Tank_Prefix=zTerranie –
+UserData/TechUnit/Spectre_Name=Widmo
+UserData/TechUnit/Spectre_Prefix=zTerranie –
+UserData/TechUnit/SpineCrawler_Name=Kręgowij
+UserData/TechUnit/SpineCrawler_Prefix=zZergi –
+UserData/TechUnit/SporeCrawler_Name=Pełzacz zarodnikowy
+UserData/TechUnit/SporeCrawler_Prefix=zZergi –
+UserData/TechUnit/StalkerAiur_ArmyInfoFluffText=Egzoszkielety dragonów pozwalają naszym wojownikom powracać na pole walki po odniesieniu zagrażających życiu obrażeń. Technologia dragonów z Włóczni Aduna wywodzi się sprzed kilku wieków przed wprowadzeniem Khali i nie wymaga jej do funkcjonowania.
+UserData/TechUnit/StalkerAiur_ArmyInfoWeaponOverride=420
+UserData/TechUnit/StalkerAiur_ArmyInfoWeaponOverride_001=420
+UserData/TechUnit/StalkerAiur_DescriptionShort=Wzmocniona maszyna krocząca
+UserData/TechUnit/StalkerAiur_Name=Dragon
+UserData/TechUnit/StalkerAiur_Prefix=Wojownik walczący na dystans –
+UserData/TechUnit/StalkerAiur_Suffix=(Aiur)
+UserData/TechUnit/StalkerPurifier_ArmyInfoFluffText=Karax dopracował prototypowe uzbrojenie czyścicieli, które wzmacnia potencjał psioniczny i pozwala użytkownikom teleportować się oraz osłabiać wrogów.
+UserData/TechUnit/StalkerPurifier_DescriptionShort=Transfer psioniczny
+UserData/TechUnit/StalkerPurifier_Name=Adept
+UserData/TechUnit/StalkerPurifier_Prefix=Wojownik walczący na dystans –
+UserData/TechUnit/StalkerPurifier_Suffix=(czyściciel)
+UserData/TechUnit/StalkerShakuras_ArmyInfoFluffText=Choć to jednostki niekonwencjonalne jak na standardy templariuszy, to tropiciele okazali się niezwykle przydatni w naszych siłach. Teraz ich zdolności teleportacyjne uległy znacznemu wzmocnieniu dzięki technologii przesyłowej Włóczni Aduna.
+UserData/TechUnit/StalkerShakuras_DescriptionShort=Regeneracja osłon
+UserData/TechUnit/StalkerShakuras_Name=Mignięcie z przynętą
+UserData/TechUnit/StalkerShakuras_Prefix=Wojownik walczący na dystans –
+UserData/TechUnit/StalkerShakuras_Suffix=(Shakuras)
+UserData/TechUnit/Stalker_Name=Tropiciel
+UserData/TechUnit/Stalker_Prefix=Wojownik walczący na dystans –
+UserData/TechUnit/Swarm Host_Name=Nosiciel roju
+UserData/TechUnit/Swarm Host_Prefix=zZergi –
+UserData/TechUnit/SwarmHostCarrion_Name=Nosiciel roju
+UserData/TechUnit/SwarmHostCarrion_Prefix=zZergi –
+UserData/TechUnit/SwarmHostCarrion_Suffix=(ścierwiel)
+UserData/TechUnit/SwarmHostCreeper_Name=Nosiciel roju
+UserData/TechUnit/SwarmHostCreeper_Prefix=zZergi –
+UserData/TechUnit/SwarmHostCreeper_Suffix=(ryjownik)
+UserData/TechUnit/SwarmQueen_Name=Królowa roju
+UserData/TechUnit/SwarmQueen_Prefix=zZergi –
+UserData/TechUnit/Tempest_Name=Orkan
+UserData/TechUnit/Tempest_Prefix=zzStara –
+UserData/TechUnit/Thor_Name=Thor
+UserData/TechUnit/Thor_Prefix=zTerranie –
+UserData/TechUnit/UltraliskNoxious_Name=Ultralisk
+UserData/TechUnit/UltraliskNoxious_Prefix=zZergi –
+UserData/TechUnit/UltraliskNoxious_Suffix=(truciciel)
+UserData/TechUnit/UltraliskTorrasque_Name=Ultralisk
+UserData/TechUnit/UltraliskTorrasque_Prefix=zZergi –
+UserData/TechUnit/UltraliskTorrasque_Suffix=(torrask)
+UserData/TechUnit/Ultralisk_Name=Ultralisk
+UserData/TechUnit/Ultralisk_Prefix=zZergi –
+UserData/TechUnit/Viking_Name=Wiking
+UserData/TechUnit/Viking_Prefix=zTerranie –
+UserData/TechUnit/Void Ray_Name=Promień otchłani
+UserData/TechUnit/Void Ray_Prefix=Okręt szturmowy –
+UserData/TechUnit/VoidRayAiur_ArmyInfoFluffText=Technologia budowy arbitrów, utracona po upadku Aiur, ocalała na pokładzie Włóczni Aduna. Zdolność maskowania i przywoływania naszych sił oraz umieszczania wrogów w zastoju jest cennym dodatkiem do naszego arsenału zdolności bojowych.
+UserData/TechUnit/VoidRayAiur_DescriptionShort=Pole maskujące
+UserData/TechUnit/VoidRayAiur_Name=Arbiter
+UserData/TechUnit/VoidRayAiur_Prefix=Ulepszenie –
+UserData/TechUnit/VoidRayAiur_Suffix=(Aiur)
+UserData/TechUnit/VoidRayShakuras_ArmyInfoFluffText=Badając Włócznię Aduna, Karax opracował sposób na zwiększenie zasięgu naszych promieni otchłani. Nowe soczewki solarytowe pozwalają na zwiększenie mocy wytwarzanej przez rdzeń pryzmatyczny i skupianie wiązek promieni otchłani na większe odległości.
+UserData/TechUnit/VoidRayShakuras_DescriptionShort=Skoncentrowane oblężenie
+UserData/TechUnit/VoidRayShakuras_Name=Wiązka oblężnicza
+UserData/TechUnit/VoidRayShakuras_Prefix=Okręt szturmowy –
+UserData/TechUnit/VoidRayShakuras_Suffix=(Shakuras)
+UserData/TechUnit/VoidRayTaldarim_ArmyInfoFluffText=Te promienie otchłani wykradzione i zmodyfikowane przez tal'darimów nie posiadają rdzenia pryzmatycznego. Zamiast tego wykorzystują drgania kryształowych krwawych odłamków do tworzenia niestabilnej wiązki, która przeskakuje z jednego celu na drugi.
+UserData/TechUnit/VoidRayTaldarim_DescriptionShort=Łańcuch laserów
+UserData/TechUnit/VoidRayTaldarim_Name=Rozdzielany promień
+UserData/TechUnit/VoidRayTaldarim_Prefix=Okręt szturmowy –
+UserData/TechUnit/VoidRayTaldarim_Suffix=(tal'darim)
+UserData/TechUnit/Vulture_Name=Sęp
+UserData/TechUnit/Vulture_Prefix=zTerranie –
+UserData/TechUnit/WarpGate_Name=Wrota przesyłowe
+UserData/TechUnit/WarpGate_Prefix=Standardowa –
+UserData/TechUnit/WarpPrism_Name=Pryzmat nadprzestrzenny
+UserData/TechUnit/WarpPrism_Prefix=Standardowa –
+UserData/TechUnit/Wraith_Name=Zjawa
+UserData/TechUnit/Wraith_Prefix=zTerranie –
+UserData/TechUnit/ZealotAiur_ArmyInfoFluffText=Uzbrojenie Włóczni Aduna zaprojektowano, by zapewnić naszemu ludowi przetrwanie w najtrudniejszych nawet czasach. Nasi doskonale wyszkoleni zeloci wyposażeni w broń psioniczną potrafią z łatwością wycinać szeregi wroga.
+UserData/TechUnit/ZealotAiur_DescriptionShort=Tornado
+UserData/TechUnit/ZealotAiur_Name=Tornado
+UserData/TechUnit/ZealotAiur_Prefix=Wojownik walczący w zwarciu –
+UserData/TechUnit/ZealotAiur_Suffix=(Aiur)
+UserData/TechUnit/ZealotPurifier_ArmyInfoFluffText=Strażnicy zostali stworzeni, aby zastąpić zelotów na linii frontu. Są zarówno wytrzymali, jak i łatwi w produkcji. Ich systemy automatycznie odbudowują ciała po zniszczeniu. Nie posiadają oni osobowości templariuszy, a zamiast tego wyposażeni są w podstawową SI.
+UserData/TechUnit/ZealotPurifier_DescriptionShort=Odbudowa
+UserData/TechUnit/ZealotPurifier_Name=Odbudowa
+UserData/TechUnit/ZealotPurifier_Prefix=Wojownik walczący w zwarciu –
+UserData/TechUnit/ZealotPurifier_Suffix=(czyściciel)
+UserData/TechUnit/ZealotShakuras_ArmyInfoFluffText=Centurioni stanowili niegdyś trzon nerazimskiej Gwardii Cieni i dołączyli do templariuszy, aby odzyskać Aiur. Ich zdolność do poruszania się w cieniu i ogłuszania przeciwników niewątpliwie przyda się w tych mrocznych czasach.
+UserData/TechUnit/ZealotShakuras_DescriptionShort=Szarża cieni
+UserData/TechUnit/ZealotShakuras_Name=Szarża cieni
+UserData/TechUnit/ZealotShakuras_Prefix=Wojownik walczący w zwarciu –
+UserData/TechUnit/ZealotShakuras_Suffix=(Shakuras)
+UserData/TechUnit/ZealotTaldarim_Name=Zelota
+UserData/TechUnit/ZealotTaldarim_Suffix=(Taldarimowie)
+UserData/TechUnit/Zealot_Name=Zelota
+UserData/TechUnit/Zealot_Prefix=Wojownik walczący w zwarciu –
+UserData/TechUnit/ZerglingRaptor_Name=Zergling
+UserData/TechUnit/ZerglingRaptor_Prefix=zZergi –
+UserData/TechUnit/ZerglingRaptor_Suffix=(drapieżca)
+UserData/TechUnit/ZerglingSwarmling_Name=Zergling
+UserData/TechUnit/ZerglingSwarmling_Prefix=zZergi –
+UserData/TechUnit/ZerglingSwarmling_Suffix=(rojnik)
+UserData/TechUnit/Zergling_Name=Zergling
+UserData/TechUnit/Zergling_Prefix=zZergi –
+UserData/Timestamps/Aiur01Debrief_Description=Zachód słońca
+UserData/Timestamps/Aiur01Debrief_Title=POLE WALKI NA AIURZE
+UserData/Timestamps/Aiur02Debrief_Description=O wiele później...
+UserData/Timestamps/Aiur02Debrief_Title=AIUR
+UserData/Timestamps/AiurUnlock_Description=Kilka godzin później...
+UserData/Timestamps/AiurUnlock_Title=RADA WOJENNA
+UserData/Timestamps/AlphaArrival_Description=Pole asteroid
+UserData/Timestamps/AlphaArrival_Title=REVANSKAR
+UserData/Timestamps/Epilogue01Arrival_Description=(6–14+) Miesięcy później...
+UserData/Timestamps/Epilogue01Arrival_Title=ULNAR
+UserData/Timestamps/Inside the Altarian Rift_Title=NIEZNANE
+UserData/Timestamps/Korhal02DebriefEnd_Description=Rdzeń solarny
+UserData/Timestamps/Korhal02DebriefEnd_Title=WŁÓCZNIA ADUNA
+UserData/Timestamps/MoebiusArrival_Description=Pole asteroid
+UserData/Timestamps/MoebiusArrival_Title=REVANSKAR
+UserData/Timestamps/Protoss05_Description=Kilka godzin później...
+UserData/Timestamps/Protoss05_Title=WNĘTRZE ULNARU
+UserData/Timestamps/ProtossStinger_Description=Wysoka orbita
+UserData/Timestamps/ProtossStinger_Title=AIUR
+UserData/Timestamps/Purifier01ArrivalA_Description=Baza księżycowa
+UserData/Timestamps/Purifier01ArrivalA_Title=GLACIUS
+UserData/Timestamps/Purifier01ArrivalB_Description=Okręt czyścicieli
+UserData/Timestamps/Purifier01ArrivalB_Title=CYBROS
+UserData/Timestamps/Purifier02Arrival_Description=Kolonia umojańska
+UserData/Timestamps/Purifier02Arrival_Title=BALANTYN
+UserData/Timestamps/TaldarimArrival_Description=Twierdza tal'darimów
+UserData/Timestamps/TaldarimArrival_Title=SLAYN
+UserData/Timestamps/Ulnar03Debrief_Description=4 godziny po wydarzeniu w Otchłani
+UserData/Timestamps/Ulnar03Debrief_Title=ULNAR
+UserData/Timestamps/Ulnar03MissionEnd_Description=Kilka godzin później...
+UserData/Timestamps/Ulnar03MissionEnd_Title=ULNAR
+UserData/Timestamps/UlnarArrival_Description=Wewnątrz Szczeliny Altariańskiej
+UserData/Timestamps/UlnarArrival_Title=ULNAR
+UserData/Timestamps/UlnarComplete_Description=Niedługo później...
+UserData/Timestamps/UlnarComplete_Title=RADA WOJENNA
+UserData/Timestamps/UlnarUnlock_Description=Jakiś czas później...
+UserData/Timestamps/UlnarUnlock_Title=RDZEŃ SOLARNY
+UserData/Timestamps/Untitled Instance_Description=Kilka godzin później...
+UserData/Timestamps/Untitled Instance_Title=RADA WOJENNA
+UserData/Timestamps/WarCouncilIntro_Description=Rada wojenna
+UserData/Timestamps/WarCouncilIntro_Title=WŁÓCZNIA ADUNA

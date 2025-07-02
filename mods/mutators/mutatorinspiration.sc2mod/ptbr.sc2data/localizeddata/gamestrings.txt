@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=As unidades heroicas inimigas aumentam a velocidade de ataque e a blindagem de todos os inimigos em um pequeno raio.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Inspiração

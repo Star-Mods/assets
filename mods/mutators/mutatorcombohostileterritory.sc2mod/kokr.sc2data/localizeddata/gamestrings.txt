@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=적대 구역 /// Hostile Territory
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Unidades e estruturas inimigas ganham um escudo temporário na primeira vez que recebem dano.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Barreira /// Barrier

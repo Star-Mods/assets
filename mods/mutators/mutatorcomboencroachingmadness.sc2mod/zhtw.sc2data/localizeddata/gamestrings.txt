@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=任何 /// Any
+DocInfo/Name=瘋狂來襲 /// Encroaching Madness

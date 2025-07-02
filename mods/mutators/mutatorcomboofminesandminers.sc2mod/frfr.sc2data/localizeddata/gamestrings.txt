@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Des mines et des mineurs /// Of Mines and Miners

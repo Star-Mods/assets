@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon wzmocnił swoje molochy otchłani i dał im monstrualną wytrzymałość, co zmniejszyło skuteczność waszych ataków przeciwko tym bestiom i pozwala im całkowicie ignorować ataki jednej z waszych armii. Rozdzielcie swoje siły i bądźcie w stałym kontakcie, aby zneutralizować to zagrożenie.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Trudny cel
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Es una noche gris y oscura en Augustgrad. Los ciudadanos del Dominio llaman a las puertas y juegan a truco o trato en busca de chucherías. Aseguraos de dárselas, o seréis víctimas de un truco mortífero.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Noche de terror
+DocInfo/Screenshot01=

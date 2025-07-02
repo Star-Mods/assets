@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Las fuerzas de Amón atraviesan el velo de la realidad y aterrizan en Augustogrado mientras los tornados siembran caos en toda la ciudad. ¿Puedes hacer frente al temporal y cerrar las fisuras antes de que sea demasiado tarde? /// Amon's forces tear through reality and make landfall across Augustgrad as tornadoes rampage throughout the city. Can you weather the storm and close the rifts before it's too late?
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Mal clima /// Bad Weather

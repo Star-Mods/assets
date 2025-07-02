@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=A exposição ao terrazino pode resultar em explosões de violência, e as forças de Amon não são exceção. A influência do Deus Sombrio sobre elas foi intensificada pelo gás, aumentando a agressividade e a velocidade com que se movem. Nada as impedirá de destruir você. A menos que você as destrua primeiro.
+DocInfo/DescShort=Qualquer um
+DocInfo/Name=Sopro de Destruição
+DocInfo/Screenshot01= <sp/>

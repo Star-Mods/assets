@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=A cidade é um lugar perigoso. Agressores ocultos estão à espreita cada em esquina, e as ruas estão cheias de armadilhas letais. Até as estruturas querem eliminar você. Ande rápido e com cuidado e fique de olho na sua retaguarda.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Guerrilha urbana /// Urban Warfare

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Continuamente se engendran terran infestados enemigos en todo el mapa. /// Enemy Infested Terrans spawn continuously around the map.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Epidemia imparable /// Outbreak

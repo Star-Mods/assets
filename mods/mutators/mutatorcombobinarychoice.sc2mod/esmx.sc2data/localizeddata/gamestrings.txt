@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Cualquiera
+DocInfo/Name=Decisión binaria
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Mine automatizzate sono piazzate sulla mappa all'inizio della missione.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Morte automatizzata

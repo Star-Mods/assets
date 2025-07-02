@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=亞蒙下定決心，無論付出多少代價，都要摧毀榔頭中士的要塞。無數的核彈將從天而降，爆炸威力撼動整座基地。亞蒙的手下也會在死亡時自爆。盡你所能降低傷亡，同時解決掉虛空破壞獸。 /// Amon is determined to destroy Sgt. Hammer’s fortress at all costs. Explosions rock the compound as nukes rain down from above and Amon’s minions detonate themselves upon death. Do what you can to mitigate your own casualties as you take out the Void Thrashers.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=全面轟炸 /// Explosive Results
+DocInfo/Screenshot01=

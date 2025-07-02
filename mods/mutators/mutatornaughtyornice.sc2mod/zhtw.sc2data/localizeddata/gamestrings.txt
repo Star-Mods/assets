@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=玩家擊殺的敵人越多，自身單位與建築受到的傷害會隨著提高。 /// Player units and structures take increased damage for each enemy they've killed.
+DocInfo/DescShort=任何 /// Any
+DocInfo/Name=列入黑名單 /// Naughty List

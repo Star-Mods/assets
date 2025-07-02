@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Qualquer
+DocInfo/Name=Renovação Robótica

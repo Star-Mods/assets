@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Der Gegner setzt regelmäßig Orbitalschläge auf der Karte ein.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Orbitalschlag

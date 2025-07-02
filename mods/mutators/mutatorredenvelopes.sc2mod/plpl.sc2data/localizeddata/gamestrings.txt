@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Na całej mapie zrzucane są losowo prezenty zawierające surowce.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Prezenty

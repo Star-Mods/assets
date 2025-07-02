@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon cherche à vous épuiser dans une guerre d’usure. Vos troupes sont à bout de force, et même les tâches les plus simples ponctionnent vos ressources. Vous êtes la cible de missiles et le minerai se fait difficile à extraire. Tenez bon et prenez le contrôle des verrous. Le jeu en vaut la chandelle.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Le prix fort
+DocInfo/Screenshot01=

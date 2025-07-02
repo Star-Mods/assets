@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Char est en feu. L’activité volcanique croissante a rendu la planète encore plus dangereuse. Gardez un œil sur l’ennemi et souvenez-vous : ne restez pas dans les flammes !
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=L’enfer de la guerre
+DocInfo/Screenshot01=

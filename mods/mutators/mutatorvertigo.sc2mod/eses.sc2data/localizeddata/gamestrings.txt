@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Tu cámara cambia de posición de forma aleatoria.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Vértigo

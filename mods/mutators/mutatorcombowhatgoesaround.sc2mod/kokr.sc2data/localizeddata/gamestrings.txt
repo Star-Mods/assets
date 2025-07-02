@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=아몬이 공허의 힘을 빌려 자신의 병력을 기묘한 방식으로 강화시켰습니다. 아몬의 병력은 이제 전투에서 받은 피해를 적에게 되돌리고, 죽을 때 핵 폭탄을 터트립니다. 이를 기억하고 신중하게 전투에 임하면 승리를 거둘 수 있을 것입니다.<n/>
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=자업자득 /// What Goes Around

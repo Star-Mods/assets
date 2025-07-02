@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Si dice che siamo i nostri peggiori nemici. Amon ha trasformato questa espressione in realtà. Tutti i danni inflitti dalle vostre armate si ritorcono contro di esse, e ogni uccisione rischia di avere un prezzo molto elevato. Mostrate ad Amon che nessun sacrificio è troppo grande per ottenere la vittoria.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Karma istantaneo
+DocInfo/Screenshot01=

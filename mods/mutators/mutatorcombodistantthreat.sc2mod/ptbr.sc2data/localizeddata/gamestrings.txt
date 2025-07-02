@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Ameaça Distante /// Distant Threat
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Niektóre wrogie jednostki niosą zarazę, która zadaje obrażenia z upływem czasu i przenosi się na inne, pobliskie jednostki. Zaraza przeniesie się na twoje jednostki, kiedy zginą jednostki wroga.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Czarna śmierć

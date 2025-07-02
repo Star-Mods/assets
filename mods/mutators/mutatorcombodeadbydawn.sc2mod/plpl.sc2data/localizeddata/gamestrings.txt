@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon zamienił pewną niezwykle złośliwą odmianę wirusa zergów w broń biologiczną. Jego zainfekowani poruszają się z przerażającą szybkością i błyskawicznie roznoszą infekcję. Halucynogenny w ich krwi mogą wywoływać histerię u nawet najdzielniejszych wojowników. Przezwyciężcie strach i wypalcie infekcję.
+DocInfo/DescShort=Dowolny opis.
+DocInfo/Name=Szybcy i wściekli
+DocInfo/Screenshot01=

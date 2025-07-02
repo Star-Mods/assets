@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=敵人每隔一段時間就會以軌道砲擊攻擊你的部隊。 /// Enemy Orbital Strikes are periodically fired throughout the map.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=軌道砲擊 /// Orbital Strike

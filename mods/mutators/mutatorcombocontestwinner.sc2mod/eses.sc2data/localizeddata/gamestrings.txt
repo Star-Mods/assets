@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Nos complace presentar la creación ganadora de nuestro primer concurso de creación de mutaciones, diseñada y enviada por Saito. Esta semana, réplicas viles de los mayores héroes del sector Koprulu inspiran a las fuerzas de Amon y asedian Augustgrad. No cedáis frente a ellos y centraos en salvar la ciudad.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Ganador del concurso de creación de mutaciones

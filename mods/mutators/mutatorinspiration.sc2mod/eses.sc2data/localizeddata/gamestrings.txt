@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Las unidades héroe enemigas aumentan la velocidad de ataque y la armadura de todos los enemigos en un pequeño radio.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Inspiración

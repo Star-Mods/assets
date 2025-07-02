@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Trem infernal /// Hell Train
+DocInfo/Screenshot01=

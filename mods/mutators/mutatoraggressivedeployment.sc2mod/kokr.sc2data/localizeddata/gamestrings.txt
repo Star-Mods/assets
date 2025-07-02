@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=추가 적 유닛이 주기적으로 전장에 배치됩니다. /// Additional enemy units are periodically deployed onto the battlefield.
+DocInfo/DescShort=아무
+DocInfo/Name=공격적 배치 /// Aggressive Deployment

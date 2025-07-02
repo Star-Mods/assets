@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Uno per tutti
+DocInfo/Screenshot01=

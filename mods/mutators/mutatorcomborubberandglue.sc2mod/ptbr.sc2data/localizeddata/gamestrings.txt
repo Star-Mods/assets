@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Borracha e cola /// Rubber and Glue
+DocInfo/Screenshot01=

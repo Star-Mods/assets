@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Tarsonis erlebt den härtesten Winter seit vielen Jahren und Amon hat vor, diese Gelegenheit für seine finsteren Pläne zu nutzen. Trotzen Sie beißender Kälte und der tödlichen Bedrohung, die von der Leere ausgeht, und vernichten Sie Amons Diener ein für alle Mal.</n></n>WARNUNG: Diese Mutation ist extrem schwierig.<n/>
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Kalt ist die Leere

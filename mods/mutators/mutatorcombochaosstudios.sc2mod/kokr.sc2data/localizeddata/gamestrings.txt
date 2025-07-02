@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=공허 그 자체가 현실로 스며들며 시공간의 틀을 왜곡시킵니다. 전장의 환경이 무작위로 변하고 그 상태를 오래 유지하지 못합니다. 사령관님, 모든 것이 계속해서 원점으로 돌아가니 그 어떤 상황도 대비해야 합니다. /// The Void itself bleeds into reality, warping the very fabric of space and time. Battlefield conditions change at random and never stay stable for long. All bets are off, commanders. Be ready for anything.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=불운의 수레바퀴 /// Wheel of Misfortune
+DocInfo/Screenshot01=

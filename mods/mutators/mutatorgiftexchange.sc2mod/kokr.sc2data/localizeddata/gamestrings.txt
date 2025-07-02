@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=지도 곳곳에 주기적으로 선물이 배치됩니다. 차지하지 않으면 아몬이 차지할 겁니다! /// Gifts are periodically deployed around the map.  If you don't claim them, Amon will!
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=선물 교환 /// Gift Exchange

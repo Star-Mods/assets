@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Il tempo non è dalla vostra parte. Le forze di Amon si muovono rapidamente, e la mappa è costellata di trappole che vi rallentano. Dovrete agire con velocità e cautela per trionfare. 
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Blocco temporale

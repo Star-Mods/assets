@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=적들이 죽으면서 휘황찬란한 불꽃놀이를 일으켜 주위의 유닛에게 피해를 줍니다.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=불꽃놀이 /// Fireworks

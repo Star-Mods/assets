@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Le forze di Amon irrompono nel settore e si abbattono su Augustgrad mentre dei tornado imperversano sulla città. Riuscirete a domare la tempesta e chiudere i varchi prima che sia troppo tardi?
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Venti di tempesta

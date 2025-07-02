@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Wenn Ihr Gegner eines Ihrer Gebäude zerstört, gerät es unter seine Kontrolle.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Feindliche Übernahme

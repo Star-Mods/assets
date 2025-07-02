@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Nubes tormentosas se desplazan por el mapa, infligen daño y congelan a las unidades de los jugadores a su paso.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Ventisca

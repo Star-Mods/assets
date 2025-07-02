@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=La interferencia electromagnética está descontrolando tus comunicaciones. Darle órdenes a tu ejército puede ser costoso, así que administra bien tus instrucciones. La información es limitada y la visión está restringida, con lo que hasta la tarea más simple puede llevar mucho tiempo. Supera las dificultades y salva el planeta. /// Electromagnetic interference is wreaking havoc on your communications. Giving orders to your army can prove costly, so make every action count. Intel is limited and vision is obscured, and even the simplest task could take a while to complete. Get through it and save the planet.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Fuera de servicio /// Out of Order
+DocInfo/Screenshot01=

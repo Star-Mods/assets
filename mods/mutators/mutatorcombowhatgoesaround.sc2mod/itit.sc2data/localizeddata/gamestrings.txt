@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Amon ha attinto al potere del Vuoto per potenziare le sue forze in modo inusuale. Ora i suoi servitori riflettono i danni subiti in battaglia e scatenano esplosioni nucleari alla morte. Se riuscirete a superare questo sbilanciamento, potrete trionfare.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Chi la fa l'aspetti

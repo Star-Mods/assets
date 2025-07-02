@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Zasięg broni oraz pole widzenia jednostek i budowli wroga zostają zwiększone.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Daleki zasięg

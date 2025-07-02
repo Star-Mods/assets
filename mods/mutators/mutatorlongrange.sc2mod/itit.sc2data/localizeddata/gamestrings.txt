@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Le unità e strutture nemiche hanno portata visiva e di attacco estesa.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Lunga portata

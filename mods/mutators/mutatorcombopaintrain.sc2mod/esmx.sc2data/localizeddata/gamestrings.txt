@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=La Fuerza Moebius ha puesto en movimiento una parte de su reserva de ojivas nucleares y las repartirá por todo Tarsonis. El resto están destinadas a destruirte. Con una carga tan volátil, cualquier bala perdida representa un gran riesgo. No te sorprendas si tus fuerzas se repliegan ante la primera señal de combate. /// Moebius Corps has tapped into their stockpile of nuclear warheads and is shipping them across Tarsonis. The remainder are reserved for your destruction. With cargo this volatile, every stray bullet presents an incredible risk. Don’t be surprised if your forces flinch at the first sign of combat.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Ciudad nuclear
+DocInfo/Screenshot01=

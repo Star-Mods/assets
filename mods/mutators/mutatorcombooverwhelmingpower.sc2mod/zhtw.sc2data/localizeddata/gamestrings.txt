@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=對亞蒙來說，光只是摧毀一顆行星是不夠的。他為他的部隊注入原始能量，使他們能對你使用驚人的技能。就連亞蒙的建築都能對你發動全力攻擊。擋下亞蒙的攻勢，解救佛里迪亞主星。 /// Merely destroying a planet isn’t enough for Amon. He has also imbued his forces with raw power, allowing them to wield incredible abilities against you. Even Amon’s structures strike at you with conviction. Withstand the onslaught and save Veridia Prime.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=幽能狂亂 /// Power Trip
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Cuando muere una unidad heroica enemiga, todas las unidades de los jugadores circundantes pensarán en sus pecados y no podrán atacar ni usar habilidades.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Momento de silencio

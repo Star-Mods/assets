@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=榔頭中士的堡壘受到了攻擊。亞蒙打定主意要粉碎堡壘的防禦，他以護盾保護手下，並且使他們能在死亡時以新的肉體重生。不計一切代價，阻止這場攻擊行動。 /// Sgt. Hammer’s Fortress is under siege. Determined to shatter its defenses, Amon shielding his minions from damage and resurrecting them in entirely new bodies upon death. Do whatever it takes to stop their assault.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=適者生存 /// Survival of the Fittest
+DocInfo/Screenshot01=

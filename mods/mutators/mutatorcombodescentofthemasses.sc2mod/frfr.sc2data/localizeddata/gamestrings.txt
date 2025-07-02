@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Tomber comme des mouches /// Like Swatting Insects

@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Cualquiera /// Any
+DocInfo/Name=Dominio purificador /// Flip My Base
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=通訊系統受到電磁波干擾，變得一片混亂。就連下達指令的都得付出代價，不要做出無謂的行動。獲得的情報有限、視野不清，就連最簡單的工作都花點時間才能完成。克服這個困難，拯救這顆行星吧。 /// Electromagnetic interference is wreaking havoc on your communications. Giving orders to your army can prove costly, so make every action count. Intel is limited and vision is obscured, and even the simplest task could take a while to complete. Get through it and save the planet.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=失序危機 /// Out of Order
+DocInfo/Screenshot01=

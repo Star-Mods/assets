@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Ihre Kamera wechselt zufällig die Position.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Schwindelgefühle

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=La città è un luogo pericoloso. Gli assalitori attendono non visti dietro ogni angolo, e le strade sono disseminate di trappole mortali. Anche gli edifici possono rivelarsi una minaccia. Muovetevi rapidamente e con attenzione, e guardatevi le spalle.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Guerriglia urbana

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Bombardeios incessantes atingem suas estruturas e os mísseis inimigos devem ser destruídos ao longo da missão.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Comando Míssil

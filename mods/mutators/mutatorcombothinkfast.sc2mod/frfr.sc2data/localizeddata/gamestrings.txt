@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Amon a déchaîné une nouvelle vague de chaos sur Korhal, et des forces obscures envahissent la planète à toute vitesse. Ripostez sans perdre de temps ou vous rejoindrez les rangs des serviteurs du dieu noir.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Sans l’ombre d’un doute

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=El daño infligido a los enemigos se divide equitativamente entre las unidades cercanas, incluso las tuyas. /// Damage dealt to enemies is split evenly across all nearby units, including your own.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Difusión /// Diffusion

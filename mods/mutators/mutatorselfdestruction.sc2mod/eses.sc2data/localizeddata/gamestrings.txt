@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Las unidades enemigas explotan al morir e infligen daño a las unidades de los jugadores cercanas a ellas.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Autodestrucción

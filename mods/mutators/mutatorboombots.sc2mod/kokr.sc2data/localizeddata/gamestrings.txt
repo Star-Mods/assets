@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=로봇 장치가 여러분의 기지로 핵탄두를 운반합니다. 한 명의 플레이어는 해체 암호를 알아내고 다른 플레이어는 암호를 입력해야 합니다. /// Uncaring automatons carry a nuclear payload toward your base. One player must discern the disarming sequence and the other player must enter it.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=폭탄로봇 /// Boom Bots

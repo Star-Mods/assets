@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Cuando reciben daño, existe la posibilidad de que las unidades del jugador dejen de atacar y huyan despavoridas. /// Player units will occasionally stop attacking and run around in fear upon taking damage.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Miedo /// Fear

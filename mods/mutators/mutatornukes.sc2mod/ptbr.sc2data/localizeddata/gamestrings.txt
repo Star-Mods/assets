@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Ataques nucleares são lançados aleatoriamente pelo mapa.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Hora do Ataque Nuclear /// Going Nuclear

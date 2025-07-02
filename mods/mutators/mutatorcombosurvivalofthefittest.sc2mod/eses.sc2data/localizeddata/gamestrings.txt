@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Están asediando la fortaleza de la Sgto. Martillo. Amon, que está decidido a destrozar sus defensas, escuda a sus esbirros del daño y los resucita en cuerpos totalmente nuevos al morir. Haced lo que sea para detener su asalto.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=La supervivencia del más fuerte
+DocInfo/Screenshot01=

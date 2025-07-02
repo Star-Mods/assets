@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon reforçou os Devastadores do Vazio com resistência monstruosa, reduzindo o efeito do seu ataque contra eles e permitindo que ignorem completamente os ataques de um dos seus exércitos. Divida suas tropas e mantenha a comunicação para derrotar essa ameaça persistente.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Alvo Difícil
+DocInfo/Screenshot01=

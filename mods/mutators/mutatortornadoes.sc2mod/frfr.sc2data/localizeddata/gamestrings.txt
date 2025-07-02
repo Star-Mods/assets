@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Des tornades ravagent la carte en infligeant des dégâts aux unités alliées qu’elles rencontrent et en les repoussant.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Tornade

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Gegnerische Einheiten und Gebäude haben erhöhte Sicht- und Waffenreichweite.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Adlerauge

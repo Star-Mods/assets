@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Cualquiera
+DocInfo/Name=Guerra de contrición
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Najcięższe wojny to te prowadzone na wyniszczenie. Świątynia jest oblężona, minerały trudne do zdobycia, a armia Amona wytrzymała i fanatyczna. Utrzymajcie się tak długo, jak to możliwe, i miejcie nadzieję, że przeżyjecie.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Świątynia cierpienia

@@ -1,0 +1,8 @@
+Conversation/zSM_EvolutionMaster/Group00002=Char
+Conversation/zSM_EvolutionMaster/Group00005=Expedition
+Conversation/zSM_EvolutionMaster/Group00008=Zerus
+Conversation/zSM_EvolutionMaster/Group00009=Inquisitoren
+Conversation/zSM_EvolutionMaster/Group00010=Hybrid
+Conversation/zSM_EvolutionMaster/Group00011=Korhal
+Conversation/zSM_PrimalZergAdvisor/Group00001=
+Conversation/zSMBriefing_Expedition03/Line00003=Es tut mir leid.

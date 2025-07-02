@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Parece que las leyes de la naturaleza han cambiado por completo. Veridia Mayor no es la única que arroja magma líquido, también las fuerzas hostiles dispuestas a destruirlo. La muerte misma atrae ineludiblemente a tus fuerzas, pero tus enemigos parecen inmunes a su toque. Debes sobrevivir a esta terrible ofensiva y salvar el planeta.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Calor muerto
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Les Terrans contaminés sont partout sur Tarsonis. Enfouis dans le sol, dans les trains. D’ici peu, ils seront dans votre base. Et vous ne les aurez pas vus arriver.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Le train de la mort

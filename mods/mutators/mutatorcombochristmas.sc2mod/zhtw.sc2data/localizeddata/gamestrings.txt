@@ -1,0 +1,5 @@
+﻿DocInfo/DescLong=小心！亞蒙最喜歡懲罰像你這種鬼靈精，全看他的心情如何來決定。畢竟這是個快樂的節日，人人都有禮物！令人擔心的是，亞蒙最討厭分享了...這似乎無解。 /// You'd better watch out! Amon is exacting vengeance on those he deems naughty, and this most certainly includes you. There's still plenty of reason to be jolly--it's the season of giving, and there are gifts for everyone! But be warned: Amon does not like sharing.
+DocInfo/DescShort=任何 /// Any
+DocInfo/Name=平安夜驚魂 /// Violent Night
+DocInfo/Screenshot01=
+UserData/Mutators/KillKarma_Description=玩家擊殺的敵人越多，自身單位與建築受到的傷害會隨著提高。 /// Player units and structures take increased damage for each enemy they've killed.

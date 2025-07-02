@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Wenn feindliche Einheiten und Gebäude vernichtet werden, werden Ihre Einheiten in der Nähe zu diesem Ort gezogen.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Fatale Anziehung

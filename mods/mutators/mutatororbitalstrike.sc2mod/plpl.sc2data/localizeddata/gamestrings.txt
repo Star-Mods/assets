@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Wróg co jakiś czas wyprowadza na całej mapie ataki z orbity.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Atak z orbity

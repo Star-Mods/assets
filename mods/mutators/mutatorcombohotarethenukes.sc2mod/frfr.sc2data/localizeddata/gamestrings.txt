@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Par le feu, soyez purifiés ! /// By Fire Be Purged

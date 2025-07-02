@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Wiertło laserowe wroga nieustannie atakuje jednostki graczy, które znajdą się w zasięgu wzroku przeciwnika.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Wiertło laserowe

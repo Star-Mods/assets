@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=塔桑尼斯經歷到多年來最嚴寒的冬季，而亞蒙打算趁機發動攻擊。你必須抵受刺骨的寒冷、無情的虛空，還得消滅亞蒙的爪牙。</n></n>警告：這組異變機制的挑戰度非常高。<n/> /// Tarsonis is experiencing the harshest winter it has seen in years, and Amon intends to take full advantage of it. Withstand both the biting cold and the seething Void, and strike down Amon’s minions for good.</n></n>WARNING: This combination of Mutators is especially challenging.<n/>
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=冰冷虛空 /// Cold is the Void

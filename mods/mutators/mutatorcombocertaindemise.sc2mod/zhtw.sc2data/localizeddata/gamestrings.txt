@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=亞蒙手下的勇士渴求著力量。他的奴僕們願意為了這個儀式獻出自己的生命，但可沒辦法那麼容易就擺脫他們。復生者會不斷復活他們，重複著死而復生的激烈循環，不保護好飛升者統帥的話，結局只有死路一條。 /// Amon’s champion seethes with power.  His supplicants offer their lives up as sacrifice to the rite, but their service does not end there.  Reanimators are on hand to return them to service in an endless, violent cycle.  You must protect the First Ascendant or else all will be lost.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=斬草得除根 /// Certain Demise
+DocInfo/Screenshot01=

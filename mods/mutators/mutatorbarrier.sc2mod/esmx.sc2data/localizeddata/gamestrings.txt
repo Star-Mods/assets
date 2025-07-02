@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Las unidades y las estructuras enemigas obtienen un escudo temporal la primera vez que reciben daño. /// Enemy units and structures gain a temporary shield upon the first time they take damage.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Barrera impenetrable /// Barrier

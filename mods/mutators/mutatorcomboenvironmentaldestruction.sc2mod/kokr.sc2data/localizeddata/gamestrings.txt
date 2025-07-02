@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=그 누구도 아몬의 분노로부터 안전하지 않습니다. 끝없는 미사일 공격, 무작위 핵 공격, 무엇이든 불태우려는 정화 광선... 이 가운데 버리디아의 용암은 가장 사소한 걱정거리에 불과해 보입니다. 일꾼들을 기지로 안전하게 복귀시키십시오. 그들이 빛날 시간입니다.  /// Nowhere is safe from Amon’s wrath. Between the endless missile salvos, random nuclear strikes, and a purifier beam in search of something to burn, Veridia’s lava flows might be the least of your worries. Get your workers back to base safely. It’s their time to shine.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=불타는 세계 /// World on Fire
+DocInfo/Screenshot01=

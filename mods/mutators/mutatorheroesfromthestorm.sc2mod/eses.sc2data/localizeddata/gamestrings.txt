@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Un héroe aleatorio de un poder creciente se une a las oleadas de ataques.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Héroes de la tormenta

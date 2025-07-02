@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Las fuerzas de Amón están usando misiles y taladros láser para atacar tus estructuras desde lejos. Todo lo que logren destruir se reconstruirá para ellos. Defiende bien tus bases, pero no olvides las fisuras del Vacío que amenazan con destruir Korhal.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Invasión hostil
+DocInfo/Screenshot01=

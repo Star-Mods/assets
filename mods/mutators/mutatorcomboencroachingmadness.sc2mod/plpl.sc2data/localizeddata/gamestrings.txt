@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Dowolny
+DocInfo/Name=Nadciągające szaleństwo

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Las unidades enemigas se mueven más rápido.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Locos de la velocidad

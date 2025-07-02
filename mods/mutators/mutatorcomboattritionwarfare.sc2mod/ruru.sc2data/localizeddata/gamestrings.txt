@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Любой
+DocInfo/Name=Война на истощение
+DocInfo/Screenshot01=

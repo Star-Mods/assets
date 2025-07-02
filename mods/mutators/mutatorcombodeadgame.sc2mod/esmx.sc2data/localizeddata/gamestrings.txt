@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Monstruosidades no muertas asedian el templo Xel’Naga. Las fuerzas de Amón resucitan como infestados cuando caen y, tarde o temprano, arrasarán con tus fortificaciones con pura fuerza bruta. Asesina a los Reanimadores del Vacío antes de que puedan revivir a los muertos y haz lo que sea necesario para sobrevivir a la matanza.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Peligro inmortal
+DocInfo/Screenshot01=

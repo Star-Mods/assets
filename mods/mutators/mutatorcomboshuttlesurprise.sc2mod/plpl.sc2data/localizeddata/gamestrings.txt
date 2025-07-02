@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Amon nie cofnie się przed niczym, aby was zniszczyć. Nawet w chwili śmierci jego sługi kontratakują z zabójczą skutecznością. Zachowajcie dystans podczas eliminowania przeciwników, inaczej pociągną was za sobą.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Przesyłka specjalna

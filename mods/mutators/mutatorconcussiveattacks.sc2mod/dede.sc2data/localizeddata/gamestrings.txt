@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Verbündete Einheiten werden durch gegnerische Angriffe verlangsamt.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Schockangriff

@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Любой
+DocInfo/Name=Бешеные возможности
+DocInfo/Screenshot01=

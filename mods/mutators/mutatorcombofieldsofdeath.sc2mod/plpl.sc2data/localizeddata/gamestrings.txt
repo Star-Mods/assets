@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Bel'Shir jest usiane minami, które możesz zniszczyć tylko ty lub twój sojusznik. Musicie współpracować, aby oczyścić drogę do robotów Stetmanna. Komunikujcie się i koordynujcie działania, aby odnieść zwycięstwo.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Pola agonii
+DocInfo/Screenshot01=

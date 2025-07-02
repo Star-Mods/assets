@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Любой
+DocInfo/Name=Возрождение из пепла
+DocInfo/Screenshot01=

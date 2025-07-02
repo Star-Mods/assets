@@ -1,0 +1,5 @@
+﻿DocInfo/DescLong=El poder del Dios Oscuro se concentra en asegurar que sus lanzaderas escapan de Kaldir. Las energías del vacío protegen a sus tropas del daño y les otorgan una fortaleza antinatural, mientras que todo su armamento nuclear castiga de forma indiscriminada el campo de batalla. Amon está dándolo todo, y vosotros debéis hacer lo propio. Las lanzaderas no pueden escapar. /// All of the Dark God’s might is focused on ensuring his shuttles escape Kaldir. Void energies shield his forces from harm and invigorate them with unnatural fortitude. All of his nuclear ordnance is being unleashed indiscriminately upon the battlefield. Amon is committing everything, and you must respond in kind. The shuttles cannot be allowed to escape.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Entrega garantizada
+DocInfo/Screenshot01=
+UserData/Mutators/KillKarma_Description=Las unidades y las estructuras de los jugadores reciben más daño por cada enemigo que maten.

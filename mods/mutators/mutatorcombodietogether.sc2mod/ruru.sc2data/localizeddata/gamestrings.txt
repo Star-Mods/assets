@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Любой
+DocInfo/Name=Умрите вместе
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Erguer-se das Cinzas /// Rise from Ashes
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=任意
+DocInfo/Name=我為人人 /// One For All
+DocInfo/Screenshot01=

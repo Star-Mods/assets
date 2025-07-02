@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Un Raggio purificatore nemico si sposta sulla mappa vicino alle unità alleate.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Raggio purificatore

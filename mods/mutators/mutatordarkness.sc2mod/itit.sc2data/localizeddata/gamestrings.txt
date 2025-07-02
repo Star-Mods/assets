@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Le aree esplorate in precedenza sono nascoste sulla minimappa se al di fuori della visuale del giocatore.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Oscurità

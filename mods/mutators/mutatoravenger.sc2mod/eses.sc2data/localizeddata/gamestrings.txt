@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Las unidades enemigas obtienen más velocidad de ataque, más armadura y más vida cuando unidades enemigas mueren cerca de ellas.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Vengador

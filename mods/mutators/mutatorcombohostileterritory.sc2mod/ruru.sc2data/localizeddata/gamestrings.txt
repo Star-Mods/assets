@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Любой
+DocInfo/Name=Вражеская территория
+DocInfo/Screenshot01=

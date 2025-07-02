@@ -1,0 +1,8 @@
+﻿Actor/Name/SMChangeling=SM - 變形蟲 /// SM - Changeling
+Actor/Name/TempEvoMaster=臨時的進化管理者 /// Temp Evo Master
+Model/Name/SMChangeling=SM - 變形蟲 /// SM - Changeling
+Model/Name/TempEvoMaster=臨時的進化管理者 /// Temp Evo Master
+User/Name/AmbientScenes=環境場景
+User/Name/Character=角色 /// Character
+User/Name/Hotspot=點選區 /// Hotspot
+User/Name/ScriptedScenes=已編程的場景 /// Scripted Scenes

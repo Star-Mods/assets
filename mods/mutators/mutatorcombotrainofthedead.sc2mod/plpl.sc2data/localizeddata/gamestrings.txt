@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Na całym Tarsonis pełno jest zainfekowanych terran. Są na ziemi. Są w pociągach. Zanim się spostrzeżecie, będą też w waszych bazach.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Pociąg żywych trupów

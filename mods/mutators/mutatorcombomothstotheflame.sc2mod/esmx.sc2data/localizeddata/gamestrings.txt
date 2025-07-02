@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amón sacrificaría hasta a sus propios sirvientes para asegurar tu muerte. Su rayo de purificación bombardea las calles de Augustogrado y sus esbirros atraen a tus fuerzas hacia el camino de la destrucción. Mantén distancia y presta atención a dónde combates con el enemigo, o tus ejércitos quedarán incinerados. /// Amon is not above sacrificing his own servants to ensure your demise. His purification beam strafes the streets of Augustgrad as his minions pull your forces into the path of destruction. Keep your distance and be careful where you engage the enemy, lest your armies be incinerated.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Seducción letal /// Moths to the Flame
+DocInfo/Screenshot01=

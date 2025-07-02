@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Gegnerische Helden erhöhen die Angriffsgeschwindigkeit und die Panzerung aller Gegner in einem kleinen Umkreis.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Inspiration

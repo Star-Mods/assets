@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=卡迪爾星陷入異常時空，異變動能發散四面八方，戰場上到處是不正常的時間或空間區域。你必須撐過這些區域，才能摧毀穿梭機。 /// A spacetime anomaly has enveloped Kaldir. Kinetic energy is diffused in all directions, and pockets of temporal and spatial irregularity litter the battlefield. Fight through them to take down the shuttles.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=升起護盾！ /// Shields Up!
+DocInfo/Screenshot01=

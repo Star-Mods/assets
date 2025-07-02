@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=敵方單位和建築在第一次受到傷害時會暫時產生護盾。 /// Enemy units and structures gain a temporary shield upon the first time they take damage.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=護盾屏障 /// Barrier

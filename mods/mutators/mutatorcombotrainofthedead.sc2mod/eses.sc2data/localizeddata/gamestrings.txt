@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Los terran infestados de Tarsonis están por todas partes: en las llanuras, en los trenes... Pronto llegarán a vuestra base, y puede que no los veáis venir.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Tren de los muertos

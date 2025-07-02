@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Ottimo addestramento
+DocInfo/Screenshot01=

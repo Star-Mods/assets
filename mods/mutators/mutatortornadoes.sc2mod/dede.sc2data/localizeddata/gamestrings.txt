@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Tornados ziehen über die Karte. Verbündete Einheiten in ihrem Weg erleiden Schaden und werden zurückgestoßen.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Tornadowarnung

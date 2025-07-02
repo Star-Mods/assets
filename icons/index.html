@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>SC2 All Races Assets – Icons Archive</title>
+
+    <link rel="icon" href="arc.png" type="image/png" />
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../src/styles.css">
+
+    <!-- Optional SEO meta -->
+    <meta name="description" content="Preview of StarCraft II icon assets in the SC2 All Races Archive.">
+    <meta property="og:title" content="SC2 All Races Icons Archive" />
+    <meta property="og:description" content="Browse and download StarCraft II icons for modding." />
+    <meta property="og:image" content="arc.png" />
+
+</head>
+<body>
+<header class="small-header">
+    <a href="/" style="display: flex; align-items: center; text-decoration: none;">
+        <img src="/icons/arc.png" alt="SC2 All Races Logo" />
+        <h1>ALL Races Assets</h1>
+    </a>
+    <input type="search" id="icon-search" placeholder="Search icons..." aria-label="Search icons" />
+</header>
+<article>
+        
+    <p>Preview and download StarCraft II icons from the archive:</p>
+
+
+
+    <!--<div class="search-container">-->
+    <!--    <input type="text" id="icon-search" placeholder="Search icons by name..." autocomplete="off" />-->
+    <!--</div>-->
+    <div class="icons-grid" id="icons-grid">
+        <div id="preloader" class="grid-preloader" aria-label="Loading icons" role="status" aria-live="polite">
+            <div class="spinner"></div>
+        </div>
+        <!-- icons will be injected here -->
+    </div>
+</article>
+
+
+
+<script src="/src/script.js" defer></script>
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const iconList = createItemList({
+            dataUrl: 'index.db',
+            containerSelector: '.icons-grid',
+            searchInputSelector: '#icon-search',
+            renderItemFn: name => {
+                const div = document.createElement('div');
+                div.className = 'icon-item';
+
+                const a = document.createElement('a');
+                a.href = `${name}.png`;
+                a.target = '_blank';
+                a.title = `${name}.png`;
+
+                const img = document.createElement('img');
+                img.src = `${name}.png`;
+                img.alt = name;
+                img.loading = 'lazy';
+
+                a.appendChild(img);
+                div.appendChild(a);
+
+                const tooltip = document.createElement('span');
+                tooltip.className = 'tooltip';
+                tooltip.textContent = `${name}.png`;
+
+                div.appendChild(tooltip);
+                return div;
+            },
+            onRendered: () => {
+                console.log('Icons rendered and filtered');
+            }
+        });
+        iconList.load();
+    });
+</script>
+
+
+<footer>
+    © 2025 SC2 All Races Assets Archive
+    <div class="discord">
+        <a href="https://discord.gg/tR6958REu2" target="_blank" rel="noopener" title="All Races Discord">
+            <img src="/ui/discord.svg" alt="Discord" class="discord-icon">
+        </a>
+    </div>
+</footer>
+
+</body>
+</html>

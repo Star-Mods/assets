@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=為了送你上路，亞蒙犧牲他的僕人也在所不惜。亞蒙的淨化光束掃蕩著奧古斯格勒的大街，他的手下正試著把你的部隊引到毀滅的道路上。對抗敵人時保持距離，以策安全，別讓你的部隊被亞蒙燒光。 /// Amon is not above sacrificing his own servants to ensure your demise. His purification beam strafes the streets of Augustgrad as his minions pull your forces into the path of destruction. Keep your distance and be careful where you engage the enemy, lest your armies be incinerated.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=飛蛾撲火 /// Moths to the Flame
+DocInfo/Screenshot01=

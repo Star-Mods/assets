@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Любой
+DocInfo/Name=Покойся с миром
+DocInfo/Screenshot01=

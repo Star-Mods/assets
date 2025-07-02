@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=任意
+DocInfo/Name=礦工與地雷 /// Of Mines and Miners

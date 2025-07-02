@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=任意 /// Any
+DocInfo/Name=要死還真難 /// Never Say Die

@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Temple de la renaissance
+DocInfo/Screenshot01=

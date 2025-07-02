@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=As forças de Amon atravessam os planos da realidade e pousam em Augustogrado enquanto tornados destroem a cidade. Você consegue aguentar o mau tempo e fechar as fendas antes que seja tarde demais? /// Amon's forces tear through reality and make landfall across Augustgrad as tornadoes rampage throughout the city. Can you weather the storm and close the rifts before it's too late?
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Tempo Ruim /// Bad Weather

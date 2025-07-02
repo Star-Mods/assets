@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Любой
+DocInfo/Name=Повелители ночи
+DocInfo/Screenshot01=

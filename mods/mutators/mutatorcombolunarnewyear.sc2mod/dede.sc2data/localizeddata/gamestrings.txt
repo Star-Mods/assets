@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Es ist Zeit zum Feiern und Amon lässt es richtig krachen. Nicht genug damit, dass er Ulnar durch Überladung vernichten möchte, er hat auch seine eigenen Diener mit Sprengstoff ausgestattet. Nutzen Sie die Ressourcen, die Sie als Geschenk erhalten und machen Sie Amons Plänen einen Strich durch die Rechnung.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Neujahr auf Ulnar

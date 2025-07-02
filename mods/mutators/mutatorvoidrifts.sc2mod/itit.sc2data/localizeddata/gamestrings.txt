@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Varchi del Vuoto appaiono periodicamente in punti casuali e generano unità nemiche finché non sono distrutti.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Varchi del Vuoto

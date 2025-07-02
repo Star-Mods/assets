@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Cualquiera
+DocInfo/Name=Infección detectada
+DocInfo/Screenshot01=

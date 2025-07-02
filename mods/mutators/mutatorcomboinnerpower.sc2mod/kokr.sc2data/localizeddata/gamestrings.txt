@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=내면의 힘 /// Inner Power
+DocInfo/Screenshot01=

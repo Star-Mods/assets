@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Des pochettes de fête remplies de ressources apparaissent de façon aléatoire sur la carte.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Pochettes surprises

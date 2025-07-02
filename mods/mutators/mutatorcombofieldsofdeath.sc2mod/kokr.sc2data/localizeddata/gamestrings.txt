@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=벨시르가 지뢰로 뒤덮였습니다. 당신과 당신의 동료만이 지뢰를 모두 제거할 수 있습니다. 힘을 합쳐 스텟먼의 로봇들이 이동할 수 있게 길을 터 주어야 합니다. 동맹과 소통하고, 합력하며, 정복하십시오. /// Bel'Shir is littered with mines, and each one can only be destroyed by either you or your partner. You must work together in order to clear a path for Stetmann's bots. Communicate, coordinate, and conquer.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=비명의 벌판 /// Field of Screams
+DocInfo/Screenshot01=

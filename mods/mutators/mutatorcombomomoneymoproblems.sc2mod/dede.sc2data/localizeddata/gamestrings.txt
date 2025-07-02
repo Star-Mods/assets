@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amons rücksichtsloses Terraforming auf Veridia Prime hatte fatale Auswirkungen auf die Ressourcen des Planeten. Sie sind gezwungen, Ressourcen unter katastrophalen Umweltbedingungen abzubauen, um Material für den Bau Ihrer Streitkräfte zu sammeln. Seien Sie vorsichtig, aber verlieren Sie keine Zeit. Jede Sekunde bringt den Planeten seiner Zerstörung ein wenig näher.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Ohne Moos nix los
+DocInfo/Screenshot01=

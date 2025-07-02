@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Au nom de l’amour /// In the Name of Love

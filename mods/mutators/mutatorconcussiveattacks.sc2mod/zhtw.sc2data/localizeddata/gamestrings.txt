@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=敵方的所有攻擊都帶有緩速效果。 /// Player units are slowed by all enemy attacks.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=震盪攻擊 /// Concussive Attacks

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=查爾星正熊熊燃燒。火山活動持續加劇，這顆星球如今變得更加危險了。提防敵人的攻擊，此外還要記住，別站在火裡！ /// Char is ablaze. Increased volcanic activity has made the planet even more hazardous than before. Keep your eyes on the enemy, and always remember: don't stand in the fire.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=戰爭煉獄 /// War Is Hell
+DocInfo/Screenshot01=

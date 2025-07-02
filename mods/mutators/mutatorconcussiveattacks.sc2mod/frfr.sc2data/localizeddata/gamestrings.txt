@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Les unités alliées sont ralenties par toutes les attaques ennemies.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Attaques incapacitantes

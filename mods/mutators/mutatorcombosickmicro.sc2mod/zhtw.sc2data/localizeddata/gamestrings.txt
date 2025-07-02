@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=貝爾石的態化氫讓該星球上的病原體變得異常強大，一場致命的瘟疫威脅所有的生物，並且令你所有的行動都艱難無比。你只能忍耐，存活下來，然後獲得勝利。
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=病原體危機 /// Sick Micro
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualquer
+DocInfo/Name=Os Ascendentes
+DocInfo/Screenshot01=

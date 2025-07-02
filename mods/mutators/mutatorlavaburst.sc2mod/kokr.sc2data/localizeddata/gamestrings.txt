@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=용암이 지상의 무작위 위치에서 주기적으로 분출되어 플레이어의 지상 및 공중 유닛에게 피해를 줍니다. /// Lava periodically bursts from the ground at random locations and deals damage to player air and ground units.
+DocInfo/DescShort=아무
+DocInfo/Name=용암 폭발 /// Lava Burst

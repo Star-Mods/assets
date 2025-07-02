@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Bombardeos interminables de misiles se dirigen a vuestras estructuras, y debéis destruirlos a lo largo de la misión.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Ráfaga de misiles

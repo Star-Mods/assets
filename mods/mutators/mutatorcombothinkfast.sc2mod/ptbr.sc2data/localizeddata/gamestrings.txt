@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Amon liberou uma nova forma de caos em Korhal, com inimigos sombrios se espalhando rapidamente pela terra. Revide o ataque depressa, senão vocês serão condenados a se juntar a ele como servos do Deus Sombrio.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Pensa Rápido

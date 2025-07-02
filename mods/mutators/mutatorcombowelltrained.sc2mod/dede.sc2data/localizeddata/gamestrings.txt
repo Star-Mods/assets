@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Beliebig
+DocInfo/Name=Gemeinsam stark
+DocInfo/Screenshot01=

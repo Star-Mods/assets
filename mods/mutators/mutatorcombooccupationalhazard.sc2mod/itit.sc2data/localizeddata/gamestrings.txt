@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Le forze di Amon sfruttano i missili e la trivella laser per prendere di mira le strutture da lontano. Ogni struttura abbattuta viene acquisita e ricostruita. Proteggete le vostre basi, ma non dimenticatevi dei Varchi del Vuoto che incombono su Korhal.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Acquisizione forzata
+DocInfo/Screenshot01=

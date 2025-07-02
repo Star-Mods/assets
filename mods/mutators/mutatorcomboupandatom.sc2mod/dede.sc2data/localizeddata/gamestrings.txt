@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon will Sergeant Hammers Festung um jeden Preis zerstören. Explosionen erschüttern die Basis, Nuklearraketen regnen herab und Amons Diener explodieren im Tod. Halten Sie Ihre eigenen Verluste möglichst gering und schalten Sie die Leerenmoloche aus.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Strahlende Aussichten
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Na mapie co jakiś czas pojawiają się prezenty. Jeśli ich nie zdobędziecie, zrobi to Amon!
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Czas prezentów

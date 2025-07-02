@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Tous les bâtiments ennemis attaquent les unités hostiles à proximité.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Surcharge photonique

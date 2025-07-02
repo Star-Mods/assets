@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=죽음은 잠깐이다 /// Death is Fleeting

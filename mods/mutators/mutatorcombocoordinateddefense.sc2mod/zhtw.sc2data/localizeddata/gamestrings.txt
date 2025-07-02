@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=任何
+DocInfo/Name=協同防禦 /// Coordinated Defense

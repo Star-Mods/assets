@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Augustgrad è in ginocchio. Le risorse sono sparse per le strade: per raccoglierle, l'armata deve sfidare le mine piazzate dalle forze di Amon. Vincete la paura e riducete in polvere i Frammenti del Vuoto.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=A prova di bomba
+DocInfo/Screenshot01=

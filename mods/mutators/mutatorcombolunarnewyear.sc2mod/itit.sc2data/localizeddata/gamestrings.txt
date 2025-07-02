@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=È tempo di festeggiamenti, e Amon ha deciso di iniziare col botto. Oltre a voler distruggere Ulnar, ha imbottito i suoi servitori di esplosivi. Sfruttate le risorse che vi sono date e fermate i piani di Amon.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Nuovo anno Ulnare

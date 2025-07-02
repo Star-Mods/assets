@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Les unités héroïques adverses réduisent tous les dégâts (jusqu’à un maximum de 10 points) subis à proximité de n’importe quelle unité non héroïque adverse. /// Enemy Heroic units reduce all incoming damage to a maximum of 10 when any non-heroic enemy unit is near them.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Volonté de fer

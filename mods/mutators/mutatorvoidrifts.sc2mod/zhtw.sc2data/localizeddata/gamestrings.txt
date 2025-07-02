@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=虛空裂隙每隔一段時間會隨機出現，被摧毀前會不斷生成敵方單位。 /// Void Rifts periodically appear in random locations and spawn enemy units until destroyed.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=虛空裂隙 /// Void Rifts

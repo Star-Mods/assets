@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=핵가족 /// Nuclear Family
+DocInfo/Screenshot01=

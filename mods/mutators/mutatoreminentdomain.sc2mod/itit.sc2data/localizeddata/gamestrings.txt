@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=I nemici assumono il controllo delle strutture dopo averle distrutte.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Esproprio forzato

@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=뜨겁고 차가운 /// Hot 'n' Cold

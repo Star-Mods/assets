@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=A visão fornecida por todas as fontes fica extremamente limita, exceto a da sua câmera.
+DocInfo/DescShort=Qualquer um
+DocInfo/Name=Medo do Escuro

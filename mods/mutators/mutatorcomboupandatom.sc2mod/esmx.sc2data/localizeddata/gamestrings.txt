@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amón está decidido a destruir la fortaleza de la Sargento Maza cueste lo que cueste. Las explosiones sacuden el complejo con lluvias de misiles nucleares y los esbirros de Amón se inmolan al morir. Haz todo lo posible para reducir tus propias bajas mientras derribas a los demoledores del Vacío.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Resultados explosivos
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Non content d’interférer avec les opérations d’évacuation du Combinat Kel-Morian, Amon a modifié jusqu’à la croûte de la planète. À présent, des coulées de lave jaillissent de ses entrailles et les températures en surface ont tant augmenté qu’elles consument même les cadavres ! Attention où vous mettez les pieds.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=La mort vient d’en bas
+DocInfo/Screenshot01=

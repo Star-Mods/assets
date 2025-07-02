@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=I lavoratori estraggono risorse a ritmo ridotto, ma delle risorse sono generate sulla mappa.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Scarsi frutti

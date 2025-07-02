@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=울나르에서 미확인 생명체가 탐지되었습니다. 생명체는 경로 안의 모든 것을 섭취하고 복제해 냅니다. 아몬의 세력은 당신의 군대를 탈출하지 못하게 막는 데 집중하고 있습니다. 거리를 확보하고 모든 것을 잃기 전에 이 괴물들을 몰살하십시오.  /// Unidentified lifeforms have been detected on Ulnar, consuming everything in their path and replicating themselves as they advance. Amon’s forces are focused on preventing your armies from escaping. Keep your distance and exterminate these pests before all is lost.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=부질없는 저항 /// Futile Resistance

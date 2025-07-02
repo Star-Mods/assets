@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Las fuerzas de Amon rasgan la realidad y llegan a Augustgrad mientras los tornados arrasan la ciudad. ¿Podréis capear el temporal y cerrar las fallas antes de que sea demasiado tarde?
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Mal tiempo

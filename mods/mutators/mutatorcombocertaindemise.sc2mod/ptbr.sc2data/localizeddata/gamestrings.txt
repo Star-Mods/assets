@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=O campeão de Amon está fervilhando de poder. Seus suplicantes oferecem a vida como sacrifício para o ritual, mas a servidão deles não termina aí. Reanimadores estão a postos para devolvê-los à servidão, em um ciclo violento e interminável. Você precisa proteger o Primeiro Ascendente, senão tudo estará perdido.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Morte Certa
+DocInfo/Screenshot01=

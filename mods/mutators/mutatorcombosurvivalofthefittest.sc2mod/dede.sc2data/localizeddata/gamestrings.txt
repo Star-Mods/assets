@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Die Festung von Sergeant Hammer wird belagert. Amon ist fest entschlossen, ihre Verteidigung zu durchbrechen. Der Dunkle Gott verleiht seinen Dienern Schilde und erweckt sie nach ihrem Tod in einem anderen Körper zu neuem Leben. Tun Sie, was nötig ist, um seinen Angriff abzuwehren.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Natürliche Auslese
+DocInfo/Screenshot01=

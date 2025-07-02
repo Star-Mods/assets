@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Os suprimentos são compartilhados entre você e seu parceiro. As unidades dos dois exércitos contribuem com o limite combinado de suprimentos.
+DocInfo/DescShort=Qualquer um
+DocInfo/Name=Quem Cuida Compartilha

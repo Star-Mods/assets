@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Áreas previamente exploradas permanecem escurecidas no minimapa enquanto estiverem fora do alcance de visão do jogador. /// Previously explored areas remain blacked out on the minimap while outside of player vision.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Trevas /// Darkness

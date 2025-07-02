@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Sua câmera muda de posição aleatoriamente.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Vertigem

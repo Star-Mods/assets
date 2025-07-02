@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=任意
+DocInfo/Name=激爆回收 /// Explosive Hunt

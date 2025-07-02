@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Les dégâts infligés aux ennemis sont répartis équitablement entre toutes les unités proches, y compris les vôtres.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Diffusion

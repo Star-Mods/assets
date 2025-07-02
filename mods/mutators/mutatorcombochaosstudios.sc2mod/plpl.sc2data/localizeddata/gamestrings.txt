@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Otchłań zaczyna przenikać do naszej rzeczywistości i wypaczać czasoprzestrzeń. Warunki na polu walki co jakiś czas zmieniają się w sposób przypadkowy. Wszystkie chwyty są dozwolone, dowódcy. Bądźcie gotowi na każdą ewentualność.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Koło niefortuny
+DocInfo/Screenshot01=

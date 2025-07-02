@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Enemigos ocultos acechan entre la niebla de la jungla, listos para lanzarse sobre los robot recolectores de Stetmann y destrozarlos en el acto. Presta atención a los esbirros de Amón y a las trampas que han colocado para inmovilizarte.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Caos en la jungla
+DocInfo/Screenshot01=

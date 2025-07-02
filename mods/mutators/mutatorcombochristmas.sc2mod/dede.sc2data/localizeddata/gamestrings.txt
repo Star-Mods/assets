@@ -1,0 +1,5 @@
+﻿DocInfo/DescLong=Nehmen Sie sich in Acht! Amon bestraft alle, die er für unartig befindet – und damit meint er vor allem seine Gegner. Dennoch gibt es Grund genug, froh und munter zu sein – die festliche Jahreszeit bricht an und es gibt Geschenke für alle! Doch ein Wort der Warnung sei angebracht: Amon teilt nicht gern.
+DocInfo/DescShort=Alle
+DocInfo/Name=Schöne Bescherung
+DocInfo/Screenshot01=
+UserData/Mutators/KillKarma_Description=Verbündete Einheiten und Gebäude erleiden erhöhten Schaden für jeden Feind, den sie getötet haben.

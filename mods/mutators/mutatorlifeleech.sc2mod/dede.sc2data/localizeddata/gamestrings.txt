@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Gegnerische Einheiten und Gebäude entziehen Treffer- und Schildpunkte, wenn sie Schaden verursachen.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Lebensentzug

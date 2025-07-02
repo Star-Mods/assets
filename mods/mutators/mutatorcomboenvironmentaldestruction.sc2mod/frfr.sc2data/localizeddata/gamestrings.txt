@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Nul n’est à l’abri du courroux d’Amon. Entre les salves de roquettes incessantes, les frappes nucléaires aléatoires et le feu d’un rayon purificateur, les coulées de lave de Véridia pourraient bien se révéler le cadet de vos soucis. Ramenez vos travailleurs à la base en un seul morceau. Leur heure de gloire a sonné.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=À feu et à sang
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=La mera destrucción de un planeta no es suficiente para Amon. También ha imbuido a sus fuerzas de poder en estado puro, lo que les permite usar increíbles habilidades contra vosotros. Incluso las estructuras de Amon os atacan con convicción. Resistid la arremetida y salvad Veridia Prime.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Exhibición de poder /// Power Trip
+DocInfo/Screenshot01=

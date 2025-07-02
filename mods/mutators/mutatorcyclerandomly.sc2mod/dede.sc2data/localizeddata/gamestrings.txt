@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Die Mutatoren werden zufällig ausgewählt und ändern sich regelmäßig während der Mission.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Totales Chaos

@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Esmagando insetos /// Like Swatting Insects

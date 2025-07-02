@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Por si Bel'Shir no tuviera ya suficientes problemas, ahora sufre el ataque de robots asesinos empeñados en destruir vuestros ejércitos. Además, la muerte de sus camaradas está afectando como nunca a vuestras diezmadas fuerzas. Centraos en los recolectores para triunfar.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Guerra de robots asesinos
+DocInfo/Screenshot01=

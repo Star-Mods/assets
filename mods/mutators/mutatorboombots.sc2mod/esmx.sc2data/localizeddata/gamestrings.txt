@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Unos autómatas descuidados transportan una carga nuclear hacia tu base. Un jugador debe descifrar la secuencia de desarmado y el otro jugador debe ingresarla.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Bumbots

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Amon wszedł w posiadanie potężnego wiertła laserowego i teraz nic przed nim nie ucieknie. Każdy, kogo wypatrzy, znajdzie się w zasięgu jego broni. Ruszajcie do ataku i wyeliminujcie zagrożenie.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Pierwsze uderzenie

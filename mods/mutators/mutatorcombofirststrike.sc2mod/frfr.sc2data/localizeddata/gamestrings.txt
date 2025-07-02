@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Amon dispose d’une puissante foreuse laser qui lui permet d’atteindre n’importe quel endroit de la carte. S’il peut vous voir, il peut vous tirer dessus. Foncez et éliminez-le.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Frappe initiale

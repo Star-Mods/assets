@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Karalne przewinienie
+DocInfo/Screenshot01=

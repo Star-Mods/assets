@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Não contente em interferir apenas nos esforços de evacuação da União Kelmoriana, Amon reestruturou a própria crosta do planeta. Explosões de lava agora ocorrem aleatoriamente, e as temperaturas da superfície subiram tanto que alguns cadáveres entram em combustão! Cuidado onde pisa.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=A Morte Vem de Baixo
+DocInfo/Screenshot01=

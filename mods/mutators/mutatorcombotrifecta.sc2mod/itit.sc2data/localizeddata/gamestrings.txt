@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon ha evocato servitori di tutte e tre le razze. Una Trivella laser della Divisione Moebius apre il fuoco, orde di terran infestati vagano per la mappa, e una Nave madre protoss scatena bombardamenti dall'orbita. Bisogna resistere a questa minaccia combinata e portare a termine la missione.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Tripla minaccia
+DocInfo/Screenshot01=

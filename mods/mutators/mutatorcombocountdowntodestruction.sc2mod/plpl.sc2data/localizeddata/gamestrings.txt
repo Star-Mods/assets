@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Sług Amona jest legion. Niezliczone zastępy jego fanatycznych wojowników przemierzają wnętrza Ulnaru, gotowe obrócić was w pył. Przebijcie się przez nich i dostańcie do niebiańskich barier, lecz uważajcie: siły Amona są groźne nawet wtedy, gdy giną.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Płonący legion
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Las unidades enemigas engendran Ácaros al morir. /// All enemy units spawn Broodlings upon death.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Incubación alienígena /// Alien Incubation

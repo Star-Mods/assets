@@ -1,0 +1,73 @@
+Character/Attitude/Zerg_Adjutant=Scaltra e intelligente /// Sly and Intelligent
+Character/Description/Zerg_Adjutant=Molto organizzata e intelligente, ma anche molto scaltra e attenta alle ramificazioni politiche che la circondano. Quando parla di affari, non si perde in chiacchiere. Quando parla di politica o di umorismo nero, ha un'aria un po' più allegra. /// She is very organized and intelligent, but also very sly and aware of the political ramifications going on around her. When she means business, she sounds no-nonsense. When she is politicking or engaging in dark humor, she has a slightly more playful air.
+Character/Name/Zerg_Adjutant=Kavi /// Kavi
+DocInfo/Author=Autore sconosciuto /// Unknown Author
+DocInfo/Name=Un altro mod di StarCraft II... /// Just Another StarCraft II Mod
+DocInfo/Website=
+Location/Name/Expedition=Kaldir /// Kaldir
+Param/Expression/lib_281DEC45_0E2BCC46=<s val="StandardTooltipHeader_Zerg">~A~</s><n/><s val="StandardTooltip_Zerg">~B~</s> /// <s val="StandardTooltipHeader_Zerg">~A~</s><n/><s val="StandardTooltip_Zerg">~B~</s>
+Param/Expression/lib_281DEC45_1837ECC2=+~Count~ %Rplu(livello di Kerrigan, livelli di Kerrigan) /// +~Count~ %Rplu(Kerrigan Level, Kerrigan Levels)
+Param/Expression/lib_281DEC45_272AF6B1=<s val="StandardTooltipHeader_Zerg">~A~</s><n/><s val="StandardTooltip_Zerg">~B~</s> /// <s val="StandardTooltipHeader_Zerg">~A~</s><n/><s val="StandardTooltip_Zerg">~B~</s>
+Param/Expression/lib_281DEC45_31A824A1=DEBUG: tentato di riprodurre la scena ~A~ ma lo spazio per riprodurre altre scene d'ambiente è esaurito /// DEBUG: Tried to play scene ~A~ but ran out of room to play more ambient scenes
+Param/Expression/lib_281DEC45_3B6081C9=<n/><s val="MasterArchivesIntroDescription"><n/>~A~</s><n/><n/><s val="MasterArchivesIntroAction"><n/>~B~</s> /// <n/><s val="MasterArchivesIntroDescription"><n/>~A~</s><n/><n/><s val="MasterArchivesIntroAction"><n/>~B~</s>
+Param/Expression/lib_281DEC45_632299BC=+~Count~ %Rplu(livello di Kerrigan, livelli di Kerrigan) /// +~Count~ %Rplu(Kerrigan Level, Kerrigan Levels)
+Param/Expression/lib_281DEC45_7F4626A3=Debug: tentato di lanciare la scena con script ~A~, ma non ha richiamo. /// Debug: Attempted to play scripted scene ~A~ but it has no callback.
+Param/Expression/lib_281DEC45_92BCB8EC=~EARNEDXP~ su ~TOTALXP~ livelli di Kerrigan /// ~EARNEDXP~ out of ~TOTALXP~ Kerrigan Levels
+Param/Expression/lib_281DEC45_AB263B6E=Avviare la mappa ~A~ per visualizzare la scena ~B~? /// Launch map ~A~ to play scene ~B~?
+Param/Expression/lib_281DEC45_AE8DA698=Imposta attività storia = ~A~ (Interrompi ~B~) /// Set story activity = ~A~ (Stopping ~B~)
+Param/Expression/lib_281DEC45_C832C8D9=Passaggio da stanza ~A~ a ~B~ /// Moving to room ~A~ from ~B~
+Param/Expression/lib_281DEC45_CF2EF169=Missione evolutiva ~Unit~ /// ~Unit~ Evolution Mission
+Param/Value/lib_281DEC45_05ECE39E=Caricamento dati... /// Loading data...
+Param/Value/lib_281DEC45_0861B6F7=Salvataggio risorse Leviatano su log di gioco. /// Leviathan resource dump saved to gamelogs.
+Param/Value/lib_281DEC45_0D768197=Sconosciuta /// Unknown
+Param/Value/lib_281DEC45_11F60812=Chiudi /// Close
+Param/Value/lib_281DEC45_140E5644=Ambiente /// Ambient
+Param/Value/lib_281DEC45_1C1F74CB=
+Param/Value/lib_281DEC45_2DCFA521=
+Param/Value/lib_281DEC45_393257D8=Attivato /// Enabled
+Param/Value/lib_281DEC45_3AF4F29D=RICOMPENSA AGGIUNTIVA /// ADDITIONAL REWARD
+Param/Value/lib_281DEC45_3E4C043A='Clean' salvataggio risorse su log di gioco. /// 'Clean' resource dump saved to gamelogs.
+Param/Value/lib_281DEC45_3ED1A4AC=
+Param/Value/lib_281DEC45_3FDA3873=Chiudi /// Close
+Param/Value/lib_281DEC45_401D5485=
+Param/Value/lib_281DEC45_409F349E=
+Param/Value/lib_281DEC45_40E0E9D0=
+Param/Value/lib_281DEC45_423CCAB7=
+Param/Value/lib_281DEC45_4277695B=Questo pianeta non è gestito in Impostazione illuminazione gioco. /// This planet is not handled in Play Set Lighting.
+Param/Value/lib_281DEC45_501B0A5D=<s val="StoryModeQuitToLobby">Abbandonare la campagna?</s> /// <s val="StoryModeQuitToLobby">Quit Campaign?</s>
+Param/Value/lib_281DEC45_50CE2781=
+Param/Value/lib_281DEC45_5ADD08C4=<s val="StoryModeQuitToLobby">Abbandonare la campagna?</s> /// <s val="StoryModeQuitToLobby">Quit Campaign?</s>
+Param/Value/lib_281DEC45_7E965CA4=La trasformazione di Kerrigan le ha conferito nuove abilità, che al momento non sono modificabili. Potrai modificare le sue abilità dopo aver superato le sfide di Zerus. /// Kerrigan's transformation has granted her new abilities, and they cannot be altered at this time. You can alter your abilities once you have overcome the challenges of Zerus.
+Param/Value/lib_281DEC45_9185878E=Ripristina stati /// Restore States
+Param/Value/lib_281DEC45_95AB7156=Nuova conversazione /// New Conversation
+Param/Value/lib_281DEC45_AA36F562=
+Param/Value/lib_281DEC45_AA898655=Salvataggio risorse Stanza delle uova su log di gioco. /// Egg Room resource dump saved to gamelogs.
+Param/Value/lib_281DEC45_B492BF55=Questa scena con script non può essere avviata su questa mappa e non possiede una mappa specifica. /// This scripted scene cannot be played on this map and does not have a map specified.
+Param/Value/lib_281DEC45_BED331D6=Esecuzione salvataggio transizione in uscita /// Performing on exit transition save
+Param/Value/lib_281DEC45_CA3DD646=
+Param/Value/lib_281DEC45_D6CDD844=Riavvia /// Reset
+Param/Value/lib_281DEC45_E0C26551=
+Param/Value/lib_281DEC45_E53286CA=Completa più missioni per sbloccare questa funzione. /// Complete more missions to unlock this function.
+Param/Value/lib_281DEC45_E71A5EF8=Riproduci /// Play
+Param/Value/lib_281DEC45_EBC1823B=Kerrigan primordiale /// Kerrigan Primal
+Param/Value/lib_281DEC45_F285B16A=Al momento, non puoi tornare sul pianeta. /// You cannot return to the planet at this time.
+Param/Value/lib_281DEC45_F9B62A9E=Incompleto /// Incomplete
+Param/Value/lib_281DEC45_FADA379D=RICOMPENSE AGGIUNTIVE: /// ADDITIONAL REWARDS:
+Param/Value/lib_281DEC45_FE627170=
+Param/Value/lib_281DEC45_FFFFE94E=
+Unit/Name/SMChangeling=MS - Mutaforma /// SM - Changeling
+Unit/Name/TempEvoMaster=Maestro evolutivo temp /// Temp Evo Master
+DocInfo/Website=
+Param/Value/lib_281DEC45_1C1F74CB=
+Param/Value/lib_281DEC45_2DCFA521=
+Param/Value/lib_281DEC45_3ED1A4AC=
+Param/Value/lib_281DEC45_401D5485=
+Param/Value/lib_281DEC45_409F349E=
+Param/Value/lib_281DEC45_40E0E9D0=
+Param/Value/lib_281DEC45_423CCAB7=
+Param/Value/lib_281DEC45_50CE2781=
+Param/Value/lib_281DEC45_AA36F562=
+Param/Value/lib_281DEC45_CA3DD646=
+Param/Value/lib_281DEC45_E0C26551=
+Param/Value/lib_281DEC45_FE627170=
+Param/Value/lib_281DEC45_FFFFE94E=

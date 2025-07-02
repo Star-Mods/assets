@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Die furchterregendsten Monster sind diejenigen, die man nicht sieht. Horden von Verseuchten lauern in den Schatten und bewegen sich unaufhaltsam auf die Evakuierungsschiffe zu. Amons Streitkräfte sind ebenfalls getarnt und der Dunkle Gott setzt sogar einen unsichtbaren Destruktorstrahl gegen Sie ein. Detektoreigenschaften sind hier ebenso unerlässlich wie Feuerkraft.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Unsichtbare Bedrohung
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Siły Amona wykorzystują pociski i wiertło laserowe, aby atakować wasze budowle z daleka. Każdą waszą zniszczoną budowlę odbudowują u siebie. Strzeżcie swojej bazy, ale nie zapominajcie o szczelinach otchłani, które grożą zniszczeniem Korhalu.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Zagrożenie budowlane
+DocInfo/Screenshot01=

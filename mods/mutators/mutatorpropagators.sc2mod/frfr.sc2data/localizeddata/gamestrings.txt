@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Des créatures informes s’infiltrent dans votre base, transformant toutes les unités et les bâtiments qu’elles touchent en copies d’elles-mêmes.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Propagateurs

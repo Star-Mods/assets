@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=켈 모리안 조합의 탈출에 관심이 사라진 아몬이 행성의 표면 자체를 재구성했습니다. 용암이 무작위로 폭발하고 지표면 온도가 매우 심하게 높아져 시체들이 연소할 수 있습니다! 발 밑을 조심하십시오. /// No longer content to merely interfere with the Kel-Morian combine's evacuation efforts, Amon has restructured the planet's crust itself. Lava bursts will now occur at random, and surface temperatures have risen so high that some corpses can even combust! Tread very carefully.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=땅속에서 죽음이 /// Death from Below
+DocInfo/Screenshot01=

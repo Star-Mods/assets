@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Chefe Memorável /// Memorable Boss
+DocInfo/Screenshot01=

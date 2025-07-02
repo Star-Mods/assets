@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Wrogowie zamierzają przejąć kontrolę nad waszymi budowlami obronnymi i wykorzystać je przeciwko wam. W tym celu hybrydy zaatakują je ładunkami jądrowymi a następnie wrogowie odbudują budowle i przekażą je pod kontrolę Amona. Nie dopuśćcie do tego.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Wrogie przejęcie
+DocInfo/Screenshot01=

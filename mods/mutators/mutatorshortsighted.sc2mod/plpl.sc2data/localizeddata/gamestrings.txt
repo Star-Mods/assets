@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Pole widzenia jednostek i budowli graczy zostaje zmniejszone.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Krótkowzroczność

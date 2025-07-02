@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Solo se pueden generar suministros matando a los pavos que deambulan por el mapa. Puede que hacerlo enfade a los pavos que queden.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Tiro al pavo

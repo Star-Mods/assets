@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=일부 적 유닛은 대상에게 지속 피해를 주고 주위의 다른 유닛에게 번지는 역병을 지닙니다. 해당 적 유닛을 처치하면 아군 유닛에게 역병이 번집니다. /// Some enemy units carry a plague that deals damage over time and spreads to other nearby units. The plague spreads to your units when the enemy unit is killed.
+DocInfo/DescShort=아무
+DocInfo/Name=흑사병 /// Black Death

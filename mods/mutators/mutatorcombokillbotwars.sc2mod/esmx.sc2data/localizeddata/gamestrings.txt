@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Como si Bel'Shir no tuviera suficientes problemas, ahora ha sufrido la invasión de roboasesinos feroces que están decididos a destruir tu ejército. Tus fuerzas devastadas se sensibilizan especialmente con aquellos que caen durante la batalla. Concéntrate en los recolectores para triunfar.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Guerra de roboasesinos
+DocInfo/Screenshot01=

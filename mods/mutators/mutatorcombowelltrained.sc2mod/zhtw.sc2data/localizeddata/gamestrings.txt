@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=任意 /// Any
+DocInfo/Name=訓練有素
+DocInfo/Screenshot01=

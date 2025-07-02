@@ -1,0 +1,6 @@
+﻿DocInfo/DescLong=La corrupción de Amón se está apoderando de todos y de todo. En cualquier momento, hasta tu aliado más cercano te traicionará. Está claro que no se puede confiar en nadie. Solo queda una opción: ¡destrúyelos antes de que te destruyan!
+
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Repentino pero inevitable
+
+DocInfo/Screenshot01=

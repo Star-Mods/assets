@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Unos organismos amorfos se acercan lentamente hacia tu base, y todas las unidades y estructuras que tocan se transforman en copias de ellos.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Propagadores

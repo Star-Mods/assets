@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=부정적인 증원 /// Negative Reinforcement
+DocInfo/Screenshot01=

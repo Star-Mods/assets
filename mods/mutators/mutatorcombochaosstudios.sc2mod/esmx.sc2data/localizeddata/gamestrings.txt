@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=El Vacío se desangra sobre la composición de la realidad y altera el continuo espaciotemporal. Las condiciones del campo de batalla cambian al azar y no permanecen estables por mucho tiempo. Todo puede pasar, comandantes. Prepárense para lo que sea. /// The Void itself bleeds into reality, warping the very fabric of space and time. Battlefield conditions change at random and never stay stable for long. All bets are off, commanders. Be ready for anything.
+DocInfo/DescShort=Cualquiera /// Any
+DocInfo/Name=Ruleta de la desgracia /// Wheel of Misfortune
+DocInfo/Screenshot01=

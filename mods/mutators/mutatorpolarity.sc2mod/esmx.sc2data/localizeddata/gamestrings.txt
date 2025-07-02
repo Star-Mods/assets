@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Cada unidad enemiga es inmune a tus unidades o las de tu aliado. /// Each enemy unit is immune to either your units or your ally's units.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Polaridad /// Polarity

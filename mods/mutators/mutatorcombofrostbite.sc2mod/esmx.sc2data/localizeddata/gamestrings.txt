@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Vientos invernales inclementes castigan el paisaje donde los muertos se levantan del suelo y las fuerzas de Amón han plantado minas magnéticas por todos lados. Defiende tu posición, evita las ráfagas y las minas, y purga el planeta de la infestación que lo amenaza.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Entumecimiento /// Frostbite
+DocInfo/Screenshot01=

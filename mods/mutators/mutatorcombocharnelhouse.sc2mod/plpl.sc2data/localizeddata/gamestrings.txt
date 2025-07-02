@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Na tej ponurej i opuszczonej planecie szaleje groźna zaraza. Siły Amona zmodyfikowały obronę górników, aby obierała za cel wasze armie zamiast zainfekowanych. Przemierzcie mrok, aby ocaleli mogli uciec z tego koszmarnego miejsca i przeżyć zarazę.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Trupiarnia
+DocInfo/Screenshot01=

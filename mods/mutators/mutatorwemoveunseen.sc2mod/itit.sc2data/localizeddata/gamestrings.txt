@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Tutte le unità nemiche sono permanentemente occultate.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Ci muoviamo non visti

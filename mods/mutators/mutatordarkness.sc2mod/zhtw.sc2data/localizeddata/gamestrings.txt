@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=只要在玩家的視野之外，就算是先前探索過的區域，在小地圖上依然是一片漆黑。 /// Previously explored areas remain blacked out on the minimap while outside of player vision.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=暗影四伏 /// Darkness

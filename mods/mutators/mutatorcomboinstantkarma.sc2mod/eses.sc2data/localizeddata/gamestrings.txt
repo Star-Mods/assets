@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Se suele decir que tu peor enemigo eres tú mismo, pero ahora Amon ha convertido este dicho en una realidad. Cada vez que vuestras tropas inflijan daño, también ellas sufrirán esa misma cantidad, por lo que al matar a un enemigo corréis el riesgo de perder a varias de vuestras tropas. Mostradle a Amon que no hay sacrificio demasiado grande para obtener la victoria.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=La ley del karma
+DocInfo/Screenshot01=

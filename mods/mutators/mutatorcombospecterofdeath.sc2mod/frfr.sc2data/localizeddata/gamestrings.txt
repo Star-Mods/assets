@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=L’ombre de la mort
+DocInfo/Screenshot01=

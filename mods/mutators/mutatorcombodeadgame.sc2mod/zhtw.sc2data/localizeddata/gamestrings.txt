@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=殺不完的怪物大舉進攻薩爾納加神殿。亞蒙的手下會不斷復活受感染的部隊，遲早能夠以武力強行突破你的防線。快速解決虛空復生者，別讓牠們復活屍體，然後使盡全力在這場戰鬥中活下來。 /// Deathless monstrosities besiege the Xel’Naga Temple. Amon's forces give rise to the infested as they fall, and will eventually overwhelm your fortifications through brute force. Kill the Void Reanimators before they can raise the dead, and do whatever it takes to survive the onslaught.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=步步活屍 /// Grave Danger
+DocInfo/Screenshot01=

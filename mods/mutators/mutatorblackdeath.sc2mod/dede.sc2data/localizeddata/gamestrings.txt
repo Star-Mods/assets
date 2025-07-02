@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Manche gegnerische Einheiten sind von einer Seuche infiziert, die Schaden über Zeit verursacht und andere Einheiten in der Nähe anstecken kann. Die Seuche wird nach dem Tod der gegnerischen Einheit auf Ihre Einheiten übertragen.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Schwarzer Tod

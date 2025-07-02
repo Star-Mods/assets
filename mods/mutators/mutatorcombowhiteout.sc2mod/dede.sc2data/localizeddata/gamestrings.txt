@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Kaldir gehört nicht nur aufgrund seiner extremen Wetterphänomene zu den unwirtlichsten Planeten im Sektor. Der Ressourcenabbau gestaltet sich schwierig und die hier wütenden Kryostürme frieren alles ein, was ihnen in den Weg kommt. Vernichten Sie Amons Armeen und halten Sie sich warm.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Eiszeit

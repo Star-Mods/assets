@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Des monstruosités immortelles prennent d’assaut le temple Xel’Naga. Les troupes d’Amon tuées reviennent sous forme de contaminés et finiront par percer vos défenses sous le poids du nombre. Éliminez les réanimateurs du Vide avant qu’ils relèvent leurs morts, et survivez au siège.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=L’armée des morts
+DocInfo/Screenshot01=

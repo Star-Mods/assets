@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Se producen explosiones de lava periódicamente en ubicaciones aleatorias que infligen daño a las unidades aéreas y terrestres del jugador. /// Lava periodically bursts from the ground at random locations and deals damage to player air and ground units.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Explosiones de lava /// Lava Burst

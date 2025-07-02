@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Donner des ordres à vos unités consomme une quantité de ressources liée au coût de chaque unité.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Microtransactions

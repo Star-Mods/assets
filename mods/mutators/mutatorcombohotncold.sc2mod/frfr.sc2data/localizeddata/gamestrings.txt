@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Tous
+DocInfo/Name=Chaud et froid

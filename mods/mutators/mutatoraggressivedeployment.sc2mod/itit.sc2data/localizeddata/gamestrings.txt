@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Nuove unità nemiche sono periodicamente schierate sul campo di battaglia.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Schieramento aggressivo

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Endlose Bombardierungen gehen auf Ihre Gebäude nieder und müssen im Laufe der Mission unterbunden werden.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Bombenhagel

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Tus enemigos quieren apoderarse de tus defensas y usarlas contra ti. Para eso, las destruirán con misiles nucleares híbridos y las reconstruirán para que las use Amón. No lo permitas. /// Your enemies intend to seize your defenses and use them against you, reconstructing them under Amon’s control after they are destroyed by the hybrids’ nukes. Do not allow that to occur.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Explosión retroactiva /// Blast from the Past
+DocInfo/Screenshot01=

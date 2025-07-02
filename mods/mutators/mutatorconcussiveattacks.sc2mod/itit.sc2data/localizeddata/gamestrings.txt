@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Gli attacchi nemici rallentano le unità alleate.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Attacchi a concussione

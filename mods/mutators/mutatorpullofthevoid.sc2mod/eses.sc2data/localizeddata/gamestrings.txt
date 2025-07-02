@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Al ser destruidas, las unidades y estructuras enemigas atraen hasta su ubicación a todas vuestras unidades cercanas.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Atracción fatal

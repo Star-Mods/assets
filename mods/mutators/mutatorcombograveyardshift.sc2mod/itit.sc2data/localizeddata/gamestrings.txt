@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Turno di notte

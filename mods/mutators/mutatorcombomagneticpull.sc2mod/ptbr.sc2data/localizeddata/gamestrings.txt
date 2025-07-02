@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=As forças de Amon posicionaram minas magnéticas em Char, e esse poder misterioso está manipulando seus guerreiros, atraindo-os para os cadáveres dos inimigos. Planeje seus ataques com cuidado para não ter surpresas explosivas.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Atração Magnética
+DocInfo/Screenshot01=

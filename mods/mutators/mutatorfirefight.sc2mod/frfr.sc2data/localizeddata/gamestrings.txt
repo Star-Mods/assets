@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Les unités ennemies embrasent le sol à leur mort.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Terre brûlée

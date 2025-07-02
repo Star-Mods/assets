@@ -1,0 +1,5 @@
+﻿DocInfo/DescLong=Attenzione, Amon vuole vendicarsi di chi non si è comportato bene, e voi siete sulla lista. Tuttavia, i motivi per festeggiare non mancano, e tutti riceveranno dei regali! Un avvertimento: ad Amon non piace condividere.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Un dono per due
+DocInfo/Screenshot01=
+UserData/Mutators/KillKarma_Description=Unità e strutture alleate subiscono danni aumentati per ogni unità nemica che hanno ucciso.

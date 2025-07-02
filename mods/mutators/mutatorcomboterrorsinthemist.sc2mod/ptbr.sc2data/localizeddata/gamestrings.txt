@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Na névoa da selva, inimigos camuflados estão à espreita, prontos para dar o bote nos robôs de extração de Stetmann e despedaçá-los sem o menor aviso. Fique de olho tanto nos lacaios de Amon quanto nas armadilhas preparadas para você.
+DocInfo/DescShort=Qualquer um
+DocInfo/Name=Agito na Selva
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=La exposición al terracino puede provocar brotes violentos, y las fuerzas de Amón no son la excepción. La influencia del dios oscuro sobre ellos se ha intensificado con el gas, y ha aumentado su velocidad y agresión. No se detendrán ante nada para destruirte. ¡Destrúyelos primero!
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Aliento de la destrucción
+DocInfo/Screenshot01=

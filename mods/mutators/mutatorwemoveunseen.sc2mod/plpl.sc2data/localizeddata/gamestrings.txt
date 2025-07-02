@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Wszystkie jednostki wroga dysponują stałym maskowaniem.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Poruszamy się niezauważeni

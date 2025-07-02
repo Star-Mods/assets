@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Reforço Negativo /// Negative Reinforcement
+DocInfo/Screenshot01=

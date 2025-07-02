@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=貝爾石的態化氫為亞蒙的部隊帶來意外的變化。增強的刺激觸發了難以預設的轉化效果，而每次死亡都會讓敵方單位釋放出頑強的生命體。但是最恐怖的地方，是牠們竟然擁有以生物組織引發核彈效果的能力。 /// Amon's forces have been altered by the terrazine on Bel'shir in unexpected ways. Increased adrenaline triggers unpredictable transformations and each death unleashes new hostile lifeforms. The most powerful of them have even developed organic nuclear capabilities.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=威脅滋長 /// Growing Threat
+DocInfo/Screenshot01=

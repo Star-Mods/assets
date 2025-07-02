@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Von Spielern kontrollierte Einheiten haben eine Chance, nach erlittenem Schaden in Furcht zu verfallen.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Furcht

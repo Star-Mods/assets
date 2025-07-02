@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Władcy nocy
+DocInfo/Screenshot01=

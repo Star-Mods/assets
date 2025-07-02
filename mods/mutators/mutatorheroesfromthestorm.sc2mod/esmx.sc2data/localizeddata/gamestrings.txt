@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Héroes cada vez más poderosos se unirán a las oleadas de ataque.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Héroes de la tormenta

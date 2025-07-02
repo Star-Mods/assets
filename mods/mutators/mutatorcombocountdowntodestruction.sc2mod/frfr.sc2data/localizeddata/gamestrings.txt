@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Les armées d’Amon sont considérables. Une marée de guerriers fanatiques, déterminés à vous réduire en cendres, se jette à l’assaut d’Ulnar. Éliminez-les pour atteindre les verrous célestes, mais prenez garde : les troupes d’Amon sont redoutables, même mortes.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Légion ardente
+DocInfo/Screenshot01=

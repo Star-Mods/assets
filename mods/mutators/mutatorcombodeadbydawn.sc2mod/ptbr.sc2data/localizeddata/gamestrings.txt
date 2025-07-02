@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=As forças de Amon transformaram uma variante particularmente virulenta da infestação em arma. Os infestados dele se movem a uma velocidade assustadora e espalham rapidamente a enfermidade. Os alucinógenos no sangue deles podem causar histeria até mesmo nos heróis mais corajosos. Supere o medo e queime a infestação.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Os Vivos e os Mortos
+DocInfo/Screenshot01=

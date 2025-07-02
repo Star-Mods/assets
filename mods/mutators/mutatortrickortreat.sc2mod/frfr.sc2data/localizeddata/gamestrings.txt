@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Des civils fouillent dans votre bol de bonbons en quête de friandises, générées en dépensant du minerai. Si le bol ne contient aucune friandise, les civils se transforment en unités ennemies aléatoires.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Un bonbon ou une farce

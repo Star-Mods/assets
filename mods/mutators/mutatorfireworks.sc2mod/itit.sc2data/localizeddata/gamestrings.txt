@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Alla morte, i nemici innescano un affascinante spettacolo pirotecnico che danneggia le unità alleate.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Fuochi d'artificio

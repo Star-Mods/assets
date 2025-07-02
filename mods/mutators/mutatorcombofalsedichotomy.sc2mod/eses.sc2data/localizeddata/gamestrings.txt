@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=El mejor ataque bien podría ser una buena defensa. Las fuerzas de Amon no solo pueden evadir y absorber tus ataques, sino que el vacío también les otorga defensas que un solo ejército no puede traspasar. Tu aliado y tu deberéis coordinar vuestro ataque para alzaros con la victoria.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Inmunidad diplomática
+DocInfo/Screenshot01=

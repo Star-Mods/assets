@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Wydawanie rozkazów jednostkom zużywa zasoby w ilości zależnej od kosztu jednostki.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Mikrotransakcje

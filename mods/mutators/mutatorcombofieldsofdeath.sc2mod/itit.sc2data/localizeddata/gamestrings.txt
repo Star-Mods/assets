@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Le mine sparse su Bel'Shir possono essere distrutte soltanto da uno dei due alleati. Dovrete collaborare per liberare la strada ai droidi di Stetmann. Comunicate, coordinatevi e conquistate.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Campi infestati
+DocInfo/Screenshot01=

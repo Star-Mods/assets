@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Zivilisten pilgern zu Ihrer Schale Süßigkeiten, die Sie durch das Ausgeben Ihrer sauer verdienten Mineralien auffüllen können. Wenn keine Süßigkeiten mehr in der Schale sind, verwandeln sich die Zivilisten in zufällige feindliche Einheiten.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Süßes oder Saures

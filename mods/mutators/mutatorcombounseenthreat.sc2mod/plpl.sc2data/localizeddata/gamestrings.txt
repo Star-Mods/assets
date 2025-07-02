@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Najbardziej przerażające monstra to te, których nie można zobaczyć. Hordy ukrytych zainfekowanych czają się w mroku i przybliżają nieuchronnie do wahadłowców ewakuacyjnych. Siły Amona również są zamaskowane – wysłał przeciwko wam nawet niewidzialny promień oczyszczenia. Zapewnijcie sobie wykrywanie i przetrwanie.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Niewidzialne zagrożenie
+DocInfo/Screenshot01=

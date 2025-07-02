@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Kaldir ogarnęła anomalia czasoprzestrzenna. We wszystkich kierunkach szerzy się energia kinetyczna a całe pole walki usiane jest osobliwościami czasowymi i przestrzennymi. Przezwyciężcie te trudności i zniszczcie wahadłowce.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Anomalie
+DocInfo/Screenshot01=

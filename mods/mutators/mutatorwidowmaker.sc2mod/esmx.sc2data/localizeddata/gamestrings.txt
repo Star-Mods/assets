@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=El campo de batalla oculta grupos de Minas viudas y Minas araña. /// Groups of Widow Mines and Spider Mines are buried throughout the battlefield.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Buscaminas /// Minesweeper

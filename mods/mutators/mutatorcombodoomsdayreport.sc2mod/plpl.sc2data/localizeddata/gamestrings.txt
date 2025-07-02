@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Zapowiedź zagłady
+DocInfo/Screenshot01=

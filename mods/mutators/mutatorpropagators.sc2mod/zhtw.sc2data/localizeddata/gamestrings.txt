@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=沒有形體的生命體大舉入侵你的基地，把碰觸到的單位和建築都變得跟它們一樣。 /// Shapeless lifeforms creep toward your base, transforming all of the units and structures they touch into copies of themselves.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=惡性殖體 /// Propagators

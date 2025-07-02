@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=W chwili śmierci wrogie jednostki powijają zainfekowanych terran w liczbie zależnej od ilości punktów życia danej jednostki.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Chodząca zaraza

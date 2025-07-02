@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Amon schreckt in seiner Entschlossenheit, Euch zu vernichten, vor nichts zurück. Seine Diener haben bei ihrem Ableben einen letzten verheerenden Trick auf Lager. Halten Sie Abstand, wenn Sie Gegner ausschalten, sonst nehmen auch Ihre Einheiten ein frühes Ende.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Kamikaze

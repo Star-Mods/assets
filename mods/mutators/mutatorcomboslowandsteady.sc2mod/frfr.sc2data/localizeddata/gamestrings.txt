@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Les troupes d’Amon sont déterminées à s’emparer de la terrazine de Bel’shir. Elles ne reculeront devant rien pour vous empêcher d’atteindre les robots de collecte de Stetmann à temps pour les sauver. Déplacez-vous aussi vite que possible pour rattraper vos ennemis et mettre un terme à leur attaque.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Lentement mais sûrement
+DocInfo/Screenshot01=

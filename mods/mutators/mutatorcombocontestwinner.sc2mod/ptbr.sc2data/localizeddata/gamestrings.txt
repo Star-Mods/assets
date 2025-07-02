@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Estamos orgulhosos em apresentar o trabalho vencedor do nosso primeiro concurso de Criação de Mutação, projetado e enviado por Saito. Neste desafio semanal, réplicas vis dos maiores heróis do setor Koprulu inspiram as forças de Amon, que estão sitiando Augustogrado. Não recue diante deles e concentre-se em salvar a cidade.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Vencedor do Concurso de Criação de Mutação

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Alle gegnerischen Einheiten sind dauerhaft getarnt.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Wir bleiben im Verborgenen

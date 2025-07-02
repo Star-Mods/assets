@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=테라진에 노출되면 격렬한 공격성이 표출될 수 있고 아몬의 세력도 예외가 아닙니다. 어둠의 신의 영향력이 가스로 심화되어 아몬의 병력의 속도와 공격성이 증가했습니다. 모든 것을 파괴할 때까지 공격을 멈추지 않을 아몬의 세력을 먼저 파괴하십시오. /// Exposure to terrazine can result in violent outbursts, and Amon’s forces are no exception. The Dark God’s influence over them has been intensified by the gas, increasing their speed and aggression. They will stop at nothing to destroy you. Be sure to destroy them first.
+DocInfo/DescShort=아무
+DocInfo/Name=파괴의 숨결 /// Breath of Destruction
+DocInfo/Screenshot01=

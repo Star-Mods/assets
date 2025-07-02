@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Qualquer um /// Any
+DocInfo/Name=Chamado do Vazio /// Call of the Void

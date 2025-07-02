@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=你和你的同伴共享補給值，雙方大軍的所有單位會一同計入補給值上限之中。 /// Supply is shared between you and your partner, and units from both armies contribute to your combined supply cap.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=共享補給 /// Sharing Is Caring

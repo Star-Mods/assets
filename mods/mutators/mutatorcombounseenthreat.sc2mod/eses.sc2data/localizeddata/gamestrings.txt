@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Los monstruos más terroríficos son los que no se ven. Hordas de infestados acechan en las sombras y avanzan inexorablemente hacia las lanzaderas de evacuación. Las tropas de Amon también son invisibles e incluso este ha desplegado un haz purificador invisible contra vosotros. Además de protección, os hará falta detección.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Amenaza invisible
+DocInfo/Screenshot01=

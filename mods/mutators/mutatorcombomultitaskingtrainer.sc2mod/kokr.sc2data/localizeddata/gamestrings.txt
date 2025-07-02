@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=멀티태스킹 트레이너 /// Multitasking Trainer

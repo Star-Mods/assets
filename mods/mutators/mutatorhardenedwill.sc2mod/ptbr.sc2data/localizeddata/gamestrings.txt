@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Unidades heroicas inimigas reduzem todo o dano recebido a um máximo de 10 quando qualquer unidade inimiga não heroica estiver perto delas.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Vontade Inabalável

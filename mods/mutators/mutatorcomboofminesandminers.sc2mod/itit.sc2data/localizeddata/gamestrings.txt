@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Miniere e minatori /// Of Mines and Miners

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=적 유닛과 구조물이 처음 피해를 받을 때 일시적인 보호막을 얻습니다. /// Enemy units and structures gain a temporary shield upon the first time they take damage.
+DocInfo/DescShort=아무
+DocInfo/Name=방어막 /// Barrier

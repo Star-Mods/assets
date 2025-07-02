@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Cualquiera
+DocInfo/Name=Muerte en compañía
+DocInfo/Screenshot01=

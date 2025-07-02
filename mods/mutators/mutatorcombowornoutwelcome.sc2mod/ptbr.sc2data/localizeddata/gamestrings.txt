@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=O cerco ao templo xel'naga se intensificou. As criações mais fortes de Amon inspiram os lacaios menores enquanto eles se arremessam nas suas muralhas e se erguem novamente. Como se não bastasse, também atacam suas fortificações de longe. Resista ao ataque e mantenha o templo seguro.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Hora de Partir
+DocInfo/Screenshot01=

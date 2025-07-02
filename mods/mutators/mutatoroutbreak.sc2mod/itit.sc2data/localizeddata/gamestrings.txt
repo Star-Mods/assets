@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Terran infestati nemici sono generati in continuazione sulla mappa.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Epidemia

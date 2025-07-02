@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Cualquiera
+DocInfo/Name=Espectro de la muerte
+DocInfo/Screenshot01=

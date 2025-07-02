@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Le forze di Amon hanno piazzato delle mine automatizzate su Char, e il suo potere manipola i vostri guerrieri, attirandoli verso i cadaveri dei nemici. Pianificate l'attacco con cura, o andrete incontro a una sorpresa esplosiva.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Attrazione magnetica
+DocInfo/Screenshot01=

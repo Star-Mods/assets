@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Beliebig
+DocInfo/Name=Entfesselte Kräfte
+DocInfo/Screenshot01=

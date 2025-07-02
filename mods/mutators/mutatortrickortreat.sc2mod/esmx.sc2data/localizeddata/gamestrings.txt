@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Los civiles visitan tu bol de caramelos en busca de dulces, que se generan a cambio de minerales. Si no hay ningún dulce, Los civiles se transforman en unidades enemigas aleatorias.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Dulce o truco

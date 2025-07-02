@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Les unités ennemies explosent et endommagent les unités alliées proches à leur mort.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Autodestruction

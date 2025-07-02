@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon evocou lacaios de todas as três raças nessa batalha. Uma sonda laser da Fundação Moebius está mirando em você, hordas de terranos infestados vagueiam pelo terreno e as naves-mãe protoss bombardeiam você de órbita. Aguente o poder combinado dos inimigos e cumpra sua missão.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Ameaça Tripla
+DocInfo/Screenshot01=

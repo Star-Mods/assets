@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Pochi fenomeni atmosferici sono tanto violenti quanto le tempeste di neve di Kaldir. Le risorse sono difficili da raggiungere, e il vento congela qualunque cosa. Distruggete le navette di Amon, e cercate di rimanere al caldo.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Tempesta di neve

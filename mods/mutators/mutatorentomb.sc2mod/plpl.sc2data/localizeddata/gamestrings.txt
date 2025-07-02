@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Skupiska minerałów w bazach graczy zostają czasem zamknięte za osłonami. Trzeba je zniszczyć, aby kontynuować zbieranie.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Blokada minerałów

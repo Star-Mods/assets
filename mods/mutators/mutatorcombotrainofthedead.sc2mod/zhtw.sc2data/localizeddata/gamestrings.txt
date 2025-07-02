@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=塔桑尼斯到處都是受感染的人類。他們從地底爬出，踏上了列車，不久後就會來到你基地裡，而你可能會連他們是怎麼出現的都不會發現。 /// The infested terrans on Tarsonis are everywhere. They're in the ground. They're on the trains. Before long, they'll be in your base. And you may never see them coming.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=陰屍列車 /// Train of the Dead

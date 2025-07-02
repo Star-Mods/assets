@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Cada unidade inimiga fica imune às suas unidades ou às unidades do seu aliado.
+DocInfo/DescShort=Qualquer um
+DocInfo/Name=Polaridade

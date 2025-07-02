@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Wszystkie budowle wroga atakują nieprzyjazne jednostki, które znajdą się w pobliżu.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Przeciążenie fotonowe

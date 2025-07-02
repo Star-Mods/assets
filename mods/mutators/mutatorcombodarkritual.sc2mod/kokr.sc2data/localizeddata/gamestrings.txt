@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=아몬이 사원의 에너지를 흡수해 자신의 하수인들에게 어마어마한 힘을 부여합니다. 잠재된 사이오닉의 힘이 극대화된 아몬의 군대가 전장을 가로지르며 무수한 능력에 분노를 집중시킵니다. 사원이 안전을 되찾을 때까지 그들의 맹공격을 견뎌내야 합니다. /// Amon has siphoned the temple’s energy in order to grant his minions incredible power. Brimming with psionic potential, his supercharged armies sprint across the battlefield and channel their wrath into myriad abilities. Withstand the onslaught until the temple is secure once more.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=암흑의 의식 /// Dark Ritual
+DocInfo/Screenshot01=

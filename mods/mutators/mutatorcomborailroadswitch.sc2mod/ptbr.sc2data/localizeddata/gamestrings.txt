@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Troca de Trilhos /// Railroad Switch
+DocInfo/Screenshot01=

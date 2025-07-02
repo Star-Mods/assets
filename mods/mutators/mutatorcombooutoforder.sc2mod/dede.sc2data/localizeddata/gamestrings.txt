@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Elektromagnetische Interferenzen stören Ihre Kommunikation. Ihren Streitkräften Befehle zu erteilen, kann sich als kostspielig erweisen. Sie sollten daher gut überlegen, bevor Sie zur Tat schreiten. Lageberichte sind rar und die Sicht ist eingeschränkt. Selbst einfachste Aufgaben brauchen eine Weile, bis sie abgeschlossen werden. Bewahren Sie einen kühlen Kopf und retten Sie den Planeten.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Außer Betrieb
+DocInfo/Screenshot01=

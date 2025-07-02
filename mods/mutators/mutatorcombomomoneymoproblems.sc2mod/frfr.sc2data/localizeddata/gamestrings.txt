@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=La terraformation de Véridia prime à l’initiative d’Amon a bouleversé l’écosystème de la planète. Bravez des conditions environnementales désastreuses pour collecter les ressources nécessaires à la constitution de votre armée. Agissez avec prudence mais vite, car chaque seconde qui passe rapproche la planète de l’annihilation.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Les fonds du problème
+DocInfo/Screenshot01=

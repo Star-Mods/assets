@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Cualquiera
+DocInfo/Name=Adaptación escalofriante
+DocInfo/Screenshot01=

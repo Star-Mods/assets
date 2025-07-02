@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Eine schreckliche Seuche wütet auf dieser dunklen und verlassen Welt. Amons Streitkräfte haben die Verteidigungsanlagen der Minenarbeiter so manipuliert, dass sie statt den Verseuchten Ihre Armeen angreifen. Stellen Sie sich der Finsternis und helfen Sie den Überlebenden, diesem Albtraum und der sich schnell verbreitenden Seuche zu entfliehen.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Totenhaus
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Robôs ofensivos de origem misteriosa foram liberados sobre o setor Koprulu, causando destruição. Sua engenharia avançada os deixa invencíveis até seu limite interno de abates ser atingido. Depois, eles se desligam sozinhos. Mas será que você consegue sobreviver até lá?
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Robôs de Abate

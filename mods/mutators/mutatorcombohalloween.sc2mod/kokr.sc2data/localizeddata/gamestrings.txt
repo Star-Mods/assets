@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=아우구스트그라드의 어둡고 음울한 밤입니다. 자치령 주민들이 문을 두드리며 사탕을 조릅니다. 사탕을 대접하지 않으면 그들의 위험한 장난에 희생될 것입니다. /// It’s a dark and dreary night in Augustgrad. Dominion citizens are knocking on doors and asking for candy. Be sure you have treats to give them, lest you find yourselves the victims of a deadly trick.
+DocInfo/DescShort=아무
+DocInfo/Name=두려운 밤 /// Fright Night
+DocInfo/Screenshot01=

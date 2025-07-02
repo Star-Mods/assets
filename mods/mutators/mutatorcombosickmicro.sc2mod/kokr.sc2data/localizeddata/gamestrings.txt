@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=벨시르의 테라진이 행성의 토착 바이러스를 강화시켰습니다. 치명적인 역병이 모든 생명체에게 퍼졌습니다. 궁지에 몰린 플레이어의 모든 행동에는 대가가 따릅니다. 역경을 견뎌내고 승리를 쟁취하십시오.   /// The terrazine on Bel'Shir has enhanced the planet's native viruses. A deadly plague spreads among all lifeforms, and your every beleaguered action comes at a cost. Suffer through it and emerge victorious.
+DocInfo/DescShort=아무
+DocInfo/Name=질병 활동 /// Sick Micro
+DocInfo/Screenshot01=

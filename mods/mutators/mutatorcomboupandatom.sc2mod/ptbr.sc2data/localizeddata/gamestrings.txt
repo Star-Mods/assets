@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon quer destruir a fortaleza da Sgto. Marreta a qualquer custo. Uma chuva nuclear cai sobre as instalações e agitam o lugar e os lacaios de Amon se detonam ao morrer. Faça o que puder para minimizar suas perdas enquanto derruba os Devastadores do Vazio.
+DocInfo/DescShort=Qualquer um
+DocInfo/Name=Resultado Explosivo /// Explosive Results
+DocInfo/Screenshot01=

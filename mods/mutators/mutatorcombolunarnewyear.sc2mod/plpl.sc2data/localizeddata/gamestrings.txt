@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Nadeszła pora świętowania, ale Amon nie próżnuje. Nie tylko zamierza doprowadzić do przeciążenia Ulnaru, ale też wyposażył swoje wojska w materiały wybuchowe. Wykorzystajcie prezenty w postaci surowców i pokrzyżujcie plany Amona.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Ulnarowy Nowy Rok

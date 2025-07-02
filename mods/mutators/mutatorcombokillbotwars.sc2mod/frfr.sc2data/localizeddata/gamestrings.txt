@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Bel’Shir, planète déjà paradisiaque, est à présent envahie de robots exterminateurs qui s’en prennent à vos troupes. Vos unités, dévastées, souffrent en outre de la mort de leurs camarades tombés au combat. Concentrez vos attaques sur les collecteurs pour l’emporter.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=La guerre des robots exterminateurs
+DocInfo/Screenshot01=

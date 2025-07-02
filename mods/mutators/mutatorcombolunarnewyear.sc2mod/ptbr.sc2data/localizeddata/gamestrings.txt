@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=É hora de celebrar, e Amon quer começar tudo de forma estrondosa. Ele não apenas pretende sobrecarregar Ulnar, como equipou seus próprios lacaios com explosivos também. Use os recursos presenteados para você e acabe com os planos de Amon. /// It's a time for celebration, and Amon's starting it all off with a bang. Not only does he intend to overload Ulnar, he has outfitted his own minions with explosives as well. Make use of the resources being gifted to you and put a stop to Amon's plans.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Ano Novo Ulnar /// Ulnar New Year

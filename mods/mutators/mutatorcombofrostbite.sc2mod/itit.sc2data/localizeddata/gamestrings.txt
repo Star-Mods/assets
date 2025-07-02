@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Un gelido inverno imperversa sulla superficie. I morti si levano dal suolo e le forze di Amon hanno piazzato delle mine automatizzate nella zona. Mantenete la posizione, evitate le tempeste e le mine, ed eliminate l'infestazione dal pianeta.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Morsa del gelo
+DocInfo/Screenshot01=

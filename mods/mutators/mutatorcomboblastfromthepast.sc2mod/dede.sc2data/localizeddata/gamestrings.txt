@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Der Gegner versucht, Ihre Verteidigungsanlagen unter seine Kontrolle zu bringen und gegen Sie selbst zu richten. Hybriden feuern Nuklearraketen auf Ihre Stellungen. Gebäude, die dabei zerstört werden, können vom Gegner wiederaufgebaut werden und stehen ab dann unter Amons Einfluss. Sie müssen das verhindern.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Paukenschlag
+DocInfo/Screenshot01=

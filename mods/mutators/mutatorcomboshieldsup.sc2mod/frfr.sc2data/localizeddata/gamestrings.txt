@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Une anomalie spatio-temporelle frappe Kaldir. De l’énergie cinétique s’en échappe de toute parts et des poches d’irrégularité spatiale et temporelle jonchent le champ de bataille. Frayez-vous un chemin et détruisez les navettes.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Levée de boucliers !
+DocInfo/Screenshot01=

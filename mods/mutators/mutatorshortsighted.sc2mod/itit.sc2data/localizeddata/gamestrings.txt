@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Le unità e strutture alleate hanno portata visiva ridotta.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Vista corta

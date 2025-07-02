@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Terraformacja Veridii Większej przez Amona doprowadziła do wyeksploatowania planety z surowców. Musicie przezwyciężyć katastrofalne warunki środowiskowe i zabezpieczyć materiały niezbędne do budowy armii. Działajcie ostrożnie, ale szybko. Z każdą sekundą planeta jest coraz bliżej całkowitej destrukcji.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Na skraju katastrofy
+DocInfo/Screenshot01=

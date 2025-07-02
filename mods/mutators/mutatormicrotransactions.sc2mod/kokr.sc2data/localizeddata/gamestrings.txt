@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=유닛에게 명령을 내리면 유닛의 비용에 따라 자원이 소모됩니다. /// Giving commands to your units costs resources based on the unit’s cost.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=활동 비용 /// Micro Transactions

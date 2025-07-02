@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Na Ulnarze odkryto nieznane formy życia, które pochłaniają a następnie replikują wszystko na swojej drodze. Siły Amona skupiły się na tym, aby uniemożliwić waszym siłom odwrót. Trzymajcie się na dystans i wyeliminujcie te szkodniki, zanim będzie za późno.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Bezcelowy opór

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Co jakiś czas w losowych miejscach na mapie pojawiają się szczeliny otchłani i dopóki nie zostaną zniszczone, będą wychodzić z nich wrogie jednostki.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Szczeliny otchłani

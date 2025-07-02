@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Pole walki przemierzają reanimatory otchłani, które ożywiają waszych wrogów.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Reanimatory otchłani

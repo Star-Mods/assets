@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Todas as unidades inimigas ficam camufladas permanentemente.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Caminhamos sem Sermos Vistos

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=O terrazino em Bel'Shir aprimorou os vírus nativos do planeta. Uma peste mortal se espalha por todas as formas de vida, e cada ação sitiada sua tem um custo. Aguente a situação e saia com a vitória.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Micro Doente
+DocInfo/Screenshot01=

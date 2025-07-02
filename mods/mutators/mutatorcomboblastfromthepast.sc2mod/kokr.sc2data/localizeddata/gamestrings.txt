@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=적들이 당신의 방어를 장악한 후 역으로 사용하려 합니다. 적들은 혼종의 핵폭발로 구조물을 파괴한 다음 재건해서 아몬의 지배를 받게 할 계획입니다. 이런 일이 일어나지 않게 막으십시오. /// Your enemies intend to seize your defenses and use them against you, reconstructing them under Amon’s control after they are destroyed by the hybrids’ nukes. Do not allow that to occur.
+DocInfo/DescShort=아무
+DocInfo/Name=과거의 역습 /// Blast from the Past
+DocInfo/Screenshot01=

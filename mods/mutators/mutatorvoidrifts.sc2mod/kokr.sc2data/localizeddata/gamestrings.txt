@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=공허 균열이 주기적으로 무작위 위치에 나타나 균열이 파괴될 때까지 적 유닛들을 생성합니다. /// Void Rifts periodically appear in random locations and spawn enemy units until destroyed.
+DocInfo/DescShort=아무
+DocInfo/Name=공허 균열 /// Void Rifts

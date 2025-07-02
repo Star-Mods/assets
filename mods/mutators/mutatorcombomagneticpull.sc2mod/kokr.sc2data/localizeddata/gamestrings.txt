@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=아몬의 세력이 차 행성 곳곳에 자기 지뢰를 매설하고, 아몬의 신비로운 힘은 아군 전사들을 적 시체 방향으로 끌어당깁니다. 주의 깊게 공격 계획을 세우지 않으면 예상치 못한 폭발에 놀라게 될 것입니다. /// Amon's forces have deployed mag-mines on Char, and his mysterious power is manipulating your warriors, drawing them toward the corpses of their enemies. Plan your assaults carefully, or be ready for an explosive surprise.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=자기 인력 /// Magnetic Pull
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Tarsonis está viviendo el invierno más duro en años y Amon piensa aprovecharse de ello. Resistid al frío polar y al vacío abrasador y acabad con los esbirros de Amon de una vez por todas.</n></n>AVISO: Esta combinación de mutaciones resulta especialmente difícil.<n/>
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=El vacío es frío

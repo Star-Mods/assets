@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Las unidades y estructuras del jugador reciben más daño por cada enemigo que han matado. /// Player units and structures take increased damage for each enemy they've killed.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Lista de malcriados /// Naughty List

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=비축해둔 핵탄두를 뫼비우스 특전대가 타소니스를 가로지르며 운반합니다. 일부 핵탄두는 당신을 파괴할 용도로 남겨두었습니다. 화물에 실린 모든 유탄에는 일촉즉발의 엄청난 위험이 도사립니다. 교전을 시작할 때 아군 병력이 겁을 먹더라도 당황하지 마십시오. /// Moebius Corps has tapped into their stockpile of nuclear warheads and is shipping them across Tarsonis. The remainder are reserved for your destruction. With cargo this volatile, every stray bullet presents an incredible risk. Don’t be surprised if your forces flinch at the first sign of combat.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=도시 폭발 /// Boom Town
+DocInfo/Screenshot01=

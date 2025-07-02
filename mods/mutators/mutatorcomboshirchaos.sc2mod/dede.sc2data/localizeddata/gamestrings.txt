@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amons Schergen eilen Ihrem Herausforderer zu Hilfe und selbst der Tod kann sie nicht aufhalten. Wenn ein Diener stirbt, erheben sich mehr an seiner statt, die dem Herausforderer zusätzliche Stärke verleihen. Sie müssen ebenso entschlossen vorgehen, wenn Sie das Blatt wenden wollen.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Shires Chaos
+DocInfo/Screenshot01=

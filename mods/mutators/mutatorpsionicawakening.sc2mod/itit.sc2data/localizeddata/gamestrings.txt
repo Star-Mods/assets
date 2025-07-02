@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Le unità nemiche dispongono di energia e usano abilità casuali.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Potenza travolgente

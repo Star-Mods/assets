@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Zaprawieni w bojach
+DocInfo/Screenshot01=

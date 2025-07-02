@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Die gesamte Karte ist bei Missionsbeginn mit Magnetminen übersät.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Minenräumung

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Las tropas de Amon están decididas a reclamar el terrazine de Bel'Shir y no se detendrán ante nada a la hora de impedir que lleguéis a los recolectores de Stetmann a tiempo de salvarlos. Moveos lo más rápido posible para alcanzar a vuestros enemigos y poner fin a sus ataques.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Lento y constante
+DocInfo/Screenshot01=

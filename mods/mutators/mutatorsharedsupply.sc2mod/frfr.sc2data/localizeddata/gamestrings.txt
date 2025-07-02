@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Le ravitaillement est commun aux deux joueurs, et sa limite porte sur l’ensemble de leurs unités combinées.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Compte commun

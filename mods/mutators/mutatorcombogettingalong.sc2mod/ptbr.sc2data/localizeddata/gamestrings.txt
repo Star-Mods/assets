@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Bom convívio /// Getting Along

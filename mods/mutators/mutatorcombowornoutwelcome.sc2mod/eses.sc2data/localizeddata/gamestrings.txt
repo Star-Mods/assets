@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=El asedio del templo Xel'Naga se ha intensificado. Las creaciones más fuertes de Amon les dan valor a los demás esbirros, que caen ante vuestras defensas solo para alzarse de nuevo. Y no solo eso, sino que también atacan vuestras fortificaciones desde la distancia. Resistid ante sus ataques y mantened el templo a salvo.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Una bienvenida agotadora
+DocInfo/Screenshot01=

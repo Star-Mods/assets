@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Cywile przychodzą do waszej miski cukierków szukając słodyczy, które wytwarzane są podczas zużywania minerałów. Jeśli nie ma żadnych cukierków, cywile zamieniają się w losowe jednostki wroga.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Cukierek albo psikus

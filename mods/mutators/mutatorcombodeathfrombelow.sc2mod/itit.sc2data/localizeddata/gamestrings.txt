@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Come se non bastasse la sua interferenza con gli sforzi di evacuazione della Lega Kelmoriana, Amon è penetrato nel terreno del pianeta, provocando esplosioni laviche casuali e innalzando la temperatura della superficie a livelli letali. Procedete con molta attenzione.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Morte dal basso
+DocInfo/Screenshot01=

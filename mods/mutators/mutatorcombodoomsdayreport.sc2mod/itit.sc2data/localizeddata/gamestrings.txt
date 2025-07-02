@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Scenario apocalittico
+DocInfo/Screenshot01=

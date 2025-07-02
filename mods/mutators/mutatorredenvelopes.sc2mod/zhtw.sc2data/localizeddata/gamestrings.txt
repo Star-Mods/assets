@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=內含資源的紅包會隨機掉落在戰場上。 /// Festive envelopes containing resource pickups are dropped at random throughout the map.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=紅包旺旺來 /// Lucky Envelopes

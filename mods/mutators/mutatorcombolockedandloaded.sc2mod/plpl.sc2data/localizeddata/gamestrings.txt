@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Dowolny opis /// Any
+DocInfo/Name=Zwarci i gotowi /// Locked and Loaded

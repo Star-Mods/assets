@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Un haz purificador enemigo se desplaza por el mapa hacia las unidades de los jugadores que se encuentren cerca de él.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Haz purificador

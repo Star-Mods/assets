@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon transformou os infestados em armas. O chão é incendiado quando cada um morre, e Reanimadores do Vazio os trazem de volta sem nenhum remorso. Aguentem as chamas e protejam as naves com as suas vidas.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Cremação /// Cremation
+DocInfo/Screenshot01=

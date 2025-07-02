@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Dowolny opis /// Any
+DocInfo/Name=Pociąg do cierpienia /// Train of Pain

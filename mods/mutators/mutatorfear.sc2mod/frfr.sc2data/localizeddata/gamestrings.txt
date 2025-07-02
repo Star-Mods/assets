@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Les unités du joueur arrêtent parfois d’attaquer pour fuir sous l’effet de la peur quand elles subissent des dégâts.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Peur

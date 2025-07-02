@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Tarsonis sta attraversando uno degli inverni più rigidi di sempre, e Amon intende sfruttare la situazione a suo favore. Resistete al gelo e al Vuoto che avanza, e abbattete i servitori dell'Oscuro una volta per tutte.</n></n>ATTENZIONE: Questa combinazione di mutageni è particolarmente impegnativa.<n/>
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Gelido è il Vuoto

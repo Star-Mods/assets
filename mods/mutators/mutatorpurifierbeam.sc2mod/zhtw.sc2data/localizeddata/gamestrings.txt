@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=敵方會發射一道橫跨整張地圖追擊附近玩家單位的淨化光束。 /// An enemy Purifier Beam moves across the map toward nearby player units.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=淨化光束 /// Purifier Beam

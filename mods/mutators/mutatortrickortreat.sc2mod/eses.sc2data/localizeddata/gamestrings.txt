@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Los civiles visitan vuestro bol de chucherías en busca de cosas dulces, que se generan gastando minerales. Si no hay chucherías disponibles, los civiles se transforman en unidades enemigas aleatorias.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Truco o trato /// Trick or Treat

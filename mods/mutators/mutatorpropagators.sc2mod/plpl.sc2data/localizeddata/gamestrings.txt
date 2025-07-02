@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Ku waszej bazie zbliżają się bezkształtne formy życia, które przekształcają wszystkie jednostki i budowle, których dotkną w swoje kopie.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Krzewiciele

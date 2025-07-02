@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=亞蒙的勢力迫不及待想奪取榔頭中士的堡壘。援軍不斷從虛空出現，帶來先所未有的可怕力量。你必須展現更強大的武力，摧毀這些虛空破壞獸。</n></n>警告：這個異變組合難度相當高。 /// Amon’s forces are fanatical in their efforts to take down Sgt. Hammer’s fortress. Reinforcements surge forth from the Void, brimming with new and terrible power. Match their strength and crush the Void Thrashers.</n></n>WARNING: This combination of Mutators is especially challenging.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=來自虛空的力量 /// Portal Power
+DocInfo/Screenshot01=

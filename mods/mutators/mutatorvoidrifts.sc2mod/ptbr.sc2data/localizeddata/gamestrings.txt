@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Fissuras do Caos aparecem periodicamente em locais aleatórios e geram unidades inimigas até serem destruídas. /// Void Rifts periodically appear in random locations and spawn enemy units until destroyed.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Fissuras do Caos /// Void Rifts

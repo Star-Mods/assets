@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Mutadores são escolhidos aleatoriamente e se revezam periodicamente ao longo da missão. /// Mutators are chosen at random and periodically cycle throughout the mission.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Estúdios do Caos /// Chaos Studios

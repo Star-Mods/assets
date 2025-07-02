@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Wrogie hybrydy detonują ładunek jądrowy w chwili śmierci.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Wzajemne wyniszczenie

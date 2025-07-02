@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=每個敵方單位都對你或你盟友單位的傷害免疫。 /// Each enemy unit is immune to either your units or your ally's units.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=單一抗性 /// Polarity

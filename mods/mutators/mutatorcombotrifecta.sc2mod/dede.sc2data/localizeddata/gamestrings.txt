@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon hat Diener aller drei Spezies in den Kampf gerufen. Ein Laserbohrer des Moebius-Corps hat Sie ins Visier genommen, Horden verseuchter Terraner überschwemmen das Terrain und Protoss-Mutterschiffe bombardieren Sie aus dem Orbit heraus. Stemmen Sie sich gegen diese Übermacht, um Ihre Mission abzuschließen.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Gefahr hoch drei
+DocInfo/Screenshot01=

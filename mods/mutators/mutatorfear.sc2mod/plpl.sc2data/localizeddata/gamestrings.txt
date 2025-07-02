@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Jednostki graczy od czasu do czasu przestają atakować i uciekają ze strachu przed otrzymaniem obrażeń.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Strach

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=벨시르에 시련이 부족했다는 듯이 사나운 처치 로봇들이 침공하여 여러분의 군대를 파괴하러 달려듭니다. 충격을 받은 아군 병력은 쓰러진 자들에게 특히 동요됩니다. 승리하려면 채취 로봇 보호에 집중하십시오. /// As if Bel'Shir didn’t have enough problems, it has now been invaded by vicious kill bots who are bent on destroying your armies. Your devastated forces are also feeling especially sentimental about those who fall. Stay focused on the harvesters to prevail.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=처치 로봇 전쟁 /// Kill Bot Wars
+DocInfo/Screenshot01=

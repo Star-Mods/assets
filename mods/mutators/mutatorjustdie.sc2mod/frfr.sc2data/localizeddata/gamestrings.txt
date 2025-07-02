@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Les unités ennemies ressuscitent automatiquement à leur mort.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Mais crevez !

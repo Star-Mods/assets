@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Aumenta velocità, corazza e punti vita delle unità nemiche quando i loro alleati muoiono nelle vicinanze.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Vendetta

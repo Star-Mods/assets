@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Cuando mueren, los enemigos lanzan un asombroso espectáculo de fuegos artificiales que inflige daño a tus unidades cercanas.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Fuegos artificiales /// Fireworks

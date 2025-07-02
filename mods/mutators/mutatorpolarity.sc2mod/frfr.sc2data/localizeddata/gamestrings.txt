@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Chacune des unités ennemies est immunisée aux attaques de vos unités ou à celles de votre allié.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Polarité

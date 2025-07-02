@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Unidades inimigas geram Terranos Infestados ao morrer na mesma quantidade de sua vida. /// Enemy units spawn Infested Terran upon death in numbers according to the unit's life.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Infestado Ambulante /// Walking Infested

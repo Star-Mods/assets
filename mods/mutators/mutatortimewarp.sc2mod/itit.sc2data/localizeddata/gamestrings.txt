@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Distorsioni temporali nemiche sono periodicamente attivate sulla mappa.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Distorsione temporale

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Gefühllose Roboter halten bestückt mit Nuklearsprengsätzen auf Ihre Basis zu. Ein Spieler muss sich den Code zum Entschärfen besorgen und der andere muss ihn eingeben.
+DocInfo/DescShort=Alle
+DocInfo/Name=Bummbots

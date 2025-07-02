@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Se despliegan de forma periódica unidades enemigas adicionales en el campo de batalla.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Despliegue agresivo

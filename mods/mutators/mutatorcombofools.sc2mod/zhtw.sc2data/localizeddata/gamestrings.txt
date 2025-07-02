@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=亞蒙的腐化蔓延到宇宙萬物．就算是你最親密的盟友，也一樣會背叛你。不要相信任何人，你沒得選擇：在對方消滅你之前，先消滅他們！ /// Amon's corruption is overtaking everything and everyone. Soon even your closest ally will betray you. It's clear no one can be trusted. There is only one option left: destroy them before they destroy you!
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=一決高下 /// Sudden but Inevitable
+DocInfo/Screenshot01=

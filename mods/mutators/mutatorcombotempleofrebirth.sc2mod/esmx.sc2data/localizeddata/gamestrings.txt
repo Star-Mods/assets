@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Cualquiera /// Any
+DocInfo/Name=Templo de la resurrección /// Temple of Rebirth
+DocInfo/Screenshot01=

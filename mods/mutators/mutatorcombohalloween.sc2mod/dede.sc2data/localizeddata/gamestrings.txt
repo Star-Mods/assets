@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Eine schaurig-düstere Atmosphäre liegt über Augustgrad. Bürger der Liga ziehen von Haus zu Haus, um Süßigkeiten zu sammeln. Stellen Sie sicher, dass Sie genug davon vorrätig haben, sonst könnten ihnen einige böse Streiche widerfahren. 
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Nacht der Schrecken
+DocInfo/Screenshot01=

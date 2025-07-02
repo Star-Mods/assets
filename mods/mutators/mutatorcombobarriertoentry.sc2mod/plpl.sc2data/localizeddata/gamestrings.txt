@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Dowolny /// Any
+DocInfo/Name=Bariera dostępu /// Barrier to Entry

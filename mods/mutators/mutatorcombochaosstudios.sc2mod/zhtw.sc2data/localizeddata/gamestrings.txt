@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=虛空化為真實，扭曲了時空結構。戰況會不斷改變，處於一種不穩定的狀態。指揮官，什麼事情都有可能發生，準備面對未知的戰場吧！ /// The Void itself bleeds into reality, warping the very fabric of space and time. Battlefield conditions change at random and never stay stable for long. All bets are off, commanders. Be ready for anything.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=悲慘命運之輪 /// Wheel of Misfortune
+DocInfo/Screenshot01=

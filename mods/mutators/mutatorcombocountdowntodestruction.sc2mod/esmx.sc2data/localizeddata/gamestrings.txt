@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Los ejércitos de Amón son vastos. En una oleada interminable, sus guerreros fanáticos recorren los salones de Ulnar decididos a convertirte en cenizas. Atraviesa sus filas para llegar a los bloqueos celestiales. Pero cuidado: las fuerzas de Amón son peligrosas incluso después de la muerte.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Legión Ardiente
+DocInfo/Screenshot01=

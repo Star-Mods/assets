@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=史雷因的氣候跟塔達力姆一樣殘酷無情。巨型風暴肆虐於殺戮戰場，不僅使得能見度大幅降低，還會將捲入風暴的受害者凍結起來，然後掃進危機四伏的龍捲風。你必須不計代價．克服這個惡劣環境，征服這項挑戰。 /// Slayn's climate is as merciless as the Tal'darim. Visibility is reduced as a titanic storm rages across the killing fields, freezing its victims solid and sweeping them up into dangerous twisters. Brave the elements and win the challenge at all costs.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=風暴降臨 /// Perfect Storm
+DocInfo/Screenshot01=

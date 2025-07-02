@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Beliebig
+DocInfo/Name=Das letzte Wort
+DocInfo/Screenshot01=

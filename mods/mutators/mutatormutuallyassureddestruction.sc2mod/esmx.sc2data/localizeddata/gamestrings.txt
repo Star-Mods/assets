@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Las unidades híbridas enemigas detonan una bomba nuclear al morir. /// Enemy Hybrid units detonate a Nuke upon death.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Destrucción mutua asegurada /// Mutually Assured Destruction

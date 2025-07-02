@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Char está em chamas. A atividade vulcânica intensa tornou o planeta ainda mais perigoso. Fique de olho no inimigo e lembre-se: não fique no fogo. /// Char is ablaze. Increased volcanic activity has made the planet even more hazardous than before. Keep your eyes on the enemy, and always remember: don't stand in the fire.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=A guerra é o inferno /// War Is Hell
+DocInfo/Screenshot01=

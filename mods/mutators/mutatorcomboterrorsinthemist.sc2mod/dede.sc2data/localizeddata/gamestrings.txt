@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Der Dschungel wimmelt von versteckten Feinden, die nur darauf lauern, sich unvermittelt auf Stetmanns Abbaubots zu stürzen und diese zu zerstören. Halten Sie die Augen offen nach Amons Dienern und den Fallen, die sie aufgestellt haben, um Ihre Einheiten zu verlangsamen.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Da ist was im Busch
+DocInfo/Screenshot01=

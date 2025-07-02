@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=아몬의 군대는 방대합니다. 아몬의 광적인 전사들이 울나르의 전당에 밀려들고, 그들은 당신을 불태워 잿가루로 만들려 합니다. 그들을 무찌르고 천상석을 손에 넣어야 합니다. 하지만 주의하십시오. 아몬의 병력은 죽은 후에도 위험합니다. /// Amon’s armies are vast. An endless tide of his fanatical warriors washes over the halls of Ulnar, hell-bent on burning you to ash. Cut through them to get to the celestial locks, but beware: Amon’s forces are dangerous even in death.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=불타는 군단 /// Burning Legion
+DocInfo/Screenshot01=

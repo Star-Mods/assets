@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Wrogie jednostki podpalają teren w chwili śmierci.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Taktyka spalonej ziemi

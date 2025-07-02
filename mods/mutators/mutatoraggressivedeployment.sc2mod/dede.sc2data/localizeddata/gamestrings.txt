@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Gegnerische Verstärkung wird direkt über Ihren Streitkräften abgesetzt.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Luftlandetruppen

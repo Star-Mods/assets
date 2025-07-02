@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amons Herausforderer strotzt vor Macht. Seine Heloten opfern nicht nur ihr Leben, so wie es das Ritual verlangt, sondern dienen ihrem Meister noch über den Tod hinaus. Leerenerwecker beleben sie in einem nie endenden Kreislauf immer wieder von Neuem. Ihr müsst den Ersten Aspiranten beschützen, sonst ist alles verloren.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Todesverachtung
+DocInfo/Screenshot01=

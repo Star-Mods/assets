@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Manchmal ist man selbst sein größter Feind. Amon nimmt diesen Gedanken wörtlich: Sämtlichen Schaden, den Ihre Armeen verursachen, erleiden sie auch selbst und jeder getötete Gegner droht, bei seinem Ableben auch einige Ihrer Einheiten mit sich zu nehmen. Zeigen Sie Amon, dass kein Opfer zu groß ist, um den Sieg zu erringen.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Sofortkarma
+DocInfo/Screenshot01=

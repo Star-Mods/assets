@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Bel'Shir está plagado de minas que solo pueden destruir tú o tu compañero. Deben trabajar juntos para despejar un camino para los robots de Stetmann. La comunicación y la coordinación los llevarán al triunfo.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Campo de gritos
+DocInfo/Screenshot01=

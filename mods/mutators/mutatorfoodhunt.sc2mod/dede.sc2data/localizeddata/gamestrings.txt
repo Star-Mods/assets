@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Versorgung ist nur möglich durch das Erlegen von Truthähnen, die auf der Karte umherlaufen. Allerdings macht Sie das nicht gerade beliebt bei den übrigen Truthähnen.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Truthahnsafari

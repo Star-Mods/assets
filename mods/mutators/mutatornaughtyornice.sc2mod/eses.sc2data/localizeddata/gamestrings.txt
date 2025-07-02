@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Las unidades y las estructuras de los jugadores reciben más daño por cada enemigo que maten.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Lista de niños malos

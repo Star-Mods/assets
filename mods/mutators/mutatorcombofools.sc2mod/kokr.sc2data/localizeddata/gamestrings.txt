@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=아몬의 타락이 모두에게 엄습하고 있습니다. 머지 않아 당신의 가까운 동맹마저 당신을 배신할 것입니다. 누구도 믿을 수 없는 지금, 방법은 하나뿐입니다. 파괴당하기 전에 먼저 상대를 파괴하십시오! /// Amon's corruption is overtaking everything and everyone. Soon even your closest ally will betray you. It's clear no one can be trusted. There is only one option left: destroy them before they destroy you!
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=불가피한 선택 /// Sudden but Inevitable
+DocInfo/Screenshot01=

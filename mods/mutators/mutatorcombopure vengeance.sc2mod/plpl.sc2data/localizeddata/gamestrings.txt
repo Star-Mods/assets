@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Dowolny /// Any
+DocInfo/Name=Niewspółmierna reakcja /// Inordinate Response

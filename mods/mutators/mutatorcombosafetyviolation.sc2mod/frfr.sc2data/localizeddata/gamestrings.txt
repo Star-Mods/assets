@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Distances de sécurité
+DocInfo/Screenshot01=

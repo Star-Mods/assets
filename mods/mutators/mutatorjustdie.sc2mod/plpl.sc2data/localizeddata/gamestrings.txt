@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Wrogie jednostki są automatycznie ożywiane po śmierci.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Trudni do zabicia

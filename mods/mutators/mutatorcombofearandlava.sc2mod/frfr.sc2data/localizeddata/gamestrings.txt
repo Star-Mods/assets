@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Vos troupes sont cernées et effrayées par les montées de lave. La chaleur insoutenable les pousse à rompre les rangs et se précipiter dans la mer en fusion. Surmontez l’horreur et récupérez les cristaux dès que la lave se retire.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Cavale dans la lave
+DocInfo/Screenshot01=

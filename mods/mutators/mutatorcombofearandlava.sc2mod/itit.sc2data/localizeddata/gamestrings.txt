@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Le vostre armate sono circondate, e i loro cuori sono in preda allo sconforto. Il calore della lava diffonde il panico, e la paura provocata dalla marea ardente spesso le spinge a rompere i ranghi. Non perdete il controllo della situazione, e raccogliete i cristalli quando il magma si ritira.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Terrore lavico
+DocInfo/Screenshot01=

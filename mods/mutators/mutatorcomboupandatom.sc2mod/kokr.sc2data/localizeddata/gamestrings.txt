@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=아몬이 수단과 방법을 가리지 않고 해머 상사의 요새를 파괴하려 합니다. 하늘에서 핵폭탄이 쏟아지고 아몬의 졸개들이 죽으며 폭발을 일으키면서 전장 곳곳이 화염에 휩싸입니다. 아군의 피해를 최대한 완화시키면서 공허 분쇄자를 처치해야 합니다. /// Amon is determined to destroy Sgt. Hammer’s fortress at all costs. Explosions rock the compound as nukes rain down from above and Amon’s minions detonate themselves upon death. Do what you can to mitigate your own casualties as you take out the Void Thrashers.
+DocInfo/DescShort=아무
+DocInfo/Name=폭발성 결과물 /// Explosive Results
+DocInfo/Screenshot01=

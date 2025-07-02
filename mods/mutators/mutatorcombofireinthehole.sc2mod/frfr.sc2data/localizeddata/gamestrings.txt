@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=N’importe lequel
+DocInfo/Name=Ça va péter !

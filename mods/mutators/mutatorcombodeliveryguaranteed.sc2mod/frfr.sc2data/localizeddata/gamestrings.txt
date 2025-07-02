@@ -1,0 +1,5 @@
+﻿DocInfo/DescLong=Amon fait tout ce qui est en son pouvoir pour que ses navettes quittent Kaldir, et déchaîne sa puissance nucléaire sans distinction sur le champ de bataille. L’énergie du Vide protège également ses troupes et leur insuffle un courage inexplicable. Le dieu noir est prêt à tout, alors soyez à la hauteur ! Aucune navette ne doit s’échapper.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Livraison garantie /// Delivery Guaranteed
+DocInfo/Screenshot01=
+UserData/Mutators/KillKarma_Description=Les unités et bâtiments du joueur subissent davantage de dégâts chaque fois qu’ils éliminent un ennemi.

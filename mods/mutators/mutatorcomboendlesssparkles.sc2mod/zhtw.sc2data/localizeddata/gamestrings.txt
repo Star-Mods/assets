@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=任意
+DocInfo/Name=無盡閃光 /// Endless Sparkles

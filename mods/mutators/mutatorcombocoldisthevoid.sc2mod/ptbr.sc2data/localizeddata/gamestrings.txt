@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Tarsonis está enfrentando o inverno mais severo em anos, e Amon está se aproveitando disso. Suporte o frio implacável e o Vazio sinistro, e acabe de vez com os lacaios de Amon.</n></n>AVISO: Essa combinação de Mutadores é especialmente desafiadora.<n/>
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Frio é o Vazio

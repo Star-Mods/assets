@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Ein Laserbohrer greift verbündete Einheiten an, sobald sie in das gegnerische Sichtfeld geraten.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Laserbohrer

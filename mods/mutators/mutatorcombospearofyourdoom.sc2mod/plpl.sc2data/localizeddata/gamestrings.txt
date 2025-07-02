@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Fazmatorzy, którzy znaleźli się pod wpływem Amona, zbudowali nową arkę. Ma ona za zadanie nieść zagładę z orbity wrogom Mrocznego Boga. Przetrwajcie jej atak i zabezpieczcie blokady.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Włócznia Amona

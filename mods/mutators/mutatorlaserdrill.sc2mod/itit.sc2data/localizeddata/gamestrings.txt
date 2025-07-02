@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Una Trivella laser attacca tutte le unità alleate entro la visuale nemica.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Trivella laser

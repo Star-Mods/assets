@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=亞蒙會不惜一切代價來消滅你。即使他的爪牙死亡了，也會在臨死前給你致命的一擊。摧毀敵人時記得保持距離，否則你也會和他們同歸於盡。 /// Amon will stop at nothing to destroy you. Even in death, his minions strike back at you with a final, devastating gambit. Keep your distance as you dispatch your foes, or you might join them in defeat.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=特別快遞 /// Special Delivery

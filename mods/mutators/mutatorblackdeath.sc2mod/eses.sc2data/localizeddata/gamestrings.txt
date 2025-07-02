@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Algunas unidades enemigas portan la peste, que inflige daño en el tiempo y se transmite a otras unidades cercanas. La peste se contagia a vuestras unidades al morir la unidad enemiga.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Peste negra

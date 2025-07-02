@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=On dit souvent qu’il n’y a de pire ennemi que soi-même. Amon a fait de cette expression une réalité. Vos armées subissent l'intégralité des dégâts qu'elles infligent. En outre, chaque mort d’un ennemi risque d’emporter plusieurs de vos unités. Montrez à Amon qu’aucun sacrifice n’est trop grand pour remporter la victoire.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Le revers de la médaille
+DocInfo/Screenshot01=

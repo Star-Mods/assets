@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Poucas coisas são tão severas quanto uma nevasca em Kaldir. Há poucos recursos e o vento congela tudo que toca. Destrua os ônibus espaciais de Amon e tente se manter aquecido. /// Few things are as harsh as a Kaldir blizzard. Resources are hard to come by, and the winds freeze everything they touch. Destroy Amon's shuttles, and try to keep warm.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Apagão Branco /// White Out

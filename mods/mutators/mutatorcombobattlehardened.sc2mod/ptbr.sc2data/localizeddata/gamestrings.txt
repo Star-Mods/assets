@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Veterano de Guerra /// Battle Hardened
+DocInfo/Screenshot01=

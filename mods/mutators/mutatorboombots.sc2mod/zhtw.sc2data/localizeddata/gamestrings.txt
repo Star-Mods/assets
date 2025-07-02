@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=無人自動化機械正把核彈運往你的基地。一名玩家可以看見解除核彈武裝的數列，而另一名玩家必須輸入數列來解除它。
+DocInfo/DescShort=任意
+DocInfo/Name=轟炸機器人

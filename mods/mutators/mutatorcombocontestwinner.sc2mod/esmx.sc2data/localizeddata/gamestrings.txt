@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Nos enorgullece presentar la idea ganadora de nuestro primer concurso de creación de mutaciones, diseñada y enviada por Saito. En este desafío semanal, las réplicas viles de los más grandes héroes del sector Koprulu inspiran a las fuerzas de Amón durante su asedio a Augustogrado. No te intimides por su presencia y concéntrate en salvar a la ciudad.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Ganador del concurso de creación de mutaciones

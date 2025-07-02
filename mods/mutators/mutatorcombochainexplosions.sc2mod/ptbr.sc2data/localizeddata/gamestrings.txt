@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Qualquer um /// Any
+DocInfo/Name=Explosões Encadeadas /// Chain Explosions

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=新年到，發紅包，亞蒙四處放鞭炮。這次亞蒙除了要讓奧納超載，還讓自己的手下帶著鞭炮。善加利用送給你的資源，阻止亞蒙的詭計吧。 /// It's a time for celebration, and Amon's starting it all off with a bang. Not only does he intend to overload Ulnar, he has outfitted his own minions with explosives as well. Make use of the resources being gifted to you and put a stop to Amon's plans.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=奧納新年到 /// Ulnar New Year

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Amon rozpętał na Korhal nową formę chaosu. Powierzchnię planety w błyskawicznym tempie opanowują mroczni wrogowie. Atakujcie szybko, inaczej czeka was ponury los i zostaniecie sługami Mrocznego Boga.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Szybkie działanie

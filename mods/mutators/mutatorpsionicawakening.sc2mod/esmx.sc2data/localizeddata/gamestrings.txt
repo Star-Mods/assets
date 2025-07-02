@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Todas las unidades enemigas tienen energía y usan habilidades aleatorias. /// All enemy units have energy and use random abilities.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Energía abrumadora /// Power Overwhelming

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Une foreuse laser ennemie attaque constamment les unités du joueur visibles par l’ennemi.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Foreuse laser

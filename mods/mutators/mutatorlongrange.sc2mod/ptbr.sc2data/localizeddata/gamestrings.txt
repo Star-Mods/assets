@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Unidades e estruturas inimigas têm alcance de visão e de arma aumentado. /// Enemy units and structures have increased weapon and vision range.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Longo Alcance /// Long Range

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon ha attinto alle energie del tempio per fornire incredibile potere ai suoi servitori. Le sue armate ora dispongono di potenziale psionico, e scattano sul campo di battaglia incanalando la loro ira in numerose abilità. Resistete all'assalto finché il tempio non sarà di nuovo al sicuro.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Rituale oscuro
+DocInfo/Screenshot01=

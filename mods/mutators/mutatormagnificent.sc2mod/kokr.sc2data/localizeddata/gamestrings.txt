@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=자기 지뢰가 임무 시작과 함께 지도 곳곳에 배치됩니다. /// Mag Mines are deployed throughout the map at the start of the mission.
+DocInfo/DescShort=아무
+DocInfo/Name=죽이는 자기 /// Mag-nificent

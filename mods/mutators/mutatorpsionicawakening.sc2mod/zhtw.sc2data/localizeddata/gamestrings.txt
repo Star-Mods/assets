@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=所有敵方單位都擁有幽能並且使用隨機的技能。 /// All enemy units have energy and use random abilities.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=擋不住的力量 /// Power Overwhelming

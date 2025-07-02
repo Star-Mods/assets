@@ -1,0 +1,5 @@
+﻿DocInfo/DescLong=Il Dio Oscuro sta facendo il possibile per consentire alle sue navette di fuggire da Kaldir. Energie del Vuoto proteggono le sue forze dai danni e infondono in loro un vigore innaturale. Ordigni nucleari sono attivati senza sosta sul campo di battaglia. Amon sta dando il tutto per tutto, e la vostra risposta deve essere adeguata. Le navette non possono scappare.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Consegna garantita
+DocInfo/Screenshot01=
+UserData/Mutators/KillKarma_Description=Unità e strutture alleate subiscono danni aumentati per ogni unità nemica che hanno ucciso.

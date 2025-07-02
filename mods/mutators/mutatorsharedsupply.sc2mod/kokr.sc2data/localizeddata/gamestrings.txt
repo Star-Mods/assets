@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=동맹과 보급품을 공유합니다. 양쪽 부대의 유닛이 공유된 보급품 한도의 영향을 받습니다. /// Supply is shared between you and your partner, and units from both armies contribute to your combined supply cap.
+DocInfo/DescShort=아무
+DocInfo/Name=공유의 미덕 /// Sharing Is Caring

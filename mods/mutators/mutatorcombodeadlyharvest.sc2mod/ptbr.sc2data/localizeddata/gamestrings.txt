@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Augustogrado está passando por maus momentos. Os recursos estão espalhados pelas ruas e, para coletá-los, suas forças têm que enfrentar as minas que as forças de Amon plantaram pela cidade. Vença o medo e destrua os Fragmentos do Vazio.
+DocInfo/DescShort=Qualquer um
+DocInfo/Name=Mina de Preocupações
+DocInfo/Screenshot01= <sp/>

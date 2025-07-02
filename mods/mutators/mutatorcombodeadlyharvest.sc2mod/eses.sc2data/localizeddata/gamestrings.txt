@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Augustgrad está en apuros. Hay recursos esparcidos por las calles. Para recuperarlos, tus fuerzas tendrán que evitar las minas que las fuerzas de Amon han colocado por toda la ciudad. Supera el miedo y destruye los fragmentos del vacío.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Asuntos mineros
+DocInfo/Screenshot01=

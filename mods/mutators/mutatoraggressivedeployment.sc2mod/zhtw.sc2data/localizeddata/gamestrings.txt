@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=戰場上每隔一段時間就會部署額外的敵方單位。 /// Additional enemy units are periodically deployed onto the battlefield.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=侵略性部署 /// Aggressive Deployment

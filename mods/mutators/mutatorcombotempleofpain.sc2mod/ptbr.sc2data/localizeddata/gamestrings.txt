@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=As guerras mais difíceis são as de atrito. O templo está sob cerco, os minérios são difíceis de coletar e o exército de Amon é resistente e fanático. Aguente o máximo que conseguir e torça para ser o suficiente. /// The hardest wars are those of attrition. The temple is under siege, minerals can be difficult to harvest, and Amon's army is both resilient and fanatical. Hold out as long as you can, and hope it is enough.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Templo da Dor /// Temple of Pain

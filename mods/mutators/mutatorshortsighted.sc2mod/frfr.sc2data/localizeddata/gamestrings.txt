@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Les bâtiments et les unités des joueurs ont un champ de vision réduit.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Myopie

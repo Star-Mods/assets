@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Wrogie jednostki i budowle kradną życie lub osłony, kiedy otrzymują obrażenia.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Wyssanie życia

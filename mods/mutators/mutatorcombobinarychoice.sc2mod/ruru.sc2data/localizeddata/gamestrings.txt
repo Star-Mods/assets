@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Любой
+DocInfo/Name=Бинарный выбор
+DocInfo/Screenshot01=

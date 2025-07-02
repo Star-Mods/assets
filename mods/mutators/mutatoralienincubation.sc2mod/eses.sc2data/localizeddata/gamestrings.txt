@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Todas las unidades enemigas engendran crías al morir.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Incubación alienígena

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Unsterbliche Monstrositäten greifen den Xel’Naga-Tempel an. Amons Streitkräfte verwandeln sich nach dem Tod in Verseuchte und werden irgendwann mit ihrer erdrückenden Übermacht Ihre Verteidigung überwinden. Töten Sie die Leerenerwecker, bevor sie die Toten wiedererwecken können und tun Sie was nötig ist, um diesen Ansturm zu überstehen.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Leben und leben lassen
+DocInfo/Screenshot01=

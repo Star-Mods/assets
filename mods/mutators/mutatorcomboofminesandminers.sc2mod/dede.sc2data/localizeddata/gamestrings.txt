@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Beliebig
+DocInfo/Name=Gute Mine zum bösen Spiel

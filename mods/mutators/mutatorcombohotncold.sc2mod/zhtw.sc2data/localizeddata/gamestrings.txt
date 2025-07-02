@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=任何
+DocInfo/Name=冰火多重奏 /// Hot 'n' Cold

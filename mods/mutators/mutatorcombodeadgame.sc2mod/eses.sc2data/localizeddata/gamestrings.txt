@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Monstruosidades indestructibles asedian el templo Xel'Naga. Las fuerzas de Amon resucitan a los infestados cuando caen y acabarán por superar vuestras fortificaciones por fuerza bruta. Matad a los reanimadores del vacío antes de que puedan resucitar a los muertos y haced lo necesario para sobrevivir al ataque.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Peligro mortal
+DocInfo/Screenshot01=

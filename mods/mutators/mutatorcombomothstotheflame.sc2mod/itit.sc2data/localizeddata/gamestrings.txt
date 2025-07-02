@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon non esita a sacrificare i propri servi per assicurarsi la vittoria. Un raggio purificatore colpisce le strade di Augustgrad, e i nemici tentano di attirarvi sul suo percorso. Tenetevi alla larga e fate attenzione durante gli attacchi, o verrete inceneriti.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Come falene
+DocInfo/Screenshot01=

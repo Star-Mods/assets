@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Al comienzo de la misión, se despliegan minas magnéticas en todo el mapa. /// Mag Mines are deployed throughout the map at the start of the mission.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Mag-nífico /// Mag-nificent

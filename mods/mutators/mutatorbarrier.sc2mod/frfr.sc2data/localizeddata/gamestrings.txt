@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Les unités et bâtiments ennemis obtiennent un bouclier temporaire la première fois qu’ils subissent des dégâts.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Barrière

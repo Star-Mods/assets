@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=찬밥 더운밥 가릴 때가 아니다 /// Beggars can't be Choosers

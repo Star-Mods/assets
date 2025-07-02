@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Verbündete Einheiten und Gebäude haben verringerte Sichtweite.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Kurzsichtig

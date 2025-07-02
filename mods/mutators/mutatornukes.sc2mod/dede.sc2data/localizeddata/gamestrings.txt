@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Nuklearraketen landen an zufälligen Orten der Karte.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Atomkrieg

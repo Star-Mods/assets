@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=La semplice distruzione di pianeti non è sufficiente per Amon. Ha infuso un enorme potere nelle sue forze, consentendo loro di sfruttare incredibili abilità, e anche le sue strutture dispongono di capacità offensive. Resistete all'attacco, e salvate Veridia Prime.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Deliri di onnipotenza
+DocInfo/Screenshot01=

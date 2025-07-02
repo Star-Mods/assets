@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=주위에 영웅이 아닌 적 유닛이 하나도 없으면 적 영웅 유닛이 받는 모든 피해가 최대 10만큼 감소합니다. /// Enemy Heroic units reduce all incoming damage to a maximum of 10 when any non-heroic enemy unit is near them.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=굳건한 의지 /// Hardened Will

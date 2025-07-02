@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Lacaios de Amon avançam para dar apoio ao campeão deles, e nem mesmo a morte pode detê-los. Quando abatidos, outros surgem para tomar seu lugar, aumentando ainda mais a força do campeão. Seja tão fervoroso quanto eles e detenha esse levante.
+DocInfo/DescShort=Qualquer um
+DocInfo/Name=Caos Shirenho
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=亞蒙把受感染的部隊變成武器。每一個單位都會在死亡時立刻起火燃燒，而且虛空復生者會無情地復活牠們。以生命對抗炙熱的烈焰，以性命保護那些船艦。 /// Amon has weaponized the infested. The ground is set ablaze as each one dies, and Void Reanimators raise them anew without remorse. Withstand the flames and guard the ships with your lives.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=火葬 /// Cremation
+DocInfo/Screenshot01=

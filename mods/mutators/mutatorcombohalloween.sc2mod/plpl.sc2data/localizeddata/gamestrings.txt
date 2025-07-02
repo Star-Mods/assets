@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=W Augustgradzie zapadła ciemna i straszna noc. Obywatele Dominium pukają do waszych drzwi i proszą o cukierki. Przygotujcie dla nich słodkości, inaczej padniecie ofiarą zabójczych psikusów.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Noc Halloween
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=젤나가 사원 공성이 심화되고 있습니다. 아몬의 강력한 피조물이 부하들에게 용기를 불어넣어 아군 방어선을 들이받고 되살아나며, 원거리에서도 공격을 퍼붓습니다. 모든 공격을 버티고 사원을 안전하게 지켜내야 합니다. /// The siege on the xel’naga temple has intensified. Amon’s strongest creations embolden their minions as they break themselves upon your ramparts, only to rise again. Not only that, but they also attack your fortifications from afar. Endure the assault and keep the temple secure.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=고달픈 환영 /// Worn Out Welcome
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Любой
+DocInfo/Name=Нарушение безопасности
+DocInfo/Screenshot01=

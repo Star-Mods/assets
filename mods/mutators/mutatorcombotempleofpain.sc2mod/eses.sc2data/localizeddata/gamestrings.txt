@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Las guerras más duras son las de desgaste. El templo está bajo asedio y puede resultar complicado recolectar minerales. El ejército de Amon se caracteriza por su fortaleza y su fanatismo. Resistid lo que podáis y esperad que vuestro plan funcione.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Templo del dolor

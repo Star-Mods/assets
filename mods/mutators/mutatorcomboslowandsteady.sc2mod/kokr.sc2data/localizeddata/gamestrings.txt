@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=아몬의 세력이 벨시르의 테라진을 차치하려는 의지가 확고합니다. 그들은 당신이 스텟먼의 채취 로봇에 도달하지 못하도록 수단과 방법을 가리지 않을 것입니다. 최대한 빠르게 움직여서 적을 앞지르고 아몬의 횡포를 저지하십시오. /// Amon’s forces are determined to claim Bel’shir’s terrazine for themselves. They will stop at nothing to prevent you from reaching Stetmann’s harvesters in time to save them. Move as fast as you can to catch up to your enemies and end their assault.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=천천히 꾸준히 /// Slow and Steady
+DocInfo/Screenshot01=

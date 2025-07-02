@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=提高敵方單位與建築的攻擊距離及視野範圍。 /// Enemy units and structures have increased weapon and vision range.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=長程作戰 /// Long Range

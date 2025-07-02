@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Les serviteurs d’Amon accourent pour soutenir leur champion et rien ne peut les arrêter, pas même la mort. Lorsqu’ils succombent, d’autres, plus nombreux encore, prennent la relève pour renforcent la puissance de leur champion. Faites preuve d’autant de zèle qu’eux et repoussez la marée déferlante.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Rite anarchique
+DocInfo/Screenshot01=

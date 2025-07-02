@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Verbündete Arbeiter sammeln Ressourcen langsamer, dafür erscheinen auf der Karte aufsammelbare Ressourcen.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Magere Ausbeute

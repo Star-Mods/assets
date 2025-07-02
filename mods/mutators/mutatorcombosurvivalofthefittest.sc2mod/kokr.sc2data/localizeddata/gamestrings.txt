@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=해머 상사의 요새가 공성 공격을 받고 있습니다. 아몬이 요새의 방어를 뚫을 작정으로 자신의 졸개에게 보호막을 씌우고 죽으면 완전히 새로운 육신으로 되살리고 있습니다. 수단과 방법을 가리지 말고 공격을 저지하십시오. /// Sgt. Hammer’s Fortress is under siege. Determined to shatter its defenses, Amon shielding his minions from damage and resurrecting them in entirely new bodies upon death. Do whatever it takes to stop their assault.
+DocInfo/DescShort=아무
+DocInfo/Name=적자생존 /// Survival of the Fittest
+DocInfo/Screenshot01=

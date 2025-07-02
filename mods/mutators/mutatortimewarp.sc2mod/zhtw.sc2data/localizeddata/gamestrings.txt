@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=每隔一段時間，會在地圖上各處出現敵方的時空扭曲點。 /// Enemy Time Warps are periodically deployed throughout the map.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=時空扭曲 /// Time Warp

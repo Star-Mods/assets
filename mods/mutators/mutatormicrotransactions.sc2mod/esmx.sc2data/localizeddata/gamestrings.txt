@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Darles órdenes a tus unidades cuesta recursos de acuerdo con el costo de la unidad. /// Giving commands to your units costs resources based on the unit’s cost.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Microtransacciones /// Micro Transactions

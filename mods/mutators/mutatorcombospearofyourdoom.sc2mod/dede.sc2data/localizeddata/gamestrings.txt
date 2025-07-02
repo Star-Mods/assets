@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Phasenschmiede unter Amons Einfluss haben eine neue Arche konstruiert, die den Feinden des Dunklen Gottes Zerstörung aus dem Orbit bringen soll. Widerstehen Sie dem Trommelfeuer und erobern Sie die Schlösser.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Speer des Amon

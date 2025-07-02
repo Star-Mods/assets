@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=任意 /// Any
+DocInfo/Name=負向增強
+DocInfo/Screenshot01=

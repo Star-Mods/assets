@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Rigurosos vientos invernales azotan el paisaje mientras los muertos se levantan de la tierra; además, las tropas de Amon han desplegado minas magnéticas por toda la zona. Resistid, evitad las ventiscas y las minas, y purgad el planeta de su infestación creciente.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Hipotermia
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Jednostki wroga mogą po zadaniu obrażeń przekształcić się w potężniejsze jednostki.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Transmutacja

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Al morir, las unidades enemigas engendran terran infestados. La cantidad de terran infestados depende de la vida de las unidades.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Infestados vivientes

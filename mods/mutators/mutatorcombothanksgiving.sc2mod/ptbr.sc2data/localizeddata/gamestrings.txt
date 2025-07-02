@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Suas linhas de suprimento foram cortadas e você precisa cooperar com seu aliado para sustentar seus exércitos. Por sorte, há muita vida selvagem para caçar. Mas tome cuidado: vai saber do que um peru é capaz quando é posto na roda.
+DocInfo/DescShort=Qualquer um
+DocInfo/Name=Pôr o Peru na Roda
+DocInfo/Screenshot01=

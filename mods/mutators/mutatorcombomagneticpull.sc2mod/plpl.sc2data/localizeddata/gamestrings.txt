@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Siły Amona rozstawiły na Char miny magnetyczne, a on sam manipuluje waszymi wojownikami dzięki swym tajemniczym mocom i przyciąga ich do ciał wrogów. Ostrożnie planujcie swoje ataki albo przygotujcie się na wybuchową niespodziankę.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Przyciąganie magnetyczne
+DocInfo/Screenshot01=

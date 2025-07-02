@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=아몬이 공허 분쇄자를 가공할 인내력으로 강화시켜, 받는 피해를 감소시키고 일부 공격을 완전히 무시하게 만들었습니다. 병력을 분산하고 통신을 유지하며 이 완고한 위협을 제거하십시오 /// Amon has bolstered his Void Thrashers with monstrous endurance, diminishing the effect of your assault against them and allowing them to completely ignore attacks from one your armies. Split your forces and maintain communication to bring down this tenacious menace.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=완고한 상대 /// Hard Target
+DocInfo/Screenshot01=

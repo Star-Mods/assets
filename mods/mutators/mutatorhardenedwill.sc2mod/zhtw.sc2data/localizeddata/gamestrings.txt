@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=敵方的非英雄單位待在身邊時，敵方英雄受到的傷害最高只有10點。 /// Enemy Heroic units reduce all incoming damage to a maximum of 10 when any non-heroic enemy unit is near them.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=意志堅定 /// Hardened Will

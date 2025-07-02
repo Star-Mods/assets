@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=混亂主宰了拉克希爾儀式。敵人不斷變換陣形，你的部隊也無法遏制心中的恐懼。就連你自己的判斷都乖張且扭曲。集中注意力，直到吉娜拉贏得這場挑戰。 /// Chaos reigns over the ritual of Rak’Shir. Enemies are not where they first appear to be, and your forces find themselves overcome with fear. Even your own perspective is warped and twisted. Maintain focus long enough for Ji’nara to win the challenge.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=全面錯亂 /// Flipping Out
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Verbündete Einheiten und Gebäude erleiden erhöhten Schaden für jeden Feind, den sie getötet haben.
+DocInfo/DescShort=Alle
+DocInfo/Name=Schlechtes Gewissen

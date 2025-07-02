@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Cualquiera
+DocInfo/Name=Cúpula del trueno
+DocInfo/Screenshot01=

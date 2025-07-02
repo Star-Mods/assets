@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Cualquiera
+DocInfo/Name=Infracción de seguridad
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Gegner lösen nach ihrem Tod ein fantastisches Feuerwerk aus, das Einheiten in der Nähe Schaden zufügt.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Feuerwerk

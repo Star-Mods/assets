@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=U wystawionych na działanie terrazytu mogą występować napady szału, a sługi Amona nie są tutaj żadnym wyjątkiem. Wpływ Mrocznego Boga został wzmocniony przez gaz zwiększający ich szybkość i agresję. Nie cofną się przed niczym, aby was zniszczyć. Koniecznie musicie ich uprzedzić.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Oddech zniszczenia
+DocInfo/Screenshot01=

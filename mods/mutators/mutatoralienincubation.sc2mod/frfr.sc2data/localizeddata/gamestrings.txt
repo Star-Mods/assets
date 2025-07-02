@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Toutes les unités ennemies génèrent des vermines à leur mort.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Incubation de vermine

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Amon ha scatenato nuove forze del caos su Korhal: dei nemici d'ombra si muovono rapidamente sulla superficie del pianeta. Reagite in fretta, o potreste essere condannati a unirvi ai servitori del Dio Oscuro.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Reazione rapida

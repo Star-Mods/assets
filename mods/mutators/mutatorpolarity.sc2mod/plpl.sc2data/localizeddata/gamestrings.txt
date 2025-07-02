@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Każda jednostka wroga jest odporna albo na ataki twoich jednostek, albo jednostek sojusznika.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Zaburzenie dwubiegunowe

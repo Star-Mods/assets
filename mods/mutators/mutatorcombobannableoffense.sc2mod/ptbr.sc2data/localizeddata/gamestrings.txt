@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Ofensa Banível /// Bannable Offense
+DocInfo/Screenshot01=

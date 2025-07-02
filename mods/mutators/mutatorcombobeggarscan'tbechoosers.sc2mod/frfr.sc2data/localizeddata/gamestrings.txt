@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=N’importe lequel
+DocInfo/Name=On fait ce qu’on peut avec ce qu’on a

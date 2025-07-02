@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Tous
+DocInfo/Name=Morts-vivants et vifs

@@ -1,0 +1,5 @@
+﻿DocInfo/DescLong=어둠의 신 아몬이 자신의 왕복선들을 칼디드에서 탈풀시키려 총력을 다하고 있습니다. 공허의 에너지가 아몬의 병력들을 보호하고 불굴의 용기를 불어넣습니다. 아몬은 핵 무기들로 전장에 무차별적인 공격을 가하고 있습니다. 모든 전력을 쏟아붓는 아몬에 맞서 왕복선이 탈출하지 못하게 막아야 합니다. /// All of the Dark God’s might is focused on ensuring his shuttles escape Kaldir. Void energies shield his forces from harm and invigorate them with unnatural fortitude. All of his nuclear ordnance is being unleashed indiscriminately upon the battlefield. Amon is committing everything, and you must respond in kind. The shuttles cannot be allowed to escape.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=배송 보장 /// Delivery Guaranteed
+DocInfo/Screenshot01=
+UserData/Mutators/KillKarma_Description=플레이어의 유닛과 구조물이, 적을 처치할 때마다 받는 피해가 증가합니다. /// Player units and structures take increased damage for each enemy they've killed.

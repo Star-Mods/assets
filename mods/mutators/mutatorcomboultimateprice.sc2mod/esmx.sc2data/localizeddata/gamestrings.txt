@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amón te ha llevado a una guerra de desgaste. Tus fuerzas están exhaustas y hasta las tareas más sencillas consumen tus recursos. Llueven misiles del cielo, y es difícil recolectar minerales. Resiste; si proteges los bloqueos, nada habrá sido en vano. /// Amon has drawn you into a war of attrition. Your forces are exhausted, and even the simplest tasks are a drain on your resources. Missiles rain down from above, and minerals can sometimes be hard to gather. Hang in there, secure the locks, and it will all be worth it.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=El precio final
+DocInfo/Screenshot01=

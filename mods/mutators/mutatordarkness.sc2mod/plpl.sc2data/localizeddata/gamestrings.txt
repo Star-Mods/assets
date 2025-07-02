@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Wcześniej odkryte tereny przestają być widoczne na minimapie, kiedy znikną z pola widzenia graczy.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Ciemność widzę

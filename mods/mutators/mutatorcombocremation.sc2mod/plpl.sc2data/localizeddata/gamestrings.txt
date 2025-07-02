@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon uzbroił zainfekowanych. Gdy giną, ziemia pod każdym z nich staje w płomieniach a reanimatorzy otchłani wskrzeszają ich na nowo. Przetrwajcie prawdziwy chrzest ognia i brońcie statków nawet za cenę własnego życia.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Kremacja
+DocInfo/Screenshot01=

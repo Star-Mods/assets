@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Quando le unità e strutture nemiche muoiono, le unità alleate vicine sono trascinate nella loro posizione.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Attrazione fatale

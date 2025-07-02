@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Zuvor erkundete Bereiche bleiben auf der Minikarte weiterhin schwarz, solange keine verbündete Einheit Sicht darauf hat.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Finsternis

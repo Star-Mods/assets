@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Les troupes d’Amon attaquent vos bâtiments à distance avec leurs missiles et foreuses laser. Après reconstruction, ils prennent possession de tous ceux qu’ils ont démolis. Déployez des défenses solides autour de vos bases, et n’oubliez pas les failles du Vide qui menacent de détruire Korhal.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Expropriation de masse
+DocInfo/Screenshot01=

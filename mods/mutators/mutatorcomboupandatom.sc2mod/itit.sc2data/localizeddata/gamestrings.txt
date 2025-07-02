@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon è determinato a distruggere la fortezza di Sgt. Hammer. Esplosioni scuotono la struttura, ordigni nucleari piovono dall'alto e i servi di Amon si fanno esplodere alla morte. Fate il possibile per ridurre il numero delle perdite mentre eliminate gli Abomini del Vuoto.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Risultati esplosivi
+DocInfo/Screenshot01=

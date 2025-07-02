@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Любой
+DocInfo/Name=Аспекты смерти
+DocInfo/Screenshot01=

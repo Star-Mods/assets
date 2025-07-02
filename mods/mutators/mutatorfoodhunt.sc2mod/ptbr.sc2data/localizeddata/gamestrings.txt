@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Suprimentos são gerados apenas ao matar os perus que perambulam pelo mapa. Isso pode enfurecer o resto dos perus.
+DocInfo/DescShort=Qualquer um
+DocInfo/Name=Tiro ao Peru

@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=빠른 자와 죽지 않는 자 /// The Quick and the Undead

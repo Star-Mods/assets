@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Es hora de celebrar y Amon lo quiere hacer a lo grande. No solo pretende sobrecargar Ulnar, también ha vestido a sus esbirros con explosivos. Aprovechad los recursos que os regalen y detened los planes de Amon.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Año Nuevo Ulnar

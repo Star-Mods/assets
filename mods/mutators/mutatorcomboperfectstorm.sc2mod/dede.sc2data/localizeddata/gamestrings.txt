@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Das Klima auf Slayn ist so unerbittlich wie die Tal'darim. Ein mächtiger Sturm verringert die Sicht auf dem Schlachtfeld, friert seine Opfer ein und saugt sie in gefährliche Wirbelstürme. Trotzen Sie den Elementen und meistern Sie die Herausforderung um jeden Preis.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Der perfekte Sturm
+DocInfo/Screenshot01=

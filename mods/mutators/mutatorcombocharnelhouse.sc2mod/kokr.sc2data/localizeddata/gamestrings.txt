@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=이 황폐하고 적막한 세계에 지독한 역병이 퍼집니다. 아몬의 세력이 광부들의 방어를 감염체가 아닌 당신의 군대에 맞서게 만들었습니다. 어둠에 용맹하게 맞서 생존자들이 악몽에서 벗어나 감염으로부터 자유로울 수 있게 도와야 합니다. /// A sinister disease runs rampant on this bleak and desolate world. Amon’s forces have repurposed the miners’ defenses to target your armies instead of the infected. Brave the darkness so that the survivors can escape this nightmare and live free from the contagion.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=납골당 /// Charnel House
+DocInfo/Screenshot01=

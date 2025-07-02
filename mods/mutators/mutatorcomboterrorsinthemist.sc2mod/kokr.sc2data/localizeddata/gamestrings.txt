@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=매복한 적들이 밀림의 안갯속에 도사리며 스텟먼의 채취 로봇을 습격해서 산산조각 내려 합니다. 아몬의 졸개들과 그들이 매설해 둔 덫 모두 눈을 크게 뜨고 살펴야 합니다. /// Concealed enemies stalk through the jungle’s mists, ready to pounce on Stetmann’s harvesting bots and tear them apart without warning. Keep your eyes open both for Amon’s minions and the traps they have set to ensnare you.
+DocInfo/DescShort=아무
+DocInfo/Name=밀림의 대난투 /// Rumble in the Jungle
+DocInfo/Screenshot01=

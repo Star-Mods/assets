@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon wciągnął was w wojnę na wyniszczenie. Wasze oddziały się wyczerpane i nawet najprostsze zadania zużywają zasoby. Jakby tego było mało, z nieba spada na was grad pocisków, a dostęp do minerałów może być utrudniony. Nie poddawajcie się jednak i zabezpieczcie bariery. Albowiem zwycięstwo warte jest każdej ceny.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Cena zwycięstwa
+DocInfo/Screenshot01=

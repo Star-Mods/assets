@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Es besteht eine Chance, dass gegnerische Einheiten sich in mächtigere Einheiten verwandeln, wenn sie Schaden verursachen.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Transmutation

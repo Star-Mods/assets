@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Cualquiera
+DocInfo/Name=Apagón mediático
+DocInfo/Screenshot01=

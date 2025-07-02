@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=가장 어려운 전쟁은 바로 소모전입니다. 사원은 공격받고 있고. 광물 채취는 어려운 상황이며, 아몬의 병력은 끈질기고도 극단적인 공격을 펼치고 있습니다. 버틸 수 있을 때까지 최대한 버티십시오. 다른 방법은 없습니다. /// The hardest wars are those of attrition. The temple is under siege, minerals can be difficult to harvest, and Amon's army is both resilient and fanatical. Hold out as long as you can, and hope it is enough.
+DocInfo/DescShort=아무
+DocInfo/Name=고통의 사원 /// Temple of Pain

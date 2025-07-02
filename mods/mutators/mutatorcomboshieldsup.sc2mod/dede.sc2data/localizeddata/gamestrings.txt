@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Eine Raumzeit-Anomalie hat Kaldir erfasst. Kinetische Energie wird in alle Richtungen ausgestrahlt und überall auf dem Schlachtfeld finden sich Felder mit räumlichen und zeitlichen Unregelmäßigkeiten. Verlieren Sie trotz dieser Widrigkeiten Ihr eigentliches Ziel nicht aus den Augen, die Shuttles zu vernichten.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Schilde hoch!
+DocInfo/Screenshot01=

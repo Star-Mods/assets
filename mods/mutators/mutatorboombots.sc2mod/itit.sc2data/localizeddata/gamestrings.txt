@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Dei droidi stanno portando una testata nucleare verso la vostra base. Un giocatore deve scoprire la sequenza di disinnesco e l'altro giocatore deve inserirla.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Robobombe

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Le climat de Slayn est aussi impitoyable que les Tal’darim. La visibilité est réduite par une tempête gigantesque qui fait rage sur les champs de bataille, gèle ses victimes et les emporte dans ses dangereuses tornades. Affrontez les éléments et remportez le défi à tout prix.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Tempête ultime
+DocInfo/Screenshot01=

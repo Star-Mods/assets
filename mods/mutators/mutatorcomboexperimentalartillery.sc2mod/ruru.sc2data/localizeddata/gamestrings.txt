@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Любой
+DocInfo/Name=Эксперименты с артиллерией
+DocInfo/Screenshot01=

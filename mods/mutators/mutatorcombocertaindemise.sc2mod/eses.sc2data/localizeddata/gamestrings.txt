@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=El campeón de Amon rebosa poder. Sus suplicantes ofrecen sus vidas como sacrificio para el rito, pero su servicio no acaba ahí. Hay reanimadores que se ocupan de que sirvan su cometido en un violento ciclo infinito. Proteged al Primer Ascendiente o todo estará perdido.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Defunción segura
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Terrazyt na Bel'Shir wzmocnił lokalne wirusy. Wśród wszystkich form życia szerzy się śmiertelna zaraza i każde wasze działanie ma swoją cenę. Przezwyciężcie te trudności, aby osiągnąć zwycięstwo.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Chora zagrywka
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Der Kontakt mit Terrazin kann zu Gewaltausbrüchen führen, und Amons Truppen bilden da keine Ausnahme. Das Gas hat den Einfluss des Dunklen Gottes auf seine Streitkräfte nur verstärkt und hat ihre Geschwindigkeit und Aggression erhöht. In ihrem Bestreben, Sie zu vernichten, werden sie vor nichts haltmachen. Kommen Sie ihnen zuvor.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Hauch der Zerstörung
+DocInfo/Screenshot01=

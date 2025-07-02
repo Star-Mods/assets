@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Los tornados se desplazan por el mapa, e infligen daño y repelen a las unidades de los jugadores que se encuentren en su camino.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Tornados

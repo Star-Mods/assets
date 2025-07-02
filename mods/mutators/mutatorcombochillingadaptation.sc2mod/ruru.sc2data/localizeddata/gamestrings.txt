@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Любой
+DocInfo/Name=Морозные условия
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=莫比斯部隊正打算運送他們所儲備的核彈穿越塔桑尼斯；而這批存貨正是為了摧毀你而準備的。這種貨物非常不穩定，只要一不留神就有可能造成無可挽回的災難。要是你的部隊在面對敵人時退縮不前，完全是意料中的合理行為。 /// Moebius Corps has tapped into their stockpile of nuclear warheads and is shipping them across Tarsonis. The remainder are reserved for your destruction. With cargo this volatile, every stray bullet presents an incredible risk. Don’t be surprised if your forces flinch at the first sign of combat.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=核爆戰區 /// Boom Town
+DocInfo/Screenshot01=

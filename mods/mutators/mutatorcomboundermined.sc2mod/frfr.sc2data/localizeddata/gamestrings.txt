@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Mauvaise mine

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Jest niewiele zjawisk równie srogich co zamiecie na Kaldirze. Dostęp do surowców na księżycu jest mocno ograniczony, a wiatr zamraża wszystko na swojej drodze. Zniszczcie wahadłowce Amona i trzymajcie się ciepło.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Taki mamy klimat

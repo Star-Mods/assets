@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Una enfermedad siniestra hace estragos en este mundo inhóspito y desolado. Las fuerzas de Amón han refaccionado las defensas de los mineros para que ataquen a tus ejércitos en lugar de a los infectados. Enfrenta la oscuridad para que los sobrevivientes puedan escapar de esta pesadilla y vivir libres de la enfermedad. /// A sinister disease runs rampant on this bleak and desolate world. Amon’s forces have repurposed the miners’ defenses to target your armies instead of the infected. Brave the darkness so that the survivors can escape this nightmare and live free from the contagion.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Osario /// Charnel House
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Auf alles, was sich nicht direkt in Ihrer Kameraansicht befindet, ist die Sicht aus sämtlichen Quellen extrem eingeschränkt.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Angst im Dunkeln

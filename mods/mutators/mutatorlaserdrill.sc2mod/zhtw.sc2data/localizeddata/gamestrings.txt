@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=一具會不斷攻擊視野範圍內玩家單位的雷射鑽洞機。 /// An enemy Laser Drill constantly attacks player units within enemy vision.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=雷射鑽洞機 /// Laser Drill

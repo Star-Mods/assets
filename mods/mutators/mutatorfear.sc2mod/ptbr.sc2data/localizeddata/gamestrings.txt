@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=As unidades do jogador às vezes param de atacar e correm amedrontadas ao receber dano. /// Player units will occasionally stop attacking and run around in fear upon taking damage.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Medo /// Fear

@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Любой
+DocInfo/Name=Долгая ночь

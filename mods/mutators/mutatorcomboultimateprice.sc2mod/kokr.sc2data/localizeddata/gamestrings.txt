@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=아몬이 당신을 소모전으로 끌어들였습니다. 병력들은 탈진하고 손쉬운 작업조차 자원을 고갈시킵니다. 하늘에서 미사일이 떨어지고 때로는 광물을 채취하기조차 어렵습니다. 고난을 버텨내면 그만한 보상이 따를 것입니다.  /// Amon has drawn you into a war of attrition. Your forces are exhausted, and even the simplest tasks are a drain on your resources. Missiles rain down from above, and minerals can sometimes be hard to gather. Hang in there, secure the locks, and it will all be worth it.
+DocInfo/DescShort=아무
+DocInfo/Name=극한의 값어치 /// The Ultimate Price
+DocInfo/Screenshot01=

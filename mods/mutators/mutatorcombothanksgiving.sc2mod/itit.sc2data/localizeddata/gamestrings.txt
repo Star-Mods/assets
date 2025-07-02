@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Le linee di rifornimento sono interrotte: per sostenere le armate, dovrete collaborare con il vostro alleato. Fortunatamente, è possibile sfruttare la fauna locale. Non abbassate la guardia, non si può sapere quanto è pericoloso un tacchino quando si sente minacciato.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Uccelli del malaugurio
+DocInfo/Screenshot01=

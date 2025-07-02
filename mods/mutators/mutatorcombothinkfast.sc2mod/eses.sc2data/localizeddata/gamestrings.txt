@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Amon ha desatado una nueva suerte de caos sobre Korhal: enemigos sombríos que se extienden rápidamente por el terreno. Contraataca rápido si no quieres sumarte a las filas de los sirvientes del Dios Oscuro.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Piensa rápido

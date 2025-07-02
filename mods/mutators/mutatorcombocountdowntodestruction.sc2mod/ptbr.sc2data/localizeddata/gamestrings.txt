@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Os exércitos de Amon são vastos. Uma leva interminável dos seus guerreiros fanáticos inunda os salões de Ulnar, determinada a transformar você em cinzas. Passe por eles para chegar às travas celestiais, mas cuidado: as forças de Amon são perigosas até na morte.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Legião Ardente
+DocInfo/Screenshot01=

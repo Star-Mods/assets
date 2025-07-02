@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=La présence d’unités héroïques adverses augmente la vitesse d’attaque et l’armure de tous les ennemis proches.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Inspiration

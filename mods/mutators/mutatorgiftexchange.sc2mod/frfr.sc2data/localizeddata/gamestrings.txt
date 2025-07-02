@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Des cadeaux apparaissent régulièrement sur la carte. Si vous ne les ramassez pas, Amon lui ne s’en privera pas !
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Échange de cadeaux

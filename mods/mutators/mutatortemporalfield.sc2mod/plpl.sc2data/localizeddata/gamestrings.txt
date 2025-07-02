@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Na całej mapie co jakiś czas pojawiają się pola czasowe wroga.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Pola czasowe

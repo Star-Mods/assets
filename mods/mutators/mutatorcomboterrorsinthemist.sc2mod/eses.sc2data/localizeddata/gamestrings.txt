@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Enemigos ocultos acechan en la niebla de la selva, listos para atacar de improviso a los robots de investigación de Stetmann y hacerlos pedazos. Estad atentos a los esbirros de Amon y a las trampas que hayan puesto para ralentizaros.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Reyerta en la selva
+DocInfo/Screenshot01=

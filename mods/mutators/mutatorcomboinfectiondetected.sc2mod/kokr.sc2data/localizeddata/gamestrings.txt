@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=감염 감지 /// Infection Detected
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=I rifornimenti sono generati solo uccidendo i tacchini presenti sulla mappa. Attenzione, i volatili sopravvissuti potrebbero arrabbiarsi.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Caccia al tacchino

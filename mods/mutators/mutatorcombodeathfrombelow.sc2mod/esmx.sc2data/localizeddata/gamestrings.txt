@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=El simple hecho de interferir con la evacuación de la Coalición Kelmoriana no lo dejaba satisfecho, así que Amón ha reestructurado la mismísima corteza del planeta. ¡Ocurrirán explosiones de lava de forma aleatoria, y la temperatura de la superficie se ha elevado tanto que algunos cadáveres hasta pueden entrar en combustión! Ten cuidado por donde caminas.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Muerte desde las profundidades
+DocInfo/Screenshot01=

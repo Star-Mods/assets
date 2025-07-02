@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Le guerre più dure sono quelle di logoramento. Il tempio è sotto assedio, i minerali scarseggiano e le forze di Amon sono resistenti e determinate. Resistete il più a lungo possibile, sperando che sia abbastanza.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Tempio del dolore

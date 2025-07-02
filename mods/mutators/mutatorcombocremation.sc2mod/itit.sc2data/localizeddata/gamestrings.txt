@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon ha trasformato gli infestati in un'arma. Il terreno viene incendiato alla morte di ognuno di essi, e i Rianimatori del Vuoto li riportano in vita. Resistete alle fiamme, e difendente le navi con la vostra vita.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Cremazione
+DocInfo/Screenshot01=

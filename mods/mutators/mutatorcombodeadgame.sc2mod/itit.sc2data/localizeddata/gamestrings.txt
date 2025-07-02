@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Mostruosità immortali assediano il tempio xel'naga. Le forze di Amon resuscitano gli infestati caduti, e le difese non potranno resistere per sempre al numero crescente di nemici. Uccidete i Rianimatori del Vuoto prima che possano riportare in vita i morti, e fate il possibile per sopravvivere all'assalto.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Pericolo mortale
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=아몬의 행성 개조 작업이 버리디아 프라임의 자원을 고갈시키고 있습니다. 대재앙적인 환경을 무릎쓰고 자원을 확보하며 병력을 꾸려야 합니다. 신중을 기하십시오. 하지만 지체해서는 안 됩니다. 1분 1초가 지날 때마다 행성의 파괴가 임박해집니다.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=자린고비
+DocInfo/Screenshot01=

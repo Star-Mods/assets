@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Ningún lugar está a salvo de la ira de Amón. Entre los lanzamientos interminables de misiles, los ataques nucleares aleatorios y un rayo purificador en busca de algo para incinerar, el flujo de lava de Veridia será la menor de tus preocupaciones. Lleva a tus trabajadores hasta la base a salvo. Este es su momento.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Mundo en llamas
+DocInfo/Screenshot01=

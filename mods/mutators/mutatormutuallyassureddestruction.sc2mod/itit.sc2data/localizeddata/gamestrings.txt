@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Gli ibridi nemici attivano una testata nucleare alla morte.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Mutua distruzione assicurata

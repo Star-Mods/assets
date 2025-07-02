@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=아몬의 병력이 해머 상사의 요새를 파괴하려 혈안이 되어 있습니다. 공허로부터 새롭고 끔찍한 힘으로 가득찬 지원 병력이 밀려듭니다. 그들의 힘에 맞서 싸우고 공허 분쇄자를 무찌르십시오.</n></n>경고: 이 돌연변이원 조합은 특히 매우 어렵습니다. /// Amon’s forces are fanatical in their efforts to take down Sgt. Hammer’s fortress. Reinforcements surge forth from the Void, brimming with new and terrible power. Match their strength and crush the Void Thrashers.</n></n>WARNING: This combination of Mutators is especially challenging.
+DocInfo/DescShort=아무
+DocInfo/Name=차원문의 힘 /// Portal Power
+DocInfo/Screenshot01=

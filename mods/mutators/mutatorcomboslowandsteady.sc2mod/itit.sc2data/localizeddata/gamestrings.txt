@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Le forze di Amon vogliono impossessarsi del terrazine di Bel'shir. Non si fermeranno davanti a nulla pur di impedirvi di raggiungere i droidi estrattori di Stetmann. Cercate di muovervi il più rapidamente possibile per tenere testa ai nemici e ponete fine all'assalto.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Andamento lento
+DocInfo/Screenshot01=

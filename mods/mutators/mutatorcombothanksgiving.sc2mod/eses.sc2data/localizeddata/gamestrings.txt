@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Os han cortado los suministros, y tu aliado y tú debéis colaborar para dar sustento a vuestros ejércitos. Por suerte, hay un montón de fauna local que cazar. Eso sí, tened cuidado: ¿quién sabe de lo que es capaz un pavo al sentirse amenazado?
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Cazar para vivir
+DocInfo/Screenshot01=

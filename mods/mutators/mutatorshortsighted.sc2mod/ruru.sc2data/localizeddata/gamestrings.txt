@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Войска и строения игроков имеют уменьшенный обзор.
+DocInfo/DescShort=Любой
+DocInfo/Name=Малый обзор

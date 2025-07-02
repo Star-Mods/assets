@@ -1,0 +1,5 @@
+﻿DocInfo/DescLong=Méfiez-vous, car Amon assouvit sa soif de vengeance sur tous ceux qui ne sont pas sages et, visiblement, votre nom figure sur sa liste. Bien sûr, il reste de nombreuses raisons de se réjouir ; c’est la saison des cadeaux après tout ! Mais, attention, Amon n’est pas du genre à partager.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Dure nuit
+DocInfo/Screenshot01=
+UserData/Mutators/KillKarma_Description=Les unités et bâtiments du joueur subissent davantage de dégâts chaque fois qu’ils éliminent un ennemi.

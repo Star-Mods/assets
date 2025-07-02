@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Una interferencia electromagnética provoca el caos en vuestras comunicaciones. Dar órdenes al ejército puede resultar complicado, así que intentad que todas vuestras acciones cuenten. La información y la visión son limitadas, y podéis tardar en completar hasta la tarea más sencilla. Superad las dificultades y salvad el planeta.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Fuera de servicio
+DocInfo/Screenshot01=

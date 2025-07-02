@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=任何
+DocInfo/Name=十週年大放縱 /// Decade of Decadence

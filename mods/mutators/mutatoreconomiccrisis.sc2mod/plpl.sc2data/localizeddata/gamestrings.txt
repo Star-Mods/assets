@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Jednostki robotnicze graczy gromadzą surowce w wolniejszym tempie, ale na całej mapie pojawiają się znajdźki z zasobami.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Znalezione nie kradzione

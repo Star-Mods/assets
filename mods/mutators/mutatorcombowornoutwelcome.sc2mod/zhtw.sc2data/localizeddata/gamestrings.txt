@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=攻擊薩爾納加神殿的行動已經白熱化。亞蒙創造出最強的爪牙會不斷激勵手下，即使敵人在你面前倒下，卻依舊再次起身戰鬥。除此之外，他們還會從遠方攻擊你的防禦設施。撐過敵方攻擊，確保神殿安全。 /// The siege on the xel’naga temple has intensified. Amon’s strongest creations embolden their minions as they break themselves upon your ramparts, only to rise again. Not only that, but they also attack your fortifications from afar. Endure the assault and keep the temple secure.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=難纏訪客 /// Worn Out Welcome
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon não se faz de rogado e sacrifica seus próprios servos para garantir que você morra. O feixe de purificação dele varre as ruas de Augustogrado e os lacaios arrastam suas tropas para o caminho da destruição. Mantenha distância e tome cuidado ao enfrentar o inimigo, senão seus exércitos serão incinerados.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Mariposas na Chama
+DocInfo/Screenshot01=

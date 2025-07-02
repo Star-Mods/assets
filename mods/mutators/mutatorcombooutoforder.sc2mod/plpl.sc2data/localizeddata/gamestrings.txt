@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Zakłócenia elektromagnetyczne utrudniają wam utrzymanie łączności. Wydawanie rozkazów armii może dużo kosztować, dlatego każda decyzja się liczy. Informacje wywiadowcze i widoczność są ograniczone i wykonanie nawet najprostszego zadania może zająć więcej czasu. Przetrwajcie sytuację kryzysową i ocalcie planetę.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Problemy na łączach
+DocInfo/Screenshot01=

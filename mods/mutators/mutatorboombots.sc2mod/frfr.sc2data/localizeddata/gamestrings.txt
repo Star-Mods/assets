@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Des automates insensibles transportent une ogive nucléaire vers votre base. L’un des joueurs est chargé de trouver le code pour la désamorcer, tandis que l’autre le saisit.
+DocInfo/DescShort=N’importe lequel
+DocInfo/Name=Robots bombes

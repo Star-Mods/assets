@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Die Leere verschmilzt mit der Realität und verzerrt dabei das Raum-Zeit-Kontinuum. Die Bedingungen auf dem Schlachtfeld ändern sich zufällig und bleiben nie lange gleich. Nichts ist hier unmöglich, Kommandanten. Machen Sie sich auf alles gefasst!
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Unglücksrad
+DocInfo/Screenshot01=

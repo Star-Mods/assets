@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon ha succionado la energía del templo para dar un poder increíble a sus esbirros. Sus ejércitos supercargados, rebosantes de potencial psiónico, avanzan prestos por el campo de batalla y canalizan su ira en un sinfín de habilidades. Resistid la acometida hasta que el templo vuelva a estar a salvo.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Ritual oscuro
+DocInfo/Screenshot01=

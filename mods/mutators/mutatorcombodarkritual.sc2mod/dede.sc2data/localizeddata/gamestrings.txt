@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon hat dem Tempel die Energie entzogen, um seinen Dienern entsetzliche Macht zu verleihen. Voll mit psionischem Potential sprinten seine aufgeladenen Armeen über das Schlachtfeld und bündeln ihre Macht in eine Unzahl an Fähigkeiten. Halten Sie dem Ansturm stand, bis der Tempel wieder sicher ist.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Dunkles Ritual
+DocInfo/Screenshot01=

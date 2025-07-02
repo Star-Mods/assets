@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Como se Bel'Shir não tivesse problemas suficientes, o planeta foi invadido por cruéis robôs de abate programados para destruir seus exércitos. Além disso, suas forças devastadas estão muito mexidas com as mortes. Concentre-se nos extratores para obter a vitória.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Guerras dos Robôs de Abate
+DocInfo/Screenshot01=

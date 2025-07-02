@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Todas las unidades enemigas obtienen camuflaje permanente. /// All enemy units are permanently cloaked.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Desplazamiento inadvertido /// We Move Unseen

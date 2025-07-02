@@ -1,0 +1,5 @@
+﻿DocInfo/DescLong=黑暗之神使出全力，意圖保護他的穿梭機離開卡迪爾星。虛空能量環繞他的部隊，為敵人隔絕傷害，而且還賦予他們異樣的強韌。亞蒙的核子兵器無情的轟炸戰場，他用上了所有手段，請別輕忽。絕對不能讓穿梭機離開卡迪爾星。 /// All of the Dark God’s might is focused on ensuring his shuttles escape Kaldir. Void energies shield his forces from harm and invigorate them with unnatural fortitude. All of his nuclear ordnance is being unleashed indiscriminately upon the battlefield. Amon is committing everything, and you must respond in kind. The shuttles cannot be allowed to escape.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=使命必達 /// Delivery Guaranteed
+DocInfo/Screenshot01=
+UserData/Mutators/KillKarma_Description=玩家的單位和建築受到的傷害會隨著擊殺敵人數而提高。

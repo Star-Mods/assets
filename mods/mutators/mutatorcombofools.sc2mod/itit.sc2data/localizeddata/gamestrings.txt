@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=La corruzione di Amon dilaga ovunque. Presto, anche i vostri alleati più fedeli vi tradiranno. Non fidatevi di nessuno. L'unica opzione è distruggere i nemici prima che lo facciano loro.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Morte inevitabile
+DocInfo/Screenshot01=

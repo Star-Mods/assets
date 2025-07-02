@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Amón no se detendrá ante nada en su afán de destruirte. Incluso muerto, sus esbirros tienen preparada una táctica final y devastadora. Mantén la distancia mientras te encargas de tus enemigos si no quieres unirte a ellos en la derrota. /// Amon will stop at nothing to destroy you. Even in death, his minions strike back at you with a final, devastating gambit. Keep your distance as you dispatch your foes, or you might join them in defeat.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Entrega inconfundible /// Special Delivery

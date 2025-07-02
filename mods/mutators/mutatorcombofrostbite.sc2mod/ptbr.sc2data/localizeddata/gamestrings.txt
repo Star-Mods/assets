@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Fortes ventos gelados varrem a paisagem enquanto os mortos se levantam de suas covas, e as forças de Amon implantaram minas magnéticas por toda a área. Defenda sua posição, evite as nevascas e as minas e expurgue a crescente infestação do planeta. /// Harsh winter winds scour the landscape as the dead rise from the ground and Amon's forces have deployed mag mines throughout the area. Hold your ground, avoid both the blizzards and the mines, and purge the planet of its growing infestation.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Enregelamento
+DocInfo/Screenshot01=

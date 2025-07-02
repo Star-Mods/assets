@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Kiedy wrogie jednostki i budowle zostaną zniszczone, do ich lokalizacji zostają przyciągnięte wasze pobliskie jednostki.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Zew śmierci

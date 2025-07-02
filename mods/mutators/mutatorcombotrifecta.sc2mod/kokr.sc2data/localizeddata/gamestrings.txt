@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=아몬이 세 종족 모두의 병력을 이 전투로 소환했습니다. 뫼비우스 특전대 레이저 천공기가 당신을 겨냥하고, 감염된 테란 무리가 도처에 득실대며, 프로토스 모선이 궤도에서 폭격을 가합니다. 그들의 협동 공격을 견뎌내며 임무를 완수하십시오. /// Amon has summoned minions from all three races in this battle. A Moebius Corps laser drill has its sights set upon you, hordes of infested terrans roam the terrain, and protoss motherships bombard you from orbit. Withstand their combined might and complete your mission.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=삼중 위협 /// Triple Threat
+DocInfo/Screenshot01=

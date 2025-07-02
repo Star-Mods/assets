@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Des formes de vie non identifiées ont été détectées sur Ulnar. Elles semblent consumer tout ce qu’elles rencontrent sur leur passage et se multiplient à mesure qu’elles progressent. Les troupes d’Amon tentent d’empêcher vos armées de fuir. Maintenez vos distances et exterminez ces abominations avant que tout soit perdu.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Une résistance futile

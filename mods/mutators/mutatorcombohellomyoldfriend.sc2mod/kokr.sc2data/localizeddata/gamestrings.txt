@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=안녕 오랜 친구여 /// Hello My Old Friend

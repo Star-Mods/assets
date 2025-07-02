@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=亞蒙的部隊下定決心要奪走貝爾石的態化氫。他們會用盡一切方式來妨礙你和斯特曼的採集艇及時會合，讓你沒辦法拯救它們。盡快行動，跟上敵人的腳步，才能終結他們的攻擊行動。 /// Amon’s forces are determined to claim Bel’shir’s terrazine for themselves. They will stop at nothing to prevent you from reaching Stetmann’s harvesters in time to save them. Move as fast as you can to catch up to your enemies and end their assault.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=出手慢半拍 /// Slow and Steady
+DocInfo/Screenshot01=

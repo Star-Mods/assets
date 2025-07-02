@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=La visuale cambia casualmente di continuo.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Vertigini

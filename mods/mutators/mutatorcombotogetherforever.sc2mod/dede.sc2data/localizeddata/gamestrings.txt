@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Beliebig
+DocInfo/Name=Traute Zweisamkeit
+DocInfo/Screenshot01=

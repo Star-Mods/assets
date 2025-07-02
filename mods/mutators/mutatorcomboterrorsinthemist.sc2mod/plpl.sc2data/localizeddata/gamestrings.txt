@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Wśród mgieł spowijających dżungle czają się niewidoczni wrogowie, którzy tylko czekają, aby znienacka zaatakować roboty wydobywcze Stetmanna. Miejcie oczy otwarte i wypatrujcie sług Amona, jak również pułapek, które na was zastawiono.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Jądro ciemności
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Le strutture alleate sono continuamente prese di mira da bombardamenti che devono essere contrastati.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Comando missilistico

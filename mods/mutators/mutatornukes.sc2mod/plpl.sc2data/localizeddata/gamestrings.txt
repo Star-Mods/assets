@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Na całej mapie losowo wystrzeliwane są pociski jądrowe.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Nuklearna zagłada

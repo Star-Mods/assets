@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=I civili sono in cerca di dolci, che sono generati consumando minerali. Se nessun dolcetto è disponibile, i civili si trasformano in unità nemiche casuali.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Dolcetto o scherzetto

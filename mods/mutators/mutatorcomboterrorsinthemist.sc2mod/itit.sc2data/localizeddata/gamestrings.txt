@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Nemici nascosti si muovono agilmente fra le nebbie della giungla, pronti a colpire i droidi estrattori di Stetmann e a farli a pezzi. Tenete gli occhi aperti per individuare i servi di Amon e le trappole che hanno in serbo per voi.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Legge della giungla
+DocInfo/Screenshot01=

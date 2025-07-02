@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=如果你覺得在貝爾石發生的事情不過是小菜一碟，趕快把脖子洗乾淨等著吧，因為凶狠的殺戮機械來了。就算是你麾下最精悍的戰士，也不禁會為陣亡的同袍感到惋惜。專心對付這群殺人不眨眼的機械，別讓它們佔上風。 /// As if Bel'Shir didn’t have enough problems, it has now been invaded by vicious kill bots who are bent on destroying your armies. Your devastated forces are also feeling especially sentimental about those who fall. Stay focused on the harvesters to prevail.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=殺戮機器人大戰 /// Kill Bot Wars
+DocInfo/Screenshot01=

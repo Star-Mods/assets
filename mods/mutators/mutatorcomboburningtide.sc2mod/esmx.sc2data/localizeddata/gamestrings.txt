@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Los infestados marchan sobre el templo. Imbuidos con poderes incendiarios, los esbirros de Amón incineran el terreno cuando mueren. Más monstruos surgen de las cenizas con el único objetivo de envolver el templo con las llamas de su propia muerte. Mantén la distancia y extermínalos.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Conflagración
+DocInfo/Screenshot01=

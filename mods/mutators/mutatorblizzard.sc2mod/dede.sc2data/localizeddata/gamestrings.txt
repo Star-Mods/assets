@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Sturmwolken bewegen sich über die Karte, frieren alles in ihrem Weg ein und verursachen Schaden.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Blizzard

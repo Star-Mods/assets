@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Przez całą misję wasze budowle są bezustannie atakowane przez pociski, które musicie zestrzeliwać.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Tarcza antyrakietowa

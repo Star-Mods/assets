@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Los enemigos se apoderan de tus estructuras después de destruirlas. /// Enemies gain control of your structures after destroying them.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Dominio eminente /// Eminent Domain

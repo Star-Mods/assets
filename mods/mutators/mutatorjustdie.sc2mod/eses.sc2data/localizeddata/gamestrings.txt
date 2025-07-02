@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Las unidades enemigas reviven de forma automática al morir.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=¡Morid de una vez!

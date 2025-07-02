@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Détruire une planète ne suffit pas à Amon. Il a également investi ses troupes de pouvoir brut, leur permettant d’utiliser d’incroyables capacités contre vous. Même ses bâtiments s’acharnent contre vous. Résistez à cet assaut et sauvez Véridia prime.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Abus de pouvoir
+DocInfo/Screenshot01=

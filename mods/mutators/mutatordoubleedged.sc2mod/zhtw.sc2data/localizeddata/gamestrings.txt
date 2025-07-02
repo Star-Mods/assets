@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=你的單位會在對敵人造成傷害的同時，也會受到相同的傷害，不過他們的生命值會隨著時間逐漸復原。 /// Your units also receive all the damage they deal, but they are healed over time.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=雙面刃 /// Double-Edged

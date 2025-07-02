@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Todas las unidades enemigas son invisibles permanentemente.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Avanzamos invisibles

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Gli infestati marciano verso il tempio. I servi di Amon, dotati di poteri incendiari, bruciano il terreno alla morte. Altri mostri emergono dalle ceneri, cercando di avvolgere il tempio nelle fiamme da loro generate. Mantenete la distanza, e sterminateli tutti.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Conflagrazione
+DocInfo/Screenshot01=

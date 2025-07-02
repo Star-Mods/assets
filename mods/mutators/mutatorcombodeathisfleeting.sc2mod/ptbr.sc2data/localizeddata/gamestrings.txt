@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Qualquer um
+DocInfo/Name=A Morte é Fugaz

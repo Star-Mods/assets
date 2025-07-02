@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=任意
+DocInfo/Name=自食惡果 /// Rubber and Glue
+DocInfo/Screenshot01=

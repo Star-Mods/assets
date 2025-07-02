@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=La terrazine présente à la surface de Bel’Shir a eu des effets inattendus sur les troupes d’Amon. Les excès d’adrénaline provoquent des mutations imprévisibles et chaque mort engendre de nouvelles formes de vie hostiles. Les plus puissantes d’entre elles ont même développé des facultés nucléaires naturelles.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Menace croissante
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Beim Rak'shir herrscht Chaos. Die Gegner sind nie dort, wo sie zuerst zu sein scheinen, und Ihre Streitkräfte fallen der Furcht anheim. Selbst Ihr eigener Blick ist verworren. Konzentrieren Sie sich solange, bis Ji'nara die Herausforderung gewinnen kann.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Übergeschnappt
+DocInfo/Screenshot01=

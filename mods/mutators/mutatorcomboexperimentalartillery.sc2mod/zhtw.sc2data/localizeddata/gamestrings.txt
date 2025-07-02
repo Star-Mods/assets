@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=任意
+DocInfo/Name=實驗性大砲 /// Experimental Artillery
+DocInfo/Screenshot01=

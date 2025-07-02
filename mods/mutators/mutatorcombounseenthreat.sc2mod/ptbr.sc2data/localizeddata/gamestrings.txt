@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Os monstros mais assustadores são aqueles que você não consegue ver. Hordas de infestados ocultos se esgueiram nas sombras, movendo-se implacavelmente para os ônibus espaciais de evacuação. As forças de Amon estão camufladas também, e ele implantou até um feixe purificador invisível contra você. Use detecção, além de proteção. /// The most frightening monsters are the ones you can't see. Hordes of hidden infested lurk in the shadows, moving inexorably toward the evacuation shuttles. Amon's forces are cloaked as well, and he has even deployed an invisible purifier beam against you. Bring detection as well as protection.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=O Que os Olhos não Veem /// Out of Sight
+DocInfo/Screenshot01=

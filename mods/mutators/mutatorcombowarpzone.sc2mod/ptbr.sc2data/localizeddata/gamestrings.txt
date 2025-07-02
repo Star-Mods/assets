@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Zona de Transdobra /// Warp Zone
+DocInfo/Screenshot01=

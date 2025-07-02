@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=N’importe lequel
+DocInfo/Name=Entraînement multitâches

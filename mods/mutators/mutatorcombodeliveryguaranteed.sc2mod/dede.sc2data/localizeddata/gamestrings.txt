@@ -1,0 +1,5 @@
+﻿DocInfo/DescLong=Amons Shuttles verlassen Kaldir und der Dunkle Gott versucht mit aller Macht, sie zu beschützen. Er nutzt Leerenenergie, um ihnen Schilde zu verleihen und sie unnatürlich widerstandsfähig zu machen. Außerdem setzt er sein gesamtes nukleares Arsenal überall auf dem Schlachtfeld ein. Amon bietet alles auf, was er hat, und Sie müssen dasselbe tun, um eine Chance zu haben. Die Shuttles dürfen unter keinen Umständen entkommen.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Liefergarantie
+DocInfo/Screenshot01=
+UserData/Mutators/KillKarma_Description=Verbündete Einheiten und Gebäude erleiden erhöhten Schaden für jeden Feind, den sie getötet haben.

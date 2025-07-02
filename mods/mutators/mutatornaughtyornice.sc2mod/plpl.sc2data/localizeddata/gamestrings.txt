@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Jednostki i budowle graczy otrzymują coraz większe obrażenia z każdym zabitym wrogiem.
+DocInfo/DescShort=Any
+DocInfo/Name=Zła karma

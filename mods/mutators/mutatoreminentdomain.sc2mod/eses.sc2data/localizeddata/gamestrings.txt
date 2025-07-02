@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Los enemigos pasan a controlar vuestras estructuras tras destruirlas.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Dominio inminente

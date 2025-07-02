@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=El terracino de Bel'shir ha alterado a las fuerzas de Amón de formas inesperadas. El flujo frenético de adrenalina dispara transformaciones inesperadas y cada muerte da origen a nuevas formas de vida hostiles. Las más poderosas incluso han desarrollado capacidades nucleares orgánicas. /// Amon's forces have been altered by the terrazine on Bel'shir in unexpected ways. Increased adrenaline triggers unpredictable transformations and each death unleashes new hostile lifeforms. The most powerful of them have even developed organic nuclear capabilities.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Amenaza al acecho /// Growing Threat
+DocInfo/Screenshot01=

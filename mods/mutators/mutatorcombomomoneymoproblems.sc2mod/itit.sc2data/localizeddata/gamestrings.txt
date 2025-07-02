@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Le operazioni di Amon su Veridia Prime hanno quasi esaurito le risorse del pianeta. Dovrete affrontare condizioni ambientali disastrose per assicurarvi il necessario a costituire un'armata. Fate attenzione, ma non esitate. A ogni secondo che passa, il pianeta si avvicina alla distruzione.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Poveri in canna
+DocInfo/Screenshot01=

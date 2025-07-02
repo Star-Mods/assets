@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Unos autómatas sin alma se dirigen a vuestra base con una carga nuclear. Un jugador debe averiguar la secuencia de desactivación y el otro debe introducirla.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Robots bum

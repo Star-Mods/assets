@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Zainfekowani maszerują na świątynię. Przepełnione mocą ognia sługi Amona podpalają ziemię w chwili śmierci. Z popiołów powstaje jeszcze więcej potworów, które ogarną świątynię ogniem, jeśli ich nie powstrzymacie. Trzymajcie się na dystans i zniszczcie je.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Pożoga
+DocInfo/Screenshot01=

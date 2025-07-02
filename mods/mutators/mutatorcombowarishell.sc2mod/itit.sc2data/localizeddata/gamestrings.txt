@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=L'attività vulcanica è aumentata sul pianeta lavico Char, rendendolo più pericoloso che mai. Tenete gli occhi sul nemico, e ricordate di evitare il fuoco.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Inferno della guerra
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Espectro da Morte /// Specter of Death
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=La ciudad es un lugar peligroso. Asaltantes acechan ocultos en todos los rincones y las calles están plagadas de trampas letales escondidas. Hasta los edificios intentan acabar con vosotros. Moveos rápido y con cuidado... y vigilad siempre vuestras espaldas.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Guerra urbana

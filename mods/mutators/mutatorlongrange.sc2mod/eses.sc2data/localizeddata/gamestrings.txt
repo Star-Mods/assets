@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Las unidades y las estructuras enemigas tienen mayor alcance de visión y de ataque.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Largo alcance

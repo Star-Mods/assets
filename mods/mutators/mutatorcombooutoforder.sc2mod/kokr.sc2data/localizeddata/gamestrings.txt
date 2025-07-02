@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=전자파 방해가 통신 시스템에 문제를 일으키고 있습니다. 부대 명령에 많은 비용이 소모될 수 있으니 모든 명령을 신중하게 내려야 합니다. 정보가 제한되고 시야는 불투명하며 아주 간단한 작업에도 많은 시간이 소모될 수 있습니다. 이 모든 난관을 극복하고 행성을 구하십시오. /// Electromagnetic interference is wreaking havoc on your communications. Giving orders to your army can prove costly, so make every action count. Intel is limited and vision is obscured, and even the simplest task could take a while to complete. Get through it and save the planet.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=고장 /// Out of Order
+DocInfo/Screenshot01=

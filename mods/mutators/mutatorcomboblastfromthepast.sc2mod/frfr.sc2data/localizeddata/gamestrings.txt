@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Vos ennemis ont l’intention de prendre le contrôle de vos défenses afin de les retourner contre vous. Ils comptent les reconstruire pour le compte d’Amon après les avoir détruites à l’aide des bombes nucléaires des hybrides. Il faut les en empêcher.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Retour vers le passé
+DocInfo/Screenshot01=

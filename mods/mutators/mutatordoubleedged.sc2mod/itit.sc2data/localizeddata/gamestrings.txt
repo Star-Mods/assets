@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Le vostre unità subiscono danni pari a quelli inflitti, ma rigenerano la vita persa nel tempo.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Armi a doppio taglio

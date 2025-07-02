@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Dowolny /// Any
+DocInfo/Name=Wzajemne wsparcie /// Getting Along

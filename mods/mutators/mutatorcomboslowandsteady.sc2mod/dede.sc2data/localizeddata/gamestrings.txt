@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amons Truppen haben es selbst auf Bel'shirs Terrazinvorkommen abgesehen und wollen mit allen Mitteln verhindern, dass Sie Stetmanns Abbaubots zu Hilfe eilen. Versuchen Sie, so schnell wie möglich zu ihnen zu gelangen und die feindlichen Einheiten zurückzuschlagen.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Eile mit Weile
+DocInfo/Screenshot01=

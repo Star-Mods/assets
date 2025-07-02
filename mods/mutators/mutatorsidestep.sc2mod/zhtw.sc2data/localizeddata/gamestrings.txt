@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=敵方單位會在受到傷害時，進行短程傳送。 /// Enemy units teleport a short distance away upon taking damage.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=緊急迴避 /// Evasive Maneuvers

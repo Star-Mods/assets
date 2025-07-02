@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=I terran infestati sono ovunque su Tarsonis. Escono dal terreno, sono a bordo dei treni. Presto attaccheranno anche la vostra base, e potreste non accorgervi del loro arrivo.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Treno fantasma

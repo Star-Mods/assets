@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon conduce una guerra di logoramento. Le vostre forze sono esauste, e anche i compiti più semplici hanno un costo enorme. Missili piovono dall'alto, e l'estrazione di minerali presenta difficoltà. Non demordete e conquistate i congegni. Ne vale la pena.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Prezzo finale
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Gegnerische Einheiten werden über kurze Entfernungen teleportiert, wenn sie Schaden erleiden.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Ausweichmanöver

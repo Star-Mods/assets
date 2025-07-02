@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amons Streitkräfte setzen Raketen und Laserbohrer ein, um Gebäude aus der Ferne anzugreifen. Alles, was sie dadurch einäschern, bauen sie für ihre eigenen Zwecke wieder auf. Verteidigen Sie Ihre Basen, aber vergessen Sie nicht die Leerenspalte, die drohen, Korhal selbst zu zerstören.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Machtwechsel
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Les unités ennemies génèrent un nombre de Terrans contaminés proportionnel à leurs points de vie quand elles meurent.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Contaminés-vivants

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Un'anomalia spazio-temporale ha avvolto Kaldir. L'energia cinetica si diffonde in tutte le direzioni, e le condizioni del campo di battaglia sono più irregolari che mai. Contrastate la situazione e abbattete le navette.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=In alto gli scudi
+DocInfo/Screenshot01=

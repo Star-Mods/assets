@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Amon no se detendrá ante nada con tal de destruiros. Incluso al morir, sus esbirros intentarán asestaros un último golpe devastador. Mantened las distancias al eliminar a los enemigos o podríais uniros a ellos en la derrota.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Entrega especial

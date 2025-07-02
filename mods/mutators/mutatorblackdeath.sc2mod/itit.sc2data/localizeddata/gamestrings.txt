@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Alcune unità nemiche sono portatrici di contagio, che infligge loro danni periodici e si diffonde alle unità vicine alla morte.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Morte nera

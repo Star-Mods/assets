@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Custo da Mudança /// Moving Fees
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Cualquiera
+DocInfo/Name=Territorio hostil
+DocInfo/Screenshot01=

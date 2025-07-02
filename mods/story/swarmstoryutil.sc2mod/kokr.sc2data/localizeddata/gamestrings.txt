@@ -1,0 +1,73 @@
+Character/Attitude/Zerg_Adjutant=교활하고 영리한 /// Sly and Intelligent
+Character/Description/Zerg_Adjutant=계획적이고 똑똑하며, 또한 매우 교활하여 주변에서 벌어지는 일들의 정치적 파급력을 잘 알고 있습니다. 업무와 관련된 이야기를 할 땐 허튼 소리를 하지 않지만, 정치적인 말이나 어두운 유머를 사용할 땐 조금 덜 진지해집니다. /// She is very organized and intelligent, but also very sly and aware of the political ramifications going on around her. When she means business, she sounds no-nonsense. When she is politicking or engaging in dark humor, she has a slightly more playful air.
+Character/Name/Zerg_Adjutant=카비 /// Kavi
+DocInfo/Author=알 수 없는 제작자 /// Unknown Author
+DocInfo/Name=스타크래프트 II 모드 /// Just Another StarCraft II Mod
+DocInfo/Website= /// 
+Location/Name/Expedition=칼디르 /// Kaldir
+Param/Expression/lib_281DEC45_0E2BCC46=<s val="StandardTooltipHeader_Zerg">~A~</s><n/><s val="StandardTooltip_Zerg">~B~</s> /// <s val="StandardTooltipHeader_Zerg">~A~</s><n/><s val="StandardTooltip_Zerg">~B~</s>
+Param/Expression/lib_281DEC45_1837ECC2=케리건 레벨 +~Count~ /// +~Count~ %Rplu(Kerrigan Level, Kerrigan Levels)
+Param/Expression/lib_281DEC45_272AF6B1=<s val="StandardTooltipHeader_Zerg">~A~</s><n/><s val="StandardTooltip_Zerg">~B~</s> /// <s val="StandardTooltipHeader_Zerg">~A~</s><n/><s val="StandardTooltip_Zerg">~B~</s>
+Param/Expression/lib_281DEC45_31A824A1=디버그: 장면 ~A~(을)를 재생하려 했지만 환경 장면을 더 재생할 공간이 없습니다. /// DEBUG: Tried to play scene ~A~ but ran out of room to play more ambient scenes
+Param/Expression/lib_281DEC45_3B6081C9=<n/><s val="MasterArchivesIntroDescription"><n/>~A~</s><n/><n/><s val="MasterArchivesIntroAction"><n/>~B~</s> /// <n/><s val="MasterArchivesIntroDescription"><n/>~A~</s><n/><n/><s val="MasterArchivesIntroAction"><n/>~B~</s>
+Param/Expression/lib_281DEC45_632299BC=케리건 레벨 +~Count~ /// +~Count~ %Rplu(Kerrigan Level, Kerrigan Levels)
+Param/Expression/lib_281DEC45_7F4626A3=디버그: 대본 설정된 장면 ~A~(을)를 재생하려 했지만 회답이 없습니다. /// Debug: Attempted to play scripted scene ~A~ but it has no callback.
+Param/Expression/lib_281DEC45_92BCB8EC=케리건 레벨: ~EARNEDXP~ / ~TOTALXP~ /// ~EARNEDXP~ out of ~TOTALXP~ Kerrigan Levels
+Param/Expression/lib_281DEC45_AB263B6E=지도 ~A~(을)를 실행하여 장면 ~B~(을)를 재생할까요? /// Launch map ~A~ to play scene ~B~?
+Param/Expression/lib_281DEC45_AE8DA698=이야기 활동 설정 = ~A~ (~B~ 정지) /// Set story activity = ~A~ (Stopping ~B~)
+Param/Expression/lib_281DEC45_C832C8D9=공간 ~B~에서 공간 ~A~(으)로 이동 /// Moving to room ~A~ from ~B~
+Param/Expression/lib_281DEC45_CF2EF169=~Unit~ 진화 임무 /// ~Unit~ Evolution Mission
+Param/Value/lib_281DEC45_05ECE39E=데이터 불러오는 중... /// Loading data...
+Param/Value/lib_281DEC45_0861B6F7=거대괴수 자원 덤프가 게임 기록에 저장되었습니다. /// Leviathan resource dump saved to gamelogs.
+Param/Value/lib_281DEC45_0D768197=알 수 없음 /// Unknown
+Param/Value/lib_281DEC45_11F60812=닫기 /// Close
+Param/Value/lib_281DEC45_140E5644=환경 /// Ambient
+Param/Value/lib_281DEC45_1C1F74CB= /// 
+Param/Value/lib_281DEC45_2DCFA521= /// 
+Param/Value/lib_281DEC45_393257D8=사용함 /// Enabled
+Param/Value/lib_281DEC45_3AF4F29D=추가 보상 /// ADDITIONAL REWARD
+Param/Value/lib_281DEC45_3E4C043A=게임 기록에 저장된 자원 덤프를 '제거'합니다. /// 'Clean' resource dump saved to gamelogs.
+Param/Value/lib_281DEC45_3ED1A4AC= /// 
+Param/Value/lib_281DEC45_3FDA3873=닫기 /// Close
+Param/Value/lib_281DEC45_401D5485= /// 
+Param/Value/lib_281DEC45_409F349E= /// 
+Param/Value/lib_281DEC45_40E0E9D0= /// 
+Param/Value/lib_281DEC45_423CCAB7= /// 
+Param/Value/lib_281DEC45_4277695B=이 행성은 재생 모음 조명에 의해 처리되지 않습니다. /// This planet is not handled in Play Set Lighting.
+Param/Value/lib_281DEC45_501B0A5D=<s val="StoryModeQuitToLobby">캠페인을 종료하시겠습니까?</s> /// <s val="StoryModeQuitToLobby">Quit Campaign?</s>
+Param/Value/lib_281DEC45_50CE2781= /// 
+Param/Value/lib_281DEC45_5ADD08C4=<s val="StoryModeQuitToLobby">캠페인을 종료하시겠습니까?</s> /// <s val="StoryModeQuitToLobby">Quit Campaign?</s>
+Param/Value/lib_281DEC45_7E965CA4=케리건은 변신을 통해 새로운 능력들을 얻었지만, 지금 당장은 그 능력들을 변경할 수 없습니다. 제루스에서 마주칠 난관을 극복하면 그 능력들을 변경할 수 있습니다.  /// Kerrigan's transformation has granted her new abilities, and they cannot be altered at this time. You can alter your abilities once you have overcome the challenges of Zerus.
+Param/Value/lib_281DEC45_9185878E=상대 복원 /// Restore States
+Param/Value/lib_281DEC45_95AB7156=새로운 대화 /// New Conversation
+Param/Value/lib_281DEC45_AA36F562= /// 
+Param/Value/lib_281DEC45_AA898655=알 방 자원 덤프가 게임 기록에 저장되었습니다. /// Egg Room resource dump saved to gamelogs.
+Param/Value/lib_281DEC45_B492BF55=이 대본 설정된 장면은 이 지도에서 재생될 수 없으며 지정된 지도를 갖고 있지 않습니다. /// This scripted scene cannot be played on this map and does not have a map specified.
+Param/Value/lib_281DEC45_BED331D6=나가기 전환 저장 /// Performing on exit transition save
+Param/Value/lib_281DEC45_CA3DD646= /// 
+Param/Value/lib_281DEC45_D6CDD844=다시 설정 /// Reset
+Param/Value/lib_281DEC45_E0C26551= /// 
+Param/Value/lib_281DEC45_E53286CA=이 기능을 잠금 해제하려면 임무를 더 완료해야 합니다. /// Complete more missions to unlock this function.
+Param/Value/lib_281DEC45_E71A5EF8=재생 /// Play
+Param/Value/lib_281DEC45_EBC1823B=케리건 원시 /// Kerrigan Primal
+Param/Value/lib_281DEC45_F285B16A=지금은 행성으로 돌아갈 수 없습니다. /// You cannot return to the planet at this time.
+Param/Value/lib_281DEC45_F9B62A9E=미완료 /// Incomplete
+Param/Value/lib_281DEC45_FADA379D=추가 보상: /// ADDITIONAL REWARDS:
+Param/Value/lib_281DEC45_FE627170= /// 
+Param/Value/lib_281DEC45_FFFFE94E= /// 
+Unit/Name/SMChangeling=이야기 모드 - 변신수 /// SM - Changeling
+Unit/Name/TempEvoMaster=임시 진화 군주 /// Temp Evo Master
+DocInfo/Website=
+Param/Value/lib_281DEC45_1C1F74CB=
+Param/Value/lib_281DEC45_2DCFA521=
+Param/Value/lib_281DEC45_3ED1A4AC=
+Param/Value/lib_281DEC45_401D5485=
+Param/Value/lib_281DEC45_409F349E=
+Param/Value/lib_281DEC45_40E0E9D0=
+Param/Value/lib_281DEC45_423CCAB7=
+Param/Value/lib_281DEC45_50CE2781=
+Param/Value/lib_281DEC45_AA36F562=
+Param/Value/lib_281DEC45_CA3DD646=
+Param/Value/lib_281DEC45_E0C26551=
+Param/Value/lib_281DEC45_FE627170=
+Param/Value/lib_281DEC45_FFFFE94E=

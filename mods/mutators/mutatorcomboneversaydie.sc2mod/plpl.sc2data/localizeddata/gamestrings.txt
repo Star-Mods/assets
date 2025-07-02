@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Nie dla śmierci

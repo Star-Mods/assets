@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=亞蒙控制了強大的雷射鑽洞機，一切都逃不過他的魔掌。只要他能看見你，他就能擊中你。衝入敵陣，擊垮他吧。 /// With a powerful laser drill at his disposal, nothing is beyond Amon's reach. If he can see you, he can hit you. Charge in, and wipe him out.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=先發制人 /// First Strike

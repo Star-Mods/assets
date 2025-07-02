@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=隱蔽的敵人躲在叢林的迷霧中伺機而動，要以奇襲的方式摧毀斯特曼的採集艇。睜大眼睛注意亞蒙的手下，並且別誤入他們所設下的陷阱。 /// Concealed enemies stalk through the jungle’s mists, ready to pounce on Stetmann’s harvesting bots and tear them apart without warning. Keep your eyes open both for Amon’s minions and the traps they have set to ensnare you.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=叢林激鬥 /// Rumble in the Jungle
+DocInfo/Screenshot01=

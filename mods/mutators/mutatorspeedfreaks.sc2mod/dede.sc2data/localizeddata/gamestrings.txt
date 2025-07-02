@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Die Bewegungsgeschwindigkeit gegnerischer Einheiten ist erhöht.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Vollgas

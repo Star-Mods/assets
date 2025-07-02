@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=O próprio Vazio irrompe na realidade, distorcendo o tecido do espaço tempo. As condições do Campo de Batalha mudam aleatoriamente e não permanecem estáveis por muito tempo. Aqui pode acontecer de tudo, comandantes. Estejam prontos para o que der e vier. /// The Void itself bleeds into reality, warping the very fabric of space and time. Battlefield conditions change at random and never stay stable for long. All bets are off, commanders. Be ready for anything.
+DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Roda do Azar /// Wheel of Misfortune
+DocInfo/Screenshot01=

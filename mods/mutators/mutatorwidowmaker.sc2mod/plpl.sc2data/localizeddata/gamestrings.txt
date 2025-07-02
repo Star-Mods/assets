@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Na całym polu walki zakopane są grupy pajęczych i wdowich min.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Saper

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Cuando muere una unidad o estructura enemiga, cualquiera de tus unidades cercanas es atraída hacia su ubicación.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Atracción fatal

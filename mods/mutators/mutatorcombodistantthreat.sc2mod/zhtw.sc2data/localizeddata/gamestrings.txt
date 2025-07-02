@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=任意 /// Any
+DocInfo/Name=長程威脅 /// Distant Threat
+DocInfo/Screenshot01=

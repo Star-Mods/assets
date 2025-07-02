@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Potęga wysłannika Amona jest wielka. Jego suplikanci oddają własne życie w rytualnej ofierze, ale ich służba na tym się nie kończy. Na miejscu czekają reanimatorzy gotowi przywrócić ich do życia i kontynuować nieprzerwany cykl przemocy. Musicie chronić Pierwszą Wyniesioną, inaczej wszystko będzie stracone.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Pewna śmierć
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon met tout en œuvre pour raser la forteresse du sgt Marteau. Des détonations secouent le camp, les ogives nucléaire pleuvent et les serviteurs d’Amon explosent en mourant. Limitez vos pertes tant bien que mal tandis que vous éliminez les lacérateurs du Vide.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Conséquences explosives
+DocInfo/Screenshot01=

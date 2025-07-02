@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Na początku gry na całej mapie rozstawione zostają miny magnetyczne.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Magnetyczne pole minowe

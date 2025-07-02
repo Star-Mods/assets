@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Amón ha desatado una nueva forma de caos en Korhal, con enemigos sombríos que invaden rápidamente el terreno. Contraataca rápidamente o prepárate para ser condenado a servir al dios oscuro.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Velocidad mental

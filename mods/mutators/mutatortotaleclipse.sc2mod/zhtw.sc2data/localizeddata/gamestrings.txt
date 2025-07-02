@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=由各種來源所提供的視野，在鏡頭外都會受到大幅度的限制。 /// Vision provided by all sources is extremely limited except when in view of your camera.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=黑暗壟罩 /// Afraid of the Dark

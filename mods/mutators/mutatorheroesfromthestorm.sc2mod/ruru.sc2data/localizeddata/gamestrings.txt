@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Каждую волну атаки возглавляют все более мощные герои.
+DocInfo/DescShort=Любой
+DocInfo/Name=Герои Нексуса

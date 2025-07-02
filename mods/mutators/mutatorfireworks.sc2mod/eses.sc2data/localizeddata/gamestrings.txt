@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Al morir, los enemigos lanzan unos deslumbrantes fuegos artificiales, lo que inflige daño a tus unidades que se encuentren cerca.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Fuegos artificiales

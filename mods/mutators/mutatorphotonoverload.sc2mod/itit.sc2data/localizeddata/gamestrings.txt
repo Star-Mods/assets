@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Le strutture nemiche attaccano le unità vicine.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Sovraccarico fotonico

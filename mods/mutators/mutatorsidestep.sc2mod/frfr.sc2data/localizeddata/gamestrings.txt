@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Les unités ennemies se téléportent un peu plus loin quand elles subissent des dégâts.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Manœuvres d'évasion

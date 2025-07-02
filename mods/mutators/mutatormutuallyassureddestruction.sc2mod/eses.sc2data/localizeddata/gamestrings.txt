@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Los híbridos enemigos detonan una bomba nuclear al morir.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Destrucción mutua asegurada

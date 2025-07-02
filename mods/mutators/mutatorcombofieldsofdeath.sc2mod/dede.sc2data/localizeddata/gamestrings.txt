@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Bel'Shir ist mit Minen übersät und jede davon kann entweder nur von Ihnen oder Ihrem Verbündeten zerstört werden. Arbeiten Sie zusammen, um Stetmanns Bots den Weg freizumachen. Kommunikation und Koordination sind der Schlüssel zum Erfolg.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Stolpersteine
+DocInfo/Screenshot01=

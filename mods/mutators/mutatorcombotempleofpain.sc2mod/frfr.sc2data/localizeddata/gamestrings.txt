@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Les guerres les plus éprouvantes sont les guerres d’usure. Le temple est en état de siège. Il est difficile de récolter du minerai et l’armée d’Amon est aussi résistante que fanatisée. Tenez bon aussi longtemps que possible, en espérant que cela soit suffisant.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Le temple de la douleur

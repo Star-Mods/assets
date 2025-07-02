@@ -1,0 +1,8 @@
+﻿Actor/Name/SMChangeling=SM - Cambiaformas /// SM - Changeling
+Actor/Name/TempEvoMaster=Maestro de evolución temporal /// Temp Evo Master
+Model/Name/SMChangeling=SM - Cambiaformas /// SM - Changeling
+Model/Name/TempEvoMaster=Maestro de evolución temporal /// Temp Evo Master
+User/Name/AmbientScenes=
+User/Name/Character=Personaje /// Character
+User/Name/Hotspot=Zona activa /// Hotspot
+User/Name/ScriptedScenes=Escenas del guión /// Scripted Scenes

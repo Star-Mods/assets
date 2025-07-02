@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Los peores monstruos son los que no se ven. Hordas de infestados ocultos acechan en las sombras y se acercan inexorablemente a los transbordadores de evacuación. Las fuerzas de Amón también están camufladas y hasta hay un rayo purificador invisible que te ataca. Necesitarás detección además de protección.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Ojos que no ven
+DocInfo/Screenshot01=

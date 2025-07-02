@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Rytuał Rak'Shir ogarnął chaos. Wrogowie znikają z miejsc, w których wcześniej byli, a wasze siły ogarnia przemożny strach. Nawet wy nie możecie ufać własnym oczom. Skupcie się na tyle, aby Ji'nara zdołała zwyciężyć w wyzwaniu.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Pomieszanie
+DocInfo/Screenshot01=

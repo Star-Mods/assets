@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=N’importe lequel
+DocInfo/Name=D’une seule et même voix

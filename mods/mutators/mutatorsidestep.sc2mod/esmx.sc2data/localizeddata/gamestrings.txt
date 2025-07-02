@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Cuando reciben daño, las unidades enemigas se teletransportan a corta distancia.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Maniobras elusivas

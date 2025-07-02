@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Il Vuoto stesso penetra nella realtà, distorcendone la trama spazio-temporale. Le condizioni del campo di battaglia cambiano casualmente e non rimangono mai stabili. Le scommesse sono chiuse, comandanti. Siate pronti a tutto.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Ruota della sfortuna
+DocInfo/Screenshot01=

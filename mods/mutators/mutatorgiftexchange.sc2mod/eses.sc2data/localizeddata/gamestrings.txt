@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Los regalos aparecen periódicamente por todo el mapa. Si tú no los coges, ¡lo hará Amon!
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Intercambio de regalos

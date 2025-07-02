@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Sans repos ni trêve
+DocInfo/Screenshot01=

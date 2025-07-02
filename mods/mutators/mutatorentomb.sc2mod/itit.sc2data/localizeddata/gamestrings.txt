@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=I giacimenti minerari delle basi alleate sono periodicamente avvolti da uno scudo che deve essere distrutto per proseguire con l'estrazione.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Minerali protetti

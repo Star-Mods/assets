@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Beliebig
+DocInfo/Name=Gedenkt des Bosses
+DocInfo/Screenshot01=

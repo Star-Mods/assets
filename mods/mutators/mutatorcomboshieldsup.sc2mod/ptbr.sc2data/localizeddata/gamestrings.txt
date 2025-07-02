@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Uma anomalia espaço-temporal cobriu Kaldir. Energia cinética está dispersa em todas as direções, e bolsões de irregularidades espaciais e temporais se espalham pelo campo de batalha. Lute no meio delas para acabar com os ônibus espaciais.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Levantar Escudos!
+DocInfo/Screenshot01=

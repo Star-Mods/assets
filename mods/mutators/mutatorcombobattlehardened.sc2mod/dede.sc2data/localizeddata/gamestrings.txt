@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Beliebig
+DocInfo/Name=Kampfgestählt
+DocInfo/Screenshot01=

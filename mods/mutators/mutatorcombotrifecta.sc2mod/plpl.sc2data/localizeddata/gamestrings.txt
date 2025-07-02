@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Do tej walki Amon wystawił sługi wywodzące się z wszystkich trzech ras. Wiertło laserowe Gwardii Moebiusa obrało was za cel, teren przemierzają hordy zainfekowanych terran, a protoskie statki-matki bombardują was z orbity. Wytrzymajcie atak ich połączonych sił i doprowadźcie misję do końca.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Potrójne zagrożenie
+DocInfo/Screenshot01=

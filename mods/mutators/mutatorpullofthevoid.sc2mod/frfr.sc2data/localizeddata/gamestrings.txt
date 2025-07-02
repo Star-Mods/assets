@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Quand des unités ou bâtiments adverses sont éliminés, vos unités à proximité sont attirées à l’emplacement où ils se trouvaient.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Attraction fatale

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Siły Amona są zdecydowane przejąć bel'shirski terrazyt dla siebie. Nie cofną się przed niczym, żebyście nie dotarli do robotów wydobywczych Stetmanna na czas i ich nie uratowali. Działajcie szybko, aby prześcignąć wrogów i położyć kres ich atakom.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Powoli i spokojnie
+DocInfo/Screenshot01=

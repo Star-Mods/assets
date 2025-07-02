@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Ein eisiger Wind zieht über das Land, die Toten erheben sich und Amons Streitkräfte haben das gesamte Gebiet mit Magnetminen versehen. Halten Sie Ihre Stellung, weichen Sie den Blizzards aus und säubern Sie den Planeten von der wachsenden Verseuchung.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Frostbeulen
+DocInfo/Screenshot01=

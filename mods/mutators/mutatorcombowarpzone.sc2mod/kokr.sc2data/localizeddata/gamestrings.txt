@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=소환 지역 /// Warp Zone
+DocInfo/Screenshot01=

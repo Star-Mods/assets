@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Любой
+DocInfo/Name=Запретное нападение
+DocInfo/Screenshot01=

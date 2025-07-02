@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Scelta binaria
+DocInfo/Screenshot01=

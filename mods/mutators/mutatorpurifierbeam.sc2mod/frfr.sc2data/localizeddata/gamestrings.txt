@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Un rayon purificateur ennemi se déplace sur la carte vers les unités du joueur proches.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Rayon purificateur

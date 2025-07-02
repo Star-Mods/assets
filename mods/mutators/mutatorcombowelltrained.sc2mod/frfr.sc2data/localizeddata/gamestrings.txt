@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Troupes d’élite
+DocInfo/Screenshot01=

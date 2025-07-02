@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Любой
+DocInfo/Name=Вести о конце света
+DocInfo/Screenshot01=

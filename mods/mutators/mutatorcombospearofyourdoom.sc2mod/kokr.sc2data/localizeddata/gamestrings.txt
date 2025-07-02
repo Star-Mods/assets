@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=아몬에게 복종하는 차원장인들이 새로 대함선을 건조하여, 궤도상에서 어둠의 신의 적들에게 파괴적인 공격을 퍼붓고 있습니다. 이를 견뎌내고 천상석을 차지하십시오. /// Phase-smiths under Amon's thrall have constructed a new arkship to rain destruction upon the Dark God's foes from orbit. Withstand the onslaught, and seize the locks.
+DocInfo/DescShort=아무
+DocInfo/Name=어둠의 창 /// Spear of Your Doom

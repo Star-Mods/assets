@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon ha convertido a los infestados en un arma. Cada vez que uno muere, prende fuego al suelo y los reanimadores del vacío los resucitan sin escrúpulo alguno. Enfréntate a las llamas y defiende las naves con tu vida.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Cremación
+DocInfo/Screenshot01=

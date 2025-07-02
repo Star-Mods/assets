@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Il clima di Slayn è tanto spietato quanto i Tal'darim. La visibilità è ridotta, e un'enorme tempesta imperversa sulla mappa, congelando le unità e spazzandole via con pericolosi tornado. Affrontate gli elementi e vincete questa sfida a tutti i costi.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Tempesta perfetta
+DocInfo/Screenshot01=

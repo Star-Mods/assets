@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Al recibir daño, las unidades del jugador tienen a veces una probabilidad de dejar de atacar y correr asustadas.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Miedo

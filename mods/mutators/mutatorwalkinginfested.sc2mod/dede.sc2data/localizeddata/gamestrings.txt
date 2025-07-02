@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Stirbt ein Gegner, wird entsprechend seiner Trefferpunkte eine bestimmte Menge verseuchter Terraner erschaffen.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Zombieapokalypse

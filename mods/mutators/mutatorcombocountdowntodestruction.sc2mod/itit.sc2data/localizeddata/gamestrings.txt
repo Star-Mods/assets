@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Le armate di Amon sono numerose. Infinite ondate di guerrieri fanatici si riversano su Ulnar, determinate a bruciare tutto quel che trovano. Bisogna oltrepassarle per raggiungere i Congegni celestiali, ma attenzione: le forze di Amon sono pericolose anche dopo la morte.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Legione Infuocata
+DocInfo/Screenshot01=

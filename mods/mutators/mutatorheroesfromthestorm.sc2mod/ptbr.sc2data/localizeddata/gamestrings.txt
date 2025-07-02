@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Ondas de ataque terão heróis de poder cada vez maior.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Heróis da Tempestade

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Las unidades obreras de los jugadores recolectan recursos a menor ritmo, pero aparecen recursos para recoger por todo el mapa.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Escasez de recursos

@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Cualquiera /// Any
+DocInfo/Name=Caliente y frío /// Hot 'n' Cold

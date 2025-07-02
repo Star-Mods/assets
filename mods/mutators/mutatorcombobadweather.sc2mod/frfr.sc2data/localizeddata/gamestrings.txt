@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Les troupes d’Amon déchirent la trame de la réalité et font irruption dans Augustgrad alors que des tornades saccagent la ville. Parviendrez-vous à résister à la tempête tout en refermant les failles avant qu’il soit trop tard ?
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Sale temps

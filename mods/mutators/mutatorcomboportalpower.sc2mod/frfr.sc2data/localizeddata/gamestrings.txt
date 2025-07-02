@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Les troupes d’Amon redoublent de fanatisme dans leur tentative de démolir la forteresse du sergent Marteau. Des renforts jaillissent du Vide, animés d’une terrible puissance renouvelée. Soyez à la hauteur et anéantissez les lacérateurs du Vide.</n></n>ATTENTION : cette combinaison de mutations est particulièrement redoutable.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Portail fatal
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon przekierował energię świątyni i dał swoim jednostkom niezwykłą moc. Jego wzmocnione psionicznie armie przemierzają pole walki i wykorzystują rozmaite zdolności. Przetrwajcie ich atak, dopóki świątynia nie zostanie zabezpieczona.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Mroczny rytuał
+DocInfo/Screenshot01=

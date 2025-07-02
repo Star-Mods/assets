@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Klimat na Slayn jest równie bezlitosny co tal'darimowie. Widoczność jest ograniczona, a na polu walki szaleje olbrzymia burza, która zamraża swoje ofiary w miejscu i wciąga je w zabójcze tornada. Przezwyciężcie żywioły i za wszelką cenę wygrajcie wyzwanie.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Burza stulecia
+DocInfo/Screenshot01=

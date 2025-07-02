@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon a transformé les contaminés en torches vivantes. Le sol s’embrase quand l’un d’eux meurt, et les réanimateurs du Vide les ressuscitent sans aucun remords. Résistez aux flammes et protégez les vaisseaux à n’importe quel prix.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Crémation
+DocInfo/Screenshot01=

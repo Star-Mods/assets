@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Domo do Trovão /// Thunder Dome
+DocInfo/Screenshot01=

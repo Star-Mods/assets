@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=감염된 적들이 사원을 향해 진격합니다. 방화 능력이 주입된 아몬의 졸개들이 죽으면서 땅을 불태우고, 재에서는 더 많은 괴물들이 생겨나서 자신들의 죽음으로 사원을 불태우려 합니다. 거리를 두고 적들을 몰살하십시오. /// The infested march upon the temple. Infused with incendiary power, Amon’s minions set the ground ablaze as they die. Even more monsters emerge from the ashes, seeking to engulf the temple in the fires of their own deaths. Keep your distance and exterminate them.
+DocInfo/DescShort=아무
+DocInfo/Name=대화재 /// Conflagration
+DocInfo/Screenshot01=

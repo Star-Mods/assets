@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Cualquiera /// Any
+DocInfo/Name=Muerte conjunta /// Die Together
+DocInfo/Screenshot01=

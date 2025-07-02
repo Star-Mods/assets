@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Cualquiera /// Any
+DocInfo/Name=Zona de radiación /// Radiation Zone
+DocInfo/Screenshot01=

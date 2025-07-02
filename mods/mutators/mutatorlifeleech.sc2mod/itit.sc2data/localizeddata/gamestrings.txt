@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Le unità e strutture nemiche sottraggono punti vita o scudi quando infliggono danni.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Risucchio vitale

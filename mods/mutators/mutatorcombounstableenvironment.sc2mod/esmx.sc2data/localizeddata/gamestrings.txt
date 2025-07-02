@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Cualquiera /// Any
+DocInfo/Name=Entorno inestable /// Unstable Environment
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=O dano causado aos inimigos é dividido igualmente entre todas as unidades próximas, incluindo as suas.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Difusão

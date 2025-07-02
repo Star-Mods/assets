@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=En Ulnar se han detectado formas de vida no identificadas que lo consumen todo a su paso y se reproducen a medida que van avanzando. Las tropas de Amon están decididas a impedir la huida de vuestros ejércitos. Manteneos a una distancia prudencial y acabad con esta plaga antes de que todo esté perdido.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Resistencia fútil

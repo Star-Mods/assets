@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=As forças de Amon estão usando mísseis e furadeira laser para atacar suas estruturas à distância. Tudo o que destruírem será reconstruído nas mãos deles. Proteja bem as suas bases, mas não esqueça das Fissuras do Vazio que ameaçam destruir Korhal.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Aquisição Hostil
+DocInfo/Screenshot01=

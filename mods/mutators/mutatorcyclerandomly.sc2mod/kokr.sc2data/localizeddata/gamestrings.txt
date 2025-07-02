@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=돌연변이원이 무작위로 선택되고 임무가 진행되는 동안 주기적으로 순환합니다. /// Mutators are chosen at random and periodically cycle throughout the mission.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=혼돈의 도가니 /// Chaos Studios

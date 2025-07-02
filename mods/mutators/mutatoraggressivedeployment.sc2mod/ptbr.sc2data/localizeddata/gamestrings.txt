@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Unidades inimigas adicionais são enviadas periodicamente ao campo de batalha. /// Additional enemy units are periodically deployed onto the battlefield.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Uso Agressivo /// Aggressive Deployment

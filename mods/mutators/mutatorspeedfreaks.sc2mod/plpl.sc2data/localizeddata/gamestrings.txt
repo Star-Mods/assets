@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Wrogie jednostki poruszają się szybciej.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Demony szybkości

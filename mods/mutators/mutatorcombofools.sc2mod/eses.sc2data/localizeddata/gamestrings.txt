@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=La corrupción de Amon se apodera de todo y de todos. Pronto tu aliado más cercano te traicionará. Está claro que no puedes confiar en nadie. Solo te queda una opción: ¡destrúyelos antes de que te destruyan a ti!
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Súbito, pero inevitable
+DocInfo/Screenshot01=

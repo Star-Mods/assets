@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=El clima de Slayn es tan despiadado como los tal'darim. La visibilidad se reduce mientras una tormenta titánica sacude los campos de matanza, congela a sus víctimas y las barre con peligrosos tornados. Capead el temporal y superad el desafío, cueste lo que cueste.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Tormenta perfecta
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Mściciele poległych /// Assembly of Vengeance
+DocInfo/Screenshot01=

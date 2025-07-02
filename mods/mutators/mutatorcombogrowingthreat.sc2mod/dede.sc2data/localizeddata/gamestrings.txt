@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Das Terrazingas auf Bel'Shir hat bei Amons Truppen zu unerwarteten Mutationen geführt. Ihr erhöhter Adrenalinspiegel löst unberechenbare Transformationen aus und mit jedem Tod werden neue aggressive Lebensformen erschaffen. Die stärksten unter Amons Streitkräften haben sogar biologische Nuklearwaffen entwickelt.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Wachsende Bedrohung
+DocInfo/Screenshot01=

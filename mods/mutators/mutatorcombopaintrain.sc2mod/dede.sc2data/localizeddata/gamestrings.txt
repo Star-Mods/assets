@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Das Moebius-Corps bedient sich seines nuklearen Arsenals und transportiert einen Teil seiner Sprengköpfe auf Tarsonis. Der Rest dient dazu, Sie zu vernichten. Bei einer derart empfindlichen Ladung ist jede verirrte Kugel ein erhebliches Risiko. Wundern Sie sich nicht, wenn sich Ihre Streitkräfte beim ersten Anzeichen von Kampfhandlungen aus dem Staub machen.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Bombenstimmung
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon atraiu você para uma guerra de atrito. Suas forças estão exaustas, e mesmo as tarefas mais simples pesam em seus recursos. Chovem mísseis, e, às vezes, fica difícil coletar minérios. Aguente firme, reforce as travas e tudo vai valer a pena no final.
+DocInfo/DescShort=Qualquer um
+DocInfo/Name=O Preço Final
+DocInfo/Screenshot01=

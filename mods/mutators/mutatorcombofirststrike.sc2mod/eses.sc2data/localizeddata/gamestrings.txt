@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Con un poderoso taladro láser a su disposición, Amon lo controla todo. Si puede veros, puede atacaros. Cargad y borradlo del mapa.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Ataque preventivo

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=W chwili śmierci wrogie jednostki wybuchają i zadają obrażenia pobliskim jednostkom graczy.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Autodestrukcja

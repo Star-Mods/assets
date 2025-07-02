@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=회오리바람이 지도 곳곳을 돌아다니며 경로에 있는 플레이어 유닛을 밀쳐내고 피해를 줍니다. /// Tornadoes move across the map, damaging and knocking back player units in their path.
+DocInfo/DescShort=아무
+DocInfo/Name=회오리바람 /// Twister

@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=파멸의 날 보고서 /// Doomsday Report
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Quand ils meurent, les ennemis tirent un feu d’artifice éblouissant qui inflige des dégâts à vos unités proches.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Feu d’artifice

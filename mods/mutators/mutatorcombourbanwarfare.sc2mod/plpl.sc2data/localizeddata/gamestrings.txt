@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Miasto to niebezpieczne miejsce. Za każdym rogiem czają się niewidoczni napastnicy, a ulice pełne są zabójczych pułapek. Nawet same budynki stanowią dla was zagrożenie. Poruszajcie się szybko i ostrożnie, i zawsze miejcie oczy z tyłu głowy.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Prawo ulicy

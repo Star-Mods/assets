@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Des ennemis cachés par la brume rôdent dans la jungle, prêts à bondir sur les robots de collecte de Stetmann pour les réduire en pièces. Gardez un œil sur les serviteurs d’Amon et sur les pièges qu’ils auront immanquablement posés.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Tapage dans la jungle
+DocInfo/Screenshot01=

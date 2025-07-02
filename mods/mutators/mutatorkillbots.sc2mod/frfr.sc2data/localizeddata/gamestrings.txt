@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=De mystérieux robots d’attaque, programmés pour tout détruire, déferlent dans le secteur de Koprulu. Grâce à leur conception ingénieuse, ils sont invincibles jusqu’à avoir exécuté un nombre de victimes prédéfini. Une fois leur quota atteint, ils se désactivent. Mais survivrez-vous jusque-là ?
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Robots exterminateurs

@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=승천자 /// The Ascended
+DocInfo/Screenshot01=

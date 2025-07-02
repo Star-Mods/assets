@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Gegnerische Hybriden zünden bei ihrem Tod eine Nuklearrakete.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Nukleare Abschreckung

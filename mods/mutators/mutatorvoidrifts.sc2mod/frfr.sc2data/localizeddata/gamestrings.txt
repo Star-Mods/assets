@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Des failles du Vide apparaissent à des endroits aléatoires et génèrent des unités ennemies jusqu’à ce qu’elles soient détruites.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Failles du Vide

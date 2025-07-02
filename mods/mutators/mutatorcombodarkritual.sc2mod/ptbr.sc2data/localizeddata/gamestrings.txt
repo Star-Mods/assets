@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon canalizou as energias do templo para dar um poder incrível aos seus lacaios. Repletos de potencial psiônico, seus exércitos superpoderosos correm pelo campo de batalha e canalizam sua ira em várias habilidades diferentes. Aguente o massacre até que o templo esteja protegido outra vez. /// Amon has siphoned the temple’s energy in order to grant his minions incredible power. Brimming with psionic potential, his supercharged armies sprint across the battlefield and channel their wrath into myriad abilities. Withstand the onslaught until the temple is secure once more.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Ritual Sombrio /// Dark Ritual
+DocInfo/Screenshot01=

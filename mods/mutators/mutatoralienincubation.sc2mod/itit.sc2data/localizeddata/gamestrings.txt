@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Alla morte, tutte le unità nemiche generano dei Progenidi.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Incubazione aliena

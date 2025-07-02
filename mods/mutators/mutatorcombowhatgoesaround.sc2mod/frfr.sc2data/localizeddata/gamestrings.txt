@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Amon a fait appel aux imprévisibles pouvoirs du Vide pour renforcer ses troupes. Ses unités renvoient désormais les dégâts qu’elles subissent au combat et provoquent une explosion nucléaire en mourant. Restez prudent et vous triompherez.<n/>
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Qui sème le vent…

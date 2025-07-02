@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon a invoqué des serviteurs issus des trois races sur le champ de bataille. Une foreuse laser du contingent Möbius vous prend pour cible, des hordes de Terrans contaminés infestent la zone et des vaisseaux mère vous bombardent depuis l’orbite. Résistez à ces forces conjointes et accomplissez votre mission.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Triple menace
+DocInfo/Screenshot01=

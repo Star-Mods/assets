@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Alle
+DocInfo/Name=Der Tod ist vergänglich

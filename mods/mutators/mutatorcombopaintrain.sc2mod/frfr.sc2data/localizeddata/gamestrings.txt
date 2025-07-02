@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Le contingent Möbius a puisé dans ses réserves d’ogives nucléaires pour les déployer un peu partout sur Tarsonis. Celles qui restent serviront à votre destruction. À proximité d’un chargement aussi explosif, chaque balle perdue représente un risque énorme. Aussi, ne soyez pas surpris si vos troupes reculent au moindre signe de combat.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Chaos nucléaire
+DocInfo/Screenshot01=

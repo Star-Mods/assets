@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Tarsonis wird von verseuchten Terranern überrannt. Sie sind einfach überall: Im Boden, auf Zügen und wenn Sie nicht aufpassen, dringen sie bald auch in Ihre Basis ein. Und das ohne jede Vorwarnung.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Zug der Toten

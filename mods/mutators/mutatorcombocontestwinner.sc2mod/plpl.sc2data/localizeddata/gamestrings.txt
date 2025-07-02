@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Z dumą prezentujemy zwycięskie zgłoszenie w naszym pierwszym konkursie na stworzenie mutatora. Autorem projektu jest Saito. W tym mutatorze tygodnia, siły Amona atakujące Augustgrad zagrzewane są do walki przez plugawe klony największych bohaterów sektora Koprulu. Musicie stawić im czoła i uratować miasto.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Zwycięski mutator konkursowy

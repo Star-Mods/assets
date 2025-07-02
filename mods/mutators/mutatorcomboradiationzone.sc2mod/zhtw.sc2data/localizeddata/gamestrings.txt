@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=任意
+DocInfo/Name=輻射地帶 /// Radiation Zone
+DocInfo/Screenshot01=

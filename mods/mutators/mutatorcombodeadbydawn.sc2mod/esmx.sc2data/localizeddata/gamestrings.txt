@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Las fuerzas de Amón crearon un arma con una cepa especialmente virulenta de infestación. Los infestados se mueven a una velocidad alarmante y propagan la enfermedad con rapidez. Los alucinógenos que llevan en la sangre pueden provocar histeria hasta en los guerreros más fuertes. Supera el miedo y arrasa con la infestación. /// Amon's forces have weaponized a particularly virulent strain of infestation. Their infested move at frightening speed and rapidly proliferate disease. Hallucinogens in their blood can cause hysteria in even the most stalwart warriors. Beat back the fear, and burn out the infestation.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Rápidos y mortales /// The Quick and the Dead
+DocInfo/Screenshot01=

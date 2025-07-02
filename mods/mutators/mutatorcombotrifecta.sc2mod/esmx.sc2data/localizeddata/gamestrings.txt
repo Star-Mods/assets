@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amón ha invocado esbirros de las tres razas para esta batalla. Un taladro láser de la Fuerza Moebius te tiene en la mira, hordas de terran infestados deambulan por el terreno y las naves nodrizas protoss te bombardean desde la órbita. Resiste a su poder combinado y completa tu misión.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Triple amenaza
+DocInfo/Screenshot01=

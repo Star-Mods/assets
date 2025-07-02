@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=La terraformación de Veridia Prime por parte de Amon ha arrasado con los recursos del planeta. Debéis desafiar las catastróficas condiciones medioambientales del planeta para haceros con los materiales necesarios para construir vuestro ejército. Id con cuidado, pero no os detengáis. Cada segundo cuenta para la destrucción del planeta.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Sin dinero, sí hay problemas
+DocInfo/Screenshot01=

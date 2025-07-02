@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Amon se está sirviendo de los poderes del vacío para potenciar a sus tropas de forma renovada y extraña. Ahora reflejan el daño sufrido en combate y detonan bombas nucleares al morir. Tened en cuenta este equilibrio y triunfaréis.<n/>
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Recoger lo sembrado

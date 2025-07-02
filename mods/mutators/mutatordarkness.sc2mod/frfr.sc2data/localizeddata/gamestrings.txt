@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Les zones explorées sont de nouveau masquées sur la minicarte quand elles sont hors de vision du joueur.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Ténèbres

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Samo niszczenie planet to za mało dla Amona. Nasycił on również swoje wojska czystą mocą, co pozwala im wykorzystywać przeciwko wam niezwykłe zdolności. Nawet same budowle Amona atakują was zaciekle. Przetrwajcie tę nawałnicę i ocalcie Veridię Prime.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Przebudzenie mocy
+DocInfo/Screenshot01=

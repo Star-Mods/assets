@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Ambos jugadores comparten los suministros, y las unidades de ambos ejércitos contribuyen al límite de suministros.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Compartir es vivir

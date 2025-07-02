@@ -1,0 +1,8 @@
+﻿Actor/Name/SMChangeling=SM - Mutano /// SM - Changeling
+Actor/Name/TempEvoMaster=Temp Evo Master /// Temp Evo Master
+Model/Name/SMChangeling=SM - Mutano /// SM - Changeling
+Model/Name/TempEvoMaster=Temp Evo Master /// Temp Evo Master
+User/Name/AmbientScenes=
+User/Name/Character=Personagem /// Character
+User/Name/Hotspot=Pontos de atividade /// Hotspot
+User/Name/ScriptedScenes=Cenas do com script /// Scripted Scenes

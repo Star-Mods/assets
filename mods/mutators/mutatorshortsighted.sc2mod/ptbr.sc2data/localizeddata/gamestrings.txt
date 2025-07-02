@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Unidades e estruturas do jogador têm alcance de visão reduzido. /// Player units and structures have reduced vision range.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Visão Reduzida /// Shortsighted

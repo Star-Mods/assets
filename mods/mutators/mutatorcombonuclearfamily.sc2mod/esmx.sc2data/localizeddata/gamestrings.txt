@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Cualquiera /// Any
+DocInfo/Name=Familia nuclear /// Nuclear Family
+DocInfo/Screenshot01=

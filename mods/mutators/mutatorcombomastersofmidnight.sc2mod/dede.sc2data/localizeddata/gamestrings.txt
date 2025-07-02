@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Beliebig
+DocInfo/Name=Nächtliche Schatten
+DocInfo/Screenshot01=

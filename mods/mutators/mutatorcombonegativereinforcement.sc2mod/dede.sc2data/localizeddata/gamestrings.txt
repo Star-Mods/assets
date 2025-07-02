@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Beliebig
+DocInfo/Name=Negative Verstärkung
+DocInfo/Screenshot01=

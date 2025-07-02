@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Quando un'unità eroica nemica muore, le unità del giocatore vicine a essa riflettono sulle proprie azioni, e non possono attaccare né usare abilità.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Momento di silenzio

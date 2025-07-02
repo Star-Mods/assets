@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=A terraformação de Amon em Veridia Prime devastou os recursos do planeta. Você precisa enfrentar condições ambientais catastróficas para garantir os materiais necessários para montar seu exército. Tenha cuidado, mas não demore. Cada segundo deixa o planeta mais perto da destruição. /// Amon's terraforming of Veridia Prime has ravaged the planet's resources. You must brave catastrophic environmental conditions in order to secure the materials needed to build your army. Use caution, but don't delay. Every passing second brings the planet closer to destruction.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Sem Dinheiro, Mais Problemas /// No Money, More Problems
+DocInfo/Screenshot01=

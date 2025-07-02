@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Char steht in Flammen. Erhöhte vulkanische Aktivität macht den Planeten noch gefährlicher als sonst. Behalten Sie den Gegner im Auge, es geht heiß her.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Krieg ist die Hölle
+DocInfo/Screenshot01=

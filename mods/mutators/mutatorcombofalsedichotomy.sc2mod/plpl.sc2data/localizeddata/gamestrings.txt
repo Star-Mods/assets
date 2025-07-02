@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Mówią, że najlepszym atakiem jest obrona. Siły Amona mogą nie tylko unikać waszych ataków i absorbować obrażenia, ale na dodatek sama Otchłań zapewnia im niepokonaną obronę przeciwko pojedynczej armii. Razem z sojusznikiem musicie koordynować ataki, aby zapewnić sobie zwycięstwo.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Immunitet dyplomatyczny
+DocInfo/Screenshot01=

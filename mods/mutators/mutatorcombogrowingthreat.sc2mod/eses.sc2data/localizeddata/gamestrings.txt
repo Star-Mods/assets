@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=El terrazine de Bel'Shir ha alterado a las fuerzas de Amon de una forma extraña. El aumento de adrenalina provoca transformaciones impredecibles y cada muerte libera nuevas formas de vida hostiles. Las más poderosas incluso han desarrollado capacidades nucleares orgánicas.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Amenaza creciente
+DocInfo/Screenshot01=

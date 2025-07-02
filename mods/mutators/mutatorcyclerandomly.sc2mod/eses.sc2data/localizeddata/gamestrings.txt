@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Las mutaciones son aleatorias y van cambiando durante la misión.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Estudios del caos

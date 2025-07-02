@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=En lugares aleatorios del mapa caen sobres festivos que contienen paquetes de recursos.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Sobres de la suerte

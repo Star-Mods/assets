@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Les unités ennemies bénéficient d’une augmentation de leur vitesse de déplacement.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Fous de vitesse

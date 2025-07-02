@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=亞蒙迫使相位工匠打造出一艘新的方舟艦，準備從星軌降下毀滅之雨，消滅黑暗之神的所有敵人。抵擋他的攻勢，並且佔領天星鎖。 /// Phase-smiths under Amon's thrall have constructed a new arkship to rain destruction upon the Dark God's foes from orbit. Withstand the onslaught, and seize the locks.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=亞蒙之矛 /// Spear of Your Doom

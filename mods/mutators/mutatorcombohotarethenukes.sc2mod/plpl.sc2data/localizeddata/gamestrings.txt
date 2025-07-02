@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Dowolny /// Any
+DocInfo/Name=Chrzest ognia /// By Fire Be Purged

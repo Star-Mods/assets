@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Wrogie jednostki i budowle otrzymują tymczasową osłonę, kiedy zostają trafione po raz pierwszy.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Bariera

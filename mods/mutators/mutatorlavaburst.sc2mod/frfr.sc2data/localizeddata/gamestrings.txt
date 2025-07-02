@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=De la lave jaillit périodiquement du sol à des endroits aléatoires et endommage les unités alliées terrestres et aériennes.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Explosion de lave

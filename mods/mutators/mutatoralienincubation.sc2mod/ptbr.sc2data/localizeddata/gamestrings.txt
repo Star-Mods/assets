@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Todas as unidades inimigas geram Parasitoides ao morrer. /// All enemy units spawn Broodlings upon death.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Incubação de alienígena /// Alien Incubation

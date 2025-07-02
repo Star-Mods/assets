@@ -1,0 +1,5 @@
+﻿DocInfo/DescLong=Amon versucht einmal mehr, seine Startvorhaben auf Kaldir zu beschützen. Er macht vor nichts halt, um weitere Streitkräfte und Bombardierungen aufzufahren. Doch mit einer standhaften und durchdachten Taktik können Sie das Chaos überleben.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Himmeldonnerwetter
+DocInfo/Screenshot01=
+UserData/Mutators/KillKarma_Description=Verbündete Einheiten und Gebäude erleiden erhöhten Schaden für jeden Feind, den sie getötet haben.

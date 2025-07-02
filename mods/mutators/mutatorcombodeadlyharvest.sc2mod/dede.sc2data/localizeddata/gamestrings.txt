@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=In Augustgrad ist Not am Mann und Ressourcen liegen auf den Straßen verteilt. Um sie zu bergen, werden Ihre Streitkräfte mit den Minen fertigwerden müssen, die Amons Truppen in der ganzen Stadt hinterlassen haben. Bieten Sie der Angst die Stirn und zerstören Sie die Leerensplitter.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Räumkommando
+DocInfo/Screenshot01=

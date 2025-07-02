@@ -1,0 +1,5 @@
+﻿DocInfo/DescLong=Lepiej uważajcie! Amon zamierza wywrzeć srogą zemstę na tych, których uzna za niegrzecznych a wy zaliczacie się do tego grona. Macie jednak dużo innych powodów do radości – to czas obdarowywania i dlatego mamy prezenty dla wszystkich! Pamiętajcie jednak, że Amon nie lubi się dzielić.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Ciężka noc
+DocInfo/Screenshot01=
+UserData/Mutators/KillKarma_Description=Jednostki i budowle graczy otrzymują coraz większe obrażenia z każdym zabitym wrogiem.

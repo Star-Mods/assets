@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amons Streitkräfte haben Magnetminen auf Char verteilt und außerdem zieht eine mysteriöse Macht Ihre Krieger zu den Überresten verstorbener Gegner. Planen Sie Ihre Schritte vorsichtig oder machen Sie sich auf eine explosive Überraschung gefasst.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Anziehungskräfte
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Wenn ein heroischer Gegner stirbt, denken alle Spielereinheiten in der Nähe über ihre Taten nach und können weder angreifen noch Fähigkeiten einsetzen.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Moment der Stille

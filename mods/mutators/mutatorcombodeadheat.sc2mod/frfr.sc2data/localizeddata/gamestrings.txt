@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Les lois de la nature sont chamboulées. À l’instar des entrailles de Véridia Prime, les troupes hostiles qui sèment le chaos crachent de la lave en fusion. La mort fauche votre armée, mais ne semble pas frapper vos ennemis. Vous devez survivre à l’attaque et sauver la planète.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Coup de chaleur /// Dead Heat
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Una anomalía espaciotemporal se ha apoderado de Kaldir. Hay energía cinética que se esparce por todos lados y el campo de batalla está plagado de singularidades en el espacio-tiempo. Ábrete paso entre ellas para destruir las lanzaderas.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=¡Escudos activados!
+DocInfo/Screenshot01=

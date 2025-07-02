@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Wrogowie przejmują kontrolę nad waszymi budowlami po ich zniszczeniu.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Wywłaszczenie

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Auf dem Schlachtfeld liegen Gruppen von Arachnominen und Spinnenminen vergraben.
+DocInfo/DescShort=Alle
+DocInfo/Name=Das reinste Minenfeld

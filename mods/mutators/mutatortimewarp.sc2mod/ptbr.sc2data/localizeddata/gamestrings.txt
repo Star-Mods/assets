@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Transdobras Temporais inimigas aparecem periodicamente no mapa. /// Enemy Time Warps are periodically deployed throughout the map.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Transdobra Temporal /// Time Warp

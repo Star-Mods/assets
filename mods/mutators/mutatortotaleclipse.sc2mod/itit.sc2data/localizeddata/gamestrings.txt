@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Il raggio visivo è estremamente limitato al di fuori della visuale del giocatore.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Hai paura del buio?

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Jednostki bohaterskie wroga otrzymują obrażenia obniżone do maksymalnie 10 pkt., gdy w pobliżu znajduje się ich sojusznicza jednostka niebohaterska.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Wzmocniona wola

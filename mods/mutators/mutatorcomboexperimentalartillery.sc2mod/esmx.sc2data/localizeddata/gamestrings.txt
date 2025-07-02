@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Cualquiera /// Any
+DocInfo/Name=Artillería experimental /// Experimental Artillery
+DocInfo/Screenshot01=

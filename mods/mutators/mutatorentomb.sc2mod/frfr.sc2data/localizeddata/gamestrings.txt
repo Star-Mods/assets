@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Les amas de minerai dans les bases des joueurs sont périodiquement enveloppés d’un bouclier devant être détruit pour que la récolte continue.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Cloches à minerai

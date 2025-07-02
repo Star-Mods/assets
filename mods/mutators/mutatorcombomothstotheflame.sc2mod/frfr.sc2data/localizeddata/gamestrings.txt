@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon n’a pas peur de sacrifier ses propres serviteurs pour s’assurer de votre défaire. Son rayon purificateur balaye les rues d’Augustgrad tandis que ses serviteurs entraînent vos troupes sur la voie de la destruction. Maintenez vos distances et choisissez bien l’endroit où affronter votre ennemi, à moins de finir incinéré.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Rayons ardents
+DocInfo/Screenshot01=

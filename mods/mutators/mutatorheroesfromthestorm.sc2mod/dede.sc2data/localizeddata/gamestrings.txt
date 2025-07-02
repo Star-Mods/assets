@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Jeder Angriffswelle schließen sich immer stärker werdende Helden an.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Helden des Sturms

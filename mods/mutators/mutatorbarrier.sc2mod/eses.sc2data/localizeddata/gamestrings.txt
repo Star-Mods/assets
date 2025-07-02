@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Las unidades y las estructuras enemigas obtienen un escudo temporal la primera vez que reciben daño.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Barrera

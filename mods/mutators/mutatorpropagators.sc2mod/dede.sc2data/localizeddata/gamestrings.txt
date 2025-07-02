@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Formlose Schleimkreaturen bewegen sich auf Ihre Basis zu und verwandeln alle Einheiten und Gebäude, die sie berühren, in Kopien ihrer selbst.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Duplikatoren

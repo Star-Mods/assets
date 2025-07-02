@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Nous sommes fiers de vous présenter la création de Saito, le gagnant de notre premier concours Mutation Creation. Lors de ce défi hebdomadaire, de redoutables clones des plus grands héros du secteur de Koprulu prennent la tête des troupes d’Amon pour assiéger Augustgrad. Ne vous laissez pas impressionner et sauvez la ville.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Gagnant du concours Mutation Creation

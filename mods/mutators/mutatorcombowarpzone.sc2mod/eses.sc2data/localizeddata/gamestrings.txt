@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Cualquiera
+DocInfo/Name=Zona de distorsión
+DocInfo/Screenshot01=

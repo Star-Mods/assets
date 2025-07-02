@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Robot offensivi di origine ignota e programmati per distruggere sono stati scatenati sul settore Koprulu. Attraverso un lavoro d'ingegneria superlativo, sono stati resi invincibili finché il limite del loro contatore di uccisioni interno non viene raggiunto. Dopodiché, si disattivano. Riuscirete a resistere tanto a lungo?
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Droidi assassini

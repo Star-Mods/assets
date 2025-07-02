@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=아몬의 졸개들이 그들의 용사를 지원하려 달려들고, 죽음도 그들을 막을 수 없습니다. 졸개들이 죽으면 더 많은 무리가 일어나 용사의 힘을 증폭시킵니다. 그들의 광적인 열의에 맞서고, 몰려드는 적의 공세를 저지하십시오. /// Amon’s minions rush forward to support their champion, and not even death can stop them. When they fall, more rise to take their place, further bolstering their champion’s strength. Match their zeal and push back the surging tide.
+DocInfo/DescShort=아무
+DocInfo/Name=혼돈의 광란 /// Shir Chaos
+DocInfo/Screenshot01=

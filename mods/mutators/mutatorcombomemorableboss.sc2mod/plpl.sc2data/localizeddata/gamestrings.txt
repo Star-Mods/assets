@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Pamiętny boss
+DocInfo/Screenshot01=

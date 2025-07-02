@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Sie und Ihr Verbündeter teilen sich die Versorgung und Einheiten aus beiden Armeen fallen unter ein gemeinsames Versorgungslimit.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Futterneid

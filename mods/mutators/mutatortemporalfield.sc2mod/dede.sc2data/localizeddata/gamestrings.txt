@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Der Gegner erzeugt regelmäßig Temporale Felder auf der Karte.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Temporale Felder

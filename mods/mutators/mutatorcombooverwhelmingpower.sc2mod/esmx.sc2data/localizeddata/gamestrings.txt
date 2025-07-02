@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Destruir un planeta no es suficiente para Amón. También les ha imbuido a sus fuerzas un poder en bruto que les permite controlar habilidades increíbles contra ti. Hasta las estructuras de Amón te atacan con convicción. Resiste el embate y salva Veridia Mayor.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Abuso de poder
+DocInfo/Screenshot01=

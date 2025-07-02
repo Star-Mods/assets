@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=시공의 폭풍 입장 /// Enter the Nexus

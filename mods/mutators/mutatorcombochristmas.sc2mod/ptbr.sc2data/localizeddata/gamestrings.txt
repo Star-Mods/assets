@@ -1,0 +1,5 @@
+﻿DocInfo/DescLong=É melhor ficar de olho! Amon está se vingando daqueles que considera "malvados", e isso certamente inclui você. Ainda assim, há muito o que celebrar: é a estação da generosidade, e tem presente para todo mundo! Mas esteja avisado: Amon não gosta de dividir. /// You'd better watch out! Amon is exacting vengeance on those he deems naughty, and this most certainly includes you. There's still plenty of reason to be jolly--it's the season of giving, and there are gifts for everyone! But be warned: Amon does not like sharing.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Noite Violenta /// Violent Night
+DocInfo/Screenshot01=
+UserData/Mutators/KillKarma_Description=Unidades e estruturas do jogador recebem dano aumentado para cada inimigo que mataram. /// Player units and structures take increased damage for each enemy they've killed.

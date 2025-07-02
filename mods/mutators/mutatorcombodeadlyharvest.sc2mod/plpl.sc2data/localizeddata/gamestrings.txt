@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Augustgrad jest w niebezpieczeństwie. Na ulicach porozrzucane są surowce i aby je zebrać, wasze oddziały będą musiały przemierzyć pola minowe, które siły Amona porozmieszczały w całym mieście. Pokonajcie strach i zniszczcie odłamki otchłani.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Wpuszczeni na miny
+DocInfo/Screenshot01=

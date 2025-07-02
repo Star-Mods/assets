@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Sulla mappa compaiono periodicamente dei doni. Se non li raccogliete, lo farà Amon!
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Scambio di doni

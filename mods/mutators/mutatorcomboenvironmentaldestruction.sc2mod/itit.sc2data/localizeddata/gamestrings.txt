@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Nessun luogo è al riparo dalla furia di Amon. Raffiche di missili, attacchi nucleari casuali e un raggio purificatore in continua ricerca di bersagli rendono le eruzioni laviche di Veridia il minore dei problemi. I lavoratori sono la risorsa più importante, è vitale assicurarne la sopravvivenza.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Mondo di fuoco
+DocInfo/Screenshot01=

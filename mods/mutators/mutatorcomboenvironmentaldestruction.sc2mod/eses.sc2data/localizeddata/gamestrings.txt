@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=No hay lugar a salvo de la ira de Amon. Entre las trombas de misiles, los ataques nucleares aleatorios y un haz purificador en busca de algo que quemar, las mareas de lava de Veridia podrían ser la menor de vuestras preocupaciones. Poned a los obreros a salvo en la base. Es su momento de protagonismo.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Mundo en llamas
+DocInfo/Screenshot01=

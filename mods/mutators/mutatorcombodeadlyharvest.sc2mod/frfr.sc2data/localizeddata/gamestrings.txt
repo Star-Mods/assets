@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=La situation est désastreuse à Augustgrad. Les ressources sont éparpillées dans les rues et, pour les collecter, vos troupes devront éviter les mines que les serviteurs d’Amon ont déployées partout dans la ville. Prenez votre courage à deux mains et faites voler les fragments du Vide en éclats.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Mauvaises mines /// Miner Concerns
+DocInfo/Screenshot01=

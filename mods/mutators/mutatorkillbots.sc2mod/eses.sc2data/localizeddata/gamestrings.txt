@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Han liberado unos misteriosos robots de ataque en el sector Koprulu. Su único propósito es la destrucción. Su ingeniería avanzada los vuelve invencibles hasta que alcanzan el límite de su contador de muertes. Cuando esto ocurre, se desactivan. ¿Lograréis sobrevivir el tiempo necesario?
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Robots asesinos

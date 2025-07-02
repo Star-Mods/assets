@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=敵方的英雄單位會提高小範圍內所有敵方單位的攻擊速度和護甲值。 /// Enemy Heroic units increase the attack speed and armor of all enemies within a small range.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=士氣大振 /// Inspiration

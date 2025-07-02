@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Se han cortado tus líneas de suministros y debes trabajar junto a tu aliado para sustentar los dos ejércitos. Por suerte, hay mucha fauna local para cazar. Pero ten cuidado. ¿Quién sabe lo que puede hacer un pavo cuando se siente amenazado?
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Juego sucio
+DocInfo/Screenshot01=

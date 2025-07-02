@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Las áreas ya exploradas permanecen oscuras en el minimapa siempre que estén fuera de la visión del jugador.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Oscuridad distante /// Darkness

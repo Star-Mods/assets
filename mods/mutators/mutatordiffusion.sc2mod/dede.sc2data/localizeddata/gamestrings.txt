@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Schaden, den eine einzelne Einheit erleidet, wird gleichmäßig auf alle Einheiten in der Nähe verteilt, einschließlich Ihrer eigenen.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Geteiltes Leid

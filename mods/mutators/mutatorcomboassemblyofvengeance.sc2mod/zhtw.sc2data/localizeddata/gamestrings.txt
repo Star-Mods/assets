@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=任意
+DocInfo/Name=復仇集結 /// Assembly of Vengeance
+DocInfo/Screenshot01=

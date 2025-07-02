@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Dizem que nós somos o nosso pior inimigo. Amon transformou esse dito em realidade. O dano causado pelos seus exércitos volta a eles com força total, e a morte de cada inimigo ameaça levar junto várias das suas tropas. Mostre a Amon que nenhum sacrifício é grande demais para obter a vitória.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Karma Instantâneo
+DocInfo/Screenshot01=

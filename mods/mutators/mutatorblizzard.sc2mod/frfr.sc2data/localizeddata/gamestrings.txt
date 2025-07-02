@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Des nuages orageux traversent la carte en infligeant des dégâts et en gelant les unités alliées qu’ils survolent.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Blizzard

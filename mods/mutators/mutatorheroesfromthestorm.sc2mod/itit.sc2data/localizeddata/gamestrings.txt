@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Le ondate d'attacco sono accompagnate da eroi di potere sempre maggiore.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Eroi dalla tempesta

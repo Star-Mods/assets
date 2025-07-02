@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Como ya no le basta con interferir en las operaciones de evacuación de la Asociación Kel-Morian, Amon ha reestructurado la propia corteza del planeta. ¡Ahora se producirán erupciones de lava de manera aleatoria, y las temperaturas en la superficie han subido tanto que algunos cadáveres incluso puede que estallen en llamas! Id con mucho cuidado.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=La muerte desde abajo
+DocInfo/Screenshot01=

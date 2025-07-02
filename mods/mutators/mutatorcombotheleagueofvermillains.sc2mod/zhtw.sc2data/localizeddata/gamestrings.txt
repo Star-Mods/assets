@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=任意
+DocInfo/Name=赤色大聯盟 /// The League of Vermillains

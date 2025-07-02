@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Les forge-phases sous la coupe d’Amon ont construit une nouvelle arche pour faire pleuvoir la destruction sur les ennemis du dieu noir depuis l’orbite. Résistez à leur assaut et emparez-vous des verrous.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=La lance de l’infortune

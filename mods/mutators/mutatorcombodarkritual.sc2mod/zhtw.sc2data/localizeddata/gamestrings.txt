@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=亞蒙利用從神殿所吸取的能量，讓他的手下獲得無比的力量。他的部隊潛藏著強大的幽能，能快速穿越戰場，施展各式各樣的技能來釋放他們的怒火。擋下這些幽能戰士，保衛神殿的安全。 /// Amon has siphoned the temple’s energy in order to grant his minions incredible power. Brimming with psionic potential, his supercharged armies sprint across the battlefield and channel their wrath into myriad abilities. Withstand the onslaught until the temple is secure once more.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=黑暗儀式 /// Dark Ritual
+DocInfo/Screenshot01=

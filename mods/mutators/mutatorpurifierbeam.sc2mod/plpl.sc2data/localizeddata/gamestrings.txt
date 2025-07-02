@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Wróg przesuwa po całej mapie promień oczyszczenia i kieruje go na pobliskie jednostki należące do graczy.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Promień oczyszczenia

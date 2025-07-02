@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Bel'Shir está plagado de minas que solo uno de vosotros podrá destruir. Debéis trabajar juntos para despejar el camino para los robots de Stetmann. Comunicaos, coordinaos y conquistad.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Campo de alaridos
+DocInfo/Screenshot01=

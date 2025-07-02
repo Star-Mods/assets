@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=머나먼 위협 /// Distant Threat
+DocInfo/Screenshot01=

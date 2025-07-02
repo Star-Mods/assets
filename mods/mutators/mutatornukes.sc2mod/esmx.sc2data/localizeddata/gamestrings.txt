@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Se producen lanzamientos nucleares aleatoriamente por todo el mapa.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=El hombre radioactivo

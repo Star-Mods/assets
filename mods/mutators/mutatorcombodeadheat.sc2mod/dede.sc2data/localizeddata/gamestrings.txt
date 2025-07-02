@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Es scheint als seien auf Veridia Prime die Gesetze der Natur aufgehoben. Nicht nur der Planet spuckt flüssiges Magma, sondern auch die gegnerischen Streitkräfte, die ihn zerstören wollen. Der Tod hält Ihre Einheiten fest in seinem Bann, aber Ihre Gegner scheinen dagegen immun zu sein. Überleben Sie diesen mörderischen Ansturm und retten Sie den Planeten.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Das Ende ist nah
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon schreckt nicht davor zurück, seine eigenen Diener zu opfern, um seine Feinde zu vernichten. Sein Läuterungsstrahl zieht eine Schneise der Verwüstung durch Augustusgrad und seine Diener versuchen, Ihre Truppen in dessen Reichweite zu ziehen. Halten Sie Abstand und seien Sie vorsichtig, wenn Sie den Feind angreifen, sonst bleibt nichts als ein Häuflein Asche von ihrer Armee.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=In die Falle
+DocInfo/Screenshot01=

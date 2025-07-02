@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Po mapie przemieszczają się tornada, które zadają obrażenia i odrzucają jednostki graczy, które znajdą się na ich drodze.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Tornado

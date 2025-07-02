@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Die Stadt ist gefährlich. Angreifer lauern versteckt hinter jeder Ecke und auf den Straßen wimmelt es nur so vor Fallen. Selbst die Gebäude wollen Ihnen an den Kragen. Bewegen Sie sich schnell und vorsichtig und passen Sie auf Ihren Rücken auf.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Häuserkampf

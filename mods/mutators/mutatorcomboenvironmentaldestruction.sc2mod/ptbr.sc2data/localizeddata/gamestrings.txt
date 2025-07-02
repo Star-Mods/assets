@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Lugar nenhum está livre da fúria de Amon. Com salvas incessantes de mísseis, ataques nucleares aleatórios e um feixe purificador doidinho para achar o que queimar, as irrupções de Lava de Veridia vão acabar sendo a última das suas preocupações. Leve seus trabalhadores de volta à base em segurança. É hora de eles brilharem.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Mundo em Chamas
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Vos unités subissent un montant de dégâts équivalent à tous ceux qu'elles infligent, mais récupèrent de la vie sur la durée.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=À double tranchant

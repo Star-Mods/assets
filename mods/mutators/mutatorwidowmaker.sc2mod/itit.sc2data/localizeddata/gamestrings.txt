@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Mine Widow e Mine ragno sono sparse sul campo di battaglia.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Campo minato

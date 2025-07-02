@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Las unidades enemigas reviven automáticamente después de morir. /// Enemy units are automatically revived upon death.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=¡Muérete! /// Just Die!

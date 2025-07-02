@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Cualquiera /// Any
+DocInfo/Name=Entrenamiento riguroso /// Well Trained
+DocInfo/Screenshot01=

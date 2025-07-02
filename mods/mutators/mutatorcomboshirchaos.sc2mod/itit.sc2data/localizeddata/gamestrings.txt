@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=I servitori di Amon avanzano supportando il loro campione, e nemmeno la morte può fermarli. Quando cadono, altri si levano al loro posto, continuando a fornire sostegno. Dimostratevi più determinati di loro, e respingete la marea che avanza.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Caos totale
+DocInfo/Screenshot01=

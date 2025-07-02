@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=看不見的，最可怕。大批受感染部隊潛伏在陰影之中，悄悄地走向那些撤離船艦。亞蒙的部隊同樣匿蹤了，而且還有一道隱形的淨化光束朝你前進。別忘記派偵測單位隨行，保護你的部隊。 /// The most frightening monsters are the ones you can't see. Hordes of hidden infested lurk in the shadows, moving inexorably toward the evacuation shuttles. Amon's forces are cloaked as well, and he has even deployed an invisible purifier beam against you. Bring detection as well as protection.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=看不見的威脅 /// Out of Sight
+DocInfo/Screenshot01=

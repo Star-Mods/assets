@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Campi temporali nemici sono periodicamente attivati sulla mappa.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Campo temporale

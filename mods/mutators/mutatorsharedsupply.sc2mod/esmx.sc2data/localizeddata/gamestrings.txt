@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Los jugadores tienen un contador de suministros común, y las tropas de los dos ejércitos cuentan para alcanzar el límite máximo.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Dar es recibir

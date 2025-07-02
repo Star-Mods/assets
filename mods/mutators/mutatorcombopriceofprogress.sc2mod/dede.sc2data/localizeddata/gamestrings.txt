@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Beliebig
+DocInfo/Name=Preis des Fortschritts
+DocInfo/Screenshot01=

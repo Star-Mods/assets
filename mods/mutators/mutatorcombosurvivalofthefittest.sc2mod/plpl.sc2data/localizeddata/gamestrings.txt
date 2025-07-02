@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Forteca sierżant Petardy jest oblegana. Amon zamierza rozbić w pył jej obronę i zapewnia swoim sługom osłonę przed obrażeniami, a gdy jego jednostki giną, wskrzesza je w nowych ciałach. Zróbcie, co w waszej mocy, aby powstrzymać ich atak.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Przetrwanie najsilniejszych
+DocInfo/Screenshot01=

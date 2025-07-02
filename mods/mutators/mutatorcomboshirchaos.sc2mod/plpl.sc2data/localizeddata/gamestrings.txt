@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Sługi Amona ruszyły, aby wesprzeć swego pana, i nawet śmierć ich nie powstrzyma. Kiedy jego jednostki giną, na w ich miejsce zjawiają się kolejne – jeszcze liczniejsze – i go wzmacniają. Musicie stawić równie zaciekły opór ich rosnącym zastępom.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Szybcy i martwi
+DocInfo/Screenshot01=

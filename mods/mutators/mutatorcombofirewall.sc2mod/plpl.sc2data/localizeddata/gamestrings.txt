@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Zapora ogniowa
+DocInfo/Screenshot01=

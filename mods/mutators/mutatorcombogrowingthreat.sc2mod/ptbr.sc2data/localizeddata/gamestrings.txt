@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=As forças de Amon foram alteradas de formas inesperadas pelo terrazino em Bel'Shir. O aumento na adrenalina dispara transformações imprevisíveis e cada morte origina novas formas de vida hostis. A mais poderosa dela desenvolveu até mesmo um potencial nuclear orgânico.
+DocInfo/DescShort=Qualquer um
+DocInfo/Name=Ameaça Crescente
+DocInfo/Screenshot01= <sp/>

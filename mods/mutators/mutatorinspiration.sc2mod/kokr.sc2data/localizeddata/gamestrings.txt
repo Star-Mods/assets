@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=적 영웅 유닛이 좁은 범위 안의 모든 적의 공격 속도와 방어력을 증가시킵니다. /// Enemy Heroic units increase the attack speed and armor of all enemies within a small range.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=감화 /// Inspiration

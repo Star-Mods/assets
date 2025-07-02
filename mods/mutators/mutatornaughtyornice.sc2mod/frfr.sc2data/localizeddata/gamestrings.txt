@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Les unités et bâtiments du joueur subissent davantage de dégâts chaque fois qu’ils éliminent un ennemi.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Un mal nécessaire

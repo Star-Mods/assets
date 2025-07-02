@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Algunas unidades portan una plaga que inflige daño con el tiempo y se propaga a otras unidades cercanas. La plaga se propaga a tus unidades cuando la unidad enemiga muere.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Peste negra /// Black Death

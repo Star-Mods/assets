@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Parece que las leyes de la naturaleza han cambiado. No solo Veridia Prime escupe magma líquido: también lo hacen las fuerzas hostiles que quieren destruir el mundo. La muerte persigue de forma inexorable a vuestras tropas, pero vuestros enemigos parecen inmunes a su toque. Debéis sobrevivir a la arremetida y salvar el planeta. 
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Al rojo vivo
+DocInfo/Screenshot01=

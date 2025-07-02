@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=暴露在態化氫之下，有可能爆發出無法預期的後果，即使是亞蒙的部隊也無法倖免。黑暗之神利用態化氫強化自己對這些部隊的影響力，提高他們速度和侵略性。他們的目標就是消滅你，你應該先下手為強。 /// Exposure to terrazine can result in violent outbursts, and Amon’s forces are no exception. The Dark God’s influence over them has been intensified by the gas, increasing their speed and aggression. They will stop at nothing to destroy you. Be sure to destroy them first.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=破滅之息 /// Breath of Destruction
+DocInfo/Screenshot01=

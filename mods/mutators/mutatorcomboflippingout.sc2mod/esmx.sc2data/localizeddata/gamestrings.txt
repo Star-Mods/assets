@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=El caos rodea el ritual de Rak’Shir. Los enemigos no están donde parece, y tus fuerzas están abrumadas por el temor. Hasta tu propia perspectiva está un tanto retorcida. Mantén el foco el tiempo suficiente para que Ji’nara gane el desafío. /// Chaos reigns over the ritual of Rak’Shir. Enemies are not where they first appear to be, and your forces find themselves overcome with fear. Even your own perspective is warped and twisted. Maintain focus long enough for Ji’nara to win the challenge.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Descontrol /// Flipping Out
+DocInfo/Screenshot01=

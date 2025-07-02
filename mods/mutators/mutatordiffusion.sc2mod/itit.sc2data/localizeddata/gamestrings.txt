@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=I danni inflitti ai nemici sono suddivisi tra tutte le unità vicine, comprese quelle alleate.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Equa divisione

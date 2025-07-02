@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=자연의 법칙이 뒤집힌 것 같습니다. 마그마가 버리디아 프라임뿐만 아니라 행성을 파괴하려는 적대적인 세력들로부터도 뿜어져 나옵니다. 죽음이 아군을 끌어당기지만 적들은 그 효과에 면역인 듯합니다. 이 모든 공세로부터 생존하고 행성을 구해야 합니다. /// The laws of nature seem to have been upended. Liquid magma spews forth not only from Veridia Prime, but also from the hostile forces intent on its destruction. Death itself pulls inescapably at your forces, but your enemies seem immune to its touch. You must survive this onslaught and save the planet.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=죽음의 열기 /// Dead Heat
+DocInfo/Screenshot01=

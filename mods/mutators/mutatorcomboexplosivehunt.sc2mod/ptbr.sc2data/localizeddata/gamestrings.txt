@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Qualquer um /// Any
+DocInfo/Name=Caçada Explosiva /// Explosive Hunt

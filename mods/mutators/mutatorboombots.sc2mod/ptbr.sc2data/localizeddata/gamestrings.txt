@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Autômatos indiferentes transportam uma carga nuclear até a sua base. Um jogador precisa desvendar a sequência de desarmamento para o outro jogador digitar.
+DocInfo/DescShort=Qualquer um
+DocInfo/Name=Robombas

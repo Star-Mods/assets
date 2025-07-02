@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Assembleia da Vingança /// Assembly of Vengeance
+DocInfo/Screenshot01=

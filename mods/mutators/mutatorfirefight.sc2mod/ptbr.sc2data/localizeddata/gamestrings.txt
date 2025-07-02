@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Unidades inimigas incendeiam o terreno em que estão ao morrer. /// Enemy units set the terrain on fire upon death.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Terra Chamuscada /// Scorched Earth

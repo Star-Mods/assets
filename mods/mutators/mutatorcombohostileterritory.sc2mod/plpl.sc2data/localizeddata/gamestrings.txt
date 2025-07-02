@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Wrogie terytorium /// Hostile Territory
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=모든 적 유닛이 에너지가 있고 무작위 능력을 사용합니다. /// All enemy units have energy and use random abilities.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=압도적인 힘으로 /// Power Overwhelming

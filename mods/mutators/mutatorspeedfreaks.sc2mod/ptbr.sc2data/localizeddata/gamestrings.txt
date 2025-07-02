@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Unidades inimigas têm velocidade de movimento aumentada.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Loucos por Velocidade /// Speed Freaks

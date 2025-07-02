@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Unidades de jogador são desaceleradas por todos os ataques inimigos.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Ataques concussivos

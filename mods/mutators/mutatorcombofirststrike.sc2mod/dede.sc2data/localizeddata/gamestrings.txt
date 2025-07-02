@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Jetzt, da er über einen Laserbohrer verfügt, ist Amon zu allem fähig. Wenn er Ihre Streitkräfte entdeckt, sind sie nicht mehr vor ihm sicher. Greifen Sie an und legen Sie ihm das Handwerk.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Erstschlag

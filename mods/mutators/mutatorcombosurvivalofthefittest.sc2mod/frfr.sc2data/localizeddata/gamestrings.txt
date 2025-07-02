@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=La forteresse de Sgt Marteau est assiégée. Résolu à briser ses défenses, Amon protège ses serviteurs des dégâts et les ramène à la vie dans des corps neufs. Faites ce qu’il faut pour mettre un terme à leur assaut.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=La loi du plus apte
+DocInfo/Screenshot01=

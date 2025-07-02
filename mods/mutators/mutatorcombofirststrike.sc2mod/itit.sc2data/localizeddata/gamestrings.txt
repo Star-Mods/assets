@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Nulla sfugge alla portata di Amon e della sua Trivella laser. Se può vedervi, può colpirvi. Caricate e spazzatelo via.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Attacco preventivo

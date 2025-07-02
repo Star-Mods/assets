@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Dicen que el mejor ataque es una buena defensa. No solo los esbirros de Amón pueden esquivar y absorber tus ataques, sino que el Vacío también les concede defensas impenetrables contra un solo ejército. Tu aliado y tú deben coordinar su ataque para quedarse con la victoria.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Inmunidad diplomática
+DocInfo/Screenshot01=

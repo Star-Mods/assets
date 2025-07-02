@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Beliebig
+DocInfo/Name=Alles tut weh
+DocInfo/Screenshot01=

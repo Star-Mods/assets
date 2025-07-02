@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=敵方英雄單位死亡時，附近所有玩家單位會開始懊悔自己犯下的罪過，無法攻擊或使用技能。 /// When a Heroic enemy dies, all player units around it will reflect on their transgressions, leaving them unable to attack or use abilities.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=自我反省 /// Moment of Silence

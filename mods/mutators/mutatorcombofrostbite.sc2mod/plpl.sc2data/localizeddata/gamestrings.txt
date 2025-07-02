@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Planetę smagają mroźne wichry, martwi powstają na nowo a siły Amona rozstawiły wszędzie swoje miny magnetyczne. Nie możecie jednak ustąpić – unikajcie zarówno zamieci jak i min, i oczyśćcie planetę z szerzącej się infekcji.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Atak mrozu
+DocInfo/Screenshot01=

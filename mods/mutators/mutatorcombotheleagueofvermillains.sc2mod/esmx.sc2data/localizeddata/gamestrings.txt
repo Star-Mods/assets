@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Cualquiera
+DocInfo/Name=La Liga de los Vermillanos /// The League of Vermillains

@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Любой
+DocInfo/Name=Нестабильная среда
+DocInfo/Screenshot01=

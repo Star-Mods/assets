@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Le champ de vision et la portée d’attaque des bâtiments et unités ennemis sont augmentés.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Longue portée

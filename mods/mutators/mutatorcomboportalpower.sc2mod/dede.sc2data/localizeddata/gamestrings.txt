@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amons Armeen versuchen unablässig die Festung von Sergeant Hammer zu zerstören. Der Leere entströmen ständig neue Diener des Dunklen Gottes, ausgestattet mit neuer, schrecklicher Macht. Werfen Sie sich ihnen entgegen und vernichten Sie die Leerenmoloche.</n>ACHTUNG: Diese Kombination von Mutatoren ist besonders herausfordernd.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Angriff aus dem Nichts
+DocInfo/Screenshot01=

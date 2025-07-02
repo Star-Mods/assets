@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=受感染的部隊朝神殿進軍，亞蒙這群手下身上散發出灼熱的能量，會在死亡時讓地面起火燃燒。越來越多的怪物從灰燼中現身，打算藉由死亡時所引發的烈焰，一舉攻克神殿。記得保持距離，徹底殲滅敵人。 /// The infested march upon the temple. Infused with incendiary power, Amon’s minions set the ground ablaze as they die. Even more monsters emerge from the ashes, seeking to engulf the temple in the fires of their own deaths. Keep your distance and exterminate them.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=焚焰 /// Conflagration
+DocInfo/Screenshot01=

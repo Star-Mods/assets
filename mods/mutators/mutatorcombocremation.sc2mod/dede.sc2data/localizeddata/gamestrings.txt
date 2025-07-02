@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon verwendet die Verseuchten als Waffe. Der Boden fängt nach ihrem Tod Feuer und Leerenerwecker erwecken sie unerbittlich wieder zum Leben. Trotzen Sie den Flammen und schützen Sie die Schiffe mit Ihrem Leben.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Feuerbestattung
+DocInfo/Screenshot01=

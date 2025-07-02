@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Mysteriöse Kampfroboter treiben im Koprulu-Sektor ihr Unwesen. Sie haben nur ein einziges Ziel: maximale Zerstörung. Durch ihre überlegene Technologie sind sie unzerstörbar, bis sie ihr einprogrammiertes Tötungslimit erreicht haben. Danach werden sie automatisch heruntergefahren. Die Frage ist nur, ob Ihre Streitkräfte solange überleben.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Killerbots

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Siły Amona przedzierają się do naszego wymiaru i lądują w Augustgradzie, wywołując tornada, które pustoszą całe miasto. Czy zdołacie przezwyciężyć burzę i zamknąć szczeliny, zanim będzie za późno?
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Zła pogoda

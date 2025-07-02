@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Любой
+DocInfo/Name=Нет, ты
+DocInfo/Screenshot01=

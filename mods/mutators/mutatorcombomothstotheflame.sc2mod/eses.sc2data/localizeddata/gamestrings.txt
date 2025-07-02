@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon nunca ha dudado en sacrificar a sus propios siervos para asegurar vuestra perdición. Su haz purificador acribilla las calles de Augustgrad mientras sus esbirros empujan a vuestras tropas hacia la destrucción. No os acerquéis y tened cuidado cuando ataquéis al enemigo, no vayáis a acabar incinerados.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Como polillas a la luz
+DocInfo/Screenshot01=

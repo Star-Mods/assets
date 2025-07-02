@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Mutatory dobierane są losowo i zmieniają się co jakiś czas w trakcie misji.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Teoria chaosu

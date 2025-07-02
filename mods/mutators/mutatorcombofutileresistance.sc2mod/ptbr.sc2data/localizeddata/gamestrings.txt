@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Formas de vida não identificadas foram detectadas em Ulnar, consumindo tudo em seu caminho e se multiplicando ao avançar. As forças de Amon estão concentradas em impedir que seus exércitos escapem. Fique longe delas e extermine essas pestes antes que seja o fim.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Resistência Vã

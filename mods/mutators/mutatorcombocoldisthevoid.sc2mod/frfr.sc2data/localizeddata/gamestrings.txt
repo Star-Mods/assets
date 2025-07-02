@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Tarsonis vit l’hiver le plus rude qu’elle ait connu depuis des années et Amon a bien l’intention d’en tirer profit. Résistez au froid, au Vide, et débarrassez-vous des serviteurs d’Amon une bonne fois pour toutes.</n></n>ATTENTION : cette combinaison de mutagènes est particulièrement difficile.<n/>
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Froid comme le Vide

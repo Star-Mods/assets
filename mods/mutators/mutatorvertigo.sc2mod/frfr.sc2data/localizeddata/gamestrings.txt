@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=L’angle de votre caméra change de manière aléatoire.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Tournis

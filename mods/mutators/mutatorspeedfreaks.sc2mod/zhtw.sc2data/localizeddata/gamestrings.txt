@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=敵方單位的移動速度提高。 /// Enemy units have increased movement speed.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=飆速疾行 /// Speed Freaks

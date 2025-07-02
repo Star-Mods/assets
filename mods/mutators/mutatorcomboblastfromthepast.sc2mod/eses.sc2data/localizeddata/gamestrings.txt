@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Tus enemigos pretenden tomar tus defensas y usarlas contra ti. Las reconstruirán después de que hayan sido destruidas por los ataques nucleares de los híbridos y estén bajo el control de Amon. No lo permitas.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Todo tiempo explotado fue mejor
+DocInfo/Screenshot01=

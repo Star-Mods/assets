@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Amon wezwał moce Otchłani, aby wzmocnić swoje oddziały w niespotykany dotąd sposób. Teraz jego jednostki odbijają obrażenia otrzymywane w walce i detonują bomby jądrowe w chwili śmierci. Pamiętajcie o tym i zachowajcie najwyższą ostrożność, a zwyciężycie.<n/>
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Oko za oko

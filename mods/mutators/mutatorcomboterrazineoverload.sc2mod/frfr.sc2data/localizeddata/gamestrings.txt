@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=L’exposition à la terrazine peut entraîner des accès de violence, et les troupes d’Amon n’y sont pas immunisées. Le gaz a renforcé l’emprise que le dieu noir a sur elles, augmentant leur vitesse et leur agressivité. Rien ne les arrêtera tant que vous serez en vie. Assurez-vous de les exterminer au plus vite.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Effluves mortels
+DocInfo/Screenshot01=

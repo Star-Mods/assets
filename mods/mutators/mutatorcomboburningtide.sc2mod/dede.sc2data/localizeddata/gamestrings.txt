@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Die Verseuchten greifen den Tempel an. Amons mit Feuer verstärkte Diener setzen den Boden bei ihrem Tod in Brand. Aus der Asche erheben sich noch mehr Ungeheuer, die den Tempel im Tod in ein Inferno verwandeln wollen. Halten Sie Abstand von ihnen und löschen Sie sie aus.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Flammenmeer
+DocInfo/Screenshot01=

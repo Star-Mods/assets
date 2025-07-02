@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Les unités ennemies ont une chance de se transformer en de plus puissantes unités chaque fois qu’elles infligent des dégâts.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Transmutation

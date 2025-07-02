@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Ihre Armeen sind umzingelt und ihre Herzen von Furcht erfüllt. Die Hitze der aufsteigenden Lava schürt Panik: Einheiten verlassen ihre Position und riskieren ihr Leben, indem sie kopflos in Richtung der Lavafluten laufen. Bewahren Sie einen kühlen Kopf und sammeln Sie die Kristalle ein, sobald die Lava sich zurückzieht.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Rette sich, wer kann!
+DocInfo/Screenshot01=

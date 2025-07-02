@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Oportunidades à solta /// Opportunities Unleashed
+DocInfo/Screenshot01=

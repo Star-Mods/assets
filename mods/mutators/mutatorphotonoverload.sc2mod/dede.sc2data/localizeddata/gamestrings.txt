@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Alle gegnerischen Gebäude greifen feindlich gesinnte Einheiten in der Nähe an.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Photonenüberladung

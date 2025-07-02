@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Retaliação /// Retribution
+DocInfo/Screenshot01=

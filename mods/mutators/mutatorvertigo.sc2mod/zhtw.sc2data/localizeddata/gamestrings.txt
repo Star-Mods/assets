@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=你的視角會隨機變換位置。 /// Your camera randomly changes positions.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=迷失方向 /// Vertigo

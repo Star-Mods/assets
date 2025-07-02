@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=죽음의 악령 /// Specter of Death
+DocInfo/Screenshot01=

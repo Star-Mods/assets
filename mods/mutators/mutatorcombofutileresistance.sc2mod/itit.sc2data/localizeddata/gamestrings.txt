@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Forme di vita non identificate sono state rilevate su Ulnar. Consumano qualsiasi cosa sul loro percorso, riproducendosi mentre avanzano. Le forze di Amon sono determinate a impedire la vostra fuga. Mantenetevi a distanza ed eliminate questa piaga prima che sia troppo tardi.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Resistenza inutile

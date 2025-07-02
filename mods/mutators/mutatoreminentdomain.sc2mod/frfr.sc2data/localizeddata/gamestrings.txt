@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Les ennemis prennent le contrôle de vos bâtiments après les avoir détruits.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Expropriation

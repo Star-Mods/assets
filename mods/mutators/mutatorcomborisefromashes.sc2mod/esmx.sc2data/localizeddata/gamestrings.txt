@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Cualquiera /// Any
+DocInfo/Name=Resurgimiento de las cenizas /// Rise from Ashes
+DocInfo/Screenshot01=

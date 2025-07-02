@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=任意 /// Any
+DocInfo/Name=進步的代價
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Als ob es auf Bel'Shir nicht schon genug Probleme gäbe, wurde der Planet jetzt noch von bösartigen Killerbots überfallen, die es auf Ihre Armeen abgesehen haben. Obendrein reagieren Ihre Streitkräfte äußerst sentimental auf das Ableben anderer. Konzentrieren Sie sich einfach auf die Terrazinernter.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Angriff der Killerbots
+DocInfo/Screenshot01=

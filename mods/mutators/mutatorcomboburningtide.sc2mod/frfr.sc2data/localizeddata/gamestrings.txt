@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Les contaminés marchent en direction du temple. Habités par le pouvoir des flammes, les serviteurs d’Amon prennent feu en mourant. De nouveaux monstres jaillissent des cendres, déterminés à incendier le temple lorsqu’ils périssent. Tenez-vous à distance et exterminez-les.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Conflagration
+DocInfo/Screenshot01=

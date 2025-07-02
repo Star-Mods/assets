@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=你的軍隊四面楚歌，心中充滿了恐懼。熱氣難耐的熔岩不斷湧出，讓他們慌了手腳陣形大亂，有的甚至不顧死活，直接朝著岩漿衝過去。努力在危機中尋求生機，並且在熔岩消退時收集水晶。 /// Your armies have been surrounded, and their hearts are full of fear. The heat of the rising lava drives them into a panic as they break formation, placing their lives at greater risk as they run headlong into the molten sea. Work through the horror and gather the crystals when the lava subsides.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=熔岩恐懼症 /// Fear and Lava
+DocInfo/Screenshot01=

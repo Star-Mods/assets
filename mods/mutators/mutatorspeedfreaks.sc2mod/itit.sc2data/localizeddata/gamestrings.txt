@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Le unità nemiche si spostano più velocemente.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Alta velocità

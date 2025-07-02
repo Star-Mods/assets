@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Seus exércitos foram cercados e o coração dos soldados está cheio de medo. O calor da lava os leva ao pânico, e eles começam a romper a formação, colocando suas vidas em perigo ainda maior ao correrem direto para o mar incandescente. Enfrente esse horror  e colete os cristais quando a lava recuar.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Medo e Lava
+DocInfo/Screenshot01=

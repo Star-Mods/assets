@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Gwardia Moebiusa sięgnęła do swojego arsenału głowic jądrowych i transportuje je przez Tarsonis. Pozostałe mają posłużyć waszemu zniszczeniu. To niezwykle delikatny ładunek, dlatego każdy wystrzał z broni stanowi ogromne zagrożenie. Nie zdziwcie się, jeśli wasze jednostki będą wzdrygać się przed walką.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Czas apokalipsy
+DocInfo/Screenshot01=

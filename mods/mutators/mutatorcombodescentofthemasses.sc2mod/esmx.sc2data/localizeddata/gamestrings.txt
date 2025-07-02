@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Cualquiera
+DocInfo/Name=Como aplastar insectos /// Like Swatting Insects

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Getti di lava emergono periodicamente dal terreno in punti casuali, infliggendo danni alle unità aeree e terrestri alleate.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Esplosione lavica

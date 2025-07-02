@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Wszystkie wrogie jednostki dysponują energią i losowymi zdolnościami.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Wszechogarniająca moc

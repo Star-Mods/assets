@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Toutes les unités ennemies sont toujours camouflées.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Nous avançons en secret

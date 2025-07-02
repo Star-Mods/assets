@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Любое
+DocInfo/Name=Подступающее безумие

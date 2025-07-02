@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Unidades inimigas são automaticamente ressuscitadas ao morrer.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Morra!

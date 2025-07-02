@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=亞蒙在這場戰鬥中召喚了三個種族來為他作戰。莫比斯部隊的雷射鑽洞機將你鎖定為目標、受感染的人類大軍朝你蜂擁而來，還有神族的聖母艦從軌道上進行轟炸。抵擋這三支種族的強大武力，完成你的任務。 /// Amon has summoned minions from all three races in this battle. A Moebius Corps laser drill has its sights set upon you, hordes of infested terrans roam the terrain, and protoss motherships bombard you from orbit. Withstand their combined might and complete your mission.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=三重威脅 /// Triple Threat
+DocInfo/Screenshot01=

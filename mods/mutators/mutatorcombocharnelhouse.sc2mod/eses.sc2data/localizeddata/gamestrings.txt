@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Una enfermedad funesta se está extendiendo como la pólvora en este mundo sombrío y desolado. Las fuerzas de Amon han modificado las defensas de los mineros para que ataquen a vuestros ejércitos en lugar de a los infectados. Enfrentaos a la oscuridad para que los supervivientes puedan huir de esta pesadilla y vivir libres de contagio.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Depósito de cadáveres
+DocInfo/Screenshot01=

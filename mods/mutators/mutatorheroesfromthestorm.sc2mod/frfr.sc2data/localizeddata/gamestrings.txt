@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Des héros toujours plus puissants se joignent aux vagues d’attaque.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Héros de la tempête

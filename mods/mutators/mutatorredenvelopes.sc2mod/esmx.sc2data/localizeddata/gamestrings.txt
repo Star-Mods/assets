@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Se colocarán sobres festivos con palets de recursos en ubicaciones aleatorias del mapa. /// Festive envelopes containing resource pickups are dropped at random throughout the map.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Sobres de la suerte

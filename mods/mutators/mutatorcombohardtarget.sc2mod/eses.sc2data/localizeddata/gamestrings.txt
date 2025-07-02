@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon ha mejorado a sus opresores del vacío con una resistencia monstruosa que reduce el efecto de vuestros ataques y les permite ignorar completamente las ofensivas cuando les ataca un único ejército. Dividid vuestras tropas y comunicaos con frecuencia para poder poner fin a esta tenaz amenaza.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Objetivo imposible
+DocInfo/Screenshot01=

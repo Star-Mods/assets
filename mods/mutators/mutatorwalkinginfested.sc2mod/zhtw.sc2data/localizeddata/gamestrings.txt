@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=敵方單位死後會根據其生命值孵化出一群受感染的人類。 /// Enemy units spawn Infested Terran upon death in numbers according to the unit's life.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=活屍派對 /// Walking Infested

@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Preço do Progresso /// Price of Progress
+DocInfo/Screenshot01=

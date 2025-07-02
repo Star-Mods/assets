@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=看來自然定律受到干擾，現在不光是佛里迪亞在噴發熔岩，就連敵方單位死亡時也會。死亡步步逼近，你的部隊無所遁逃，但是你的敵人似乎毫不在乎。請務必要存活下來，拯救這顆星球。 /// The laws of nature seem to have been upended. Liquid magma spews forth not only from Veridia Prime, but also from the hostile forces intent on its destruction. Death itself pulls inescapably at your forces, but your enemies seem immune to its touch. You must survive this onslaught and save the planet.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=絕命高溫 /// Dead Heat
+DocInfo/Screenshot01=

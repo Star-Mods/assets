@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Перед началом задания на карте размещаются магнитные мины.
+DocInfo/DescShort=Любой
+DocInfo/Name=Ми-ми-мины

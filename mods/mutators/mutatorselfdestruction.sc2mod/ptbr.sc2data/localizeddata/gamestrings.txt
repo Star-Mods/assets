@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Unidades inimigas explodem e causam dano a jogadores próximos ao morrer. /// Enemy units explode and deal damage to nearby player units upon death.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Autodestruição /// Self Destruction

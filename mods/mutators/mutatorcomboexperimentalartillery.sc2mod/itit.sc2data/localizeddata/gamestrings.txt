@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Artiglieria sperimentale
+DocInfo/Screenshot01=

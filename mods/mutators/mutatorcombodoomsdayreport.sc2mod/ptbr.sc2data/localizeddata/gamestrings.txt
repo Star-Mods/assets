@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Relatório do Juízo Final /// Doomsday Report
+DocInfo/Screenshot01=

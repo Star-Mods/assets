@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Aparecen fisuras del Vacío periódicamente en ubicaciones aleatorias y engendran unidades enemigas hasta que las destruyes. /// Void Rifts periodically appear in random locations and spawn enemy units until destroyed.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Fisuras del Vacío aleatorias /// Void Rifts

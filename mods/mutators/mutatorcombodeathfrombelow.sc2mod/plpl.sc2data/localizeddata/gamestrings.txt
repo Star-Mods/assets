@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon, któremu nie wystarczy samo przeszkadzanie w działaniach ewakuacyjnych kombinatu kel-moriańskiego, postanowił naruszyć skorupę planety. Teraz przypływy lawy następować będą losowo, a temperatura na powierzchni wzrosła tak bardzo, że może dochodzić do samoczynnych zapłonów zwłok! Zachowajcie najwyższą ostrożność i patrzcie pod nogi.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Śmierć z niska
+DocInfo/Screenshot01=

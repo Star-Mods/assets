@@ -1,0 +1,5 @@
+﻿DocInfo/DescLong=Todo el poder del dios oscuro está enfocado en asegurar que sus transbordadores escapen de Kaldir. Sus fuerzas están escudadas con energías del vacío que las vigorizan con una fortaleza antinatural. Todo su poderío nuclear se está liberando indiscriminadamente sobre el campo de batalla. Amón está jugando todas sus fichas, y tú has de hacer lo mismo. No puedes permitir que los transbordadores escapen.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Entrega garantizada
+DocInfo/Screenshot01=
+UserData/Mutators/KillKarma_Description=Las unidades y estructuras del jugador reciben más daño por cada enemigo que han matado.

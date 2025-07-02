@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Una anomalía espaciotemporal afecta todo Kaldir. La energía cinética se disemina por todas partes, y pozos de irregularidades espaciotemporales contaminan el campo de batalla. Supera estos obstáculos y derriba los transbordadores.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=¡Escudos activados!
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=È una notte buia e pericolosa ad Augustgrad. I cittadini del Dominio bussano alle porte in cerca di dolcetti. Assicuratevi di avere qualcosa per loro, o potreste rimanere vittima di uno scherzetto mortale.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Notte del terrore
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Carbonis arde. La actividad volcánica aumentó y ha provocado que el planeta sea más peligroso que antes. No pierdas de vista al enemigo y recuerda la regla de oro: no juegues con fuego. /// Char is ablaze. Increased volcanic activity has made the planet even more hazardous than before. Keep your eyes on the enemy, and always remember: don't stand in the fire.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Guerra infernal /// War Is Hell
+DocInfo/Screenshot01=

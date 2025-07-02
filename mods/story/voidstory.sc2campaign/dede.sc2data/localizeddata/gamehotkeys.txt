@@ -1,0 +1,2 @@
+﻿///If there are other hotkeys in here, you are doing it wrong.=///Wenn hier andere Hotkeys auftauchen, stimmt etwas nicht.
+UI/GameMenuAbortMission_Hotkey=Z

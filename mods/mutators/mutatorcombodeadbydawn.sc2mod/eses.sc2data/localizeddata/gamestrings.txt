@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Las tropas de Amon usan como arma una cepa de infestación particularmente virulenta. Sus infestados se mueven a una velocidad aterradora y expanden la enfermedad con rapidez. Los alucinógenos de su sangre pueden provocar histeria incluso a los guerreros más incondicionales. Superad el miedo y acabad con la infestación.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Rápidos y mortales
+DocInfo/Screenshot01=

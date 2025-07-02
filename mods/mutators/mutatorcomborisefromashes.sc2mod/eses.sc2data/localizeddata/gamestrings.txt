@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Cualquiera
+DocInfo/Name=Resurgir de las cenizas
+DocInfo/Screenshot01=

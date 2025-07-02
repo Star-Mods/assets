@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Destruir um planeta não basta para Amon. Suas forças também foram imbuídas em energia bruta, podendo usar habilidades incríveis contra você. Até as estruturas de Amon atacam você sem pestanejar. Resista ao massacre e salve Veridia Prime.
+DocInfo/DescShort=Qualquer um
+DocInfo/Name=Onda de Poder
+DocInfo/Screenshot01=

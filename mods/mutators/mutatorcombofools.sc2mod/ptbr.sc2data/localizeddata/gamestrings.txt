@@ -1,0 +1,5 @@
+﻿DocInfo/DescLong=A corrupção de Amon está alcançando tudo e todos. Em breve, mesmo seus aliados mais próximos irão traí-lo. É evidente que não há em quem confiar. Só há uma saída: destruí-los, antes que eles destruam você!
+ /// Amon's corruption is overtaking everything and everyone. Soon even your closest ally will betray you. It's clear no one can be trusted. There is only one option left: destroy them before they destroy you!
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Repentino, porém inevitável /// Sudden but Inevitable
+DocInfo/Screenshot01=

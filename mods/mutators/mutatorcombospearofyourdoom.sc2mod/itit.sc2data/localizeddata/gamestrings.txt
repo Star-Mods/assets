@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=I Mastri di Fase sotto il controllo di Amon hanno costruito una nuova arca per seminare distruzione sui nemici del Dio Oscuro. Scampate al massacro, e conquistate i Congegni.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Lancia della rovina

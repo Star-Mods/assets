@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Wasze jednostki otrzymują te same obrażenia, które zadają, ale z czasem są leczone.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Obosieczność

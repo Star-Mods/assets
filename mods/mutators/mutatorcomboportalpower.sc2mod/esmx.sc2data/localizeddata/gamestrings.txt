@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Las fuerzas fanáticas de Amón están decididas a derribar la fortaleza de la Sargento Maza. Desde el Vacío, rebosante de un poder nuevo y terrible, llegan refuerzos. Reúne un ejército igual de poderoso y aplasta a los demoledores del Vacío.</n></n>ADVERTENCIA: Esta combinación de Mutadores es particularmente difícil.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Poder del portal /// Portal Power
+DocInfo/Screenshot01=

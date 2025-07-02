@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Mówi się, że sami jesteśmy swoimi największymi wrogami. Amon wcielił to powiedzenie w życie. Obrażenia, które wasza armia zadaje jego wrogom są zadawane również waszym siłom. Śmierć każdego wroga może pochłonąć również wasze siły. Pokażcie Amonowi, że żadne poświęcenie nie jest zbyt dużą ceną za zwycięstwo.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Natychmiastowe konsekwencje
+DocInfo/Screenshot01=

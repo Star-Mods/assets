@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=As tropas de Amon estão determinadas a roubar o terrazino de Bel'shir. Elas não vão parar por nada e tentarão impedir você de chegar aos extratores de Stetmann a tempo de salvá-los. Apresse-se para alcançar seus inimigos e acabar com o ataque deles.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Devagar e Sempre
+DocInfo/Screenshot01=

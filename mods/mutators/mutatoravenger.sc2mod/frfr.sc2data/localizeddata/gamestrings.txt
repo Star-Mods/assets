@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Les points de vie, l’armure et la vitesse d’attaque des unités ennemies augmentent quand l’une des leurs meurt à proximité.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Vengeur

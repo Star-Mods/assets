@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=亞蒙正在大肆破壞佛里迪亞主星，對該行星的資源礦藏造成極大損害。你必須在嚴峻的環境下，確保自己有足夠的資源來構建部隊。提高警覺，切勿遲疑，這個星球每分每秒都在邁向毀滅。 /// Amon's terraforming of Veridia Prime has ravaged the planet's resources. You must brave catastrophic environmental conditions in order to secure the materials needed to build your army. Use caution, but don't delay. Every passing second brings the planet closer to destruction.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=沒錢萬事難 /// No Money, More Problems
+DocInfo/Screenshot01=

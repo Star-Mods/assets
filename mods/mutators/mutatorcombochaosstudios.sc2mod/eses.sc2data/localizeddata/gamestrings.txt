@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=El vacío se funde con la realidad, lo que distorsiona el mismísimo tejido del espacio-tiempo. Las condiciones del campo de batalla cambian de forma aleatoria y nunca permanecen estables demasiado tiempo. Quién sabe qué sucederá, comandantes. Preparaos para afrontar cualquier situación. /// The Void itself bleeds into reality, warping the very fabric of space and time. Battlefield conditions change at random and never stay stable for long. All bets are off, commanders. Be ready for anything.
+DocInfo/DescShort=Cualquiera /// Any
+DocInfo/Name=La ruleta del infortunio /// Wheel of Misfortune
+DocInfo/Screenshot01=

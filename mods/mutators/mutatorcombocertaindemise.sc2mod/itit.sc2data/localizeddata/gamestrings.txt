@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Il campione di Amon ribolle di potere. I suoi supplici offrono la loro vita nel rito del sacrificio, ma il loro servizio non finisce qui. I Rianimatori sono pronti a resuscitarli, in un interminabile e violento ciclo. Proteggete la Prima Ascendente, o tutto sarà perduto.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Sconfitta certa
+DocInfo/Screenshot01=

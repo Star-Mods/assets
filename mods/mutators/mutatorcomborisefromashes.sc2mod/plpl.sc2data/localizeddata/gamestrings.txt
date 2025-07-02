@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Z prochu powstałeś
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Es una noche oscura y tenebrosa en Augustogrado. Los ciudadanos del Dominio llaman a las puertas para pedir dulces. Será mejor que tengas algo que ofrecer o serás víctima de un truco mortal.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Noche de espanto
+DocInfo/Screenshot01=

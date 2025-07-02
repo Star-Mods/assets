@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Gegner explodieren nach ihrem Tod und fügen dabei allen nahen, vom Spieler kontrollierten Einheiten Schaden zu.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Selbstzerstörung

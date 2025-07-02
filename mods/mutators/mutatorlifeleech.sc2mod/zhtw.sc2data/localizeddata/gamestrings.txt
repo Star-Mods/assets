@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=敵方單位和建築會在造成傷害時竊取生命值或護盾值。
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=生命竊取

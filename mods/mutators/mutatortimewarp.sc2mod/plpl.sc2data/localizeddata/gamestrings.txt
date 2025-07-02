@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Wróg co jakiś czas zakrzywia czasoprzestrzeń w różnych miejscach na całej mapie.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Zakrzywienie czasoprzestrzeni

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Aparecen en el mapa tornados que dañan y repelen a las unidades del jugador. /// Tornadoes move across the map, damaging and knocking back player units in their path.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=El ojo de la tormenta /// Twister

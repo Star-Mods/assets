@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon genügt es nicht mehr, nur die Evakuierungsversuche des Kel-Moria-Kombinats zu stören. Er hat die Kruste des Planeten destabilisiert. Unberechenbare Lavaeruptionen und steigende Temperaturen führen dazu, dass einige Leichen direkt in Flammen aufgehen. Vorsicht ist geboten.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Tod von unten
+DocInfo/Screenshot01=

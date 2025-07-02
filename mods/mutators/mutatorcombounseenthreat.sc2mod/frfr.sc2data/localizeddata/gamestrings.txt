@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Quoi de plus terrifiant que des monstres invisibles ? Des hordes de contaminés rôdent dans les ténèbres, déterminées à atteindre les navettes d’évacuation. Amon a également déployé un rayon purificateur invisible et ses troupes sont, elles aussi, camouflées. Faites tout ce que vous pourrez pour les détecter et vous protéger.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Menace invisible
+DocInfo/Screenshot01=

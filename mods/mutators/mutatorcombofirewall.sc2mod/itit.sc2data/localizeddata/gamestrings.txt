@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Barriera di fuoco
+DocInfo/Screenshot01=

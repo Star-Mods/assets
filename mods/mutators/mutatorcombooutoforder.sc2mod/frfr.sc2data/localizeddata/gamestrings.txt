@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Des interférences électromagnétiques perturbent vos communications. Transmettre des ordres à votre armée peut vous coûter cher, donc ne vous dispersez pas. Les renseignements sur l’ennemi et votre vision sont limités, ce qui peut prolonger l’accomplissement des tâches même les plus simples. Mettez-vous au travail et sauvez la planète.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Hors service
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=적 정화 광선이 지도 전역을 이동하며 주위의 플레이어 유닛을 노립니다. /// An enemy Purifier Beam moves across the map toward nearby player units.
+DocInfo/DescShort=아무
+DocInfo/Name=정화 광선 /// Purifier Beam

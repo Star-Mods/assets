@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=냉혹한 겨울 바람이 전장에 휘몰아치고, 땅에서는 죽은 자들이 되살아나며, 아몬의 병력은 사방에 자기 지뢰를 매설했습니다. 지역을 사수하고 눈보라와 지뢰를 우회하며 행성에 확산되는 감염을 퇴치해야 합니다.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=동상
+DocInfo/Screenshot01=

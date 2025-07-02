@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=자정의 지배자 /// Masters of Midnight
+DocInfo/Screenshot01=

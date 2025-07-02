@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=任何
+DocInfo/Name=疾速屍變 /// The Quick and the Undead

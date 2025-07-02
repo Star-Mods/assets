@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Quand un héros adverse meurt, toutes les unités de joueur proches prennent le temps de réfléchir à leurs exactions, ce qui les empêche d'attaquer ou d’utiliser des capacités.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Moment de silence

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=가장 두려운 적은 자기 자신이라는 말이 있습니다. 아몬이 이 말을 현실로 만들었습니다. 아군이 적에게 준 피해가 모두 자신에게 돌아오고, 적이 죽을 때마다 아군을 함께 데려가려 위협합니다. 아몬에게 승리를 쟁취하기 위해서라면 어떠한 희생도 감수할 수 있다는 걸 보여주십시오. /// It is said that you are your own worst enemy. Amon has turned that idiom into reality. The harm your armies inflict is dealt back to them in full, and every enemy’s death threatens to take several of your own forces with them. Show Amon that no sacrifice is too great to achieve victory.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=환각 /// Instant Karma
+DocInfo/Screenshot01=

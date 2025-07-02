@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Jakby na Bel'Shir mało było problemów, to teraz jeszcze planetę najechały mordercze roboty, których celem jest zniszczenie waszych armii. Na dodatek wasze wyczerpane wojska zaczęły opłakiwać poległych. Skupicie się na robotach wydobywczych, aby przetrwać. /// As if Bel'Shir didn’t have enough problems, it has now been invaded by vicious kill bots who are bent on destroying your armies. Your devastated forces are also feeling especially sentimental about those who fall. Stay focused on the harvesters to prevail.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Wojny robotów
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon pragnie za wszelką cenę zniszczyć fortecę sierżant Petardy. Jej bazą wstrząsają w posadach nuklearne bombardowania, a na dodatek sługi Amona eksplodują w chwili śmierci. Zróbcie, co w waszej mocy, aby zminimalizować własne straty i wyeliminujcie molochy otchłani.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Wybuchowe starcie
+DocInfo/Screenshot01=

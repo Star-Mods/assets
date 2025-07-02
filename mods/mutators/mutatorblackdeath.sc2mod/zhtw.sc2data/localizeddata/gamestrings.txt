@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=某些敵方單位身上帶有病原體，會造成持續性傷害，並且在死亡時將病原體散播至附近其他單位身上。 /// Some enemy units carry a plague that deals damage over time and spreads to other nearby units. The plague spreads to your units when the enemy unit is killed.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=黑暗疫病 /// Black Death

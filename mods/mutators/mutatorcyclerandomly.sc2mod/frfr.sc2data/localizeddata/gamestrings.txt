@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Les mutagènes sont choisis de façon aléatoire et changent régulièrement tout au long de la mission.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Studios Chaos

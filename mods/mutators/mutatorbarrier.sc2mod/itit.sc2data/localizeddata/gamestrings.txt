@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Le unità e strutture nemiche ottengono uno scudo temporaneo la prima volta che subiscono danni.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Barriera protettiva

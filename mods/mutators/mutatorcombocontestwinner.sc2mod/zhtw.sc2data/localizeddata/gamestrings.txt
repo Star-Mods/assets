@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=我們很榮幸推出首屆異變戰場創作大賽的獲勝作品，這個異變戰場是Saito設計的作品。在這週的挑戰中，亞蒙複製了克普魯星區的英雄，並且派這些邪惡英雄帶領部隊攻打奧古斯格勒。別因為對手是英雄就退縮了，你肩負拯救城市的使命！ /// We are proud to present the winning entry of our first Mutation Creation contest, as designed and submitted by Saito. In this weekly challenge, vile replications of the Koprulu sector's greatest heroes inspire Amon’s forces as they lay siege to Augustgrad. Do not back down in the face of their presence, and focus on saving the city.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=異變戰場創作大賽獲勝作品 /// Mutation Creation Contest Winner

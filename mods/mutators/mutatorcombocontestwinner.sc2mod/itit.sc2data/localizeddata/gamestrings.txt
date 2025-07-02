@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Siamo orgogliosi di presentarvi l'idea vincente del primo concorso di creazione Mutazioni, creata e inviata da Saito. In questa sfida settimanale, perfidi replicanti dei più famosi eroi del settore Koprulu guidano le forze di Amon durante l'assedio di Augustgrad. Non arretrate davanti a loro, e date il tutto per tutto per salvare la città.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Mutazione vincitrice del concorso

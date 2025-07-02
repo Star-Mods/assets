@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Cualquiera
+DocInfo/Name=Muerte e impuestos
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Seus inimigos pretendem tomar suas defesas e usá-las contra você, reconstruindo-as sob o controle de Amon até que elas sejam destruídas pelas armas nucleares dos híbridos. Não deixe que isso aconteça. /// Your enemies intend to seize your defenses and use them against you, reconstructing them under Amon’s control after they are destroyed by the hybrids’ nukes. Do not allow that to occur.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Explosão à Moda Antiga /// Blast from the Past
+DocInfo/Screenshot01=

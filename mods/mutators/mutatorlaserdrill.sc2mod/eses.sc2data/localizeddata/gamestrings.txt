@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Un taladro láser enemigo ataca de forma constante a las unidades de los jugadores que estén dentro de su campo de visión.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Taladro láser

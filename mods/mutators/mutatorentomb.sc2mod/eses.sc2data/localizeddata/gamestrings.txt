@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Los grupos de minerales de las bases de los jugadores reciben de forma periódica un escudo, que debe destruirse para continuar la recolección.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Escudos para minerales

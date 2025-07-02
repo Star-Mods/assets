@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Le unità eroiche nemiche aumentano velocità d'attacco e corazza dei loro alleati entro un breve raggio.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Ispirazione

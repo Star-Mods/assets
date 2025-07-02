@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Las fuerzas de Amon son numerosas. Una marea interminable de sus fervientes guerreros ocupa las cámaras de Ulnar, y tienen la intención de reduciros a cenizas. Atravesadlos para llegar a los cierres celestiales, pero cuidado: las fuerzas de Amon son peligrosas incluso muertas.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Legión Ardiente
+DocInfo/Screenshot01=

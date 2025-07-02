@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon se ha propuesto destruir la fortaleza de la Sgto. Martillo a toda costa. Las bombas nucleares asolan el complejo y los esbirros de Amon explotan al morir. Haz lo que puedas para mitigar tus bajas mientras acabas con los opresores del vacío.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Resultados explosivos
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Gdy wrogie jednostki odniosą obrażenia, teleportują się na niewielką odległość.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Co mi zrobisz, jak mnie złapiesz

@@ -1,0 +1,5 @@
+﻿DocInfo/DescLong=아몬이 칼디르에서 자신의 계획을 지원하려 새로운 형태의 공격을 시작했습니다. 아몬은 어떠한 상황에도 추가 병력과 미사일 폭격을 멈추지 않지만, 굳건하고 전략적인 노력을 다하면 이 대혼란에서 생존할 수 있을 것입니다.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=하늘 경계 /// Watch the Skies
+DocInfo/Screenshot01=
+UserData/Mutators/KillKarma_Description=플레이어의 유닛과 구조물이, 적을 처치할 때마다 받는 피해가 증가합니다. /// Player units and structures take increased damage for each enemy they've killed.

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=I nemici intendono appropriarsi delle vostre difese e usarle contro di voi, ricostruendole sotto il controllo di Amon dopo averle bombardate e rase al suolo. Non lasciateglielo fare.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Ritorno all'Oscuro
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Char está en llamas. El aumento de la actividad volcánica ha convertido el planeta en un terreno aún más peligroso. No perdáis de vista al enemigo y recordad: alejaos del fuego.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=La guerra es el infierno
+DocInfo/Screenshot01=

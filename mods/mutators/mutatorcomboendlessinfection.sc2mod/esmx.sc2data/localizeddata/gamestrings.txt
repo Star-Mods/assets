@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Cualquiera /// Any
+DocInfo/Name=Infección infinita /// Endless Infection
+DocInfo/Screenshot01=

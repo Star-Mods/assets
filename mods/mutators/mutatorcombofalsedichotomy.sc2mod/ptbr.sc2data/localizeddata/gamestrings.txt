@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Dizem que o melhor ataque é uma boa defesa. As forças de Amon não são apenas capaz de evadir e absorver seus ataques, mas o Vazio também concede a elas defesas impenetráveis para um único exército. Você e seu aliado devem coordenar o ataque para assegurar a vitória.
+DocInfo/DescShort=Qualquer um
+DocInfo/Name=Imunidade Diplomática
+DocInfo/Screenshot01=

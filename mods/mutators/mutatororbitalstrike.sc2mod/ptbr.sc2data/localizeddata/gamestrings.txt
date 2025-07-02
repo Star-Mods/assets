@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Ataques Orbitais inimigos são disparados periodicamente no mapa. /// Enemy Orbital Strikes are periodically fired throughout the map.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Ataque Orbital /// Orbital Strike

@@ -1,0 +1,8 @@
+﻿Actor/Name/SMChangeling=이야기 모드 - 변신수 /// SM - Changeling
+Actor/Name/TempEvoMaster=임시 진화 군주 /// Temp Evo Master
+Model/Name/SMChangeling=이야기 모드 - 변신수 /// SM - Changeling
+Model/Name/TempEvoMaster=임시 진화 군주 /// Temp Evo Master
+User/Name/AmbientScenes=환경 장면 /// Ambient Scenes
+User/Name/Character=캐릭터 /// Character
+User/Name/Hotspot=활성화 지점 /// Hotspot
+User/Name/ScriptedScenes=대본 설정된 장면 /// Scripted Scenes

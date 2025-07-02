@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Fanatyczne wojska Amona chcą za wszelką cenę zniszczyć fortecę sierżant Petardy. Ich posiłki przybywają z samej Otchłani, pełne nowej, straszliwej mocy. Dorównajcie ich sile i zmiażdżcie molochy otchłani.</n></n>UWAGA: to wyzwanie jest wyjątkowo trudne.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Moc portalu
+DocInfo/Screenshot01=

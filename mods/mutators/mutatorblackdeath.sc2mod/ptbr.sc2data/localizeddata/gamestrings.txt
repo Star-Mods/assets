@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Algumas unidades inimigas transmitem uma peste que causa dano ao longo do tempo e se alastra para outras unidades próximas. A peste se espalha para as suas unidades quando a unidade inimiga é morta.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Peste Negra

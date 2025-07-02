@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Dicen que uno es el peor enemigo de sí mismo. Amón ha demostrado que ese dicho es una realidad. Tus aliados reciben todo el daño que infligen, y cada muerte enemiga amenaza con llevarse a varias de tus fuerzas. Muéstrale a Amón que ningún sacrificio es demasiado grande para conseguir la victoria. /// It is said that you are your own worst enemy. Amon has turned that idiom into reality. The harm your armies inflict is dealt back to them in full, and every enemy’s death threatens to take several of your own forces with them. Show Amon that no sacrifice is too great to achieve victory.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Karma instantáneo /// Instant Karma
+DocInfo/Screenshot01=

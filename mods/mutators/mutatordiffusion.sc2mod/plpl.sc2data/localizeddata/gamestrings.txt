@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Obrażenia zadawane wrogom są rozkładane równomiernie między wszystkie pobliskie jednostki, w tym wasze.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Dyfuzja

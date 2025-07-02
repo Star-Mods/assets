@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=亞蒙出手干擾凱爾莫瑞亞集團的撤離行動，而且還改變了行星地殼結構。 如今隨時有可能噴發熔岩，地表溫度高到連屍體都燒了起來！謹慎計畫你的每一步。 /// No longer content to merely interfere with the Kel-Morian combine's evacuation efforts, Amon has restructured the planet's crust itself. Lava bursts will now occur at random, and surface temperatures have risen so high that some corpses can even combust! Tread very carefully.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=從地底竄出 /// Death from Below
+DocInfo/Screenshot01=

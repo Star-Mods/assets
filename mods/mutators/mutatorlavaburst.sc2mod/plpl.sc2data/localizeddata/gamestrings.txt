@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=W losowych miejscach co jakiś czas następują erupcje lawy, która zadaje obrażenia naziemnym i powietrznym jednostkom graczy.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Erupcja lawy

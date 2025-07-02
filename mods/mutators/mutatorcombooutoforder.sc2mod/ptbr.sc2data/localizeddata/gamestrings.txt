@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=A interferência eletromagnética está acabando com as suas comunicações. Dar ordens ao seu exército pode custar caro, então pese cada ação com cuidado. As informações são limitadas e a visão está obscurecida. Mesmo a tarefa mais simples pode demorar muito. Supere o desafio e salve o planeta. /// Electromagnetic interference is wreaking havoc on your communications. Giving orders to your army can prove costly, so make every action count. Intel is limited and vision is obscured, and even the simplest task could take a while to complete. Get through it and save the planet.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Quebrado
+DocInfo/Screenshot01=

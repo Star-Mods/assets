@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=On dit que l’attaque est la meilleure défense. Les troupes d’Amon esquivent et absorbent vos attaques et, comme si cela ne suffisait pas, le Vide rend leurs défenses impénétrables pour une armée seule. Vous et votre allié devrez synchroniser votre assaut pour arracher la victoire.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Immunité diplomatique
+DocInfo/Screenshot01=

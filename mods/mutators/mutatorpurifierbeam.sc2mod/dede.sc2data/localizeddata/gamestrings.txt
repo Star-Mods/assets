@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Ein Destruktorstrahl verfolgt Ihre Streitkräfte quer über die Karte!
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Destruktorstrahl

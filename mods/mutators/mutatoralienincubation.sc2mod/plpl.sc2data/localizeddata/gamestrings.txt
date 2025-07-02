@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Wszystkie wrogie jednostki powijają w chwili śmierci pomioty.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Inkubacja obcych

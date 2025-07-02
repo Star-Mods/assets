@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=敵人摧毀你的建築之後，會獲得這些建築的控制權。 /// Enemies gain control of your structures after destroying them.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=著名地標 /// Eminent Domain

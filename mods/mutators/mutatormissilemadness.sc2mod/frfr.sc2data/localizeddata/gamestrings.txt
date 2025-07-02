@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Tout au long de la mission, vos bâtiments sont bombardés par des missiles qui doivent être détruits.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Déluge de missiles

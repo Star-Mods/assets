@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=도시는 위험한 곳입니다. 보이지 않는 습격자들이 길모퉁이마다 도사리고, 거리는 치명적인 함정으로 뒤덮여 있습니다. 심지어 건물들도 공격을 가하려 기회를 엿봅니다. 빠르고 조심스럽게 움직이며 항상 뒤를 조심해야 합니다. /// The city is a dangerous place. Unseen assailants lurk around every corner, and the streets are littered with deadly hidden traps. Even the buildings themselves seek to strike you down. Move quickly and carefully, and always watch your back.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=시가전 /// Urban Warfare

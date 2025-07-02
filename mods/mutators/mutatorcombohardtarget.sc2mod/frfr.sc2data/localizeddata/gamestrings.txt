@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon a conféré à ses lacérateurs du Vide une endurance monstrueuse, ce qui diminue l’effet de vos attaques et rend inoffensives celles de l'une de vos armées dirigées contre eux. Divisez vos troupes et redoublez de communication pour venir à bout de cette terrible menace.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Cible endurcie
+DocInfo/Screenshot01=

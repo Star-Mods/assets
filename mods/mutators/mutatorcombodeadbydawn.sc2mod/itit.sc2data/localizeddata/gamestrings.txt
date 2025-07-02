@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Le forze di Amon dispongono di un ceppo infestante particolarmente pericoloso. Gli infestati si muovono a velocità elevatissima e diffondono rapidamente il loro morbo. Le sostanze allucinogene contenute nel loro sangue seminano il panico anche tra i guerrieri più resistenti. Combattete la paura, ed eliminate l'infestazione.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Velocità mortale
+DocInfo/Screenshot01=

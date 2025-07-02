@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Любой
+DocInfo/Name=Вы под куполом
+DocInfo/Screenshot01=

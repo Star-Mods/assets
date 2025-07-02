@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=아몬이 졸개들을 희생시키면서까지 당신을 반드시 소멸시키려 합니다. 아몬의 정화광선이 아루구스트그라드의 거리를 가로지르고 아몬의 졸개들이 파괴의 경로로 당신의 병력을 끌어당깁니다. 거리를 확보하고 전투를 펼칠 위치를 신중하게 선택하지 않으면 모든 병력을 잃게 될 것입니다. /// Amon is not above sacrificing his own servants to ensure your demise. His purification beam strafes the streets of Augustgrad as his minions pull your forces into the path of destruction. Keep your distance and be careful where you engage the enemy, lest your armies be incinerated.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=화염 속 나방 /// Moths to the Flame
+DocInfo/Screenshot01=

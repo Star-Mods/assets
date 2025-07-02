@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Unas formas de vida sin identificar se arrastran hacia vuestra base y transforman a todas las unidades y estructuras que tocan en copias de sí mismas.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Propagadores

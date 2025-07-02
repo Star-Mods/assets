@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Le champion d’Amon irradie de puissance. Ses disciples se donnent la mort en vue d’accomplir le rite, mais leur tâche ne s’arrête pas là. Des réanimateurs s’affairent pour les ramener à la vie, entretenant ainsi un cycle de violence sans fin. Vous devez protéger la première aspirante, sans quoi tout sera perdu.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Trompe-la-mort /// Certain Demise
+DocInfo/Screenshot01=

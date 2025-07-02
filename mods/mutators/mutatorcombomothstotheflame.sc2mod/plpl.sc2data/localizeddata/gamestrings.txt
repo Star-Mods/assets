@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon nie zawaha się poświęcić własnych sług, aby was zniszczyć. Jego promień oczyszczenia przemierza ulice Augustgradu a jego siły wciągają was w śmiertelną pułapkę. Trzymajcie się na dystans i uważajcie, gdy atakujecie wroga, inaczej wasze armie zostaną obrócone w pył.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Jak ćmy do płomienia
+DocInfo/Screenshot01=

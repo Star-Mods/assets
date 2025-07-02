@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Terranos infestados inimigos são gerados continuamente no mapa.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Eclosão

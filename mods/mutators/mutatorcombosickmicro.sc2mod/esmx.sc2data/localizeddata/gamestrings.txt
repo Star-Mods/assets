@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=El terracino de Bel'Shir ha potenciado los virus nativos del planeta. Una plaga mortal se ha apoderado de todas las formas de vida, y todas tus decisiones suponen un costo enorme. Resiste y álzate con la victoria.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Megacoordinación
+DocInfo/Screenshot01=

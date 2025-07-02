@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Hay reanimadores del vacío por el campo de batalla, que resucitan a vuestros enemigos.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Reanimadores del vacío

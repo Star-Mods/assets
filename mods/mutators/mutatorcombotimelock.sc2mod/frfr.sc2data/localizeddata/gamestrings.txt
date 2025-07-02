@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Le temps ne joue pas en votre faveur. Les troupes d’Amon avancent rapidement et le champ de bataille est truffé de pièges qui vous ralentissent. Vous devrez agir rapidement mais avec prudence pour gagner.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Temps verrouillé

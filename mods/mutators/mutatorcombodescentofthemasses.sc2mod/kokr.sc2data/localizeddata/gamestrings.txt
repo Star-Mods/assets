@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=아무 /// Any
+DocInfo/Name=파리 같은 놈들 /// Like Swatting Insects

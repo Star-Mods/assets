@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Cualquiera /// Any
+DocInfo/Name=Sal más seguido /// Get Out More

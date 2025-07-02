@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Las áreas exploradas con anterioridad permanecen ocultas en el minimapa cuando están fuera del campo de visión de los jugadores.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Oscuridad

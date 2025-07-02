@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=La fortezza di Sgt. Hammer è sotto assedio. Amon vuole spezzarne le difese, e per farlo protegge i suoi servi dai danni e li riporta in vita in nuovi corpi alla morte. Fate tutto il necessario per fermare l'assalto.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Sopravvivenza del più forte
+DocInfo/Screenshot01=

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Inimigos lançam uma queima de fogos de artifício impressionante ao morrerem, causando dano às suas unidades próximas. /// Enemies launch a dazzling fireworks display upon death, dealing damage to your nearby units.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Fogos de Artifício

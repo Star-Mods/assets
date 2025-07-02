@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=가장 두려운 적은 보이지 않는 적입니다. 보이지 않는 감염된 무리가 어둠 속에 도사리며 대피선에 거침없이 접근합니다. 아몬의 병력들 또한 은폐하며, 아몬은 심지어 보이지 않는 정화 광선으로 공격을 펼치기까지 합니다. 항상 탐지기를 잊지 말고 병력을 보호하십시오. /// The most frightening monsters are the ones you can't see. Hordes of hidden infested lurk in the shadows, moving inexorably toward the evacuation shuttles. Amon's forces are cloaked as well, and he has even deployed an invisible purifier beam against you. Bring detection as well as protection.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=보이지 않는 적 /// Out of Sight
+DocInfo/Screenshot01=

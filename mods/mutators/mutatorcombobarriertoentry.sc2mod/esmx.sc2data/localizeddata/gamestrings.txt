@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Cualquiera
+DocInfo/Name=Barrera de entrada /// Barrier to Entry

@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Qualquer um /// Any
+DocInfo/Name=Bala na Agulha /// Locked and Loaded

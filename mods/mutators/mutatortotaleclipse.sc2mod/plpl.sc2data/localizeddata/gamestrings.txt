@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Pole widzenia zapewnianie przez wszystkie źródła jest poważnie ograniczone, za wyjątkiem widoku z kamery.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Ograniczone perspektywy

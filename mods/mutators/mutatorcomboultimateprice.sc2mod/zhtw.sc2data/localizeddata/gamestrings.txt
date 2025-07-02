@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=亞蒙將你捲入了一場消耗戰。你的部隊累壞了，並且就連最簡單的工作都需要消耗資源。天空不斷降下飛彈，晶礦也得來不易。撐下去，並且保護好天星鎖，這一切都不會白費的。 /// Amon has drawn you into a war of attrition. Your forces are exhausted, and even the simplest tasks are a drain on your resources. Missiles rain down from above, and minerals can sometimes be hard to gather. Hang in there, secure the locks, and it will all be worth it.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=終極代價 /// The Ultimate Price
+DocInfo/Screenshot01=

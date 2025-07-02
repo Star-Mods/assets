@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Periódicamente aparecerán fallas de vacío en ubicaciones aleatorias que engendran unidades enemigas hasta que son destruidas.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Fallas de vacío

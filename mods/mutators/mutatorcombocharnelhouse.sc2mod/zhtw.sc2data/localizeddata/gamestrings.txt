@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=邪惡的疾病在這貧瘠荒蕪之地上猖獗擴散，當地礦工的防守據點也被亞蒙的爪牙接收了。現在不會攻擊感染單位，反而瞄準你的部隊。對抗黑暗，讓存活下來的人逃離這場噩夢，同時逃離這股感染威脅。 /// A sinister disease runs rampant on this bleak and desolate world. Amon’s forces have repurposed the miners’ defenses to target your armies instead of the infected. Brave the darkness so that the survivors can escape this nightmare and live free from the contagion.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=停屍間 /// Charnel House
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=亞蒙的手下會不斷從遠方利用飛彈和雷射鑽孔機來對付你的建築。他們每毀掉一棟建築，就會在原地重建他們的建築。好好保護你的基地，不過別忘了，會毀掉克哈星的虛空裂隙並不會等你。 /// Amon's forces are using their missiles and laser drill to target your structures from afar. Whatever they burn down, they will rebuild as their own. Guard your bases well, but don’t forget the Void Rifts that threaten to destroy Korhal itself.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=惡意收購 /// Hostile Takeover
+DocInfo/Screenshot01=

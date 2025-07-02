@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=I mostri più spaventosi sono quelli che non si vedono. Orde di infestati nascosti popolano le tenebre, avvicinandosi costantemente alle navi da evacuazione. Amon dispone di unità occultate e di un Raggio purificatore invisibile. Gli individuatori sono fondamentali per la vostra difesa.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Lontano dagli occhi
+DocInfo/Screenshot01=

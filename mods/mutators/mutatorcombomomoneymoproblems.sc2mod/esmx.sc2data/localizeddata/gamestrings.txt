@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Después de que Amón terraformó Veridia Mayor, el planeta se quedó sin recursos. Tendrás que superar las condiciones ambientales catastróficas para conseguir los materiales necesarios para crear tu ejército. Ten cuidado, pero no te demores. Con cada segundo que pasa, el planeta está más cerca de la destrucción.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Último recurso
+DocInfo/Screenshot01=

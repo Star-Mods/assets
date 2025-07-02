@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Les troupes d’Amon ont déployé des mines magnétiques à la surface de Char. Son étrange influence perturbe en outre vos guerriers, irrésistiblement attirés vers les cadavres de leurs ennemis. Planifiez vos attaques avec grand soin si vous voulez éviter les surprises explosives…
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Attraction magnétique
+DocInfo/Screenshot01=

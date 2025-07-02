@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Civis visitam sua Tigela de Doces atrás de gostosuras, geradas com o gasto de minérios. Se a tigela estiver vazia, os civis se transformam em unidades inimigas aleatórias.
+DocInfo/DescShort=Qualquer um
+DocInfo/Name=Gostosuras ou Travessuras

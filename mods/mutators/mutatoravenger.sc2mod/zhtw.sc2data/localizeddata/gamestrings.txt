@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=敵方單位死亡時，附近還存活的敵方單位會提高攻擊速度、裝甲值和生命值。 /// Enemy units gain increased attack speed, armor, and life when nearby enemy units die.
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=復仇者 /// Avenger

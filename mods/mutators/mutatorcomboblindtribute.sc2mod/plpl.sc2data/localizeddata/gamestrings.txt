@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Dowolny /// Any
+DocInfo/Name=Ślepe oddanie /// Blind Tribute

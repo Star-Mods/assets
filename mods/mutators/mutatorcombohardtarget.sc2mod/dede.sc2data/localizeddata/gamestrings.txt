@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon schickt extrem widerstandsfähige Leerenmoloche in die Schlacht, die weniger Schaden erleiden als gewöhnlich. Als ob das nicht genug wäre, sind sie gegen Angriffe einer Ihrer Armeen völlig immun. Teilen Sie Ihre Streitkräfte auf und koordinieren Sie Ihr Vorgehen, um diese hartnäckige Bedrohung auszuschalten.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Hart im Nehmen
+DocInfo/Screenshot01=

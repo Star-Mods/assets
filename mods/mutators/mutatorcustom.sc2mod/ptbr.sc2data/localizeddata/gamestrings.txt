@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Qualquer um
+DocInfo/Name=Mutadores Personalizados

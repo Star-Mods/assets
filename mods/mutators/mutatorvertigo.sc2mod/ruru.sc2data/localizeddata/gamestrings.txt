@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Камера периодически меняет положение.
+DocInfo/DescShort=Любой
+DocInfo/Name=Головокружение

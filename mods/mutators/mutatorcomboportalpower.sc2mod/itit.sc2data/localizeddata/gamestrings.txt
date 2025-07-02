@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Le forze di Amon sono determinate a fare il possibile per abbattere la fortezza di Sgt. Hammer. Dal Vuoto continuano ad arrivare rinforzi, dotati di nuovi e terribili poteri. Affrontateli ed eliminate gli Abomini del Vuoto.</n></n>ATTENZIONE: Questa combinazione di mutageni è particolarmente impegnativa.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Portali del potere
+DocInfo/Screenshot01=

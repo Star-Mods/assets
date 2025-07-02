@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Gegnerische Heldeneinheiten verringern allen eingehenden Schaden auf maximal 10, wenn nicht heroische Einheiten in der Nähe sind.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Unbeugsamer Wille

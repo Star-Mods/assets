@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Quando um inimigo Heroico morre, todas as unidades do jogador ao redor dele refletem sobre suas transgressões e não podem atacar nem usar habilidades.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Minuto de Silêncio

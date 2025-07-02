@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=任意 /// Any
+DocInfo/Name=不穩定環境
+DocInfo/Screenshot01=

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=L'esposizione al terrazine può causare reazioni violente, e nemmeno le forze di Amon sono immuni. L'influenza del Dio Oscuro è intensificata dall'effetto del gas, che aumenta velocità e aggressività. Non si fermeranno davanti a nulla per annientarvi. Assicuratevi di farlo per primi.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Alito della Distruzione
+DocInfo/Screenshot01=

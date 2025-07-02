@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Les réanimateurs du Vide sillonnent le champ de bataille, ramenant vos ennemis à la vie.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Réanimateurs du Vide

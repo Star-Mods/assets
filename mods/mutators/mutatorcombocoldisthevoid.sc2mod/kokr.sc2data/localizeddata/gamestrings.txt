@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=타소니스가 어느 때보다 혹독한 겨울을 맞이하고 아몬은 그 기회를 십분 활용하려 합니다. 살을 에는 추위와 격렬한 공허를 모두 이겨내고 아몬의 졸개들을 무찌르십시오.</n></n>경고: 이 돌연변이원 조합은 특히 어렵습니다.<n/> /// Tarsonis is experiencing the harshest winter it has seen in years, and Amon intends to take full advantage of it. Withstand both the biting cold and the seething Void, and strike down Amon’s minions for good.</n></n>WARNING: This combination of Mutators is especially challenging.<n/>
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=차가운 공허 /// Cold is the Void

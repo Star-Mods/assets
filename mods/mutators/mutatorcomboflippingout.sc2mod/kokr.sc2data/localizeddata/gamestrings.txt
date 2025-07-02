@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=라크시르의 의식에 혼돈이 몰아칩니다. 적들은 처음 눈에 띄인 곳에 있지 않고 아군 병력은 공포에 휩싸였습니다. 당신의 시선조차 뒤틀리고 왜곡되었습니다. 도전에서 승리하려면 지나라에게 오랜 시간 집중력을 유지해야 합니다. /// Chaos reigns over the ritual of Rak’Shir. Enemies are not where they first appear to be, and your forces find themselves overcome with fear. Even your own perspective is warped and twisted. Maintain focus long enough for Ji’nara to win the challenge.
+DocInfo/DescShort=아무 /// Any
+DocInfo/Name=혼란 /// Flipping Out
+DocInfo/Screenshot01=

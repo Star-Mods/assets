@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Amon convocou os poderes do Vazio para reforçar suas tropas de formas novas e estranhas. Agora elas refletem o dano recebido em batalha e detonarão bombas nucleares ao morrer. Lembre-se desse equilíbrio e você triunfará.<n/>
+DocInfo/DescShort=Qualquer
+DocInfo/Name=O Que Vai Volta

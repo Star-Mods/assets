@@ -1,0 +1,3 @@
+﻿DocInfo/DescShort=Qualquer /// Any
+DocInfo/Name=Evacuação em Chamas /// Burning Evacuation
+DocInfo/Screenshot01=

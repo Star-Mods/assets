@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=英雄會加入攻勢一同戰鬥，這些英雄會越來越強。
+DocInfo/DescShort=任意 /// Any
+DocInfo/Name=暴雪硬霸 /// Heroes from the Storm

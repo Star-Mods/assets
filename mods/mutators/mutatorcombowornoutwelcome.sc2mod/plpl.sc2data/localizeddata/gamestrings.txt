@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Oblężenie świątyni xel’naga przybrało na sile. Najmocniejsze stwory Amona mobilizują jego sługi, które rozbijają się o wasze umocnienia tylko po to, by powstać na nowo. Mało tego, atakują również wasze fortyfikacje z daleka. Przetrwajcie ten atak i zabezpieczcie świątynię.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Nadużycie gościnności
+DocInfo/Screenshot01=

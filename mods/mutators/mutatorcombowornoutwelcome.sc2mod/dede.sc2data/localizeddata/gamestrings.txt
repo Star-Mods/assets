@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Die Belagerung des Xel’Naga-Tempels geht in die heiße Phase über. Angetrieben von Amons mächtigsten Geschöpfen stürmen die Diener des Dunklen Gottes rücksichtslos gegen Ihre Verteidigungsanlagen an, nur um nach dem Tod wiederbelebt zu werden. Zu allem Überfluss werden Ihre Befestigungen aus der Ferne beschossen. Halten Sie Ihre Stellung und verteidigen Sie den Tempel.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Zwangsräumung
+DocInfo/Screenshot01=

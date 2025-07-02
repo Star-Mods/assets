@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=아몬이 감염체를 무기화했습니다. 감염체가 죽을 때마다 지면이 불타고 공허 부활자가 그들을 가차없이 새롭게 되살려 냅니다. 불길에 맞서 목숨을 걸고 함선을 지키십시오. /// Amon has weaponized the infested. The ground is set ablaze as each one dies, and Void Reanimators raise them anew without remorse. Withstand the flames and guard the ships with your lives.
+DocInfo/DescShort=아무
+DocInfo/Name=화장 /// Cremation
+DocInfo/Screenshot01=

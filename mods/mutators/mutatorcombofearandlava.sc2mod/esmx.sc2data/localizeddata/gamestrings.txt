@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Han rodeado a tus ejércitos y sus corazones rebalsan de miedo. El calor de la lava que sube les provoca pánico y rompen la formación, lo que pone en más riesgo sus vidas puesto que corren y se lanzan a un mar de lava fundida. Atraviesa este horror y recoge los cristales cuando la lava descienda. /// Your armies have been surrounded, and their hearts are full of fear. The heat of the rising lava drives them into a panic as they break formation, placing their lives at greater risk as they run headlong into the molten sea. Work through the horror and gather the crystals when the lava subsides.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Miedo y lava /// Fear and Lava
+DocInfo/Screenshot01=

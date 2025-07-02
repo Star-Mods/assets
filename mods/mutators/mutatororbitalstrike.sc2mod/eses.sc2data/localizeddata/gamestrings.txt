@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Se lanzan ataques orbitales enemigos de forma periódica por todo el mapa.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Ataque orbital

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Des frappes nucléaires s’abattent sur la carte de manière aléatoire.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Grosse artillerie

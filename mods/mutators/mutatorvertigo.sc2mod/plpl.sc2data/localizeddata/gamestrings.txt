@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Widok z waszych kamer zmienia się w sposób losowy.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Zawrót głowy

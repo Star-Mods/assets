@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Cualquiera /// Any
+DocInfo/Name=Operación cooperación /// Operation Cooperation

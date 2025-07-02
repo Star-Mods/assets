@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Po mapie przesuwają się chmury burzowe, które zadają obrażenia jednostkom graczy znajdującym się na ich drodze i zamrażają je.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Śnieżyca

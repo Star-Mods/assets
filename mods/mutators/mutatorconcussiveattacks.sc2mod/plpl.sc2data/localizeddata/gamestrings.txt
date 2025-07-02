@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Jednostki graczy są spowalniane przez wszystkie ataki wroga.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Ataki ogłuszające

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Des mines magnétiques sont déployées partout sur la carte au début de la mission.
+DocInfo/DescShort=N’importe laquelle
+DocInfo/Name=Magnéti-fique

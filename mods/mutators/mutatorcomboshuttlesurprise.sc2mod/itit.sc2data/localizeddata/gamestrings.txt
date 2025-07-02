@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Amon non si ferma davanti a nulla. Alla morte i suoi servitori sferrano un ultimo, devastante attacco. Mantenete la distanza quando eliminate i nemici, o potreste condividerne il destino.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Consegna speciale

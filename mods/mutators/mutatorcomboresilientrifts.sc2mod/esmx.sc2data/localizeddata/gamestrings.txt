@@ -1,0 +1,2 @@
+﻿DocInfo/DescShort=Cualquiera
+DocInfo/Name=Fisuras resistentes /// Resilient Rifts

@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Le unità nemiche hanno una possibilità di trasformarsi in unità più potenti dopo aver inflitto danni.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Trasmutazione

@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Amon ha potenziato gli Abomini del Vuoto con una formidabile resistenza, riducendo l'effetto degli assalti diretti contro di loro e rendendoli immuni agli attacchi di una singola armata. Dividete le forze e coordinatevi con attenzione per abbattere questa minaccia.
+DocInfo/DescShort=Qualsiasi
+DocInfo/Name=Ossi duri
+DocInfo/Screenshot01=

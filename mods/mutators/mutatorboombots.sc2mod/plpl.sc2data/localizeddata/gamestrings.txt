@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Roboty bez serca niosą ładunek nuklearny w kierunku twojej bazy. Jeden z graczy musi rozszyfrować sekwencję rozbrojenia, a drugi ją wprowadzić.
+DocInfo/DescShort=Dowolny opis
+DocInfo/Name=Hukoboty

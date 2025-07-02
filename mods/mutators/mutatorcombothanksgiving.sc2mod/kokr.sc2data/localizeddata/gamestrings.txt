@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=보급로가 완전히 차단되어 동맹과 협력하여 부대를 유지해야 합니다. 운 좋게도 이 지역에는 수확할 수 있는 야생 동물이 넘쳐나지만, 조심해야 합니다. 칠면조가 위협을 받으면 무슨 짓을 할지 아무도 모릅니다. /// Your supply lines have been cut off, and you must work together with your ally in order to sustain your armies. Luckily, there is plenty of local wildlife to harvest. But proceed with caution. Who knows what a turkey is capable of when under threat?
+DocInfo/DescShort=아무
+DocInfo/Name=칠면조 대소동 /// Fowl Play
+DocInfo/Screenshot01=

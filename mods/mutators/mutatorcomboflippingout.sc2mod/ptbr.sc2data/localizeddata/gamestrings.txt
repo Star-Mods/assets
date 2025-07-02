@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=O caos reina no ritual de Rak'Shir. Os inimigos não estão onde parecem estar e suas forças se veem sucumbindo ao medo. Mesmo a sua perspectiva está distorcida e inconstante. Mantenha a concentração por tempo suficiente para Ji'nara vencer o desafio.
+DocInfo/DescShort=Qualquer
+DocInfo/Name=Perdendo o Controle
+DocInfo/Screenshot01=

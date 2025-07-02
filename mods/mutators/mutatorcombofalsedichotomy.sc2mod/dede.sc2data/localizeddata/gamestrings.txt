@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=In diesem Kampf ist Verteidigung die beste Verteidigung. Amons Streitkräfte können Ihren Angriffen nicht nur ausweichen und sie absorbieren – dank der Leere ist ihre Verteidigung für eine einzige Armee undurchdringlich. Koordinieren Sie Ihren Angriff mit dem Ihres Verbündeten, um den Sieg zu erringen.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Diplomatische Immunität
+DocInfo/Screenshot01=

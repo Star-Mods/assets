@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Todos los ataques enemigos ralentizan a las unidades de los jugadores.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Ataques conmocionantes

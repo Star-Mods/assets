@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Dicono che l'attacco sia la miglior difesa. Grazie al Vuoto, le forze di Amon possono sia schivare e ammortizzare gli attacchi, sia difendersi agilmente da una singola armata. Dovrete coordinare l'assalto per assicurarvi la vittoria.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Immunità diplomatica
+DocInfo/Screenshot01=

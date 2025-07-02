@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Numa noite sombria e macabra em Augustogrado, cidadãos da Supremacia batem à porta e exigem doces. É melhor ter as gostosuras que eles pedem, senão você será mais uma vítima de travessuras fatais. /// It’s a dark and dreary night in Augustgrad. Dominion citizens are knocking on doors and asking for candy. Be sure you have treats to give them, lest you find yourselves the victims of a deadly trick.
+DocInfo/DescShort=Qualquer um
+DocInfo/Name=Noite do Terror
+DocInfo/Screenshot01=

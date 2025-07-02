@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=I rifornimenti sono condivisi fra alleati, e le unità di entrambe le armate contribuiscono al raggiungimento del limite.
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Comunione dei beni

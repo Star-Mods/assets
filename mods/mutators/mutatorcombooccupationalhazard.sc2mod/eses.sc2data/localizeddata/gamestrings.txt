@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Las tropas de Amon usan sus misiles y su taladro láser para atacar a vuestras estructuras desde lejos. Las estructuras que destruyan, las reconstruirán como suyas. Proteged bien vuestras bases, pero no os olvidéis de las fallas del vacío que amenazan con borrar Korhal del mapa.
+DocInfo/DescShort=Cualquiera
+DocInfo/Name=Adquisición hostil
+DocInfo/Screenshot01=

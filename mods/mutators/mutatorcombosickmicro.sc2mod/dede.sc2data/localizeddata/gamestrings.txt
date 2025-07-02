@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Das Terrazin auf Bel'Shir hat die heimischen Viren mutieren lassen. Eine tödliche Seuche befällt alle Lebensformen und jeder Befehl, den Sie geben, zehrt Ressourcen auf. Halten Sie durch und führen Sie Ihre Einheiten zum Sieg.
+DocInfo/DescShort=Beliebig
+DocInfo/Name=Krankes Mikro
+DocInfo/Screenshot01=
