@@ -1,5 +1,5 @@
-import * as THREE from './../lib/three/three.js';
-import { GLTFLoader } from './../lib/three/GLTFLoader.js';
+import * as THREE from './../assets/lib/three/three.js';
+import { GLTFLoader } from './../assets/lib/three/GLTFLoader.js';
 
 class GlbViewer extends HTMLElement {
   static get observedAttributes() {
