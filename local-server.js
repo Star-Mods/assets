@@ -9,7 +9,7 @@ const PORT = process.env.PORT || 3010;
 app.use(cors());
 
 // Serve static files from the 'models' directory
-app.use(express.static(path.join(__dirname)));
+app.use('/assets', express.static(path.join(__dirname)));
 
 app.listen(PORT, () => {
     console.log(`Server is running on http://localhost:${PORT}`);

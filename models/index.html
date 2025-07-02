@@ -89,7 +89,7 @@
     
 <p>Preview and download StarCraft II 3D model files from the archive:</p>
 
-<div class="models-grid icons-grid" id="icons-grid">
+<div class="icons-grid" id="icons-grid">
     <div id="preloader" class="grid-preloader" aria-label="Loading models" role="status" aria-live="polite">
         <div class="spinner"></div>
     </div>
@@ -104,20 +104,33 @@
         const modelList = createItemList({
             // dataUrl: 'index.db',
             dataUrl: 'https://star-mods.github.io/assets/models/index.db',
-            containerSelector: '.models-grid',
+            containerSelector: '.icons-grid',
             searchInputSelector: '#icon-search',
             renderItemFn: name => {
+                
                 const div = document.createElement('div');
-                div.className = 'model-item';
+                div.className = 'icon-item';
 
                 const a = document.createElement('a');
-                a.href = `${name}.glb`;
+                a.href = `./models/${name}.glb`;
                 a.target = '_blank';
-                a.title = `${name}`;
-                a.textContent = `${name}`;
 
+                const img = document.createElement('img');
+                img.src = `./renders/${name}.png`;
+                img.alt = name;
+                img.loading = 'lazy';
+
+                a.appendChild(img);
                 div.appendChild(a);
+
+                const tooltip = document.createElement('span');
+                tooltip.className = 'tooltip';
+                tooltip.textContent = `${name}`;
+
+                div.appendChild(tooltip);
                 return div;
+
+                
             },
             onRendered: () => {
                 console.log('Models rendered and filtered');
